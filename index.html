@@ -45,6 +45,8 @@ td.filer{color:var(--muted);font-size:13px;max-width:300px}
 td.ratio{font-weight:700;font-size:15px;text-align:right;white-space:nowrap;color:var(--text)}
 .btn-pdf{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--muted);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}
 .btn-pdf:hover{border-color:var(--gold);color:var(--gold)}
+.btn-reload{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}
+.btn-reload:hover{background:rgba(245,200,66,.2);border-color:var(--gold)}
 .empty{text-align:center;color:var(--muted);padding:24px;font-size:13px}
 footer{text-align:center;padding:32px 16px;color:var(--muted);font-size:12px;line-height:2;margin-top:20px}
 footer a{color:var(--muted);text-decoration:none}
@@ -61,7 +63,8 @@ footer a:hover{color:var(--gold)}
 <header>
   <img src="favicon.svg" class="logo" alt="">
   <h1>大量保有 Radar</h1>
-  <div class="meta">更新: 2026年06月11日 15:11 JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
+  <button class="btn-reload" onclick="location.reload(true)" title="Shift+Ctrl+R と同じ強制リロード">強制リロード</button>
+  <div class="meta">更新: 2026年06月11日 16:49 JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
 </header>
 <main>
 
