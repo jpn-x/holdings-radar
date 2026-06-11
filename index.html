@@ -93,7 +93,7 @@ footer a:hover{color:var(--gold)}
   <img src="favicon.svg" class="logo" alt="">
   <h1>大量保有 Radar</h1>
   <button class="btn-reload" onclick="location.reload(true)" title="Shift+Ctrl+R と同じ強制リロード">強制リロード</button>
-  <div class="meta">更新: 2026年06月12日 00:46 JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
+  <div class="meta">更新: 2026年06月12日 00:53 JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
 </header>
 <main>
 <div class="search-bar">
@@ -852,6 +852,8 @@ function switchTab(m) {
 }
 let currentTab = '2026-06';
 switchTab('2026-06');
+// ページロード時の自動フォーカスを解除（テキストカーソルのチカチカ防止）
+window.addEventListener('load', () => { if (document.activeElement) document.activeElement.blur(); });
 
 // ─── 検索履歴（localStorage） ───────────────────────────────
 const HIST_KEY = { code: 'radar_hist_code', filer: 'radar_hist_filer' };
