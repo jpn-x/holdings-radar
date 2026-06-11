@@ -1,0 +1,46 @@
+name: Daily Update
+
+on:
+  schedule:
+    # 17:30 JST = 08:30 UTC 平日
+    - cron: "30 8 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: "対象日 (YYYY-MM-DD) — 空欄で直近営業日"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetch
+        env:
+          TARGET_DATE: ${{ github.event.inputs.target_date }}
+        run: python scripts/fetch.py
+
+      - name: Commit & push
+        run: |
+          git config user.name  "holdings-radar[bot]"
+          git config user.email "holdings-radar[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(python -c "from datetime import datetime; from zoneinfo import ZoneInfo; print(datetime.now(ZoneInfo('Asia/Tokyo')).strftime('%Y-%m-%d'))")
+            git commit -m "chore: update holdings data ${DATE}"
+            git push
+          fi
