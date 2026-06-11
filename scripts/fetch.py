@@ -168,8 +168,11 @@ def xbrl_parse(doc_id):
                 _ixval(txt, "SecuritiesCode")
             )
             if issuer_code:
-                issuer_code = re.sub(r'\D', '', issuer_code)
-                issuer_code = issuer_code[:4] if len(issuer_code) >= 4 else None
+                issuer_code = issuer_code.strip()
+                # 4桁数字 or グロース市場の英数混在コード（例: 436A）
+                # 4桁数字 or 3桁数字+英字（グロース: 436A等） or 4桁数字+英字
+                if not re.fullmatch(r'[0-9]{3,4}[A-Z]?', issuer_code):
+                    issuer_code = None
 
             # 保有割合（ixbrl.htm は % 表示, .xbrl は小数）
             ratio_raw = (
@@ -226,7 +229,7 @@ def badge(direction):
 
 def make_row(e):
     ratio_str = f"{e['ratio']:.2f}%" if e["ratio"] is not None else "—"
-    pdf_url = f"https://api.edinet-fsa.go.jp/api/v2/documents/{e['docId']}?type=2"
+    pdf_url = f"https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?{e['docId']},,"
     if e["sec"]:
         code_cell = f'<a href="https://finance.yahoo.co.jp/quote/{e["sec"]}.T" target="_blank">{e["sec"]}</a>'
     else:
