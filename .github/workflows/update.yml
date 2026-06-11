@@ -1,9 +1,14 @@
 name: Daily Update
 
 on:
-  schedule:
-    # 17:30 JST = 08:30 UTC 平日
-    - cron: "30 8 * * 1-5"
+  # ローカルから push されたとき自動デプロイ（GitHub Pages ビルドのみ）
+  push:
+    branches: [master]
+    paths:
+      - "index.html"
+      - "favicon.svg"
+
+  # 手動トリガー（VPN 経由など日本 IP が使える環境があれば実行可能）
   workflow_dispatch:
     inputs:
       target_date:
@@ -14,8 +19,10 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  fetch:
     runs-on: ubuntu-latest
+    # 手動トリガー時のみ実行
+    if: github.event_name == 'workflow_dispatch'
     steps:
       - uses: actions/checkout@v4
 
@@ -27,18 +34,30 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Check EDINET connectivity
+        id: connectivity
+        run: |
+          if curl -sf --max-time 10 "https://disclosure.edinet-api.go.jp/api/v2/documents.json?date=2024-01-01&type=1" > /dev/null 2>&1; then
+            echo "reachable=true" >> $GITHUB_OUTPUT
+          else
+            echo "reachable=false" >> $GITHUB_OUTPUT
+            echo "::warning::EDINET API unreachable from this runner (IP restriction). Run locally."
+          fi
+
       - name: Run fetch
+        if: steps.connectivity.outputs.reachable == 'true'
         env:
           TARGET_DATE: ${{ github.event.inputs.target_date }}
         run: python scripts/fetch.py
 
       - name: Commit & push
+        if: steps.connectivity.outputs.reachable == 'true'
         run: |
           git config user.name  "holdings-radar[bot]"
           git config user.email "holdings-radar[bot]@users.noreply.github.com"
           git add index.html
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
             DATE=$(python -c "from datetime import datetime; from zoneinfo import ZoneInfo; print(datetime.now(ZoneInfo('Asia/Tokyo')).strftime('%Y-%m-%d'))")
             git commit -m "chore: update holdings data ${DATE}"

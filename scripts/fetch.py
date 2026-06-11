@@ -5,6 +5,7 @@ import requests
 import re
 import time
 import os
+import json
 import zipfile
 import io
 from datetime import datetime, timedelta
@@ -13,6 +14,8 @@ from zoneinfo import ZoneInfo
 JST = ZoneInfo("Asia/Tokyo")
 API = "https://disclosure.edinet-api.go.jp/api/v2"
 UA = {"User-Agent": "holdings-radar/1.0 (https://github.com/jpn-x/holdings-radar)"}
+
+CACHE_FILE = os.path.join(os.path.dirname(__file__), "..", "companies_cache.json")
 
 NEW_TYPES = {"28", "29"}   # 大量保有報告書
 CHG_TYPES = {"30", "31"}   # 変更報告書
@@ -36,15 +39,37 @@ def api_get(path, **params):
 
 
 def load_companies():
-    """Build secCode(4桁) → company name map from EDINET company master"""
-    data = api_get("company.json", type=1)
-    m = {}
-    for c in data.get("results", []):
-        sec = (c.get("secCode") or "").rstrip("0")
-        name = c.get("filerName") or ""
-        if sec and name:
-            m[sec] = name
-    return m
+    """
+    Build secCode(4桁) → company name map.
+    ローカルキャッシュ優先、なければ EDINET company master を取得してキャッシュ保存。
+    """
+    cache_path = os.path.abspath(CACHE_FILE)
+
+    if os.path.exists(cache_path):
+        with open(cache_path, encoding="utf-8") as f:
+            m = json.load(f)
+        print(f"  company cache: {len(m)} entries from {cache_path}")
+        return m
+
+    print("  Fetching EDINET company master (初回のみ)...")
+    try:
+        data = api_get("company.json", type=1)
+        m = {}
+        for c in data.get("results", []):
+            sec = (c.get("secCode") or "").rstrip("0")
+            name = c.get("filerName") or ""
+            if sec and name:
+                m[sec] = name
+        if m:
+            with open(cache_path, "w", encoding="utf-8") as f:
+                json.dump(m, f, ensure_ascii=False)
+            print(f"  Saved {len(m)} entries to cache")
+            return m
+    except Exception as e:
+        print(f"  WARNING: company master fetch failed: {e}")
+
+    print("  銘柄名なし（コードのみ表示）")
+    return {}
 
 
 def get_docs(date):
@@ -272,9 +297,8 @@ def main():
     date = os.environ.get("TARGET_DATE") or get_date()
     print(f"[holdings-radar] date={date}")
 
-    print("Loading EDINET company master...")
+    print("Loading company master...")
     companies = load_companies()
-    print(f"  {len(companies)} companies")
 
     print(f"Fetching large-holding docs for {date}...")
     docs = get_docs(date)
@@ -299,8 +323,10 @@ def main():
         else:
             chg_entries.append(e)
 
+    # index.html はリポジトリルートに生成
+    out = os.path.join(os.path.dirname(__file__), "..", "index.html")
     html = generate_html(new_entries, chg_entries, date)
-    with open("index.html", "w", encoding="utf-8") as f:
+    with open(out, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"Done — index.html generated ({len(new_entries)} new, {len(chg_entries)} changes)")
 
