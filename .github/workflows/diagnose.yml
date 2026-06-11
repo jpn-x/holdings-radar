@@ -38,6 +38,7 @@ jobs:
               print(f"[{code}] {len(samples)} docs")
               for d in samples[:3]:
                   sec = (d.get("secCode") or "").rstrip("0")
-                  print(f"  sec={sec:6} filer={d.get('filerName','')[:30]:30} desc={d.get('docDescription','')[:50]}")
+                  ec  = d.get("edinetCode","")
+                  print(f"  sec={sec:6} ec={ec:8} filer={d.get('filerName','')[:28]:28} desc={d.get('docDescription','')[:45]}")
               print()
           EOF
