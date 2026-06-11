@@ -1,0 +1,43 @@
+name: Diagnose DocTypes
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "YYYY-MM-DD"
+        required: true
+        default: "2026-06-11"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests -q
+      - name: Diagnose
+        env:
+          EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
+        run: |
+          python - <<'EOF'
+          import requests, os
+          from collections import defaultdict
+          API = "https://api.edinet-fsa.go.jp/api/v2"
+          UA = {"User-Agent": "diag/1.0"}
+          KEY = os.environ.get("EDINET_API_KEY","")
+          date = "${{ github.event.inputs.date }}"
+          def p(**kw):
+              if KEY: kw["Subscription-Key"] = KEY
+              return kw
+          r = requests.get(f"{API}/documents.json", params=p(date=date, type=2), headers=UA, timeout=60)
+          docs = r.json().get("results",[])
+          print(f"\n{date}: {len(docs)} docs\n")
+          by_code = defaultdict(list)
+          for d in docs: by_code[d.get("docTypeCode","")].append(d)
+          for code in sorted(by_code):
+              samples = by_code[code]
+              print(f"[{code}] {len(samples)} docs")
+              for d in samples[:3]:
+                  sec = (d.get("secCode") or "").rstrip("0")
+                  print(f"  sec={sec:6} filer={d.get('filerName','')[:30]:30} desc={d.get('docDescription','')[:50]}")
+              print()
+          EOF
