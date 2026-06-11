@@ -350,6 +350,25 @@ def generate_html(days, updated_str):
     first_month = months[0] if months else ""
     all_rows = ""  # unused now
 
+    # 検索用の全データJSON（JS埋め込み）
+    import json as _json
+    all_entries = []
+    for d in days:
+        date_str = d["date"]
+        for e in d.get("new", []) + d.get("chg", []):
+            all_entries.append({
+                "date": date_str,
+                "sec":  e.get("sec") or "",
+                "name": e.get("name") or "",
+                "filer": e.get("filer") or "",
+                "ratio": e.get("ratio"),
+                "prev_ratio": e.get("prev_ratio"),
+                "direction": e.get("direction") or "",
+                "isNew": e.get("isNew", False),
+                "docId": e.get("docId") or "",
+            })
+    all_entries_json = _json.dumps(all_entries, ensure_ascii=False)
+
     return f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -408,7 +427,17 @@ tr.section-row .dot{{display:inline-block;width:9px;height:9px;border-radius:50%
 tr.section-row .cnt{{font-size:12px;font-weight:normal;color:var(--muted);margin-left:6px}}
 tr.date-row td{{background:#0d0f14;padding:12px 16px;font-size:14px;font-weight:700;color:var(--gold);letter-spacing:.05em;border-top:3px solid rgba(245,200,66,.4)}}
 tr.date-row:first-child td{{border-top:none}}
-.tabs{{display:flex;flex-wrap:wrap;gap:6px;margin:20px 0 14px}}
+.search-bar{{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 6px;align-items:center}}
+.search-group{{display:flex;align-items:center;gap:6px}}
+.search-label{{font-size:12px;color:var(--muted);white-space:nowrap}}
+.search-input{{background:var(--surf);border:1px solid var(--border);border-radius:7px;color:var(--text);font-size:13px;padding:6px 12px;width:160px;outline:none;transition:border-color .15s}}
+.search-input:focus{{border-color:var(--gold)}}
+.search-input::placeholder{{color:var(--muted)}}
+.btn-clear{{background:none;border:1px solid var(--border);border-radius:6px;color:var(--muted);font-size:12px;padding:5px 10px;cursor:pointer;transition:all .15s}}
+.btn-clear:hover{{border-color:var(--red);color:var(--red)}}
+#search-panel{{display:none}}
+#search-panel .panel-meta{{font-size:12px;color:var(--muted);margin-bottom:10px}}
+.tabs{{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 14px}}
 .tab-btn{{background:rgba(255,255,255,.05);border:1px solid var(--border);border-radius:7px;color:var(--muted);font-size:13px;font-weight:600;padding:6px 16px;cursor:pointer;transition:all .15s}}
 .tab-btn:hover{{border-color:var(--gold);color:var(--gold)}}
 .tab-btn.active{{background:rgba(245,200,66,.15);border-color:var(--gold);color:var(--gold)}}
@@ -437,16 +466,118 @@ footer a:hover{{color:var(--gold)}}
   <div class="meta">更新: {updated} JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
 </header>
 <main>
-<div class="tabs">{tab_btns}</div>
+<div class="search-bar">
+  <div class="search-group">
+    <span class="search-label">コード番号検索</span>
+    <input class="search-input" id="inp-code" type="text" placeholder="例: 8001, 436A" oninput="doSearch()">
+  </div>
+  <div class="search-group">
+    <span class="search-label">保有者検索</span>
+    <input class="search-input" id="inp-filer" type="text" placeholder="例: Evo Fund, 伊藤忠" oninput="doSearch()">
+  </div>
+  <button class="btn-clear" onclick="clearSearch()">✕ クリア</button>
+</div>
+<div class="tabs" id="tab-bar">{tab_btns}</div>
 {panels}
+<div id="search-panel">
+  <div class="panel-meta" id="search-meta"></div>
+  <div class="wrap"><table style="table-layout:fixed;width:100%">
+    <colgroup><col class="col-badge"><col class="col-ratio"><col class="col-pdf">
+    <col class="col-code"><col style="width:220px"><col></colgroup>
+    <thead><tr><th>日付</th><th class="ratio">保有割合</th><th></th>
+    <th>コード</th><th>銘柄名</th><th>保有者</th></tr></thead>
+    <tbody id="search-tbody"></tbody>
+  </table></div>
+</div>
 </main>
 <script>
+const ALL = {all_entries_json};
+
+function badge(e) {{
+  const d = e.direction, r = e.ratio, p = e.prev_ratio;
+  if (d === '新規') return '<span class="badge badge-new">新規</span>';
+  if (p !== null && r !== null) {{
+    const diff = r - p;
+    if (Math.abs(diff) >= 0.005) {{
+      return diff > 0
+        ? `<span class="badge badge-up">▲ +${{diff.toFixed(2)}}%</span>`
+        : `<span class="badge badge-dn">▼ ${{diff.toFixed(2)}}%</span>`;
+    }}
+  }}
+  if (d === '増加') return '<span class="badge badge-up">▲ 増加</span>';
+  if (d === '減少') return '<span class="badge badge-dn">▼ 減少</span>';
+  return '<span class="badge badge-chg">変更</span>';
+}}
+
+function makeRow(e) {{
+  const ratio = e.ratio !== null ? e.ratio.toFixed(2)+'%' : '—';
+  const pdf = `https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?${{e.docId}},,`;
+  const code = e.sec
+    ? `<a href="https://finance.yahoo.co.jp/quote/${{e.sec}}.T" target="_blank">${{e.sec}}</a>`
+    : '—';
+  return `<tr>
+    <td>${{badge(e)}}</td>
+    <td class="ratio">${{ratio}}</td>
+    <td><a href="${{pdf}}" target="_blank" class="btn-pdf">PDF</a></td>
+    <td class="code">${{code}}</td>
+    <td class="company">${{e.name || '—'}}</td>
+    <td class="filer">${{e.filer || '—'}}</td>
+  </tr>`;
+}}
+
+function doSearch() {{
+  const code  = document.getElementById('inp-code').value.trim().toUpperCase();
+  const filer = document.getElementById('inp-filer').value.trim();
+  if (!code && !filer) {{ clearSearch(); return; }}
+
+  const results = ALL.filter(e => {{
+    const codeOk  = !code  || e.sec.toUpperCase().includes(code) || e.name.includes(document.getElementById('inp-code').value.trim());
+    const filerOk = !filer || e.filer.includes(filer) || e.filer.toLowerCase().includes(filer.toLowerCase());
+    return codeOk && filerOk;
+  }});
+
+  // 日付降順でソート済み（ALL は降順）
+  document.getElementById('search-tbody').innerHTML = results.map(e => {{
+    // 日付列を区分列に追加
+    const ratio = e.ratio !== null ? e.ratio.toFixed(2)+'%' : '—';
+    const pdf = `https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?${{e.docId}},,`;
+    const code2 = e.sec
+      ? `<a href="https://finance.yahoo.co.jp/quote/${{e.sec}}.T" target="_blank">${{e.sec}}</a>`
+      : '—';
+    return `<tr>
+      <td><span style="font-size:11px;color:var(--muted)">${{e.date}}</span><br>${{badge(e)}}</td>
+      <td class="ratio">${{ratio}}</td>
+      <td><a href="${{pdf}}" target="_blank" class="btn-pdf">PDF</a></td>
+      <td class="code">${{code2}}</td>
+      <td class="company">${{e.name || '—'}}</td>
+      <td class="filer">${{e.filer || '—'}}</td>
+    </tr>`;
+  }}).join('');
+
+  document.getElementById('search-meta').textContent = `検索結果: ${{results.length}} 件`;
+  document.getElementById('search-panel').style.display = '';
+  document.getElementById('tab-bar').style.display = 'none';
+  document.querySelectorAll('.tab-panel').forEach(p => p.style.display = 'none');
+}}
+
+function clearSearch() {{
+  document.getElementById('inp-code').value = '';
+  document.getElementById('inp-filer').value = '';
+  document.getElementById('search-panel').style.display = 'none';
+  document.getElementById('tab-bar').style.display = '';
+  switchTab(currentTab);
+}}
+
 function switchTab(m) {{
+  currentTab = m;
   document.querySelectorAll('.tab-panel').forEach(p => p.style.display='none');
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-  document.getElementById('panel-'+m).style.display='';
-  document.querySelector('[data-month="'+m+'"]').classList.add('active');
+  const panel = document.getElementById('panel-'+m);
+  if (panel) panel.style.display='';
+  const btn = document.querySelector('[data-month="'+m+'"]');
+  if (btn) btn.classList.add('active');
 }}
+let currentTab = '{first_month}';
 switchTab('{first_month}');
 </script>
 <footer>
