@@ -46,6 +46,10 @@ jobs:
                   if name.lower().endswith(".xbrl"):
                       txt = zf.read(name).decode("utf-8", errors="ignore")
                       print(f"\n--- {name} (first 3000 chars) ---")
-                      print(txt[:3000])
+                      # Show all data elements (not context/schema)
+                      import re as re2
+                      elems = re2.findall(r'<(jplvh_cor|jplh_cor|jpdei_cor)[^>]*>([^<]{1,100})</\1', txt)
+                      for tag, val in elems[:60]:
+                          print(f"  {tag}: {val.strip()}")
                       break
           EOF
