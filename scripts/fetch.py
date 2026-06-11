@@ -429,16 +429,16 @@ tr.date-row td{{background:#0d0f14;padding:12px 16px;font-size:14px;font-weight:
 tr.date-row:first-child td{{border-top:none}}
 .search-bar{{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 6px;align-items:center}}
 .search-group{{display:flex;align-items:center;gap:6px}}
-.search-label{{font-size:12px;color:var(--muted);white-space:nowrap}}
-.search-input{{background:var(--surf);border:1px solid var(--border);border-radius:7px;color:var(--text);font-size:13px;padding:6px 12px;width:160px;outline:none;transition:border-color .15s}}
-.search-input:focus{{border-color:var(--gold)}}
+.search-label{{font-size:12px;color:var(--text);white-space:nowrap;font-weight:600}}
+.search-input{{background:var(--surf);border:1px solid var(--gold);border-radius:7px;color:var(--text);font-size:13px;padding:6px 12px;width:160px;outline:none;transition:border-color .15s}}
+.search-input:focus{{border-color:var(--gold);box-shadow:0 0 0 2px rgba(245,200,66,.2)}}
 .search-input::placeholder{{color:var(--muted)}}
 .btn-clear{{background:none;border:1px solid var(--border);border-radius:6px;color:var(--muted);font-size:12px;padding:5px 10px;cursor:pointer;transition:all .15s}}
 .btn-clear:hover{{border-color:var(--red);color:var(--red)}}
 #search-panel{{display:none}}
 #search-panel .panel-meta{{font-size:12px;color:var(--muted);margin-bottom:10px}}
 .tabs{{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 14px}}
-.tab-btn{{background:rgba(255,255,255,.05);border:1px solid var(--border);border-radius:7px;color:var(--muted);font-size:13px;font-weight:600;padding:6px 16px;cursor:pointer;transition:all .15s}}
+.tab-btn{{background:transparent;border:1px solid var(--text);border-radius:7px;color:var(--text);font-size:13px;font-weight:600;padding:6px 16px;cursor:pointer;transition:all .15s}}
 .tab-btn:hover{{border-color:var(--gold);color:var(--gold)}}
 .tab-btn.active{{background:rgba(245,200,66,.15);border-color:var(--gold);color:var(--gold)}}
 .panel-meta{{font-size:12px;color:var(--muted);margin-bottom:10px}}
