@@ -15,6 +15,7 @@ JST = ZoneInfo("Asia/Tokyo")
 API = "https://api.edinet-fsa.go.jp/api/v2"
 
 CACHE_FILE = os.path.join(os.path.dirname(__file__), "..", "companies_cache.json")
+DATA_DIR   = os.path.join(os.path.dirname(__file__), "..", "data")
 
 _sub_key = os.environ.get("EDINET_API_KEY", "")
 
@@ -272,13 +273,48 @@ def section_row(label, cnt, dot_cls):
         f'</td></tr>'
     )
 
-def generate_html(new_entries, chg_entries, date):
-    empty_new = '<tr><td colspan="6" class="empty">本日の新規報告はありません</td></tr>'
-    empty_chg = '<tr><td colspan="6" class="empty">本日の変更報告はありません</td></tr>'
+def save_day(date, new_entries, chg_entries):
+    """Save one day's entries to data/YYYY-MM-DD.json"""
+    os.makedirs(DATA_DIR, exist_ok=True)
+    path = os.path.join(DATA_DIR, f"{date}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump({"date": date, "new": new_entries, "chg": chg_entries}, f, ensure_ascii=False, indent=2)
+    print(f"  Saved {path}")
+
+
+def load_all_days():
+    """Load all saved day JSONs, sorted newest first."""
+    os.makedirs(DATA_DIR, exist_ok=True)
+    days = []
+    for fname in sorted(os.listdir(DATA_DIR), reverse=True):
+        if fname.endswith(".json"):
+            with open(os.path.join(DATA_DIR, fname), encoding="utf-8") as f:
+                days.append(json.load(f))
+    return days
+
+
+def make_day_block(day):
+    """Render one day's data as table rows with section headers."""
+    new_entries = day.get("new", [])
+    chg_entries = day.get("chg", [])
+    empty_new = '<tr><td colspan="6" class="empty">新規報告なし</td></tr>'
+    empty_chg = '<tr><td colspan="6" class="empty">変更報告なし</td></tr>'
     new_rows = "".join(make_row(e) for e in new_entries) or empty_new
     chg_rows = "".join(make_row(e) for e in chg_entries) or empty_chg
-    updated = datetime.now(JST).strftime("%Y年%m月%d日 %H:%M")
-    date_display = date  # YYYY-MM-DD
+    date = day["date"]
+    return f"""
+      <tr class="date-row"><td colspan="6">📅 {date}</td></tr>
+      {section_row("大量保有報告書（新規）", len(new_entries), "dot-new")}
+      {new_rows}
+      {section_row("変更報告書", len(chg_entries), "dot-chg")}
+      {chg_rows}
+    """
+
+
+def generate_html(days, updated_str):
+    all_rows = "".join(make_day_block(d) for d in days)
+    updated = updated_str
+    date = days[0]["date"] if days else ""
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
@@ -286,6 +322,7 @@ def generate_html(new_entries, chg_entries, date):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>大量保有 Radar — {date}</title>
+<meta name="description" content="EDINET 大量保有報告書・変更報告書 毎日自動集計">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <style>
 :root{{
@@ -335,7 +372,8 @@ tr.section-row{{display:table-row}}
 tr.section-row td{{display:table-cell;vertical-align:middle}}
 tr.section-row .dot{{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle}}
 tr.section-row .cnt{{font-size:12px;font-weight:normal;color:var(--muted);margin-left:6px}}
-.date-chip{{display:inline-block;background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.3);border-radius:6px;color:var(--gold);font-size:13px;font-weight:700;padding:4px 12px;margin-bottom:16px;margin-top:8px}}
+tr.date-row td{{background:#0d0f14;padding:12px 16px;font-size:14px;font-weight:700;color:var(--gold);letter-spacing:.05em;border-top:3px solid var(--gold)}}
+tr.date-row:first-child td{{border-top:none}}
 .btn-pdf{{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--text);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}}
 .btn-pdf:hover{{border-color:var(--gold);color:var(--gold)}}
 .btn-reload{{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}}
@@ -360,7 +398,6 @@ footer a:hover{{color:var(--gold)}}
   <div class="meta">更新: {updated} JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
 </header>
 <main>
-<div class="date-chip">📅 {date_display}</div>
 <div class="wrap">
   <table style="table-layout:fixed;width:100%">
     <colgroup>
@@ -375,12 +412,7 @@ footer a:hover{{color:var(--gold)}}
       <th>区分</th><th class="ratio">保有割合</th><th></th>
       <th>コード</th><th>銘柄名</th><th>保有者</th>
     </tr></thead>
-    <tbody>
-      {section_row("大量保有報告書（新規）", len(new_entries), "dot-new")}
-      {new_rows}
-      {section_row("変更報告書", len(chg_entries), "dot-chg")}
-      {chg_rows}
-    </tbody>
+    <tbody>{all_rows}</tbody>
   </table>
 </div>
 </main>
@@ -434,12 +466,17 @@ def main():
         else:
             chg_entries.append(e)
 
-    # index.html はリポジトリルートに生成
+    # 当日データを JSON に保存（上書きで最新を維持）
+    save_day(date, new_entries, chg_entries)
+
+    # 全日分のデータを読み込んで index.html を生成
+    days = load_all_days()
+    updated_str = datetime.now(JST).strftime("%Y年%m月%d日 %H:%M")
     out = os.path.join(os.path.dirname(__file__), "..", "index.html")
-    html = generate_html(new_entries, chg_entries, date)
+    html = generate_html(days, updated_str)
     with open(out, "w", encoding="utf-8") as f:
         f.write(html)
-    print(f"Done - index.html generated ({len(new_entries)} new, {len(chg_entries)} changes)")
+    print(f"Done - index.html generated ({len(new_entries)} new, {len(chg_entries)} changes, {len(days)} days total)")
 
 
 if __name__ == "__main__":
