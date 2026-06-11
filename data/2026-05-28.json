@@ -1,0 +1,337 @@
+{
+  "date": "2026-05-28",
+  "new": [
+    {
+      "docId": "S100Y5X4",
+      "sec": "5019",
+      "name": "出光興産株式会社",
+      "filer": "日章興産株式会社",
+      "ratio": 8.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y5W5",
+      "sec": "8381",
+      "name": "株式会社トワライズ",
+      "filer": "株式会社山陰合同銀行",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y5UG",
+      "sec": "8381",
+      "name": "株式会社モンスターラボホールディングス（提出日現在の名称：株式会社モンスターラボ）",
+      "filer": "株式会社山陰合同銀行",
+      "ratio": 42.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y61E",
+      "sec": "9425",
+      "name": "ＲｅＹｕｕ Ｊａｐａｎ株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 14.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Y6I5",
+      "sec": "9166",
+      "name": "株式会社ＧＥＮＤＡ",
+      "filer": "片岡　尚",
+      "ratio": 12.54,
+      "prev_ratio": 12.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6HN",
+      "sec": "9722",
+      "name": "藤田観光株式会社",
+      "filer": "Ｏｌｄ　Ｐｅａｋ　Ｇｒｏｕｐ　Ｌｔｄ．",
+      "ratio": 7.18,
+      "prev_ratio": 6.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y738",
+      "sec": "2782",
+      "name": "株式会社セリア",
+      "filer": "株式会社ヒロコーポレーション",
+      "ratio": 13.93,
+      "prev_ratio": 13.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6JK",
+      "sec": "9166",
+      "name": "株式会社ＧＥＮＤＡ",
+      "filer": "片岡　尚",
+      "ratio": 12.54,
+      "prev_ratio": 12.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6DV",
+      "sec": "2791",
+      "name": "大黒天物産株式会社",
+      "filer": "大賀　昌彦",
+      "ratio": 4.96,
+      "prev_ratio": 4.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y70R",
+      "sec": "4172",
+      "name": "Hiクラテス株式会社",
+      "filer": "石井　滋久",
+      "ratio": 32.78,
+      "prev_ratio": 33.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6JU",
+      "sec": "9941",
+      "name": "太洋物産株式会社",
+      "filer": "木野　将徳",
+      "ratio": 14.88,
+      "prev_ratio": 13.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6N5",
+      "sec": "4428",
+      "name": "株式会社シノプス",
+      "filer": "合同会社南谷ホールディングス",
+      "ratio": 33.63,
+      "prev_ratio": 33.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6YY",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 36.27,
+      "prev_ratio": 37.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y74V",
+      "sec": "4172",
+      "name": "Hiクラテス株式会社",
+      "filer": "石井　滋久",
+      "ratio": 31.77,
+      "prev_ratio": 32.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y70T",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 33.83,
+      "prev_ratio": 35.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y65L",
+      "sec": "3294",
+      "name": "株式会社イーグランド",
+      "filer": "江口　久",
+      "ratio": 6.0,
+      "prev_ratio": 23.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y77L",
+      "sec": "7082",
+      "name": "株式会社ジモティー",
+      "filer": "株式会社プロトコーポレーション",
+      "ratio": 12.23,
+      "prev_ratio": 10.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6BJ",
+      "sec": "3271",
+      "name": "株式会社THEグローバル社",
+      "filer": "旭化成ホームズ株式会社",
+      "ratio": null,
+      "prev_ratio": 9.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y7A0",
+      "sec": "8381",
+      "name": "株式会社トワライズ",
+      "filer": "株式会社山陰合同銀行",
+      "ratio": 23.96,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y7AF",
+      "sec": "8381",
+      "name": "株式会社モンスターラボ",
+      "filer": "株式会社山陰合同銀行",
+      "ratio": 35.33,
+      "prev_ratio": 42.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y64X",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド",
+      "filer": "Ａｔａｒｉ　Ｃａｐｉｔａｌ　ＬＩＭＩＴＥＤ",
+      "ratio": 32.07,
+      "prev_ratio": 33.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6YF",
+      "sec": "5644",
+      "name": "株式会社メタルアート",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 7.76,
+      "prev_ratio": 6.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5TY",
+      "sec": "5929",
+      "name": "三和ホールディングス株式会社",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5Z1",
+      "sec": "9450",
+      "name": "株式会社ファイバーゲート",
+      "filer": "光通信株式会社",
+      "ratio": 4.19,
+      "prev_ratio": 3.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6IT",
+      "sec": "3681",
+      "name": "株式会社ブイキューブ",
+      "filer": "間下　直晃",
+      "ratio": 14.01,
+      "prev_ratio": 14.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y78F",
+      "sec": "3823",
+      "name": "ＴＨＥ　ＷＨＹ　ＨＯＷ　ＤＯ　ＣＯＭＰＡＮＹ株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 5.93,
+      "prev_ratio": 5.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6BV",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "株式会社シティインデックスファースト",
+      "ratio": 6.4,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y771",
+      "sec": "6302",
+      "name": "住友重機械工業株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 8.12,
+      "prev_ratio": 9.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y6NC",
+      "sec": "1822",
+      "name": "大豊建設株式会社",
+      "filer": "株式会社南青山不動産",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y74C",
+      "sec": "7839",
+      "name": "株式会社ＳＨＯＥＩ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 10.98,
+      "prev_ratio": 9.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y77I",
+      "sec": "3195",
+      "name": "株式会社ジェネレーションパス",
+      "filer": "久野　貴嗣",
+      "ratio": 8.83,
+      "prev_ratio": 8.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y7BT",
+      "sec": "559A",
+      "name": "梅乃宿酒造株式会社",
+      "filer": "日本成長投資アライアンス株式会社",
+      "ratio": 14.33,
+      "prev_ratio": 18.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y7CL",
+      "sec": "280A",
+      "name": "株式会社ＴＭＨ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 5.43,
+      "prev_ratio": 6.25,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

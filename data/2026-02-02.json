@@ -1,0 +1,297 @@
+{
+  "date": "2026-02-02",
+  "new": [
+    {
+      "docId": "S100XI9J",
+      "sec": "6678",
+      "name": "株式会社テクノメディカ",
+      "filer": "實吉　政知",
+      "ratio": 13.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XHS2",
+      "sec": "7250",
+      "name": "太平洋工業株式会社",
+      "filer": "株式会社ＣＯＲＥ",
+      "ratio": 52.09,
+      "prev_ratio": 17.13,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XIT3",
+      "sec": "6227",
+      "name": "ＡＩメカテック株式会社",
+      "filer": "片山晃",
+      "ratio": 6.53,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XIK7",
+      "sec": "6969",
+      "name": "松尾電機株式会社",
+      "filer": "下田　寛二",
+      "ratio": 4.44,
+      "prev_ratio": 6.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIB3",
+      "sec": "5714",
+      "name": "藤田観光株式会社",
+      "filer": "ＤＯＷＡホールディングス株式会社",
+      "ratio": 31.25,
+      "prev_ratio": 31.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XI66",
+      "sec": "5714",
+      "name": "藤田観光株式会社",
+      "filer": "ＤＯＷＡホールディングス株式会社",
+      "ratio": 31.25,
+      "prev_ratio": 31.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHTD",
+      "sec": "7013",
+      "name": "株式会社ＩＨＩ",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 9.82,
+      "prev_ratio": 8.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHKK",
+      "sec": "3733",
+      "name": "株式会社ソフトウェア・サービス",
+      "filer": "宮﨑　勝",
+      "ratio": 23.69,
+      "prev_ratio": 23.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIMN",
+      "sec": "9338",
+      "name": "株式会社INFORICH",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": 6.16,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XI36",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 50.38,
+      "prev_ratio": 51.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIMG",
+      "sec": "6161",
+      "name": "株式会社エスティック",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 4.38,
+      "prev_ratio": 3.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHZ0",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 12.64,
+      "prev_ratio": 13.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XILO",
+      "sec": "4272",
+      "name": "日本化薬株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 6.77,
+      "prev_ratio": 7.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIPX",
+      "sec": "9759",
+      "name": "株式会社ＮＳＤ",
+      "filer": "ＩＰＣ株式会社",
+      "ratio": 3.0,
+      "prev_ratio": 5.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHUC",
+      "sec": "6890",
+      "name": "株式会社フェローテック",
+      "filer": "Ｓｐｉｃａ　Ｌｉｍｉｔｅｄ",
+      "ratio": 4.19,
+      "prev_ratio": 5.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHYA",
+      "sec": "7378",
+      "name": "株式会社アシロ",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 28.42,
+      "prev_ratio": 27.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XI1O",
+      "sec": "8508",
+      "name": "株式会社ＫｅｙＨｏｌｄｅｒ",
+      "filer": "Ｊトラスト株式会社",
+      "ratio": 29.82,
+      "prev_ratio": 29.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIQ4",
+      "sec": "7674",
+      "name": "株式会社ＮＡＴＴＹ　ＳＷＡＮＫＹホールディングス",
+      "filer": "田中　竜也",
+      "ratio": 14.44,
+      "prev_ratio": 15.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHIM",
+      "sec": "7731",
+      "name": "株式会社ニコン",
+      "filer": "エシロールルックスオティカ",
+      "ratio": 14.2,
+      "prev_ratio": 12.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHS3",
+      "sec": "3927",
+      "name": "株式会社フーバーブレイン",
+      "filer": "いずみキャピタル株式会社",
+      "ratio": 1.01,
+      "prev_ratio": 3.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHFO",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "株式会社Ｔｈｅ　ｃａｐｉｔａｌ",
+      "ratio": 34.55,
+      "prev_ratio": 39.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHM6",
+      "sec": "2175",
+      "name": "株式会社エス・エム・エス",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 11.46,
+      "prev_ratio": 7.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIM6",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.42,
+      "prev_ratio": 11.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHH9",
+      "sec": "5816",
+      "name": "オーナンバ株式会社",
+      "filer": "Ｂｅ　Ｂｒａｖｅ株式会社",
+      "ratio": 10.52,
+      "prev_ratio": 7.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XI57",
+      "sec": "7250",
+      "name": "太平洋工業株式会社",
+      "filer": "株式会社ＣＯＲＥ",
+      "ratio": 52.09,
+      "prev_ratio": 52.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIQV",
+      "sec": "9434",
+      "name": "株式会社プラザホールディングス",
+      "filer": "ソフトバンク株式会社",
+      "ratio": 9.07,
+      "prev_ratio": 11.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XION",
+      "sec": "8783",
+      "name": "株式会社イメージワン",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 22.46,
+      "prev_ratio": 21.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIT9",
+      "sec": "5241",
+      "name": "株式会社日本オーエー研究所",
+      "filer": "光通信株式会社",
+      "ratio": 7.56,
+      "prev_ratio": 7.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIK5",
+      "sec": "9237",
+      "name": "株式会社笑美面",
+      "filer": "榎並　将志",
+      "ratio": 40.01,
+      "prev_ratio": 40.01,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "date": "2026-05-14",
+  "new": [
+    {
+      "docId": "S100Y3QX",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "山下　卓宏",
+      "ratio": 3.82,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y3MN",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 5.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y1L9",
+      "sec": "561A",
+      "name": "マークスライフ株式会社",
+      "filer": "株式会社ＢＯＸ",
+      "ratio": 40.76,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y40R",
+      "sec": "1711",
+      "name": "株式会社ＳＤＳホールディングス",
+      "filer": "三崎優太",
+      "ratio": 17.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y44N",
+      "sec": "7578",
+      "name": "株式会社ニチリョク",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 10.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Y355",
+      "sec": "262A",
+      "name": "株式会社インターメスティック",
+      "filer": "株式会社ルイ・ボストン",
+      "ratio": 35.0,
+      "prev_ratio": 35.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3Q8",
+      "sec": "5707",
+      "name": "東邦亜鉛株式会社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 15.69,
+      "prev_ratio": 16.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3LO",
+      "sec": "6380",
+      "name": "オリエンタルチエン工業株式会社",
+      "filer": "山下　卓宏",
+      "ratio": 6.24,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3OC",
+      "sec": "6458",
+      "name": "新晃工業株式会社",
+      "filer": "株式会社明晃",
+      "ratio": 18.64,
+      "prev_ratio": 17.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3JZ",
+      "sec": "2818",
+      "name": "株式会社ピエトロ",
+      "filer": "西川　啓子",
+      "ratio": 3.66,
+      "prev_ratio": 3.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3CP",
+      "sec": "7578",
+      "name": "株式会社ニチリョク",
+      "filer": "株式会社アリスタゴラ・アドバイザーズ",
+      "ratio": 56.78,
+      "prev_ratio": 45.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3PL",
+      "sec": "2726",
+      "name": "株式会社パルグループホールディングス",
+      "filer": "井上　隆太",
+      "ratio": 5.32,
+      "prev_ratio": 5.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3CV",
+      "sec": "5406",
+      "name": "神鋼鋼線工業株式会社",
+      "filer": "株式会社　神戸製鋼所",
+      "ratio": 43.46,
+      "prev_ratio": 42.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y38V",
+      "sec": "7220",
+      "name": "武蔵精密工業株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 2.38,
+      "prev_ratio": 1.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y2MC",
+      "sec": "1776",
+      "name": "三井住建道路株式会社",
+      "filer": "三井住友建設株式会社",
+      "ratio": 100.0,
+      "prev_ratio": 95.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3RY",
+      "sec": "8518",
+      "name": "日本アジア投資株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.74,
+      "prev_ratio": 18.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y392",
+      "sec": "8136",
+      "name": "株式会社サンリオ",
+      "filer": "清川商事株式会社",
+      "ratio": 7.72,
+      "prev_ratio": 7.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y35R",
+      "sec": "4644",
+      "name": "イマジニア株式会社",
+      "filer": "神藏　孝之",
+      "ratio": 3.93,
+      "prev_ratio": 4.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3QP",
+      "sec": "7138",
+      "name": "株式会社TORICO",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 38.05,
+      "prev_ratio": 38.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3SK",
+      "sec": "6699",
+      "name": "ダイヤモンドエレクトリックホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 33.82,
+      "prev_ratio": 34.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3WZ",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 6.23,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3XC",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 7.28,
+      "prev_ratio": 6.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3Y0",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 8.34,
+      "prev_ratio": 7.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3WT",
+      "sec": "4005",
+      "name": "広栄化学株式会社",
+      "filer": "住友化学株式会社",
+      "ratio": 55.74,
+      "prev_ratio": 55.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y409",
+      "sec": "4644",
+      "name": "イマジニア株式会社",
+      "filer": "神藏　孝之",
+      "ratio": 2.85,
+      "prev_ratio": 3.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y418",
+      "sec": "3562",
+      "name": "株式会社Ｎｏ．１",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 2.85,
+      "prev_ratio": 2.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3A1",
+      "sec": "5162",
+      "name": "株式会社朝日ラバー",
+      "filer": "晋文金属株式会社",
+      "ratio": 9.99,
+      "prev_ratio": 7.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3WR",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "ＬＩＭ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 13.12,
+      "prev_ratio": 13.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3GP",
+      "sec": "3776",
+      "name": "株式会社ブロードバンドタワー",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 20.15,
+      "prev_ratio": 18.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y27Z",
+      "sec": "2207",
+      "name": "株式会社meito",
+      "filer": "ＵＧＳアセットマネジメント株式会社",
+      "ratio": 8.36,
+      "prev_ratio": 7.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3BG",
+      "sec": "7361",
+      "name": "株式会社ヒューマンクリエイションホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 6.63,
+      "prev_ratio": 6.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y42M",
+      "sec": "7810",
+      "name": "株式会社クロスフォー",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 16.48,
+      "prev_ratio": 16.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3X8",
+      "sec": "7769",
+      "name": "リズム株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3BH",
+      "sec": "8715",
+      "name": "アニコム ホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.9,
+      "prev_ratio": 4.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3Z6",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 9.38,
+      "prev_ratio": 8.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y40C",
+      "sec": "4881",
+      "name": "株式会社ファンペップ",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 8.99,
+      "prev_ratio": 10.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3CK",
+      "sec": "3941",
+      "name": "レンゴー株式会社",
+      "filer": "株式会社南青山不動産",
+      "ratio": 9.0,
+      "prev_ratio": 9.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y2QZ",
+      "sec": "190A",
+      "name": "Chordia Therapeutics 株式会社",
+      "filer": "京都大学イノベーションキャピタル株式会社",
+      "ratio": 4.68,
+      "prev_ratio": 5.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y1XE",
+      "sec": "2180",
+      "name": "株式会社サニーサイドアップグループ",
+      "filer": "渡邊　徳人",
+      "ratio": 5.01,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y2R0",
+      "sec": "3370",
+      "name": "株式会社フジタコーポレーション",
+      "filer": "中野邦人",
+      "ratio": 6.23,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y44D",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 10.45,
+      "prev_ratio": 9.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y2F3",
+      "sec": "2180",
+      "name": "株式会社サニーサイドアップグループ",
+      "filer": "次原　悦子",
+      "ratio": 7.71,
+      "prev_ratio": 7.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y451",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 11.45,
+      "prev_ratio": 10.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y44X",
+      "sec": "6080",
+      "name": "M＆Aキャピタルパートナーズ",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 6.21,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

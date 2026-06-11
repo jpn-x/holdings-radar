@@ -1,0 +1,297 @@
+{
+  "date": "2026-04-16",
+  "new": [
+    {
+      "docId": "S100XZ79",
+      "sec": "1968",
+      "name": "西川計測株式会社",
+      "filer": "太平電業株式会社",
+      "ratio": 6.21,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XY3K",
+      "sec": "7922",
+      "name": "三光産業株式会社",
+      "filer": "株式会社バロン",
+      "ratio": 68.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XZE0",
+      "sec": "9362",
+      "name": "兵機海運株式会社",
+      "filer": "有限会社山広運輸興業",
+      "ratio": 7.52,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XYRQ",
+      "sec": "6754",
+      "name": "アンリツ株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 1.47,
+      "prev_ratio": 1.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYZU",
+      "sec": "6278",
+      "name": "ユニオンツール株式会社",
+      "filer": "片山貴雄",
+      "ratio": 3.0,
+      "prev_ratio": 3.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLS1",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 29.22,
+      "prev_ratio": 29.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYZ3",
+      "sec": "5129",
+      "name": "株式会社FIXER",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.76,
+      "prev_ratio": 21.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ7I",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "ＫＡＮＤＢ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 53.35,
+      "prev_ratio": 6.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ9A",
+      "sec": "8783",
+      "name": "ａｂｃ株式会社",
+      "filer": "ＷＯＷＯＯ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 39.01,
+      "prev_ratio": 41.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYHB",
+      "sec": "2928",
+      "name": "ＲＩＺＡＰグループ株式会社",
+      "filer": "瀬戸　健",
+      "ratio": 36.96,
+      "prev_ratio": 36.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYQP",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 30.42,
+      "prev_ratio": 31.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYPE",
+      "sec": "244A",
+      "name": "グロースエクスパートナーズ株式会社",
+      "filer": "渡邉　伸一",
+      "ratio": 21.12,
+      "prev_ratio": 21.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ1V",
+      "sec": "4258",
+      "name": "株式会社網屋",
+      "filer": "石田　晃太",
+      "ratio": 12.64,
+      "prev_ratio": 13.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ1Y",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 43.06,
+      "prev_ratio": 44.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZD7",
+      "sec": "7932",
+      "name": "株式会社リーガルコーポレーション",
+      "filer": "株式会社ニッピ",
+      "ratio": 13.69,
+      "prev_ratio": 14.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZBI",
+      "sec": "8001",
+      "name": "サンフロンティア不動産株式会社",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 9.58,
+      "prev_ratio": 9.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYT2",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "グローバル・ブレイン株式会社",
+      "ratio": 7.18,
+      "prev_ratio": 8.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ9P",
+      "sec": "6736",
+      "name": "サン電子株式会社",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY83",
+      "sec": "2488",
+      "name": "JTP株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.15,
+      "prev_ratio": 7.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYMQ",
+      "sec": "3927",
+      "name": "株式会社フーバーブレイン",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 9.0,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY84",
+      "sec": "5025",
+      "name": "株式会社マーキュリー",
+      "filer": "光通信株式会社",
+      "ratio": 5.8,
+      "prev_ratio": 4.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY3T",
+      "sec": "5451",
+      "name": "株式会社ヨドコウ",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 5.63,
+      "prev_ratio": 6.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZEU",
+      "sec": "8001",
+      "name": "伊藤忠食品株式会社",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 52.33,
+      "prev_ratio": 50.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZBN",
+      "sec": "5711",
+      "name": "三菱マテリアル株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 6.81,
+      "prev_ratio": 7.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ8J",
+      "sec": "3815",
+      "name": "株式会社メディア工房",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 12.35,
+      "prev_ratio": 13.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZCS",
+      "sec": "4272",
+      "name": "日本化薬株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 5.76,
+      "prev_ratio": 6.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY4W",
+      "sec": "9072",
+      "name": "ニッコンホールディングス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 17.66,
+      "prev_ratio": 12.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYV6",
+      "sec": "8934",
+      "name": "サンフロンティア不動産株式会社",
+      "filer": "ＡＡＧＳ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ．",
+      "ratio": 6.18,
+      "prev_ratio": 11.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ8H",
+      "sec": "4572",
+      "name": "カルナバイオサイエンス株式会社",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 4.87,
+      "prev_ratio": 7.33,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

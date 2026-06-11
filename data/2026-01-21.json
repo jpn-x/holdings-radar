@@ -1,0 +1,237 @@
+{
+  "date": "2026-01-21",
+  "new": [
+    {
+      "docId": "S100XGMY",
+      "sec": "4594",
+      "name": "ブライトパス・バイオ",
+      "filer": "フィリップ証券株式会社",
+      "ratio": 7.29,
+      "prev_ratio": 9.24,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGTK",
+      "sec": "4679",
+      "name": "株式会社　田　谷",
+      "filer": "ＳＩＮＯ　ＰＲＩＤＥ　ＶＥＮＴＵＲＥＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 7.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGAJ",
+      "sec": "2175",
+      "name": "株式会社エス・エム・エス",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 7.76,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XFCU",
+      "sec": "2293",
+      "name": "滝沢ハム株式会社",
+      "filer": "小堺裕一郎",
+      "ratio": null,
+      "prev_ratio": 8.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDU",
+      "sec": "281A",
+      "name": "インフォメティス株式会社",
+      "filer": "東海東京証券株式会社",
+      "ratio": 15.86,
+      "prev_ratio": 17.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGPU",
+      "sec": "438A",
+      "name": "株式会社インフキュリオン",
+      "filer": "三井住友ＤＳアセットマネジメント株式会社",
+      "ratio": 1.03,
+      "prev_ratio": 14.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGU9",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 1.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDS",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 51.46,
+      "prev_ratio": 52.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGJF",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "トラストアップ株式会社",
+      "ratio": null,
+      "prev_ratio": 12.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGU0",
+      "sec": "3593",
+      "name": "株式会社ホギメディカル",
+      "filer": "野村證券株式会社",
+      "ratio": 64.0,
+      "prev_ratio": 64.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XG7U",
+      "sec": "3193",
+      "name": "株式会社エターナルホスピタリティグループ",
+      "filer": "大倉　忠司",
+      "ratio": 22.44,
+      "prev_ratio": 22.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGV7",
+      "sec": "4062",
+      "name": "イビデン株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.37,
+      "prev_ratio": 1.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGCY",
+      "sec": "483A",
+      "name": "テラテクノロジー株式会社",
+      "filer": "宮本　一成",
+      "ratio": 6.36,
+      "prev_ratio": 11.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGW3",
+      "sec": "2928",
+      "name": "Bitcoin Japan株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 6.2,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGUR",
+      "sec": "2668",
+      "name": "タビオ株式会社",
+      "filer": "越智　勝寛",
+      "ratio": 27.0,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGBD",
+      "sec": "9882",
+      "name": "株式会社ナルネットコミュニケーションズ",
+      "filer": "株式会社イエローハット",
+      "ratio": 20.02,
+      "prev_ratio": 19.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGWF",
+      "sec": "4826",
+      "name": "株式会社ＣＩＪ",
+      "filer": "光通信株式会社",
+      "ratio": 5.72,
+      "prev_ratio": 6.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGC8",
+      "sec": "5596",
+      "name": "アウトルックコンサルティング株式会社",
+      "filer": "マネーフォワードコンサルティング株式会社",
+      "ratio": 84.31,
+      "prev_ratio": 61.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XG7M",
+      "sec": "6361",
+      "name": "株式会社荏原製作所",
+      "filer": "いちごアセットマネジメント・インタ－ナショナル・ピ－ティ－イ－・リミテッド",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGOX",
+      "sec": "9983",
+      "name": "株式会社ファーストリテイリング",
+      "filer": "柳井　正",
+      "ratio": 16.19,
+      "prev_ratio": 17.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGF8",
+      "sec": "9776",
+      "name": "札幌臨床検査センター株式会社",
+      "filer": "エピック・パートナーズ・インベストメンツ株式会社",
+      "ratio": 7.13,
+      "prev_ratio": 6.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGAV",
+      "sec": "9603",
+      "name": "株式会社エイチ・アイ・エス",
+      "filer": "澤田　秀雄",
+      "ratio": 22.49,
+      "prev_ratio": 22.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGMY",
+      "sec": "4594",
+      "name": "ブライトパス・バイオ",
+      "filer": "フィリップ証券株式会社",
+      "ratio": 7.29,
+      "prev_ratio": 9.24,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

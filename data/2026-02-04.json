@@ -1,0 +1,266 @@
+{
+  "date": "2026-02-04",
+  "new": [],
+  "chg": [
+    {
+      "docId": "S100XIZ1",
+      "sec": "6093",
+      "name": "株式会社エスクロー・エージェント・ジャパン",
+      "filer": "千代田プロパティホールディングス株式会社",
+      "ratio": 6.61,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIPM",
+      "sec": "4891",
+      "name": "株式会社ティムス",
+      "filer": "東北大学ベンチャーパートナーズ株式会社",
+      "ratio": 5.18,
+      "prev_ratio": 6.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIUX",
+      "sec": "7063",
+      "name": "株式会社Ｂｉｒｄｍａｎ",
+      "filer": "ＫＡＮＤＢ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 35.0,
+      "prev_ratio": 28.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ5Q",
+      "sec": "6654",
+      "name": "不二電機工業株式会社",
+      "filer": "藤本　豊士",
+      "ratio": 11.69,
+      "prev_ratio": 11.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ2T",
+      "sec": "6063",
+      "name": "日本エマージェンシーアシスタンス",
+      "filer": "徐宏沢",
+      "ratio": 7.14,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ10",
+      "sec": "9990",
+      "name": "株式会社サックスバー　ホールディングス",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 1.68,
+      "prev_ratio": 3.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ7Q",
+      "sec": "7097",
+      "name": "株式会社さくらさくプラス",
+      "filer": "西尾　義隆",
+      "ratio": 3.91,
+      "prev_ratio": 3.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ7W",
+      "sec": "4834",
+      "name": "株式会社エコミック",
+      "filer": "キャリアバンク株式会社",
+      "ratio": 2.57,
+      "prev_ratio": 34.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ2I",
+      "sec": "8783",
+      "name": "株式会社イメージワン",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 16.96,
+      "prev_ratio": 19.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ86",
+      "sec": "8783",
+      "name": "株式会社イメージワン",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 14.54,
+      "prev_ratio": 16.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ8C",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 26.84,
+      "prev_ratio": 27.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIUX",
+      "sec": "7063",
+      "name": "株式会社Ｂｉｒｄｍａｎ",
+      "filer": "ＫＡＮＤＢ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 35.0,
+      "prev_ratio": 28.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIMM",
+      "sec": "3950",
+      "name": "ザ・パック株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 3.01,
+      "prev_ratio": 2.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIEO",
+      "sec": "3935",
+      "name": "株式会社エディア",
+      "filer": "原尾　正紀",
+      "ratio": 15.46,
+      "prev_ratio": 15.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIYZ",
+      "sec": "9069",
+      "name": "センコーグループホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 9.47,
+      "prev_ratio": 8.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIH5",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 22.27,
+      "prev_ratio": 21.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIHB",
+      "sec": "5574",
+      "name": "株式会社ABEJA",
+      "filer": "岡田　陽介",
+      "ratio": 14.62,
+      "prev_ratio": 15.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIJN",
+      "sec": "4347",
+      "name": "ブロードメディア株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 38.01,
+      "prev_ratio": 27.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIVI",
+      "sec": "6533",
+      "name": "株式会社Orchestra Holdings",
+      "filer": "佐藤　亨樹",
+      "ratio": 15.76,
+      "prev_ratio": 17.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIVK",
+      "sec": "6533",
+      "name": "株式会社Orchestra Holdings",
+      "filer": "ＴＳＫ　ｃａｐｉｔａｌ株式会社",
+      "ratio": 7.73,
+      "prev_ratio": 7.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIH1",
+      "sec": "4441",
+      "name": "トビラシステムズ株式会社",
+      "filer": "Ｓｍｏａｋ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　ＬＬＣ",
+      "ratio": 7.13,
+      "prev_ratio": 6.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIVL",
+      "sec": "6533",
+      "name": "株式会社Orchestra Holdings",
+      "filer": "ＴＳＫ　ｃａｐｉｔａｌ株式会社",
+      "ratio": 7.73,
+      "prev_ratio": 7.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIIX",
+      "sec": "1945",
+      "name": "株式会社東京エネシス",
+      "filer": "光通信株式会社",
+      "ratio": 7.32,
+      "prev_ratio": 7.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHZR",
+      "sec": "2108",
+      "name": "日本甜菜製糖株式会社",
+      "filer": "Ｂｅ　Ｂｒａｖｅ株式会社",
+      "ratio": 9.48,
+      "prev_ratio": 8.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJBB",
+      "sec": "9684",
+      "name": "株式会社スクウェア・エニックス・ホールディングス",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 17.5,
+      "prev_ratio": 16.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ4O",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 9.0,
+      "prev_ratio": 10.42,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "date": "2026-04-10",
+  "new": [
+    {
+      "docId": "S100XW26",
+      "sec": "4432",
+      "name": "株式会社システムエグゼ",
+      "filer": "ウイングアーク１ｓｔ株式会社",
+      "ratio": 6.11,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XY4K",
+      "sec": "2936",
+      "name": "ベースフード株式会社",
+      "filer": "橋本舜",
+      "ratio": 32.04,
+      "prev_ratio": 32.04,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XY4J",
+      "sec": "7628",
+      "name": "株式会社オーハシテクニカ",
+      "filer": "ＪＩＮＮ　ＨＥＲ　ＥＮＴＥＲＰＲＩＳＥ　ＣＯ．，ＬＴＤ",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XWWA",
+      "sec": "548A",
+      "name": "株式会社システムエグゼ",
+      "filer": "大場康次",
+      "ratio": 6.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XWWY",
+      "sec": "548A",
+      "name": "株式会社システムエグゼ",
+      "filer": "後藤　清孝",
+      "ratio": 5.73,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XY6I",
+      "sec": "545A",
+      "name": "株域会社トランヴィア",
+      "filer": "福島　嘉章",
+      "ratio": 5.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XLPU",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 5.09,
+      "prev_ratio": 4.78,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XXTM",
+      "sec": "6147",
+      "name": "株式会社ヤマザキ",
+      "filer": "共通物産株式会社",
+      "ratio": 3.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XWS4",
+      "sec": "550A",
+      "name": "株式会社ソフトテックス",
+      "filer": "石黒　佳彦",
+      "ratio": 8.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XWW9",
+      "sec": "550A",
+      "name": "株式会社ソフトテックス",
+      "filer": "太田　晃二",
+      "ratio": 8.11,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XXWT",
+      "sec": "3291",
+      "name": "飯田グループホールディングス株式会社",
+      "filer": "西河　洋一",
+      "ratio": 9.97,
+      "prev_ratio": 9.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XWEE",
+      "sec": "7203",
+      "name": "カヤバ株式会社",
+      "filer": "トヨタ自動車株式会社",
+      "ratio": null,
+      "prev_ratio": 5.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXLO",
+      "sec": "3271",
+      "name": "株式会社THEグローバル社",
+      "filer": "旭化成ホームズ株式会社",
+      "ratio": 9.88,
+      "prev_ratio": 9.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXWP",
+      "sec": "9927",
+      "name": "株式会社ワットマン",
+      "filer": "ＩＡＰＦ３株式会社",
+      "ratio": 68.81,
+      "prev_ratio": 68.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XWLV",
+      "sec": "4534",
+      "name": "持田製薬株式会社",
+      "filer": "公益財団法人持田記念医学薬学振興財団",
+      "ratio": 15.63,
+      "prev_ratio": 14.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXUW",
+      "sec": "5341",
+      "name": "ASAHI EITOホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 41.11,
+      "prev_ratio": 43.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXYC",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.34,
+      "prev_ratio": 10.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY4S",
+      "sec": "9338",
+      "name": "株式会社INFORICH",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": null,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXX5",
+      "sec": "8254",
+      "name": "株式会社さいか屋",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.91,
+      "prev_ratio": 12.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY5X",
+      "sec": "6670",
+      "name": "株式会社ＭＣＪ",
+      "filer": "髙島　勇二",
+      "ratio": null,
+      "prev_ratio": 31.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XL9L",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 7.19,
+      "prev_ratio": 9.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLOE",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 5.98,
+      "prev_ratio": 7.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLPN",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 4.78,
+      "prev_ratio": 5.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLQ2",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 6.32,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLQ8",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 7.48,
+      "prev_ratio": 6.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLWZ",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 8.53,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQXM",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 7.49,
+      "prev_ratio": 8.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXTN",
+      "sec": "6147",
+      "name": "株式会社ヤマザキ",
+      "filer": "共通物産株式会社",
+      "ratio": 5.04,
+      "prev_ratio": 3.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXQ8",
+      "sec": "3948",
+      "name": "光ビジネスフォーム株式会社",
+      "filer": "重田　光時",
+      "ratio": 6.02,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY5J",
+      "sec": "7093",
+      "name": "アディッシュ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 6.26,
+      "prev_ratio": 6.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XWZY",
+      "sec": "3776",
+      "name": "株式会社ブロードバンドタワー",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 17.0,
+      "prev_ratio": 15.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXKJ",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 9.75,
+      "prev_ratio": 10.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXJ5",
+      "sec": "7157",
+      "name": "ライフネット生命保険株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 21.13,
+      "prev_ratio": 21.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY7I",
+      "sec": "9927",
+      "name": "株式会社ワットマン",
+      "filer": "川畑　泰史",
+      "ratio": 23.22,
+      "prev_ratio": 19.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XX0X",
+      "sec": "9450",
+      "name": "株式会社ファイバーゲート",
+      "filer": "光通信株式会社",
+      "ratio": 2.36,
+      "prev_ratio": 1.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXQ2",
+      "sec": "175A",
+      "name": "株式会社Will Smart",
+      "filer": "ＥＮＥＯＳ株式会社",
+      "ratio": 4.72,
+      "prev_ratio": 5.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY7W",
+      "sec": "3465",
+      "name": "ケイアイスター不動産株式会社",
+      "filer": "塙　圭二",
+      "ratio": 4.81,
+      "prev_ratio": 3.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY8E",
+      "sec": "3465",
+      "name": "ケイアイスター不動産株式会社",
+      "filer": "塙　圭二",
+      "ratio": 4.81,
+      "prev_ratio": 4.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXXC",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "トラストアップ株式会社",
+      "ratio": 58.82,
+      "prev_ratio": 58.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXAT",
+      "sec": "2928",
+      "name": "ＲＩＺＡＰグループ株式会社",
+      "filer": "瀬戸　健",
+      "ratio": 36.96,
+      "prev_ratio": 36.67,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

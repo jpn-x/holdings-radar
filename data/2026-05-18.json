@@ -1,0 +1,347 @@
+{
+  "date": "2026-05-18",
+  "new": [
+    {
+      "docId": "S100Y4L3",
+      "sec": "8891",
+      "name": "AMG",
+      "filer": "新原栄寿",
+      "ratio": 2.58,
+      "prev_ratio": 5.11,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y3RK",
+      "sec": "6402",
+      "name": "兼松エンジニアリング株式会社",
+      "filer": "三谷　公男",
+      "ratio": 5.74,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y41N",
+      "sec": "6197",
+      "name": "株式会社ソラスト",
+      "filer": "ＭＰ‐２６０５株式会社",
+      "ratio": 51.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y4BG",
+      "sec": "8425",
+      "name": "みずほリース株式会社",
+      "filer": "日鉄興和不動産株式会社",
+      "ratio": 8.69,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y4OK",
+      "sec": "2331",
+      "name": "日本ドライケミカル株式会社",
+      "filer": "ＡＬＳＯＫ株式会社",
+      "ratio": 15.32,
+      "prev_ratio": 15.32,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y4KP",
+      "sec": "3132",
+      "name": "マーチャント・バンカーズ株式会社",
+      "filer": "中村　昌弘",
+      "ratio": 15.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y3QD",
+      "sec": "4088",
+      "name": "エア・ウォーター株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y4NJ",
+      "sec": "6380",
+      "name": "オリエンタルチエン工業株式会社",
+      "filer": "山下　卓宏",
+      "ratio": 3.12,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Y330",
+      "sec": "9537",
+      "name": "北陸瓦斯株式会社",
+      "filer": "敦井産業株式会社",
+      "ratio": 12.65,
+      "prev_ratio": 11.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4LP",
+      "sec": "4746",
+      "name": "株式会社東計電算",
+      "filer": "東京濾器株式会社",
+      "ratio": 4.31,
+      "prev_ratio": 7.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4D3",
+      "sec": "1878",
+      "name": "株式会社ソラスト",
+      "filer": "大東建託株式会社",
+      "ratio": 33.57,
+      "prev_ratio": 33.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4N4",
+      "sec": "3864",
+      "name": "三菱製紙株式会社",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 7.25,
+      "prev_ratio": 6.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y20R",
+      "sec": "8591",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "オリックス株式会社",
+      "ratio": 6.43,
+      "prev_ratio": 7.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y49N",
+      "sec": "4596",
+      "name": "窪田製薬ホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.87,
+      "prev_ratio": 12.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y41C",
+      "sec": "6877",
+      "name": "ＯＢＡＲＡ　ＧＲＯＵＰ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 6.77,
+      "prev_ratio": 6.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3RI",
+      "sec": "6402",
+      "name": "兼松エンジニアリング株式会社",
+      "filer": "三谷　公男",
+      "ratio": 1.91,
+      "prev_ratio": 5.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4I1",
+      "sec": "9990",
+      "name": "株式会社サックスバー　ホールディングス",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 4.0,
+      "prev_ratio": 1.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3IQ",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "ジャパンベストレスキューシステム株式会社",
+      "ratio": null,
+      "prev_ratio": 27.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4M6",
+      "sec": "7734",
+      "name": "理研計器株式会社",
+      "filer": "フォレスト・マナー・エヌ・ヴイ",
+      "ratio": 4.48,
+      "prev_ratio": 5.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y2DU",
+      "sec": "8783",
+      "name": "abc株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 34.34,
+      "prev_ratio": 35.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4LL",
+      "sec": "5714",
+      "name": "ＤＯＷＡホールディングス株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 6.98,
+      "prev_ratio": 8.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4OA",
+      "sec": "8891",
+      "name": "AMG",
+      "filer": "新原栄寿",
+      "ratio": 2.58,
+      "prev_ratio": 5.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4NT",
+      "sec": "3936",
+      "name": "株式会社グローバルウェイ",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 6.13,
+      "prev_ratio": 6.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3UA",
+      "sec": "8291",
+      "name": "日産東京販売ホールディングス株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 4.8,
+      "prev_ratio": 4.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3BI",
+      "sec": "3766",
+      "name": "システムズ・デザイン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.31,
+      "prev_ratio": 7.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3BJ",
+      "sec": "5254",
+      "name": "株式会社Ａｒｅｎｔ",
+      "filer": "光通信株式会社",
+      "ratio": 8.46,
+      "prev_ratio": 7.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4QG",
+      "sec": "285A",
+      "name": "キオクシアホールディングス株式会社",
+      "filer": "株式会社　東芝",
+      "ratio": 16.1,
+      "prev_ratio": 17.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4K7",
+      "sec": "4392",
+      "name": "FIG株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 13.73,
+      "prev_ratio": 13.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4O5",
+      "sec": "4392",
+      "name": "FIG株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 6.81,
+      "prev_ratio": 13.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4PK",
+      "sec": "3471",
+      "name": "三井不動産ロジスティクスパーク投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 2.43,
+      "prev_ratio": 2.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4S8",
+      "sec": "8891",
+      "name": "AMG",
+      "filer": "新原栄寿",
+      "ratio": 2.58,
+      "prev_ratio": 5.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y2ZK",
+      "sec": "9362",
+      "name": "兵機海運株式会社",
+      "filer": "堂島汽船株式会社",
+      "ratio": 9.78,
+      "prev_ratio": 9.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4L6",
+      "sec": "8934",
+      "name": "サンフロンティア不動産株式会社",
+      "filer": "ＡＡＧＳ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ．",
+      "ratio": 5.65,
+      "prev_ratio": 6.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4OK",
+      "sec": "2331",
+      "name": "日本ドライケミカル株式会社",
+      "filer": "ＡＬＳＯＫ株式会社",
+      "ratio": 15.32,
+      "prev_ratio": 15.32,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

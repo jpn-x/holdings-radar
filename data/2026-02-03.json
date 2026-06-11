@@ -1,0 +1,277 @@
+{
+  "date": "2026-02-03",
+  "new": [
+    {
+      "docId": "S100XIJS",
+      "sec": "3941",
+      "name": "レンゴー株式会社",
+      "filer": "株式会社南青山不動産",
+      "ratio": 9.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XJ2I",
+      "sec": "8783",
+      "name": "株式会社イメージワン",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 16.96,
+      "prev_ratio": 19.11,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XIXM",
+      "sec": "9235",
+      "name": "売れるネット広告社グループ株式会社",
+      "filer": "加藤　公一レオ",
+      "ratio": 30.39,
+      "prev_ratio": 32.49,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XIW8",
+      "sec": "7172",
+      "name": "株式会社インタートレード",
+      "filer": "株式会社ジャパンインベストメントアドバイザー",
+      "ratio": 13.12,
+      "prev_ratio": 12.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIO1",
+      "sec": "8894",
+      "name": "株式会社REVOLUTION",
+      "filer": "河野　広勝",
+      "ratio": 74.15,
+      "prev_ratio": 74.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XILM",
+      "sec": "4012",
+      "name": "株式会社アクシス",
+      "filer": "日向　宏",
+      "ratio": 4.41,
+      "prev_ratio": 5.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIWP",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 30.68,
+      "prev_ratio": 30.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIGK",
+      "sec": "6093",
+      "name": "株式会社エスクロー・エージェント・ジャパン",
+      "filer": "千代田プロパティホールディングス株式会社",
+      "ratio": 6.09,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XINJ",
+      "sec": "4384",
+      "name": "ラクスル株式会社",
+      "filer": "松本　恭攝",
+      "ratio": 13.54,
+      "prev_ratio": 13.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIX2",
+      "sec": "5801",
+      "name": "古河電気工業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.0,
+      "prev_ratio": 2.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XILQ",
+      "sec": "8929",
+      "name": "株式会社青山財産ネットワークス",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 4.16,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIV5",
+      "sec": "7800",
+      "name": "株式会社アミファ",
+      "filer": "藤井　愉三",
+      "ratio": 88.0,
+      "prev_ratio": 88.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIYC",
+      "sec": "8908",
+      "name": "株式会社　毎日コムネット",
+      "filer": "原　利典",
+      "ratio": 12.67,
+      "prev_ratio": 12.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIZY",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 39.0,
+      "prev_ratio": 1.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHTM",
+      "sec": "5596",
+      "name": "アウトルックコンサルティング株式会社",
+      "filer": "マネーフォワードコンサルティング株式会社",
+      "ratio": 88.63,
+      "prev_ratio": 84.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XI3D",
+      "sec": "7366",
+      "name": "株式会社LITALICO",
+      "filer": "Ｐａｎｔｈｅｕｍ　Ｐａｒｔｎｅｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": null,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ03",
+      "sec": "1444",
+      "name": "ジャニス工業株式会社",
+      "filer": "株式会社ニッソウ",
+      "ratio": 7.35,
+      "prev_ratio": 6.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIFV",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "山口　豊彦",
+      "ratio": 10.31,
+      "prev_ratio": 11.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIXY",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "須田　忠雄",
+      "ratio": 41.56,
+      "prev_ratio": 47.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ11",
+      "sec": "2928",
+      "name": "Bitcoin Japan株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 4.96,
+      "prev_ratio": 6.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XITQ",
+      "sec": "4972",
+      "name": "綜研化学株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 10.19,
+      "prev_ratio": 8.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XI96",
+      "sec": "6890",
+      "name": "株式会社フェローテック",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ1S",
+      "sec": "6379",
+      "name": "レイズネクスト株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ25",
+      "sec": "4583",
+      "name": "株式会社カイオム・バイオサイエンス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 15.03,
+      "prev_ratio": 16.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XILI",
+      "sec": "4384",
+      "name": "ラクスル株式会社",
+      "filer": "Ｋｅｙｒｏｃｋ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 8.74,
+      "prev_ratio": 8.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ2M",
+      "sec": "5801",
+      "name": "古河電気工業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 8.0,
+      "prev_ratio": 2.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIOC",
+      "sec": "4814",
+      "name": "ネクストウェア株式会社",
+      "filer": "田辺　啓輔",
+      "ratio": 2.49,
+      "prev_ratio": 6.83,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

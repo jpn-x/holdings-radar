@@ -1,0 +1,297 @@
+{
+  "date": "2026-02-10",
+  "new": [
+    {
+      "docId": "S100XHAK",
+      "sec": "501A",
+      "name": "株式会社プレシャスパートナーズ",
+      "filer": "Ｂｙ３株式会社",
+      "ratio": 35.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XHAR",
+      "sec": "501A",
+      "name": "株式会社プレシャスパートナーズ",
+      "filer": "髙﨑　誠司",
+      "ratio": 53.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XJ99",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "株式会社フエル",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XJKA",
+      "sec": "9072",
+      "name": "ニッコンホールディングス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 7.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XJ6Q",
+      "sec": "6675",
+      "name": "株式会社ニューテック",
+      "filer": "サクサ株式会社",
+      "ratio": 87.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XKDS",
+      "sec": "6901",
+      "name": "澤藤電機株式会社",
+      "filer": "ＡＲＴＳ－４株式会社",
+      "ratio": 56.56,
+      "prev_ratio": 30.24,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XK0I",
+      "sec": "6165",
+      "name": "パンチ工業株式会社",
+      "filer": "牧　寛之",
+      "ratio": 11.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XJTG",
+      "sec": "8473",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 23.0,
+      "prev_ratio": 5.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHAH",
+      "sec": "9147",
+      "name": "日本パレットプール株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＥＸＰＲＥＳＳホールディングス株式会社",
+      "ratio": 11.11,
+      "prev_ratio": 10.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJXJ",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 37.01,
+      "prev_ratio": 38.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJWY",
+      "sec": "482A",
+      "name": "株式会社セールスアカデミー",
+      "filer": "合同会社ＫＮサンク福岡",
+      "ratio": 35.04,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK6A",
+      "sec": "3657",
+      "name": "ポールトゥウィンホールディングス株式会社",
+      "filer": "橘　民義",
+      "ratio": 5.24,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJO7",
+      "sec": "4690",
+      "name": "日本パレットプール株式会社",
+      "filer": "日本貨物鉄道株式会社",
+      "ratio": 11.42,
+      "prev_ratio": 11.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK7N",
+      "sec": "2585",
+      "name": "株式会社ライフドリンク　カンパニー",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 8.66,
+      "prev_ratio": 8.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK7U",
+      "sec": "947",
+      "name": "株式会社進学会ホールディングス",
+      "filer": "株式会社学研ホールディングス",
+      "ratio": 5.95,
+      "prev_ratio": 6.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ4H",
+      "sec": "7950",
+      "name": "日本デコラックス株式会社",
+      "filer": "木村勇斗",
+      "ratio": 1.44,
+      "prev_ratio": 1.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJZI",
+      "sec": "3593",
+      "name": "株式会社ホギメディカル",
+      "filer": "野村證券株式会社",
+      "ratio": 72.0,
+      "prev_ratio": 64.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJX6",
+      "sec": "3891",
+      "name": "ニッポン高度紙工業株式会社",
+      "filer": "王子マネジメントオフィス株式会社",
+      "ratio": 4.61,
+      "prev_ratio": 4.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKBC",
+      "sec": "7893",
+      "name": "株式会社プロネクサス",
+      "filer": "上野　守生",
+      "ratio": 12.68,
+      "prev_ratio": 13.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJYJ",
+      "sec": "215A",
+      "name": "株式会社タイミー",
+      "filer": "株式会社Ｒｅｃｏｌｌｅ",
+      "ratio": 8.52,
+      "prev_ratio": 8.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIO4",
+      "sec": "7066",
+      "name": "株式会社ピアズ",
+      "filer": "桑野　隆司",
+      "ratio": 3.93,
+      "prev_ratio": 3.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK3O",
+      "sec": "8473",
+      "name": "メディカル・データ・ビジョン株式会社",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 36.24,
+      "prev_ratio": 36.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJEI",
+      "sec": "4406",
+      "name": "新日本理化株式会社",
+      "filer": "株式会社ワイエムシィ",
+      "ratio": 20.51,
+      "prev_ratio": 21.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJUK",
+      "sec": "4676",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "株式会社レノ",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKC0",
+      "sec": "4676",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "株式会社レノ",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK0X",
+      "sec": "2432",
+      "name": "株式会社ディー・エヌ・エー",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 2.47,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJIV",
+      "sec": "2175",
+      "name": "株式会社エス・エム・エス",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 17.58,
+      "prev_ratio": 11.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJJO",
+      "sec": "8570",
+      "name": "イオンフィナンシャルサービス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 6.42,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIWY",
+      "sec": "6734",
+      "name": "株式会社ニューテック",
+      "filer": "笠原啓子",
+      "ratio": null,
+      "prev_ratio": 24.91,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "date": "2026-03-30",
+  "new": [
+    {
+      "docId": "S100XV97",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "株式会社ＪＢＦアドバイザリー",
+      "ratio": 21.54,
+      "prev_ratio": 20.43,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XT3Z",
+      "sec": "9171",
+      "name": "栗林商船株式会社",
+      "filer": "株式会社栗林商会",
+      "ratio": 4.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XUMI",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "ＭＡＧＯ　ＣＲＥＡＴＩＯＮ株式会社",
+      "ratio": 7.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XVLT",
+      "sec": "519A",
+      "name": "株式会社ベーシック",
+      "filer": "塚田　耕司",
+      "ratio": 6.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X08O",
+      "sec": "1783",
+      "name": "株式会社ｆａｎｔａｓｉｓｔａ（旧会社名　株式会社アジアゲートフォールディングス）",
+      "filer": "アクセスアジア株式会社",
+      "ratio": 35.57,
+      "prev_ratio": 35.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X087",
+      "sec": "1783",
+      "name": "株式会社ｆａｎｔａｓｉｓｔａ（旧会社名　株式会社アジアゲートホールディングス）",
+      "filer": "アクセスアジア株式会社",
+      "ratio": 19.43,
+      "prev_ratio": 20.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XV9P",
+      "sec": "1783",
+      "name": "株式会社ｆａｎｔａｓｉｓｔａ（旧会社名　株式会社アジアゲートフォールディングス）",
+      "filer": "アクセスアジア株式会社",
+      "ratio": 35.92,
+      "prev_ratio": 52.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XV9Q",
+      "sec": "1783",
+      "name": "株式会社ｆａｎｔａｓｉｓｔａ（旧会社名　株式会社アジアゲートフォールディングス）",
+      "filer": "アクセスアジア株式会社",
+      "ratio": 20.03,
+      "prev_ratio": 35.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X088",
+      "sec": "1783",
+      "name": "株式会社ｆａｎｔａｓｉｓｔａ（旧会社名　株式会社アジアゲートフォールディングス）",
+      "filer": "アクセスアジア株式会社",
+      "ratio": 52.2,
+      "prev_ratio": 19.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XV9K",
+      "sec": "9366",
+      "name": "株式会社サンリツ",
+      "filer": "大津　直樹",
+      "ratio": 8.27,
+      "prev_ratio": 8.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVAL",
+      "sec": "5802",
+      "name": "株式会社ミライト・ワン",
+      "filer": "住友電気工業株式会社",
+      "ratio": 4.02,
+      "prev_ratio": 3.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XUY2",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ソン　ユウ　ニン（Ｓｕｎ　Ｙｏｕ　Ｎｉｎｇ）",
+      "ratio": 1.81,
+      "prev_ratio": 11.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XV5V",
+      "sec": "7999",
+      "name": "ＭＵＴＯＨホールディングス株式会社",
+      "filer": "サムソン・ロック・キャピタル・エルエルピー",
+      "ratio": null,
+      "prev_ratio": 5.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XV90",
+      "sec": "1726",
+      "name": "株式会社ビーアールホールディングス",
+      "filer": "サムソン・ロック・キャピタル・エルエルピー",
+      "ratio": null,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XUW0",
+      "sec": "",
+      "name": "",
+      "filer": "アセットマネジメントＯｎｅ株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVBA",
+      "sec": "6838",
+      "name": "株式会社多摩川ホールディングス",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 10.66,
+      "prev_ratio": 11.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTTV",
+      "sec": "254A",
+      "name": "タメニー株式会社",
+      "filer": "ＡＩフュージョンキャピタルグループ株式会社",
+      "ratio": 40.0,
+      "prev_ratio": 16.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSP3",
+      "sec": "7203",
+      "name": "株式会社豊田自動織機",
+      "filer": "トヨタ自動車株式会社",
+      "ratio": 22.74,
+      "prev_ratio": 22.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSAD",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "株式会社ＪＢＦアドバイザリー",
+      "ratio": 20.43,
+      "prev_ratio": 18.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVGS",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "株式会社ＪＢＦアドバイザリー",
+      "ratio": 22.65,
+      "prev_ratio": 21.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVGB",
+      "sec": "9556",
+      "name": "ＩＮＴＬＯＯＰ株式会社",
+      "filer": "林　博文",
+      "ratio": 49.39,
+      "prev_ratio": 49.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVGX",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "株式会社ＪＢＦアドバイザリー",
+      "ratio": 24.01,
+      "prev_ratio": 22.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVHA",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "株式会社ＪＢＦアドバイザリー",
+      "ratio": null,
+      "prev_ratio": 24.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XV5K",
+      "sec": "5101",
+      "name": "横浜ゴム株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": null,
+      "prev_ratio": 9.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVI6",
+      "sec": "7729",
+      "name": "株式会社東京精密",
+      "filer": "野村證券株式会社",
+      "ratio": 1.27,
+      "prev_ratio": 55.00000000000001,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XO6I",
+      "sec": "3402",
+      "name": "水道機工株式会社",
+      "filer": "東レ株式会社",
+      "ratio": 51.0,
+      "prev_ratio": 51.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XUOJ",
+      "sec": "3441",
+      "name": "株式会社山王",
+      "filer": "荒巻　芳幸",
+      "ratio": 13.79,
+      "prev_ratio": 15.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XUUT",
+      "sec": "6201",
+      "name": "株式会社豊田自動織機",
+      "filer": "エリオット・インベストメント・マネージメント・エルピー（Ｅｌｌｉｏｔｔ　Ｉｎｖｅｓｔｍｅｎｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌ．Ｐ．）",
+      "ratio": null,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSSF",
+      "sec": "9830",
+      "name": "トラスコ中山株式会社",
+      "filer": "公益財団法人中山視覚福祉財団",
+      "ratio": 6.59,
+      "prev_ratio": 6.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVA7",
+      "sec": "6794",
+      "name": "フォスター電機株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 22.66,
+      "prev_ratio": 22.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVAH",
+      "sec": "4320",
+      "name": "株式会社ＣＥホールディングス",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 11.55,
+      "prev_ratio": 10.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVAO",
+      "sec": "4320",
+      "name": "株式会社ＣＥホールディングス",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 11.55,
+      "prev_ratio": 11.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVFN",
+      "sec": "4404",
+      "name": "ミヨシ油脂株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 2.0,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XV9Z",
+      "sec": "4972",
+      "name": "綜研化学株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 14.92,
+      "prev_ratio": 12.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVAZ",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSXT",
+      "sec": "6191",
+      "name": "株式会社エアトリ",
+      "filer": "大石　崇徳",
+      "ratio": 6.15,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XUSS",
+      "sec": "2668",
+      "name": "タビオ株式会社",
+      "filer": "越智ホールディングス株式会社",
+      "ratio": 9.19,
+      "prev_ratio": 9.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XVBW",
+      "sec": "8518",
+      "name": "株式会社イオレ",
+      "filer": "日本アジア投資株式会社",
+      "ratio": 25.31,
+      "prev_ratio": 27.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTDA",
+      "sec": "2488",
+      "name": "JTP株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.15,
+      "prev_ratio": 7.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSZR",
+      "sec": "3104",
+      "name": "富士紡ホールディングス株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 18.66,
+      "prev_ratio": 17.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTDD",
+      "sec": "4350",
+      "name": "株式会社メディカルシステムネットワーク",
+      "filer": "光通信株式会社",
+      "ratio": 6.69,
+      "prev_ratio": 5.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTTO",
+      "sec": "9468",
+      "name": "株式会社ＫＡＤＯＫＡＷＡ",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 13.76,
+      "prev_ratio": 11.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTXR",
+      "sec": "3865",
+      "name": "北越コーポレーション株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 4.8,
+      "prev_ratio": 9.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTY9",
+      "sec": "1726",
+      "name": "株式会社ビーアールホールディングス",
+      "filer": "藤田　公康",
+      "ratio": 9.0,
+      "prev_ratio": 3.72,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

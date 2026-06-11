@@ -1,0 +1,247 @@
+{
+  "date": "2026-01-26",
+  "new": [
+    {
+      "docId": "S100XHDC",
+      "sec": "4779",
+      "name": "株式会社　田　谷",
+      "filer": "Ｌ＆Ｙ貿易株式会社",
+      "ratio": 7.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XH3Y",
+      "sec": "5121",
+      "name": "藤倉コンポジット株式会社",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 5.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XH6Q",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人　投資証券",
+      "filer": "野村證券株式会社",
+      "ratio": 15.0,
+      "prev_ratio": 2.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHAN",
+      "sec": "6103",
+      "name": "オークマ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 96.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHC2",
+      "sec": "4430",
+      "name": "東海ソフト株式会社",
+      "filer": "伊藤　秀和",
+      "ratio": 4.04,
+      "prev_ratio": 5.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHA3",
+      "sec": "6699",
+      "name": "ダイヤモンドエレクトリックホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 47.73,
+      "prev_ratio": 48.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH9W",
+      "sec": "4434",
+      "name": "株式会社サーバーワークス",
+      "filer": "大石　良",
+      "ratio": 19.95,
+      "prev_ratio": 26.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH6E",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 38.07,
+      "prev_ratio": 39.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH6T",
+      "sec": "1911",
+      "name": "株式会社熊谷組",
+      "filer": "住友林業株式会社",
+      "ratio": 15.86,
+      "prev_ratio": 20.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH7G",
+      "sec": "3346",
+      "name": "ヒロタグループホールディングス株式会社",
+      "filer": "株式会社ＡＳＨＤ",
+      "ratio": 65.85,
+      "prev_ratio": 65.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH63",
+      "sec": "6762",
+      "name": "ニッコー株式会社",
+      "filer": "ＴＤＫ株式会社",
+      "ratio": 6.87,
+      "prev_ratio": 7.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHEI",
+      "sec": "4598",
+      "name": "Ｄｅｌｔａ－Ｆｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "江島　淸",
+      "ratio": 7.26,
+      "prev_ratio": 9.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGPE",
+      "sec": "7378",
+      "name": "株式会社アシロ",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 26.37,
+      "prev_ratio": 25.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFCK",
+      "sec": "5185",
+      "name": "株式会社フコク",
+      "filer": "小菅　敏一",
+      "ratio": 12.0,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH44",
+      "sec": "8715",
+      "name": "アニコム ホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.69,
+      "prev_ratio": 4.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGRT",
+      "sec": "1766",
+      "name": "東建コーポレーション株式会社",
+      "filer": "株式会社東名商事",
+      "ratio": 7.77,
+      "prev_ratio": 7.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH7U",
+      "sec": "5161",
+      "name": "ダイキョーニシカワ株式会社",
+      "filer": "西川ゴム工業株式会社",
+      "ratio": 8.31,
+      "prev_ratio": 13.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH9L",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHB5",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "ＫＡＹ　ＬＥＯ　ＢＲＯＴＨＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 13.92,
+      "prev_ratio": 9.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHEO",
+      "sec": "9831",
+      "name": "株式会社ヤマダホールディングス",
+      "filer": "株式会社テックプランニング",
+      "ratio": 6.76,
+      "prev_ratio": 6.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGPW",
+      "sec": "7359",
+      "name": "株式会社東京通信グループ",
+      "filer": "外川　穣",
+      "ratio": 1.42,
+      "prev_ratio": 1.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHGY",
+      "sec": "8798",
+      "name": "株式会社アドバンスクリエイト",
+      "filer": "濱田佳治",
+      "ratio": 2.12,
+      "prev_ratio": 6.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHH3",
+      "sec": "8798",
+      "name": "株式会社アドバンスクリエイト",
+      "filer": "濱田佳治",
+      "ratio": 2.12,
+      "prev_ratio": 2.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHH5",
+      "sec": "8798",
+      "name": "株式会社アドバンスクリエイト",
+      "filer": "濱田佳治",
+      "ratio": 2.12,
+      "prev_ratio": 2.12,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

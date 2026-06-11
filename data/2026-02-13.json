@@ -1,0 +1,357 @@
+{
+  "date": "2026-02-13",
+  "new": [
+    {
+      "docId": "S100XKZW",
+      "sec": "3682",
+      "name": "エンカレッジ・テクノロジ株式会社",
+      "filer": "石井　進也",
+      "ratio": 26.0,
+      "prev_ratio": 26.0,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XKG8",
+      "sec": "9722",
+      "name": "藤田観光株式会社",
+      "filer": "ＮＳＳＫ－ＧＡＭＭＡ２合同会社",
+      "ratio": 24.54,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XJQ9",
+      "sec": "7745",
+      "name": "株式会社Ａ＆Ｄホロンホールディングス",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 5.24,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XL69",
+      "sec": "7066",
+      "name": "株式会社ピアズ",
+      "filer": "株式会社キャプスタン・メディカル",
+      "ratio": 9.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XL4T",
+      "sec": "503A",
+      "name": "株式会社ベルチャイルド",
+      "filer": "各務　勝己",
+      "ratio": 10.87,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XKU2",
+      "sec": "503A",
+      "name": "株式会社ベルチャイルド",
+      "filer": "藤田　好邦",
+      "ratio": 21.56,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XL5X",
+      "sec": "503A",
+      "name": "株式会社ベルチャイルド",
+      "filer": "永田　剛一",
+      "ratio": 10.87,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XL85",
+      "sec": "503A",
+      "name": "株式会社ベルチャイルド",
+      "filer": "株式会社ビーブライト",
+      "ratio": 38.41,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XIBM",
+      "sec": "2978",
+      "name": "株式会社ツクルバ",
+      "filer": "竹内　真",
+      "ratio": 6.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XK9S",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 2.33,
+      "prev_ratio": 2.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKXB",
+      "sec": "4361",
+      "name": "川口化学工業株式会社",
+      "filer": "正喜商事株式会社",
+      "ratio": 5.81,
+      "prev_ratio": 6.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKSW",
+      "sec": "3034",
+      "name": "クオール株式会社",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 13.89,
+      "prev_ratio": 12.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIR3",
+      "sec": "761",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "株式会社テイツー",
+      "ratio": 13.04,
+      "prev_ratio": 19.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIHP",
+      "sec": "5714",
+      "name": "藤田観光株式会社",
+      "filer": "ＤＯＷＡホールディングス株式会社",
+      "ratio": 6.7,
+      "prev_ratio": 31.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKPF",
+      "sec": "4556",
+      "name": "株式会社カイノス",
+      "filer": "杉山　晶子",
+      "ratio": 9.76,
+      "prev_ratio": 9.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK5L",
+      "sec": "7792",
+      "name": "株式会社コラントッテ",
+      "filer": "株式会社アーク・クエスト",
+      "ratio": 39.58,
+      "prev_ratio": 39.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XL06",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.79,
+      "prev_ratio": 7.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK9L",
+      "sec": "7921",
+      "name": "株式会社ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 15.33,
+      "prev_ratio": 14.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XL05",
+      "sec": "6670",
+      "name": "株式会社MCJ",
+      "filer": "髙島　勇二",
+      "ratio": 31.9,
+      "prev_ratio": 31.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJY7",
+      "sec": "2437",
+      "name": "Shinwa Wise Holdings株式会社",
+      "filer": "Ｃａｔａｌｙｓｔ　Ａｒｔ　Ｉｎｖｅｓｔｍｅｎｔｓ株式会社",
+      "ratio": 13.74,
+      "prev_ratio": 14.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKZW",
+      "sec": "3682",
+      "name": "エンカレッジ・テクノロジ株式会社",
+      "filer": "石井　進也",
+      "ratio": 26.0,
+      "prev_ratio": 26.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKVG",
+      "sec": "2437",
+      "name": "Shinwa Wise Holdings株式会社",
+      "filer": "Ｃａｔａｌｙｓｔ　Ａｒｔ　Ｉｎｖｅｓｔｍｅｎｔｓ株式会社",
+      "ratio": 33.3,
+      "prev_ratio": 33.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJK5",
+      "sec": "7066",
+      "name": "株式会社ピアズ",
+      "filer": "桑野　隆司",
+      "ratio": 3.93,
+      "prev_ratio": 3.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK0H",
+      "sec": "7378",
+      "name": "株式会社アシロ",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 29.78,
+      "prev_ratio": 28.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XK8U",
+      "sec": "6676",
+      "name": "株式会社バッファロー",
+      "filer": "株式会社メルコグループ",
+      "ratio": 29.8,
+      "prev_ratio": 28.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKX6",
+      "sec": "250A",
+      "name": "シマダヤ株式会社",
+      "filer": "株式会社メルコグループ",
+      "ratio": 37.86,
+      "prev_ratio": 37.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKY7",
+      "sec": "250A",
+      "name": "シマダヤ株式会社",
+      "filer": "株式会社メルコグループ",
+      "ratio": 37.86,
+      "prev_ratio": 37.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJI1",
+      "sec": "4676",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 23.0,
+      "prev_ratio": 1.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XL3K",
+      "sec": "4477",
+      "name": "BASE株式会社",
+      "filer": "牧　寛之",
+      "ratio": 20.55,
+      "prev_ratio": 20.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKH5",
+      "sec": "3626",
+      "name": "TIS株式会社",
+      "filer": "いちごアセットマネジメント・インタ－ナショナル・ピ－ティ－イ－・リミテッド",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJQ5",
+      "sec": "6176",
+      "name": "Aiロボティクス株式会社",
+      "filer": "株式会社ブランジスタ",
+      "ratio": 2.89,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKW9",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 23.19,
+      "prev_ratio": 25.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKZB",
+      "sec": "3807",
+      "name": "株式会社CAICA DIGITAL",
+      "filer": "株式会社フィスコ",
+      "ratio": 11.49,
+      "prev_ratio": 14.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XL8T",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 21.16,
+      "prev_ratio": 23.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XL8Z",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 20.11,
+      "prev_ratio": 21.16,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

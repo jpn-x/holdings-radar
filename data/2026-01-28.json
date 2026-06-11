@@ -1,0 +1,237 @@
+{
+  "date": "2026-01-28",
+  "new": [
+    {
+      "docId": "S100XHI2",
+      "sec": "6380",
+      "name": "オリエンタルチエン工業株式会社",
+      "filer": "ＫＡＹ　ＬＥＯ　ＢＲＯＴＨＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 29.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XHPB",
+      "sec": "4180",
+      "name": "Ａｐｐｉｅｒ　Ｇｒｏｕｐ株式会社",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XHRB",
+      "sec": "6380",
+      "name": "オリエンタルチエン工業株式会社",
+      "filer": "株式会社Ｕｃａｐｉ",
+      "ratio": 50.55,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XHXN",
+      "sec": "7800",
+      "name": "株式会社アミファ",
+      "filer": "公益財団法人アミファ・デザイン・アート振興財団",
+      "ratio": 6.18,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XGKV",
+      "sec": "8214",
+      "name": "株式会社ＡＯＫＩホールディングス",
+      "filer": "株式会社アニヴェルセルＨＯＬＤＩＮＧＳ",
+      "ratio": 37.41,
+      "prev_ratio": 37.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHT1",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.99,
+      "prev_ratio": 2.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHSO",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人　投資証券",
+      "filer": "野村證券株式会社",
+      "ratio": 6.0,
+      "prev_ratio": 15.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHN2",
+      "sec": "4384",
+      "name": "ラクスル株式会社",
+      "filer": "松本　恭攝",
+      "ratio": 13.54,
+      "prev_ratio": 13.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHQ9",
+      "sec": "478A",
+      "name": "株式会社フツパー",
+      "filer": "弓場　一輝",
+      "ratio": 5.34,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHPX",
+      "sec": "478A",
+      "name": "株式会社フツパー",
+      "filer": "黒瀬　康太",
+      "ratio": 7.58,
+      "prev_ratio": 9.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHPI",
+      "sec": "478A",
+      "name": "株式会社フツパー",
+      "filer": "大西　洋",
+      "ratio": 22.77,
+      "prev_ratio": 24.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHVA",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 7.57,
+      "prev_ratio": 8.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHMI",
+      "sec": "9788",
+      "name": "株式会社ナック",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 2.31,
+      "prev_ratio": 2.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHTN",
+      "sec": "7776",
+      "name": "株式会社セルシード",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 15.68,
+      "prev_ratio": 18.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHLS",
+      "sec": "1420",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 16.41,
+      "prev_ratio": 17.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHYK",
+      "sec": "4361",
+      "name": "川口化学工業株式会社",
+      "filer": "正喜商事株式会社",
+      "ratio": 6.96,
+      "prev_ratio": 8.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHXV",
+      "sec": "2978",
+      "name": "株式会社ツクルバ",
+      "filer": "中村真広",
+      "ratio": 6.82,
+      "prev_ratio": 6.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHUX",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "ポーラー・キャピタル・エル・エル・ピー",
+      "ratio": 8.81,
+      "prev_ratio": 7.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHOU",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHXU",
+      "sec": "8783",
+      "name": "株式会社イメージワン",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 21.5,
+      "prev_ratio": 21.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHXA",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 8.62,
+      "prev_ratio": 10.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHT8",
+      "sec": "482A",
+      "name": "株式会社セールスアカデミー",
+      "filer": "合同会社ＫＮサンク福岡",
+      "ratio": 35.04,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHIE",
+      "sec": "4814",
+      "name": "ネクストウェア株式会社",
+      "filer": "田辺　啓輔",
+      "ratio": 6.83,
+      "prev_ratio": 5.38,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

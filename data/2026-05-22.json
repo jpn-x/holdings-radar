@@ -1,0 +1,457 @@
+{
+  "date": "2026-05-22",
+  "new": [
+    {
+      "docId": "S100Y5H1",
+      "sec": "1771",
+      "name": "日本乾溜工業株式会社",
+      "filer": "伊藤忠丸紅住商テクノスチール株式会社",
+      "ratio": 5.68,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y53Z",
+      "sec": "6291",
+      "name": "日本エアーテック株式会社",
+      "filer": "ケンブリッジフィルターコーポレーション株式会社",
+      "ratio": 1.25,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y5QJ",
+      "sec": "3001",
+      "name": "片倉工業株式会社",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Y55Q",
+      "sec": "7140",
+      "name": "ペットゴー株式会社",
+      "filer": "青柳　和洋",
+      "ratio": 9.87,
+      "prev_ratio": 8.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5RP",
+      "sec": "7681",
+      "name": "株式会社レオクラン",
+      "filer": "株式会社Ａ＆Ｍ",
+      "ratio": 36.5,
+      "prev_ratio": 34.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4WE",
+      "sec": "8783",
+      "name": "abc株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 32.63,
+      "prev_ratio": 34.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y57H",
+      "sec": "4203",
+      "name": "住友ベークライト株式会社",
+      "filer": "ＧＩＣプライベート・リミテッド",
+      "ratio": 5.96,
+      "prev_ratio": 7.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5HQ",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5O0",
+      "sec": "8836",
+      "name": "株式会社RISE",
+      "filer": "ヨウテイホールディングス合同会社",
+      "ratio": 53.99,
+      "prev_ratio": 53.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5T2",
+      "sec": "3562",
+      "name": "株式会社Ｎｏ．１",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 2.74,
+      "prev_ratio": 2.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5J8",
+      "sec": "441A",
+      "name": "ＮＥ株式会社",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 6.02,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5SQ",
+      "sec": "9853",
+      "name": "株式会社銀座ルノアール",
+      "filer": "塩井賢一",
+      "ratio": 6.99,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y54F",
+      "sec": "502",
+      "name": "ＪＸ金属株式会社",
+      "filer": "ＥＮＥＯＳホールディングス株式会社",
+      "ratio": 42.38,
+      "prev_ratio": 42.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5PN",
+      "sec": "5590",
+      "name": "株式会社ネットスターズ",
+      "filer": "ＬＵＮ　ＰＡＲＴＮＥＲＳ　ＣＡＰＩＴＡＬ　ＬＩＭＩＴＥＤ",
+      "ratio": 2.85,
+      "prev_ratio": 5.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5UX",
+      "sec": "7064",
+      "name": "株式会社ハウテレビジョン",
+      "filer": "音成　洋介",
+      "ratio": 49.77,
+      "prev_ratio": 49.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5JF",
+      "sec": "4935",
+      "name": "株式会社リベルタ",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 18.94,
+      "prev_ratio": 19.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5JG",
+      "sec": "9788",
+      "name": "株式会社ナック",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 90.0,
+      "prev_ratio": 2.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4NE",
+      "sec": "7593",
+      "name": "ＶＴホールディングス株式会社",
+      "filer": "高橋　一穗",
+      "ratio": 2.92,
+      "prev_ratio": 3.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4P4",
+      "sec": "5471",
+      "name": "東北特殊鋼株式会社",
+      "filer": "大同特殊鋼株式会社",
+      "ratio": 33.77,
+      "prev_ratio": 33.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5MX",
+      "sec": "3133",
+      "name": "株式会社海帆",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 46.96,
+      "prev_ratio": 47.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5FN",
+      "sec": "6380",
+      "name": "オリエンタルチエン工業株式会社",
+      "filer": "株式会社Ｕｃａｐｉ",
+      "ratio": 48.9,
+      "prev_ratio": 48.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4V2",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 27.68,
+      "prev_ratio": 27.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4YW",
+      "sec": "5363",
+      "name": "東北特殊鋼株式会社",
+      "filer": "東京窯業株式会社",
+      "ratio": 8.36,
+      "prev_ratio": 7.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5RX",
+      "sec": "8133",
+      "name": "インフォメティス株式会社",
+      "filer": "伊藤忠エネクス株式会社",
+      "ratio": 2.95,
+      "prev_ratio": 5.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y55Z",
+      "sec": "3823",
+      "name": "ＴＨＥ　ＷＨＹ　ＨＯＷ　ＤＯ　ＣＯＭＰＡＮＹ株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.51,
+      "prev_ratio": 7.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5DK",
+      "sec": "5484",
+      "name": "東北特殊鋼株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.46,
+      "prev_ratio": 7.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5DH",
+      "sec": "4350",
+      "name": "株式会社メディカルシステムネットワーク",
+      "filer": "光通信株式会社",
+      "ratio": 7.32,
+      "prev_ratio": 6.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y4J6",
+      "sec": "6088",
+      "name": "株式会社コアコンセプト・テクノロジー",
+      "filer": "株式会社シグマクシス・ホールディングス",
+      "ratio": 11.73,
+      "prev_ratio": 10.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5DI",
+      "sec": "5125",
+      "name": "株式会社ファインズ",
+      "filer": "光通信株式会社",
+      "ratio": 7.36,
+      "prev_ratio": 7.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5JA",
+      "sec": "4088",
+      "name": "エア・ウォーター株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y52E",
+      "sec": "6958",
+      "name": "日本シイエムケイ",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 16.02,
+      "prev_ratio": 14.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5FF",
+      "sec": "7485",
+      "name": "東北特殊鋼株式会社",
+      "filer": "岡谷鋼機株式会社",
+      "ratio": 9.96,
+      "prev_ratio": 9.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5BI",
+      "sec": "2982",
+      "name": "株式会社ADワークスグループ",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 1.02,
+      "prev_ratio": 34.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5QL",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 32.16,
+      "prev_ratio": 31.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5UA",
+      "sec": "9913",
+      "name": "日邦産業株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 18.04,
+      "prev_ratio": 17.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5TX",
+      "sec": "5821",
+      "name": "平河ヒューテック株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 8.16,
+      "prev_ratio": 8.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5JJ",
+      "sec": "9702",
+      "name": "株式会社アイ・エス・ビー",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 10.01,
+      "prev_ratio": 8.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5RA",
+      "sec": "6794",
+      "name": "フォスター電機株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 22.66,
+      "prev_ratio": 22.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y529",
+      "sec": "5240",
+      "name": "ｍｏｎｏＡＩ　ｔｅｃｈｎｏｌｏｇｙ株式会社",
+      "filer": "本城　嘉太郎",
+      "ratio": 16.43,
+      "prev_ratio": 17.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y52A",
+      "sec": "5240",
+      "name": "ｍｏｎｏＡＩ　ｔｅｃｈｎｏｌｏｇｙ株式会社",
+      "filer": "本城　嘉太郎",
+      "ratio": 16.43,
+      "prev_ratio": 16.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5RJ",
+      "sec": "4320",
+      "name": "株式会社ＣＥホールディングス",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 11.59,
+      "prev_ratio": 11.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5SI",
+      "sec": "4972",
+      "name": "綜研化学株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 16.23,
+      "prev_ratio": 14.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y5IR",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 4.86,
+      "prev_ratio": 5.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3EZ",
+      "sec": "143A",
+      "name": "イシン株式会社",
+      "filer": "明石　智義",
+      "ratio": 22.36,
+      "prev_ratio": 22.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y588",
+      "sec": "6239",
+      "name": "株式会社ナガオカ",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 1.89,
+      "prev_ratio": 1.6,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

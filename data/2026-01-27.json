@@ -1,0 +1,327 @@
+{
+  "date": "2026-01-27",
+  "new": [
+    {
+      "docId": "S100XHEW",
+      "sec": "476A",
+      "name": "辻・本郷ＩＴコンサルティング株式会社",
+      "filer": "Ｈｏｎｇｏ　ｈｏｌｄｉｎｇｓ株式会社",
+      "ratio": 38.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XH86",
+      "sec": "8894",
+      "name": "株式会社REVOLUTION",
+      "filer": "河野　広勝",
+      "ratio": 79.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XHEC",
+      "sec": "2551",
+      "name": "マルサンアイ株式会社",
+      "filer": "古川　宏",
+      "ratio": 6.21,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XHPO",
+      "sec": "7092",
+      "name": "株式会社Fast Fitness Japan",
+      "filer": "株式会社ＪＧ３５",
+      "ratio": 47.15,
+      "prev_ratio": 48.53,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XH64",
+      "sec": "3623",
+      "name": "ビリングシステム株式会社",
+      "filer": "Ｏｌｄ　Ｐｅａｋ　Ｇｒｏｕｐ　Ｌｔｄ．",
+      "ratio": 5.06,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGRQ",
+      "sec": "528",
+      "name": "東海道リート投資法人",
+      "filer": "ヨシコン株式会社",
+      "ratio": 7.08,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHKG",
+      "sec": "7477",
+      "name": "ムラキ株式会社",
+      "filer": "合同会社ＣＹＧＮＵＳ",
+      "ratio": null,
+      "prev_ratio": 17.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHN4",
+      "sec": "4369",
+      "name": "株式会社　トリケミカル研究所",
+      "filer": "野村證券株式会社",
+      "ratio": 18.0,
+      "prev_ratio": 35.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHCK",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 10.1,
+      "prev_ratio": 11.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHNV",
+      "sec": "7092",
+      "name": "株式会社Fast Fitness Japan",
+      "filer": "株式会社オーク",
+      "ratio": 48.53,
+      "prev_ratio": 48.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHNY",
+      "sec": "7092",
+      "name": "株式会社Fast Fitness Japan",
+      "filer": "株式会社オーク",
+      "ratio": 48.53,
+      "prev_ratio": 48.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHO1",
+      "sec": "7092",
+      "name": "株式会社Fast Fitness Japan",
+      "filer": "株式会社オーク",
+      "ratio": 48.53,
+      "prev_ratio": 48.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHN9",
+      "sec": "9388",
+      "name": "株式会社パパネッツ",
+      "filer": "株式会社花明",
+      "ratio": 27.07,
+      "prev_ratio": 27.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHCR",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 14.04,
+      "prev_ratio": 15.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHCU",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.34,
+      "prev_ratio": 11.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH7P",
+      "sec": "8715",
+      "name": "アニコム　ホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 13.79,
+      "prev_ratio": 12.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH45",
+      "sec": "173A",
+      "name": "株式会社ハンモック",
+      "filer": "光通信株式会社",
+      "ratio": 7.28,
+      "prev_ratio": 7.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHOB",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 12.91,
+      "prev_ratio": 14.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHME",
+      "sec": "9250",
+      "name": "株式会社GRCS",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 18.1,
+      "prev_ratio": 19.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH46",
+      "sec": "7092",
+      "name": "株式会社Fast Fitness Japan",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 6.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGFO",
+      "sec": "2353",
+      "name": "日本駐車場開発株式会社",
+      "filer": "巽一久",
+      "ratio": 1.2,
+      "prev_ratio": 1.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHE0",
+      "sec": "4690",
+      "name": "日本パレットプール株式会社",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 3.52,
+      "prev_ratio": 4.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH8F",
+      "sec": "7991",
+      "name": "マミヤ・オーピー株式会社",
+      "filer": "丹野　裕介",
+      "ratio": 13.51,
+      "prev_ratio": 13.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH21",
+      "sec": "7991",
+      "name": "マミヤ・オーピー株式会社",
+      "filer": "株式会社データ・アート",
+      "ratio": 37.82,
+      "prev_ratio": 42.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHFU",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHAA",
+      "sec": "9776",
+      "name": "札幌臨床検査センター株式会社",
+      "filer": "エピック・パートナーズ・インベストメンツ株式会社",
+      "ratio": 8.45,
+      "prev_ratio": 7.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHOQ",
+      "sec": "4576",
+      "name": "株式会社デ・ウエスタン・セラピテクス研究所",
+      "filer": "日髙　有一",
+      "ratio": 11.07,
+      "prev_ratio": 12.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHLF",
+      "sec": "1878",
+      "name": "大東建託株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 9.22,
+      "prev_ratio": 8.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHKG",
+      "sec": "7477",
+      "name": "ムラキ株式会社",
+      "filer": "合同会社ＣＹＧＮＵＳ",
+      "ratio": null,
+      "prev_ratio": 17.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHPR",
+      "sec": "7092",
+      "name": "株式会社Fast Fitness Japan",
+      "filer": "株式会社ＪＧ３５",
+      "ratio": 47.15,
+      "prev_ratio": 47.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHQ3",
+      "sec": "7477",
+      "name": "ムラキ株式会社",
+      "filer": "合同会社ＣＹＧＮＵＳ",
+      "ratio": null,
+      "prev_ratio": 17.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHAU",
+      "sec": "469A",
+      "name": "株式会社フィットクルー",
+      "filer": "鹿島　紘樹",
+      "ratio": 40.21,
+      "prev_ratio": 44.86,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

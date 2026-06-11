@@ -1,0 +1,287 @@
+{
+  "date": "2026-01-22",
+  "new": [
+    {
+      "docId": "S100XFRX",
+      "sec": "4917",
+      "name": "株式会社マンダム",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 5.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XG5J",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 8.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGG4",
+      "sec": "3834",
+      "name": "株式会社朝日ネット",
+      "filer": "光通信株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XGN4",
+      "sec": "4189",
+      "name": "ＫＨネオケム株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 49.0,
+      "prev_ratio": 49.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGZE",
+      "sec": "6103",
+      "name": "オークマ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 96.0,
+      "prev_ratio": 1.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGHI",
+      "sec": "3189",
+      "name": "株式会社ANAPホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 47.46,
+      "prev_ratio": 48.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGWR",
+      "sec": "9168",
+      "name": "株式会社ライズ・コンサルティング・グループ",
+      "filer": "グランジャー・ピーク・グローバル・アドバイザーズ・エルエルシー",
+      "ratio": 2.94,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIP",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 2.88,
+      "prev_ratio": 5.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH0Z",
+      "sec": "4430",
+      "name": "東海ソフト株式会社",
+      "filer": "水谷　慎介",
+      "ratio": 15.53,
+      "prev_ratio": 18.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGXI",
+      "sec": "3161",
+      "name": "アゼアス株式会社",
+      "filer": "株式会社Ａｓａｈｉｃｈｏ",
+      "ratio": 6.02,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XDSU",
+      "sec": "8142",
+      "name": "株式会社トーホー",
+      "filer": "国分ホールディングス株式会社",
+      "ratio": 9.17,
+      "prev_ratio": 8.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGE0",
+      "sec": "281A",
+      "name": "インフォメティス株式会社",
+      "filer": "東海東京証券株式会社",
+      "ratio": 15.56,
+      "prev_ratio": 15.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGI6",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 39.09,
+      "prev_ratio": 40.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC3B",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "ＩＴＪ株式会社",
+      "ratio": 10.65,
+      "prev_ratio": 7.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGTC",
+      "sec": "7776",
+      "name": "株式会社セルシード",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 18.29,
+      "prev_ratio": 20.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH39",
+      "sec": "9993",
+      "name": "株式会社ヤマザワ",
+      "filer": "山澤　廣",
+      "ratio": 1.88,
+      "prev_ratio": 3.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGUK",
+      "sec": "3300",
+      "name": "株式会社アンビションDXホールディングス",
+      "filer": "清水　剛",
+      "ratio": 16.32,
+      "prev_ratio": 20.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XG5X",
+      "sec": "6201",
+      "name": "株式会社豊田自動織機",
+      "filer": "エリオット・インベストメント・マネージメント・エルピー（Ｅｌｌｉｏｔｔ　Ｉｎｖｅｓｔｍｅｎｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌ．Ｐ．）",
+      "ratio": 6.65,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XG9E",
+      "sec": "4917",
+      "name": "株式会社マンダム",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": null,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGHJ",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": null,
+      "prev_ratio": 8.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGKX",
+      "sec": "7267",
+      "name": "株式会社ジーテクト",
+      "filer": "本田技研工業株式会社",
+      "ratio": 20.51,
+      "prev_ratio": 21.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH3V",
+      "sec": "7282",
+      "name": "芦森工業株式会社",
+      "filer": "豊田合成株式会社",
+      "ratio": 65.58,
+      "prev_ratio": 64.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH1C",
+      "sec": "5254",
+      "name": "株式会社Arent",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 5.71,
+      "prev_ratio": 5.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGA3",
+      "sec": "7378",
+      "name": "株式会社アシロ",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 25.27,
+      "prev_ratio": 24.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGQP",
+      "sec": "8233",
+      "name": "株式会社髙島屋",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 8.0,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGFB",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 15.18,
+      "prev_ratio": 16.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGZ4",
+      "sec": "5974",
+      "name": "中国工業株式会社",
+      "filer": "山本裕治",
+      "ratio": 6.38,
+      "prev_ratio": 5.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XH31",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "榊原　暢宏",
+      "ratio": 6.44,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

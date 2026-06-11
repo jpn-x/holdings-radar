@@ -1,0 +1,367 @@
+{
+  "date": "2026-02-27",
+  "new": [
+    {
+      "docId": "S100XB6H",
+      "sec": "4042",
+      "name": "株式会社マナック・ケミカル・パートナーズ",
+      "filer": "東ソー株式会社",
+      "ratio": 18.65,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XNAA",
+      "sec": "3417",
+      "name": "大木ヘルスケアホールディングス株式会社",
+      "filer": "有限会社キャピタル・マネジメント",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XNCF",
+      "sec": "3068",
+      "name": "株式会社WDI",
+      "filer": "清水　洋二",
+      "ratio": 9.27,
+      "prev_ratio": 10.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGEE",
+      "sec": "4042",
+      "name": "マナック・ケミカル・パートナーズ株式会社",
+      "filer": "東ソー株式会社",
+      "ratio": 18.65,
+      "prev_ratio": 18.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGEG",
+      "sec": "4042",
+      "name": "マナック株式会社",
+      "filer": "東ソー株式会社",
+      "ratio": 18.65,
+      "prev_ratio": 18.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNQJ",
+      "sec": "2585",
+      "name": "株式会社ライフドリンク　カンパニー",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 8.4,
+      "prev_ratio": 8.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNHN",
+      "sec": "1718",
+      "name": "美樹工業株式会社",
+      "filer": "美樹工業株式会社",
+      "ratio": 6.9,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNSI",
+      "sec": "7097",
+      "name": "株式会社さくらさくプラス",
+      "filer": "西尾　義隆",
+      "ratio": 3.91,
+      "prev_ratio": 3.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNSO",
+      "sec": "8783",
+      "name": "ウインテスト株式会社",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 10.19,
+      "prev_ratio": 11.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNMI",
+      "sec": "6869",
+      "name": "株式会社カイノス",
+      "filer": "シスメックス株式会社",
+      "ratio": 5.05,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLQD",
+      "sec": "5918",
+      "name": "瀧上工業株式会社",
+      "filer": "瀧上精機工業株式会社",
+      "ratio": 15.1,
+      "prev_ratio": 13.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNT4",
+      "sec": "8783",
+      "name": "株式会社イメージワン",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 11.04,
+      "prev_ratio": 12.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMYA",
+      "sec": "4544",
+      "name": "H.U.グループホールディングス株式会社",
+      "filer": "グランサム、マヨ、ヴァン　オッテルロー　アンド　カンパニー　エルエルシー",
+      "ratio": 10.47,
+      "prev_ratio": 9.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMVI",
+      "sec": "3205",
+      "name": "株式会社ソトー",
+      "filer": "株式会社ダイドーリミテッド",
+      "ratio": 7.11,
+      "prev_ratio": 10.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNR2",
+      "sec": "7138",
+      "name": "株式会社TORICO",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 42.25,
+      "prev_ratio": 43.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNN5",
+      "sec": "5711",
+      "name": "三菱マテリアル株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.83,
+      "prev_ratio": 8.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNNQ",
+      "sec": "6302",
+      "name": "住友重機械工業株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 9.23,
+      "prev_ratio": 10.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNDY",
+      "sec": "481A",
+      "name": "株式会社ＪＳｅｃｕｒｉｔｙ",
+      "filer": "今村　誉一",
+      "ratio": 15.47,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNWR",
+      "sec": "2780",
+      "name": "株式会社コメ兵ホールディングス",
+      "filer": "石原　卓児",
+      "ratio": 2.92,
+      "prev_ratio": 2.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XN2J",
+      "sec": "7776",
+      "name": "株式会社セルシード",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 14.96,
+      "prev_ratio": 16.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNXK",
+      "sec": "4659",
+      "name": "株式会社エイジス",
+      "filer": "有限会社斉藤ホールディングス",
+      "ratio": 17.48,
+      "prev_ratio": 17.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XN3E",
+      "sec": "9816",
+      "name": "株式会社ストライダーズ",
+      "filer": "成成株式会社",
+      "ratio": 6.75,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMKB",
+      "sec": "4189",
+      "name": "ＫＨネオケム株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 12.07,
+      "prev_ratio": 12.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNHG",
+      "sec": "4973",
+      "name": "日本高純度化学株式会社",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": 7.57,
+      "prev_ratio": 8.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNCN",
+      "sec": "2370",
+      "name": "株式会社メディネット",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 16.09,
+      "prev_ratio": 18.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMSN",
+      "sec": "4406",
+      "name": "新日本理化株式会社",
+      "filer": "株式会社ワイエムシィ",
+      "ratio": 18.06,
+      "prev_ratio": 19.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMXS",
+      "sec": "4659",
+      "name": "株式会社エイジス",
+      "filer": "光通信株式会社",
+      "ratio": 5.83,
+      "prev_ratio": 5.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMNF",
+      "sec": "9552",
+      "name": "株式会社クオンツ総研ホールディングス",
+      "filer": "佐上　峻作",
+      "ratio": 57.91,
+      "prev_ratio": 52.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMXU",
+      "sec": "8715",
+      "name": "アニコム ホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.88,
+      "prev_ratio": 4.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNV3",
+      "sec": "3900",
+      "name": "株式会社クラウドワークス",
+      "filer": "牧　寛之",
+      "ratio": 6.02,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNBA",
+      "sec": "4530",
+      "name": "久光製薬株式会社",
+      "filer": "タイヨー興産株式会社",
+      "ratio": 57.97,
+      "prev_ratio": 2.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XNBW",
+      "sec": "4530",
+      "name": "久光製薬株式会社",
+      "filer": "タイヨー興産株式会社",
+      "ratio": 57.97,
+      "prev_ratio": 57.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMGW",
+      "sec": "7752",
+      "name": "株式会社リコー",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 24.77,
+      "prev_ratio": 23.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMJ2",
+      "sec": "8750",
+      "name": "第一生命ホールディングス株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 10.99,
+      "prev_ratio": 10.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMJ0",
+      "sec": "4019",
+      "name": "株式会社スタメン",
+      "filer": "株式会社スターフロンツ",
+      "ratio": 3.59,
+      "prev_ratio": 4.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMTQ",
+      "sec": "8750",
+      "name": "第一生命ホールディングス株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 10.99,
+      "prev_ratio": 10.99,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

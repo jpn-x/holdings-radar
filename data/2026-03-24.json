@@ -1,0 +1,377 @@
+{
+  "date": "2026-03-24",
+  "new": [
+    {
+      "docId": "S100XT06",
+      "sec": "507A",
+      "name": "株式会社デジタル・ナレッジ",
+      "filer": "吉田　自由児",
+      "ratio": 5.66,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XSVT",
+      "sec": "4042",
+      "name": "株式会社マナック・ケミカル・パートナーズ",
+      "filer": "東ソー株式会社",
+      "ratio": 18.65,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XST5",
+      "sec": "3993",
+      "name": "株式会社ツクルバ",
+      "filer": "株式会社ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ",
+      "ratio": 7.62,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XSXM",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 74.54,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XTCW",
+      "sec": "5911",
+      "name": "株式会社ビーアールホールディングス",
+      "filer": "株式会社横河ブリッジホールディングス",
+      "ratio": 78.44,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XTDQ",
+      "sec": "6448",
+      "name": "ＭＵＴＯＨホールディングス株式会社",
+      "filer": "ブラザー工業株式会社",
+      "ratio": 79.91,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XSV3",
+      "sec": "7140",
+      "name": "ペットゴー株式会社",
+      "filer": "青柳　和洋",
+      "ratio": 7.75,
+      "prev_ratio": 6.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSA9",
+      "sec": "7606",
+      "name": "株式会社ユナイテッドアローズ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 1.7,
+      "prev_ratio": 1.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSA8",
+      "sec": "6266",
+      "name": "タツモ株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 1.71,
+      "prev_ratio": 1.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSWW",
+      "sec": "9987",
+      "name": "株式会社スズケン",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 8.25,
+      "prev_ratio": 7.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XT1D",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 40.64,
+      "prev_ratio": 41.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRZ0",
+      "sec": "8705",
+      "name": "日産証券グループ株式会社",
+      "filer": "株式会社ＮＳＨＤ",
+      "ratio": 37.83,
+      "prev_ratio": 37.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSVV",
+      "sec": "5341",
+      "name": "ASAHI EITOホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 43.95,
+      "prev_ratio": 44.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSY4",
+      "sec": "4596",
+      "name": "窪田製薬ホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.35,
+      "prev_ratio": 19.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOPG",
+      "sec": "3733",
+      "name": "株式会社ソフトウェア・サービス",
+      "filer": "宮﨑　勝",
+      "ratio": 18.39,
+      "prev_ratio": 23.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSWX",
+      "sec": "4431",
+      "name": "株式会社スマレジ",
+      "filer": "Ｗｏｊｃｉｅｃｈ　Ｊａｋｕｂ　Ｐｏｄｏｂａｓ",
+      "ratio": 3.56,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRVY",
+      "sec": "3994",
+      "name": "株式会社マネーフォワード",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRCC",
+      "sec": "7745",
+      "name": "株式会社Ａ＆Ｄホロンホールディングス",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 9.34,
+      "prev_ratio": 8.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSMO",
+      "sec": "4840",
+      "name": "株式会社トライアイズ",
+      "filer": "有限会社キャピタル・マネジメント",
+      "ratio": 27.43,
+      "prev_ratio": 10.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRW0",
+      "sec": "9820",
+      "name": "エムティジェネックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XREU",
+      "sec": "3964",
+      "name": "株式会社オークネット",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 9.18,
+      "prev_ratio": 10.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRW2",
+      "sec": "3079",
+      "name": "ディーブイエックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.16,
+      "prev_ratio": 7.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRW6",
+      "sec": "3420",
+      "name": "株式会社ケー・エフ・シー",
+      "filer": "光通信株式会社",
+      "ratio": 1.27,
+      "prev_ratio": 1.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRW8",
+      "sec": "6848",
+      "name": "東亜ディーケーケー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 1.82,
+      "prev_ratio": 1.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRYU",
+      "sec": "9006",
+      "name": "京浜急行電鉄株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRW9",
+      "sec": "9517",
+      "name": "イーレックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 2.61,
+      "prev_ratio": 2.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XS3F",
+      "sec": "9468",
+      "name": "株式会社ＫＡＤＯＫＡＷＡ",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 10.0,
+      "prev_ratio": 8.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTBA",
+      "sec": "6676",
+      "name": "株式会社バッファロー",
+      "filer": "株式会社メルコグループ",
+      "ratio": 30.17,
+      "prev_ratio": 30.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XS55",
+      "sec": "4564",
+      "name": "オンコセラピー・サイエンス株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 9.36,
+      "prev_ratio": 10.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XT6A",
+      "sec": "1841",
+      "name": "サンユー建設株式会社",
+      "filer": "馬場邦明",
+      "ratio": 8.05,
+      "prev_ratio": 2.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTD1",
+      "sec": "4881",
+      "name": "株式会社ファンペップ",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 18.48,
+      "prev_ratio": 20.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTDJ",
+      "sec": "3934",
+      "name": "株式会社ベネフィットジャパン",
+      "filer": "光通信株式会社",
+      "ratio": 8.36,
+      "prev_ratio": 8.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTEL",
+      "sec": "9514",
+      "name": "株式会社エフオン",
+      "filer": "光通信株式会社",
+      "ratio": 2.09,
+      "prev_ratio": 2.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XT80",
+      "sec": "3491",
+      "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "樋口　龍",
+      "ratio": 25.82,
+      "prev_ratio": 25.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XTE2",
+      "sec": "1841",
+      "name": "サンユー建設株式会社",
+      "filer": "株式会社カバロ企画",
+      "ratio": 40.65,
+      "prev_ratio": 40.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ5K",
+      "sec": "6545",
+      "name": "株式会社インターネットインフィニティー",
+      "filer": "藤澤　卓",
+      "ratio": 5.0,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XSDF",
+      "sec": "5941",
+      "name": "株式会社中西製作所",
+      "filer": "シンプレクス・アセット・マネジメント株式会社",
+      "ratio": 10.67,
+      "prev_ratio": 11.69,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2026-04-17",
+  "new": [
+    {
+      "docId": "S100XXIC",
+      "sec": "3823",
+      "name": "ＴＨＥ　ＷＨＹ　ＨＯＷ　ＤＯ　ＣＯＭＰＡＮＹ株式会社",
+      "filer": "株式会社　機山",
+      "ratio": 5.71,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XZI2",
+      "sec": "5707",
+      "name": "東邦亜鉛株式会社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 18.06,
+      "prev_ratio": 19.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZD3",
+      "sec": "7500",
+      "name": "西川計測株式会社",
+      "filer": "西川　徹",
+      "ratio": 2.92,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYU1",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 11.06,
+      "prev_ratio": 11.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ9F",
+      "sec": "",
+      "name": "",
+      "filer": "アセットマネジメントＯｎｅ株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZ8F",
+      "sec": "7922",
+      "name": "三光産業株式会社",
+      "filer": "吉田　純一",
+      "ratio": null,
+      "prev_ratio": 5.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZHP",
+      "sec": "3179",
+      "name": "シュッピン株式会社",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 8.11,
+      "prev_ratio": 9.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZJW",
+      "sec": "9561",
+      "name": "株式会社グラッドキューブ",
+      "filer": "金島弘樹",
+      "ratio": 25.08,
+      "prev_ratio": 17.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZMH",
+      "sec": "8001",
+      "name": "サンフロンティア不動産株式会社",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 9.58,
+      "prev_ratio": 9.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYXI",
+      "sec": "7841",
+      "name": "株式会社遠藤製作所",
+      "filer": "清原　達郎",
+      "ratio": 4.99,
+      "prev_ratio": 6.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZGG",
+      "sec": "4620",
+      "name": "藤倉化成株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 74.0,
+      "prev_ratio": 63.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZMP",
+      "sec": "6039",
+      "name": "株式会社日本動物高度医療センター",
+      "filer": "ピルグリム・パートナーズ・アジア・ピーティーイー・エルティーディー",
+      "ratio": 6.85,
+      "prev_ratio": 7.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZEZ",
+      "sec": "4691",
+      "name": "ワシントンホテル株式会社",
+      "filer": "アパホールディングス株式会社",
+      "ratio": 3.37,
+      "prev_ratio": 2.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZE5",
+      "sec": "5915",
+      "name": "株式会社駒井ハルテック",
+      "filer": "ソン　ユウ　ニン（Ｓｕｎ　Ｙｏｕ　Ｎｉｎｇ）",
+      "ratio": 6.27,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZBP",
+      "sec": "285A",
+      "name": "キオクシアホールディングス株式会社",
+      "filer": "ＢＣＰＥ　Ｐａｎｇｅａ　Ｃａｙｍａｎ，　Ｌ．Ｐ．",
+      "ratio": 1.38,
+      "prev_ratio": 1.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZNG",
+      "sec": "4175",
+      "name": "株式会社c o l y",
+      "filer": "中島　杏奈",
+      "ratio": 7.27,
+      "prev_ratio": 33.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZMQ",
+      "sec": "8473",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 2.37,
+      "prev_ratio": 1.19,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

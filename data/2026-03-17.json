@@ -1,0 +1,477 @@
+{
+  "date": "2026-03-17",
+  "new": [
+    {
+      "docId": "S100XRDQ",
+      "sec": "4384",
+      "name": "ラクスル株式会社",
+      "filer": "Ｒ１株式会社",
+      "ratio": 86.11,
+      "prev_ratio": 13.54,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XRF1",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　良洋",
+      "ratio": 5.65,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XRGE",
+      "sec": "509A",
+      "name": "グリーンライト・再エネインフラ投資法人",
+      "filer": "ブルースカイソーラーキャピタル株式会社",
+      "ratio": 10.16,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XRIE",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　佳寿子",
+      "ratio": 7.36,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XR0L",
+      "sec": "5707",
+      "name": "東邦亜鉛株式会社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 21.3,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XRIR",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　舞",
+      "ratio": 5.53,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XP9I",
+      "sec": "7229",
+      "name": "株式会社ユタカ技研",
+      "filer": "Ｍｏｔｈｅｒｓｏｎ　Ｇｌｏｂａｌ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｂ．Ｖ．",
+      "ratio": 9.51,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XOTC",
+      "sec": "7164",
+      "name": "株式会社インテリックスホールディングス",
+      "filer": "全国保証株式会社",
+      "ratio": 20.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XQR1",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 10.68,
+      "prev_ratio": 10.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR9I",
+      "sec": "4062",
+      "name": "イビデン株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 99.0,
+      "prev_ratio": 1.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR2R",
+      "sec": "3762",
+      "name": "テクマトリックス株式会社",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 5.15,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQNF",
+      "sec": "7343",
+      "name": "ブロードマインド株式会社",
+      "filer": "伊藤　清",
+      "ratio": 24.32,
+      "prev_ratio": 25.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRD9",
+      "sec": "7172",
+      "name": "株式会社インタートレード",
+      "filer": "株式会社ジャパンインベストメントアドバイザー",
+      "ratio": 16.57,
+      "prev_ratio": 15.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRDN",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "みらい再生支援機構合同会社",
+      "ratio": 5.35,
+      "prev_ratio": 6.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRDV",
+      "sec": "4384",
+      "name": "ラクスル株式会社",
+      "filer": "Ｒ１株式会社",
+      "ratio": 86.11,
+      "prev_ratio": 86.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRC1",
+      "sec": "5631",
+      "name": "株式会社日本製鋼所",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 9.0,
+      "prev_ratio": 37.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR3K",
+      "sec": "2186",
+      "name": "ソーバル株式会社",
+      "filer": "エバーコア株式会社",
+      "ratio": 42.61,
+      "prev_ratio": 40.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR8X",
+      "sec": "4384",
+      "name": "ラクスル株式会社",
+      "filer": "Ｋｅｙｒｏｃｋ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": null,
+      "prev_ratio": 8.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XREN",
+      "sec": "6232",
+      "name": "株式会社ＡＣＳＬ",
+      "filer": "野村證券株式会社",
+      "ratio": 1.79,
+      "prev_ratio": 1.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRF2",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　良洋",
+      "ratio": 5.69,
+      "prev_ratio": 5.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRF3",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　良洋",
+      "ratio": 11.84,
+      "prev_ratio": 5.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR4W",
+      "sec": "6551",
+      "name": "株式会社ツナググループ・ホールディングス",
+      "filer": "イノベーション・エンジン株式会社",
+      "ratio": 5.19,
+      "prev_ratio": 4.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR19",
+      "sec": "6025",
+      "name": "日本PCサービス株式会社",
+      "filer": "イノベーション・エンジン株式会社",
+      "ratio": 2.76,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR8M",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "安藤　拓郎",
+      "ratio": 15.71,
+      "prev_ratio": 16.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRFL",
+      "sec": "264A",
+      "name": "株式会社Ｓｃｈｏｏ",
+      "filer": "池原　諒平",
+      "ratio": 9.01,
+      "prev_ratio": 18.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRIH",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　佳寿子",
+      "ratio": 7.41,
+      "prev_ratio": 7.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ8H",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "山口　豊彦",
+      "ratio": 6.35,
+      "prev_ratio": 7.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRII",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　佳寿子",
+      "ratio": 15.62,
+      "prev_ratio": 7.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XPY8",
+      "sec": "9206",
+      "name": "株式会社スターフライヤー",
+      "filer": "ＩＸＧＳ，　Ｉｎｃ．",
+      "ratio": 15.0,
+      "prev_ratio": 16.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR4S",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 18.29,
+      "prev_ratio": 19.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR76",
+      "sec": "8011",
+      "name": "株式会社三陽商会",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 12.05,
+      "prev_ratio": 10.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR5O",
+      "sec": "4443",
+      "name": "Sansan株式会社",
+      "filer": "Ｇｒｅｅｎｏａｋｓ　Ｃａｐｉｔａｌ　Ｐａｒｔｎｅｒｓ　ＬＬＣ",
+      "ratio": 7.09,
+      "prev_ratio": 8.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQE3",
+      "sec": "8585",
+      "name": "株式会社オリエントコーポレーション",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 11.78,
+      "prev_ratio": 10.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQD1",
+      "sec": "4189",
+      "name": "ＫＨネオケム株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 14.35,
+      "prev_ratio": 13.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQT0",
+      "sec": "7267",
+      "name": "株式会社ユタカ技研",
+      "filer": "本田技研工業株式会社",
+      "ratio": 69.65,
+      "prev_ratio": 69.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRIT",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　舞",
+      "ratio": 5.57,
+      "prev_ratio": 5.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRIV",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤　舞",
+      "ratio": 11.72,
+      "prev_ratio": 5.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQSD",
+      "sec": "7279",
+      "name": "株式会社ハイレックスコーポレーション",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 7.4,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQSF",
+      "sec": "4384",
+      "name": "ラクスル株式会社",
+      "filer": "ＭＹ．Ａｌｐｈａ　Ｍａｎａｇｅｍｅｎｔ　ＨＫ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": null,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQDV",
+      "sec": "2371",
+      "name": "株式会社カカクコム",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 12.11,
+      "prev_ratio": 7.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRJN",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤良雄",
+      "ratio": 20.64,
+      "prev_ratio": 39.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRJO",
+      "sec": "4834",
+      "name": "キャリアバンク株式会社",
+      "filer": "佐藤良雄",
+      "ratio": null,
+      "prev_ratio": 20.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XR49",
+      "sec": "8746",
+      "name": "unbanked株式会社",
+      "filer": "Ａｋａｔｓｕｋｉ　Ｃａｐｉｔａｌ　Ｗｏｒｋｓ株式会社",
+      "ratio": 14.37,
+      "prev_ratio": 23.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRAM",
+      "sec": "8746",
+      "name": "unbanked株式会社",
+      "filer": "Ａｋａｔｓｕｋｉ　Ｃａｐｉｔａｌ　Ｗｏｒｋｓ株式会社",
+      "ratio": 9.77,
+      "prev_ratio": 14.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XREX",
+      "sec": "3634",
+      "name": "株式会社ソケッツ",
+      "filer": "株式会社フェイス",
+      "ratio": 5.85,
+      "prev_ratio": 6.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRKE",
+      "sec": "6466",
+      "name": "株式会社ＴＶＥ",
+      "filer": "光通信株式会社",
+      "ratio": 6.96,
+      "prev_ratio": 6.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XRAL",
+      "sec": "3810",
+      "name": "サイバーステップ株式会社",
+      "filer": "山下　卓宏",
+      "ratio": 3.23,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

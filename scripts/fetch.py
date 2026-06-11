@@ -39,7 +39,7 @@ CHG_CODES = {"350", "351"}
 def is_target_doc(doc):
     """大量保有・変更報告書を判定。特例対象株券等（投信ETF用）は除外。"""
     code = doc.get("docTypeCode", "")
-    desc = doc.get("docDescription", "")
+    desc = doc.get("docDescription") or ""
     # 訂正・特例は除外
     if "訂正" in desc:
         return False
@@ -54,7 +54,7 @@ def is_target_doc(doc):
 def doc_category(doc):
     """新規か変更かを判定"""
     code = doc.get("docTypeCode", "")
-    desc = doc.get("docDescription", "")
+    desc = doc.get("docDescription") or ""
     if code in NEW_CODES or "大量保有報告書" in desc:
         return "new"
     return "change"
@@ -204,8 +204,8 @@ def xbrl_parse(doc_id):
 
 def build_entry(doc, companies):
     sec = (doc.get("secCode") or "").rstrip("0")
-    filer = doc.get("filerName", "")
-    desc = doc.get("docDescription", "")
+    filer = doc.get("filerName") or ""
+    desc = doc.get("docDescription") or ""
     company_name = companies.get(sec, "")
     ratio, direction = parse_desc(desc)
     is_new = doc_category(doc) == "new"

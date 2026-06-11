@@ -1,0 +1,457 @@
+{
+  "date": "2026-02-24",
+  "new": [
+    {
+      "docId": "S100X10Q",
+      "sec": "8705",
+      "name": "株式会社小林洋行",
+      "filer": "日産証券グループ株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XLJF",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "サイブリッジ合同会社",
+      "ratio": 38.49,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XMDW",
+      "sec": "9327",
+      "name": "株式会社イー･ロジット",
+      "filer": "須田　忠雄",
+      "ratio": 36.12,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XMXP",
+      "sec": "7105",
+      "name": "三菱ロジスネクスト株式会社",
+      "filer": "ＬＶＪホールディングス２合同会社",
+      "ratio": 16.9,
+      "prev_ratio": 64.5,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XMRQ",
+      "sec": "8041",
+      "name": "ＯＵＧホールディングス株式会社",
+      "filer": "株式会社　松岡",
+      "ratio": 5.39,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XM3G",
+      "sec": "7923",
+      "name": "トーイン株式会社",
+      "filer": "ＣＳＲＩ５号株式会社",
+      "ratio": 72.71,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XMKT",
+      "sec": "3726",
+      "name": "株式会社フォーシーズHD",
+      "filer": "ＤＥＮＢＡ　ＪＡＰＡＮ株式会社",
+      "ratio": 16.51,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XM93",
+      "sec": "4376",
+      "name": "株式会社オープンドア",
+      "filer": "株式会社くふうカンパニーホールディングス",
+      "ratio": 6.22,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMBH",
+      "sec": "9507",
+      "name": "四国電力株式会社",
+      "filer": "株式会社伊予鉄グループ",
+      "ratio": 8.14,
+      "prev_ratio": 8.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMS1",
+      "sec": "5974",
+      "name": "中国工業株式会社",
+      "filer": "日本鉱泉株式会社",
+      "ratio": 4.16,
+      "prev_ratio": 3.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMKV",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "大垣内　剛",
+      "ratio": 8.46,
+      "prev_ratio": 8.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMN8",
+      "sec": "6580",
+      "name": "株式会社ライトアップ",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 5.01,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XKGL",
+      "sec": "1942",
+      "name": "株式会社関電工",
+      "filer": "東京電力パワーグリッド株式会社",
+      "ratio": 34.73,
+      "prev_ratio": 43.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLNO",
+      "sec": "3541",
+      "name": "株式会社農業総合研究所",
+      "filer": "株式会社プレンティー",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMKM",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.36,
+      "prev_ratio": 12.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMTZ",
+      "sec": "8167",
+      "name": "株式会社リテールパートナーズ",
+      "filer": "池田興産有限会社",
+      "ratio": 6.0,
+      "prev_ratio": 4.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIUW",
+      "sec": "4344",
+      "name": "ソースネクスト株式会社",
+      "filer": "松田　憲幸",
+      "ratio": 25.56,
+      "prev_ratio": 26.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMHR",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 13.75,
+      "prev_ratio": 13.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMV4",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 7.29,
+      "prev_ratio": 13.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMQW",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "ＯＲＣＨＩＤ　ＰＬＵＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 26.41,
+      "prev_ratio": 27.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMM0",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 48.58,
+      "prev_ratio": 49.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMVA",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 6.06,
+      "prev_ratio": 7.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMS6",
+      "sec": "1994",
+      "name": "高橋カーテンウォール工業株式会社",
+      "filer": "高橋　敏男",
+      "ratio": 8.45,
+      "prev_ratio": 9.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMVZ",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 7.78,
+      "prev_ratio": 6.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMNY",
+      "sec": "5406",
+      "name": "株式会社大阪チタニウムテクノロジーズ",
+      "filer": "株式会社　神戸製鋼所",
+      "ratio": 9.59,
+      "prev_ratio": 10.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLYI",
+      "sec": "4690",
+      "name": "日本パレットプール株式会社",
+      "filer": "日本貨物鉄道株式会社",
+      "ratio": 11.99,
+      "prev_ratio": 11.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMW6",
+      "sec": "6433",
+      "name": "ヒーハイスト株式会社",
+      "filer": "尾崎浩太",
+      "ratio": 19.78,
+      "prev_ratio": 21.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMW8",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 5.26,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMK9",
+      "sec": "7776",
+      "name": "株式会社セルシード",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 16.14,
+      "prev_ratio": 17.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLGM",
+      "sec": "5857",
+      "name": "ＡＲＥホールディングス株式会社",
+      "filer": "アサヒ・リファイニング・ユーエスエー・インク",
+      "ratio": 7.73,
+      "prev_ratio": 10.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMX0",
+      "sec": "2928",
+      "name": "夢展望株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 45.36,
+      "prev_ratio": 45.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMA0",
+      "sec": "7378",
+      "name": "株式会社アシロ",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 31.01,
+      "prev_ratio": 29.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XM74",
+      "sec": "1930",
+      "name": "北陸電気工事株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.58,
+      "prev_ratio": 6.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XM75",
+      "sec": "8085",
+      "name": "ナラサキ産業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.14,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMY0",
+      "sec": "7105",
+      "name": "三菱ロジスネクスト株式会社",
+      "filer": "ＬＶＪホールディングス２株式会社",
+      "ratio": 16.9,
+      "prev_ratio": 64.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XM61",
+      "sec": "5704",
+      "name": "株式会社ＪＭＣ",
+      "filer": "渡邊　大知",
+      "ratio": 22.67,
+      "prev_ratio": 22.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMLO",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド（Beat Holdings Limited）",
+      "filer": "Ｌａｉ　Ｍａｎｋｏｎ",
+      "ratio": 10.98,
+      "prev_ratio": 15.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMY9",
+      "sec": "4571",
+      "name": "ＮＡＮＯ　ホールディングス株式会社",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 30.48,
+      "prev_ratio": 32.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMUP",
+      "sec": "9627",
+      "name": "株式会社アインホールディングス",
+      "filer": "スプラウスグローブインベストメントマネジメントリミテッド",
+      "ratio": 5.86,
+      "prev_ratio": 6.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMVD",
+      "sec": "3541",
+      "name": "株式会社農業総合研究所",
+      "filer": "日本郵政キャピタル株式会社",
+      "ratio": null,
+      "prev_ratio": 12.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMJP",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 1.54,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMXQ",
+      "sec": "7550",
+      "name": "株式会社　ゼンショーホールディングス",
+      "filer": "株式会社日本クリエイト",
+      "ratio": 35.32,
+      "prev_ratio": 37.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMYL",
+      "sec": "7923",
+      "name": "トーイン株式会社",
+      "filer": "神林　秀康",
+      "ratio": null,
+      "prev_ratio": 9.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMHX",
+      "sec": "6380",
+      "name": "オリエンタルチエン工業株式会社",
+      "filer": "株式会社Ｕｃａｐｉ",
+      "ratio": 50.55,
+      "prev_ratio": 50.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XMZ8",
+      "sec": "8945",
+      "name": "サンネクスタグループ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.91,
+      "prev_ratio": 6.93,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

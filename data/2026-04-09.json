@@ -1,0 +1,257 @@
+{
+  "date": "2026-04-09",
+  "new": [
+    {
+      "docId": "S100XWKT",
+      "sec": "9927",
+      "name": "株式会社ワットマン",
+      "filer": "ＩＡＰＦ３株式会社",
+      "ratio": 68.81,
+      "prev_ratio": 19.7,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XXX3",
+      "sec": "551A",
+      "name": "ＩＺＵＭＩグループ株式会社",
+      "filer": "株式会社ＳＰＲＩＮＧ",
+      "ratio": 35.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XXXM",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "ＰＡＲＫ　ＫＵＮＴＡＥＲＡＮＧ　朴　健太郎",
+      "ratio": 24.56,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XXXE",
+      "sec": "551A",
+      "name": "ＩＺＵＭＩグループ株式会社",
+      "filer": "ひと・コミュニケーションズ株式会社",
+      "ratio": 32.34,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XXXL",
+      "sec": "551A",
+      "name": "ＩＺＵＭＩグループ株式会社",
+      "filer": "小池　康仁",
+      "ratio": 30.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XXYB",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "ＳＩＣＥＮＥＲＧＹ　ＳＩＮＧＡＰＯＲＥ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 22.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XXKP",
+      "sec": "7606",
+      "name": "株式会社ユナイテッドアローズ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 1.7,
+      "prev_ratio": 1.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXTS",
+      "sec": "4004",
+      "name": "株式会社レゾナック・ホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 3.23,
+      "prev_ratio": 4.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXNO",
+      "sec": "7051",
+      "name": "株式会社ティムコ",
+      "filer": "株式会社キャピタルギャラリー",
+      "ratio": 10.43,
+      "prev_ratio": 10.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXR0",
+      "sec": "4884",
+      "name": "クリングルファーマ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.56,
+      "prev_ratio": 13.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXX1",
+      "sec": "4369",
+      "name": "株式会社　トリケミカル研究所",
+      "filer": "野村證券株式会社",
+      "ratio": null,
+      "prev_ratio": 14.000000000000002,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XWYI",
+      "sec": "2531",
+      "name": "タカラバイオ株式会社",
+      "filer": "宝ホールディングス株式会社",
+      "ratio": 87.27,
+      "prev_ratio": 61.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXVH",
+      "sec": "6395",
+      "name": "株式会社タダノ",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 6.82,
+      "prev_ratio": 7.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXYR",
+      "sec": "4840",
+      "name": "株式会社トライアイズ",
+      "filer": "ＦＯＵ　ＪＯＨＮ　ＣＨＩ　ＣＨＯＮＧ",
+      "ratio": 4.82,
+      "prev_ratio": 6.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXZ4",
+      "sec": "5254",
+      "name": "株式会社Ａｒｅｎｔ",
+      "filer": "光通信株式会社",
+      "ratio": 6.88,
+      "prev_ratio": 5.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXQ0",
+      "sec": "1420",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 13.33,
+      "prev_ratio": 14.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXXO",
+      "sec": "6096",
+      "name": "株式会社レアジョブ",
+      "filer": "株式会社ＵＥＤ",
+      "ratio": 9.16,
+      "prev_ratio": 8.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXY7",
+      "sec": "9927",
+      "name": "株式会社ワットマン",
+      "filer": "川畑　泰史",
+      "ratio": 19.7,
+      "prev_ratio": 19.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXLT",
+      "sec": "6770",
+      "name": "アルプスアルパイン株式会社",
+      "filer": "株式会社エスグラントコーポレーション",
+      "ratio": 8.28,
+      "prev_ratio": 8.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXWG",
+      "sec": "278A",
+      "name": "Ｔｅｒｒａ　Ｄｒｏｎｅ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 2.29,
+      "prev_ratio": 3.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XX0V",
+      "sec": "3920",
+      "name": "アイビーシー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.34,
+      "prev_ratio": 7.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XWP3",
+      "sec": "3401",
+      "name": "帝人株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 17.53,
+      "prev_ratio": 16.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XX0W",
+      "sec": "9790",
+      "name": "福井コンピュータホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.66,
+      "prev_ratio": 7.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XX37",
+      "sec": "5401",
+      "name": "株式会社名村造船所",
+      "filer": "日本製鉄株式会社",
+      "ratio": 5.02,
+      "prev_ratio": 6.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXPV",
+      "sec": "478A",
+      "name": "株式会社フツパー",
+      "filer": "ＡＮＲＩ株式会社",
+      "ratio": 4.72,
+      "prev_ratio": 5.88,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

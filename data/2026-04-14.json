@@ -1,0 +1,227 @@
+{
+  "date": "2026-04-14",
+  "new": [
+    {
+      "docId": "S100XYR5",
+      "sec": "6670",
+      "name": "株式会社MCJ",
+      "filer": "ＢＣＰＥ　Ｍｅｔａ　Ｃａｙｍａｎ，　Ｌ．Ｐ．",
+      "ratio": 69.56,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XYTK",
+      "sec": "549A",
+      "name": "ヒトトヒトホールディングス株式会社",
+      "filer": "日本成長投資アライアンス株式会社",
+      "ratio": 59.6,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XYLB",
+      "sec": "8591",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "オリックス株式会社",
+      "ratio": 7.5,
+      "prev_ratio": 8.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY6E",
+      "sec": "5129",
+      "name": "株式会社FIXER",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 21.14,
+      "prev_ratio": 22.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYE2",
+      "sec": "7438",
+      "name": "コンドーテック株式会社",
+      "filer": "タドラナ・マネジメント・ウンド・アセット・ゲーエムベーハー",
+      "ratio": 6.02,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY0N",
+      "sec": "3156",
+      "name": "株式会社ディジタルメディアプロフェッショナル",
+      "filer": "株式会社レスター",
+      "ratio": 8.63,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY31",
+      "sec": "3762",
+      "name": "テクマトリックス株式会社",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 4.13,
+      "prev_ratio": 5.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYF6",
+      "sec": "2317",
+      "name": "株式会社システナ",
+      "filer": "ＳＭＳホールディングス有限会社",
+      "ratio": 24.48,
+      "prev_ratio": 24.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYM9",
+      "sec": "2656",
+      "name": "株式会社ベクターホールディングス",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 40.99,
+      "prev_ratio": 42.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYN4",
+      "sec": "6838",
+      "name": "株式会社多摩川ホールディングス",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 7.0,
+      "prev_ratio": 8.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XXPA",
+      "sec": "6656",
+      "name": "インスペック株式会社",
+      "filer": "菅原　雅史",
+      "ratio": 4.79,
+      "prev_ratio": 7.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY87",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 48.0,
+      "prev_ratio": 48.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYRB",
+      "sec": "6670",
+      "name": "株式会社MCJ",
+      "filer": "ＢＣＰＥ　Ｍｅｔａ　Ｃａｙｍａｎ，　Ｌ．Ｐ．",
+      "ratio": 69.56,
+      "prev_ratio": 69.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY4K",
+      "sec": "2936",
+      "name": "ベースフード株式会社",
+      "filer": "橋本舜",
+      "ratio": 32.04,
+      "prev_ratio": 32.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYM0",
+      "sec": "8001",
+      "name": "株式会社アイチコーポレーション",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 32.88,
+      "prev_ratio": 23.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY9M",
+      "sec": "6086",
+      "name": "シンメンテホールディングス株式会社",
+      "filer": "ＡＭＩＲＡＬ　ＧＥＳＴＩＯＮ",
+      "ratio": 4.56,
+      "prev_ratio": 5.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY2Y",
+      "sec": "5401",
+      "name": "東京製綱株式会社",
+      "filer": "日本製鉄株式会社",
+      "ratio": 13.98,
+      "prev_ratio": 15.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYCT",
+      "sec": "7731",
+      "name": "株式会社ニコン",
+      "filer": "エシロールルックスオティカ",
+      "ratio": 19.61,
+      "prev_ratio": 18.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYO7",
+      "sec": "6969",
+      "name": "松尾電機株式会社",
+      "filer": "釜屋電機株式会社",
+      "ratio": 39.18,
+      "prev_ratio": 26.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYR9",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": null,
+      "prev_ratio": 40.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XY5V",
+      "sec": "6656",
+      "name": "インスペック株式会社",
+      "filer": "ハヤテマネジメント株式会社",
+      "ratio": null,
+      "prev_ratio": 9.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XYKQ",
+      "sec": "6616",
+      "name": "トレックス・セミコンダクター株式会社",
+      "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
+      "ratio": 14.54,
+      "prev_ratio": 13.49,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
