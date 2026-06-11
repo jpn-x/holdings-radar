@@ -36,20 +36,17 @@ NEW_CODES = {"340", "341"}
 CHG_CODES = {"350", "351"}
 
 def is_target_doc(doc):
-    """大量保有・変更報告書を description ベースで判定（コード不明分も拾う）"""
+    """大量保有・変更報告書を判定。特例対象株券等（投信ETF用）は除外。"""
     code = doc.get("docTypeCode", "")
     desc = doc.get("docDescription", "")
-    if code in NEW_CODES:
-        return True
-    if code in CHG_CODES:
-        return True
-    # 訂正報告書は除外
+    # 訂正・特例は除外
     if "訂正" in desc:
         return False
-    # description に大量保有・変更が含まれるもの
-    if "大量保有報告書" in desc or (
-        "変更報告書" in desc and "大量保有" not in desc.replace("変更報告書", "")
-    ):
+    if "特例対象" in desc:
+        return False
+    if code in NEW_CODES or code in CHG_CODES:
+        return True
+    if "大量保有報告書" in desc or "変更報告書" in desc:
         return True
     return False
 
@@ -128,35 +125,75 @@ def parse_desc(desc):
     return ratio, direction
 
 
-def xbrl_ratio(doc_id):
-    """Download document zip and extract holding ratio from XBRL"""
+def _ixval(txt, elem_name):
+    """Extract first value of an inline XBRL element by its taxonomy name attribute."""
+    # <ix:nonNumeric name="ns:ElemName" ...>value</ix:nonNumeric>
+    m = re.search(
+        rf'<ix:non(?:Numeric|Fraction)[^>]+name="[^"]*:{re.escape(elem_name)}"[^>]*>\s*([^<]+?)\s*</ix:non',
+        txt
+    )
+    return m.group(1).strip() if m else None
+
+
+def xbrl_parse(doc_id):
+    """Download XBRL zip and return (ratio_pct, issuer_name, issuer_code).
+
+    Reads the inline XBRL (ixbrl.htm) first because it stores ratios already
+    in % form (22.47) while the .xbrl stores decimals (0.2247).
+    Supports both jplvh_cor (特例 schema) and jplh_cor (regular schema).
+    """
     try:
         r = requests.get(f"{API}/documents/{doc_id}",
                          params=_params(type=1), headers=UA, timeout=60, stream=True)
         r.raise_for_status()
         raw = b"".join(r.iter_content(65536))
         with zipfile.ZipFile(io.BytesIO(raw)) as zf:
-            for name in zf.namelist():
-                if not name.lower().endswith((".xbrl", ".xml")):
-                    continue
-                txt = zf.read(name).decode("utf-8", errors="ignore")
-                for pat in [
-                    r'[Hh]olding[Rr]atio[^>]*>(\d{1,3}\.?\d+)<',
-                    r'HoldingRatioOfVotingRights[^>]*>(\d{1,3}\.?\d+)<',
-                    r'>(\d{1,3}\.\d{1,2})</[a-zA-Z_:]*[Rr]atio[a-zA-Z_]*>',
-                ]:
-                    m = re.search(pat, txt)
-                    if m:
-                        val = float(m.group(1))
-                        if 0 < val <= 100:
-                            return val
+            names = zf.namelist()
+            # Prefer honbun (本文) ixbrl.htm; fall back to any .htm then .xbrl
+            htm_files = [n for n in names if n.endswith(".htm")]
+            honbun = next((n for n in htm_files if "honbun" in n), None) or (htm_files[0] if htm_files else None)
+
+            txt = zf.read(honbun).decode("utf-8", errors="ignore") if honbun else ""
+
+            # 発行会社名
+            issuer_name = (
+                _ixval(txt, "NameOfIssuer") or            # jplvh_cor
+                _ixval(txt, "IssuedCompanyName") or        # jplh_cor
+                _ixval(txt, "NameOfIssuingCompany")
+            )
+            # 証券コード（4桁）
+            issuer_code = (
+                _ixval(txt, "SecurityCodeOfIssuer") or    # jplvh_cor
+                _ixval(txt, "IssuedCompanySecuritiesCode") or
+                _ixval(txt, "SecuritiesCode")
+            )
+            if issuer_code:
+                issuer_code = re.sub(r'\D', '', issuer_code)
+                issuer_code = issuer_code[:4] if len(issuer_code) >= 4 else None
+
+            # 保有割合（ixbrl.htm は % 表示, .xbrl は小数）
+            ratio_raw = (
+                _ixval(txt, "HoldingRatioOfShareCertificatesEtc") or  # jplvh_cor
+                _ixval(txt, "HoldingRatioOfVotingRights") or           # jplh_cor
+                _ixval(txt, "HoldingRatio")
+            )
+            ratio = None
+            if ratio_raw:
+                try:
+                    v = float(ratio_raw.replace(",", ""))
+                    ratio = v * 100 if v < 1.0 else v   # decimal→% if needed
+                    if not (1.0 <= ratio <= 100):
+                        ratio = None
+                except ValueError:
+                    pass
+
+            return ratio, issuer_name, issuer_code
     except Exception as e:
         print(f"    xbrl fail {doc_id}: {e}")
-    return None
+    return None, None, None
 
 
 def build_entry(doc, companies):
-    dt = doc.get("docTypeCode", "")
     sec = (doc.get("secCode") or "").rstrip("0")
     filer = doc.get("filerName", "")
     desc = doc.get("docDescription", "")
@@ -340,14 +377,21 @@ def main():
     for i, doc in enumerate(docs):
         e = build_entry(doc, companies)
 
-        if e["ratio"] is None:
-            print(f"  [{i+1}/{len(docs)}] ratio missing → fetching XBRL {e['docId']}")
-            e["ratio"] = xbrl_ratio(e["docId"])
-            time.sleep(0.5)
+        # XBRL から補完（銘柄名・コード・保有割合が足りない場合）
+        if not e["sec"] or not e["name"] or e["ratio"] is None:
+            print(f"  [{i+1}/{len(docs)}] XBRL fetch {e['docId']}")
+            xratio, xname, xcode = xbrl_parse(e["docId"])
+            if not e["sec"] and xcode:
+                e["sec"] = xcode
+            if not e["name"] and xname:
+                e["name"] = xname
+            if e["ratio"] is None and xratio:
+                e["ratio"] = xratio
+            time.sleep(0.3)
 
         tag = "NEW" if e["isNew"] else "CHG"
         ratio_disp = f"{e['ratio']:.2f}%" if e["ratio"] else "N/A"
-        print(f"  [{i+1}/{len(docs)}] [{tag}] {e['sec']:6} {(e['name'] or '?')[:18]:18} | {e['filer'][:22]:22} | {ratio_disp}")
+        print(f"  [{i+1}/{len(docs)}] [{tag}] {e['sec'] or '----':6} {(e['name'] or '?')[:18]:18} | {e['filer'][:22]:22} | {ratio_disp}")
 
         if e["isNew"]:
             new_entries.append(e)
