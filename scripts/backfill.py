@@ -40,7 +40,7 @@ def fetch_day(date_str, companies):
         e = build_entry(doc, companies)
         if not e["sec"] or not e["name"] or e["ratio"] is None or e.get("prev_ratio") is None:
             xratio, xname, xcode, xprev = xbrl_parse(e["docId"])
-            if not e["sec"] and xcode:   e["sec"] = xcode
+            if xcode:   e["sec"] = xcode  # 発行会社のコード（XBRLが正）
             if not e["name"] and xname:  e["name"] = xname
             if e["ratio"] is None and xratio: e["ratio"] = xratio
             if e.get("prev_ratio") is None and xprev is not None: e["prev_ratio"] = xprev

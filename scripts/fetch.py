@@ -203,16 +203,16 @@ def xbrl_parse(doc_id):
 
 
 def build_entry(doc, companies):
-    sec = (doc.get("secCode") or "").rstrip("0")
+    # doc.secCode = 提出者（保有者）のコード。発行会社のコードではないので使わない。
+    # sec と name は XBRL パースで補完する。
     filer = doc.get("filerName") or ""
     desc = doc.get("docDescription") or ""
-    company_name = companies.get(sec, "")
     ratio, direction = parse_desc(desc)
     is_new = doc_category(doc) == "new"
     return {
         "docId": doc.get("docID", ""),
-        "sec": sec,
-        "name": company_name,
+        "sec": "",    # XBRL から補完
+        "name": "",   # XBRL から補完
         "filer": filer,
         "ratio": ratio,
         "prev_ratio": None,
@@ -587,6 +587,8 @@ function switchTab(m) {{
 }}
 let currentTab = '{first_month}';
 switchTab('{first_month}');
+// ページロード時の自動フォーカスを解除（テキストカーソルのチカチカ防止）
+window.addEventListener('load', () => {{ if (document.activeElement) document.activeElement.blur(); }});
 
 // ─── 検索履歴（localStorage） ───────────────────────────────
 const HIST_KEY = {{ code: 'radar_hist_code', filer: 'radar_hist_filer' }};
@@ -654,8 +656,8 @@ def main():
         if not e["sec"] or not e["name"] or e["ratio"] is None or e.get("prev_ratio") is None:
             print(f"  [{i+1}/{len(docs)}] XBRL fetch {e['docId']}")
             xratio, xname, xcode, xprev = xbrl_parse(e["docId"])
-            if not e["sec"] and xcode:
-                e["sec"] = xcode
+            if xcode:
+                e["sec"] = xcode  # 発行会社のコード（XBRLが正）
             if not e["name"] and xname:
                 e["name"] = xname
             if e["ratio"] is None and xratio:
