@@ -71,6 +71,7 @@ tr.date-row:first-child td{border-top:none}
 .tab-btn:hover{border-color:var(--gold);color:var(--gold)}
 .tab-btn.active{background:rgba(245,200,66,.15);border-color:var(--gold);color:var(--gold)}
 .panel-meta{font-size:12px;color:var(--muted);margin-bottom:10px}
+.search-hint{font-size:12px;color:var(--muted);margin:4px 0 12px}
 .btn-pdf{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--text);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}
 .btn-pdf:hover{border-color:var(--gold);color:var(--gold)}
 .btn-reload{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}
@@ -92,7 +93,7 @@ footer a:hover{color:var(--gold)}
   <img src="favicon.svg" class="logo" alt="">
   <h1>大量保有 Radar</h1>
   <button class="btn-reload" onclick="location.reload(true)" title="Shift+Ctrl+R と同じ強制リロード">強制リロード</button>
-  <div class="meta">更新: 2026年06月12日 00:43 JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
+  <div class="meta">更新: 2026年06月12日 00:46 JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
 </header>
 <main>
 <div class="search-bar">
@@ -110,6 +111,7 @@ footer a:hover{color:var(--gold)}
   </div>
   <button class="btn-clear" onclick="clearSearch()">✕ クリア</button>
 </div>
+<p class="search-hint">※ コード番号入力 or 保有者名入力で過去のデータ一覧に絞って表示します。</p>
 <div class="tabs" id="tab-bar"><button class="tab-btn" data-month="2026-06" onclick="switchTab('2026-06')">2026 / 06</button><button class="tab-btn" data-month="2026-05" onclick="switchTab('2026-05')">2026 / 05</button><button class="tab-btn" data-month="2026-04" onclick="switchTab('2026-04')">2026 / 04</button><button class="tab-btn" data-month="2026-03" onclick="switchTab('2026-03')">2026 / 03</button><button class="tab-btn" data-month="2026-02" onclick="switchTab('2026-02')">2026 / 02</button><button class="tab-btn" data-month="2026-01" onclick="switchTab('2026-01')">2026 / 01</button></div>
 <div class="tab-panel" id="panel-2026-06" style="display:none"><div class="panel-meta">9 営業日 ／ 新規 39 件 ／ 変更 304 件</div><div class="wrap"><table style="table-layout:fixed;width:100%"><colgroup><col class="col-badge"><col class="col-ratio"><col class="col-pdf"><col class="col-code"><col style="width:220px"><col></colgroup><thead><tr><th>区分</th><th class="ratio">保有割合</th><th></th><th>コード</th><th>銘柄名</th><th>保有者</th></tr></thead><tbody>
       <tr class="date-row"><td colspan="6">📅 2026-06-11</td></tr>

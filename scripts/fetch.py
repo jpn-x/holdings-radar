@@ -442,6 +442,7 @@ tr.date-row:first-child td{{border-top:none}}
 .tab-btn:hover{{border-color:var(--gold);color:var(--gold)}}
 .tab-btn.active{{background:rgba(245,200,66,.15);border-color:var(--gold);color:var(--gold)}}
 .panel-meta{{font-size:12px;color:var(--muted);margin-bottom:10px}}
+.search-hint{{font-size:12px;color:var(--muted);margin:4px 0 12px}}
 .btn-pdf{{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--text);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}}
 .btn-pdf:hover{{border-color:var(--gold);color:var(--gold)}}
 .btn-reload{{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}}
@@ -481,6 +482,7 @@ footer a:hover{{color:var(--gold)}}
   </div>
   <button class="btn-clear" onclick="clearSearch()">✕ クリア</button>
 </div>
+<p class="search-hint">※ コード番号入力 or 保有者名入力で過去のデータ一覧に絞って表示します。</p>
 <div class="tabs" id="tab-bar">{tab_btns}</div>
 {panels}
 <div id="search-panel">
