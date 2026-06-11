@@ -671,8 +671,11 @@ def main():
         else:
             chg_entries.append(e)
 
-    # 当日データを JSON に保存（上書きで最新を維持）
-    save_day(date, new_entries, chg_entries)
+    # 当日データを JSON に保存（0件の場合は保存しない）
+    if new_entries or chg_entries:
+        save_day(date, new_entries, chg_entries)
+    else:
+        print(f"  0件のため {date}.json は保存しません")
 
     # 全日分のデータを読み込んで index.html を生成
     days = load_all_days()
