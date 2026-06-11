@@ -253,10 +253,10 @@ def make_row(e):
     return (
         f'<tr>'
         f'<td>{badge(e)}</td>'
+        f'<td class="ratio">{ratio_str}</td>'
         f'<td class="code">{code_cell}</td>'
         f'<td class="company">{e["name"] or "—"}</td>'
         f'<td class="filer">{e["filer"] or "—"}</td>'
-        f'<td class="ratio">{ratio_str}</td>'
         f'<td><a href="{pdf_url}" target="_blank" class="btn-pdf">PDF</a></td>'
         f'</tr>'
     )
@@ -297,7 +297,7 @@ main{{padding:20px 24px;max-width:1280px;margin:0 auto}}
 .cnt{{font-size:12px;font-weight:normal;color:var(--muted)}}
 .wrap{{overflow-x:auto;border-radius:10px;border:1px solid var(--border)}}
 table{{width:100%;border-collapse:collapse}}
-thead th{{background:#1c2130;padding:9px 14px;text-align:left;color:var(--muted);font-size:11px;font-weight:600;white-space:nowrap;border-bottom:1px solid var(--border)}}
+thead th{{background:#1c2130;padding:9px 14px;text-align:left;color:var(--text);font-size:11px;font-weight:600;white-space:nowrap;border-bottom:1px solid var(--border)}}
 tbody tr{{border-bottom:1px solid var(--border)}}
 tbody tr:last-child{{border-bottom:none}}
 tbody tr:hover{{background:rgba(255,255,255,.03)}}
@@ -311,8 +311,12 @@ td.code{{font-weight:700;white-space:nowrap}}
 td.code a{{color:var(--gold);text-decoration:none}}
 td.code a:hover{{text-decoration:underline}}
 td.company{{font-weight:600;max-width:200px}}
-td.filer{{color:var(--muted);font-size:13px;max-width:300px}}
+td.filer{{color:var(--text);font-size:13px;max-width:300px}}
 td.ratio{{font-weight:700;font-size:15px;text-align:right;white-space:nowrap;color:var(--text)}}
+th.ratio{{text-align:right}}
+col.col-badge{{width:120px}}
+col.col-ratio{{width:90px}}
+col.col-code{{width:70px}}
 .btn-pdf{{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--muted);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}}
 .btn-pdf:hover{{border-color:var(--gold);color:var(--gold)}}
 .btn-reload{{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}}
@@ -345,9 +349,10 @@ footer a:hover{{color:var(--gold)}}
 </div>
 <div class="wrap">
   <table>
+    <colgroup><col class="col-badge"><col class="col-ratio"><col class="col-code"><col><col><col style="width:50px"></colgroup>
     <thead><tr>
-      <th>区分</th><th>コード</th><th>銘柄名</th>
-      <th>保有者</th><th style="text-align:right">保有割合</th><th></th>
+      <th>区分</th><th class="ratio">保有割合</th><th>コード</th>
+      <th>銘柄名</th><th>保有者</th><th></th>
     </tr></thead>
     <tbody>{new_rows}</tbody>
   </table>
@@ -360,9 +365,10 @@ footer a:hover{{color:var(--gold)}}
 </div>
 <div class="wrap">
   <table>
+    <colgroup><col class="col-badge"><col class="col-ratio"><col class="col-code"><col><col><col style="width:50px"></colgroup>
     <thead><tr>
-      <th>区分</th><th>コード</th><th>銘柄名</th>
-      <th>保有者</th><th style="text-align:right">保有割合</th><th></th>
+      <th>区分</th><th class="ratio">保有割合</th><th>コード</th>
+      <th>銘柄名</th><th>保有者</th><th></th>
     </tr></thead>
     <tbody>{chg_rows}</tbody>
   </table>
