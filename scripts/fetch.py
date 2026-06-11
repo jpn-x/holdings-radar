@@ -26,9 +26,40 @@ def _params(**kw):
 
 UA = {"User-Agent": "holdings-radar/1.0 (https://github.com/jpn-x/holdings-radar)"}
 
-NEW_TYPES = {"28", "29"}   # 大量保有報告書
-CHG_TYPES = {"30", "31"}   # 変更報告書
-ALL_TYPES = NEW_TYPES | CHG_TYPES
+# EDINET docTypeCode（3桁ゼロパディング）
+# 340 = 大量保有報告書
+# 341 = 大量保有報告書（特例対象株券等）
+# 350 = 変更報告書（特例対象株券等）
+# 変更報告書（非特例）は description で判定
+# 360 = 訂正報告書（大量保有報告書・変更報告書）は除外
+NEW_CODES = {"340", "341"}
+CHG_CODES = {"350", "351"}
+
+def is_target_doc(doc):
+    """大量保有・変更報告書を description ベースで判定（コード不明分も拾う）"""
+    code = doc.get("docTypeCode", "")
+    desc = doc.get("docDescription", "")
+    if code in NEW_CODES:
+        return True
+    if code in CHG_CODES:
+        return True
+    # 訂正報告書は除外
+    if "訂正" in desc:
+        return False
+    # description に大量保有・変更が含まれるもの
+    if "大量保有報告書" in desc or (
+        "変更報告書" in desc and "大量保有" not in desc.replace("変更報告書", "")
+    ):
+        return True
+    return False
+
+def doc_category(doc):
+    """新規か変更かを判定"""
+    code = doc.get("docTypeCode", "")
+    desc = doc.get("docDescription", "")
+    if code in NEW_CODES or "大量保有報告書" in desc:
+        return "new"
+    return "change"
 
 
 def get_date():
@@ -78,7 +109,8 @@ def get_docs(date):
         if tc not in seen:
             seen.add(tc)
             print(f"    [{tc}] filer={d.get('filerName','')[:30]} desc={d.get('docDescription','')[:50]}")
-    filtered = [d for d in all_results if d.get("docTypeCode") in ALL_TYPES]
+    filtered = [d for d in all_results if is_target_doc(d)]
+    print(f"  After filter: {len(filtered)} large-holding docs")
     return filtered
 
 
@@ -138,7 +170,7 @@ def build_entry(doc, companies):
     desc = doc.get("docDescription", "")
     company_name = companies.get(sec, "")
     ratio, direction = parse_desc(desc)
-    is_new = dt in NEW_TYPES
+    is_new = doc_category(doc) == "new"
     return {
         "docId": doc.get("docID", ""),
         "sec": sec,
