@@ -312,9 +312,43 @@ def make_day_block(day):
 
 
 def generate_html(days, updated_str):
-    all_rows = "".join(make_day_block(d) for d in days)
     updated = updated_str
     date = days[0]["date"] if days else ""
+
+    # 月別グループ化
+    from collections import defaultdict
+    by_month = defaultdict(list)
+    for d in days:
+        ym = d["date"][:7]  # "2026-06"
+        by_month[ym].append(d)
+    months = sorted(by_month.keys(), reverse=True)  # 新しい順
+
+    # タブHTML
+    tab_btns = "".join(
+        f'<button class="tab-btn" data-month="{m}" onclick="switchTab(\'{m}\')">'
+        f'{m.replace("-", " / ")}'
+        f'</button>'
+        for m in months
+    )
+    # 月ごとのテーブル本体
+    panels = ""
+    for m in months:
+        m_days = by_month[m]
+        rows = "".join(make_day_block(d) for d in m_days)
+        total_new = sum(len(d.get("new",[])) for d in m_days)
+        total_chg = sum(len(d.get("chg",[])) for d in m_days)
+        panels += (
+            f'<div class="tab-panel" id="panel-{m}" style="display:none">'
+            f'<div class="panel-meta">{len(m_days)} 営業日 ／ 新規 {total_new} 件 ／ 変更 {total_chg} 件</div>'
+            f'<div class="wrap"><table style="table-layout:fixed;width:100%">'
+            f'<colgroup><col class="col-badge"><col class="col-ratio"><col class="col-pdf">'
+            f'<col class="col-code"><col style="width:220px"><col></colgroup>'
+            f'<thead><tr><th>区分</th><th class="ratio">保有割合</th><th></th>'
+            f'<th>コード</th><th>銘柄名</th><th>保有者</th></tr></thead>'
+            f'<tbody>{rows}</tbody></table></div></div>'
+        )
+    first_month = months[0] if months else ""
+    all_rows = ""  # unused now
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
@@ -372,8 +406,13 @@ tr.section-row{{display:table-row}}
 tr.section-row td{{display:table-cell;vertical-align:middle}}
 tr.section-row .dot{{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle}}
 tr.section-row .cnt{{font-size:12px;font-weight:normal;color:var(--muted);margin-left:6px}}
-tr.date-row td{{background:#0d0f14;padding:12px 16px;font-size:14px;font-weight:700;color:var(--gold);letter-spacing:.05em;border-top:3px solid var(--gold)}}
+tr.date-row td{{background:#0d0f14;padding:12px 16px;font-size:14px;font-weight:700;color:var(--gold);letter-spacing:.05em;border-top:3px solid rgba(245,200,66,.4)}}
 tr.date-row:first-child td{{border-top:none}}
+.tabs{{display:flex;flex-wrap:wrap;gap:6px;margin:20px 0 14px}}
+.tab-btn{{background:rgba(255,255,255,.05);border:1px solid var(--border);border-radius:7px;color:var(--muted);font-size:13px;font-weight:600;padding:6px 16px;cursor:pointer;transition:all .15s}}
+.tab-btn:hover{{border-color:var(--gold);color:var(--gold)}}
+.tab-btn.active{{background:rgba(245,200,66,.15);border-color:var(--gold);color:var(--gold)}}
+.panel-meta{{font-size:12px;color:var(--muted);margin-bottom:10px}}
 .btn-pdf{{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--text);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}}
 .btn-pdf:hover{{border-color:var(--gold);color:var(--gold)}}
 .btn-reload{{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}}
@@ -398,24 +437,18 @@ footer a:hover{{color:var(--gold)}}
   <div class="meta">更新: {updated} JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
 </header>
 <main>
-<div class="wrap">
-  <table style="table-layout:fixed;width:100%">
-    <colgroup>
-      <col class="col-badge">
-      <col class="col-ratio">
-      <col class="col-pdf">
-      <col class="col-code">
-      <col style="width:220px">
-      <col>
-    </colgroup>
-    <thead><tr>
-      <th>区分</th><th class="ratio">保有割合</th><th></th>
-      <th>コード</th><th>銘柄名</th><th>保有者</th>
-    </tr></thead>
-    <tbody>{all_rows}</tbody>
-  </table>
-</div>
+<div class="tabs">{tab_btns}</div>
+{panels}
 </main>
+<script>
+function switchTab(m) {{
+  document.querySelectorAll('.tab-panel').forEach(p => p.style.display='none');
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('panel-'+m).style.display='';
+  document.querySelector('[data-month="'+m+'"]').classList.add('active');
+}}
+switchTab('{first_month}');
+</script>
 <footer>
   大量保有 Radar — EDINET 大量保有報告書・変更報告書 毎日自動集計<br>
   データ取得元: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET（金融庁 電子開示システム）</a><br>
