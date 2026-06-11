@@ -174,26 +174,31 @@ def xbrl_parse(doc_id):
                 if not re.fullmatch(r'[0-9]{3,4}[A-Z]?', issuer_code):
                     issuer_code = None
 
-            # 保有割合（ixbrl.htm は % 表示, .xbrl は小数）
-            ratio_raw = (
-                _ixval(txt, "HoldingRatioOfShareCertificatesEtc") or  # jplvh_cor
-                _ixval(txt, "HoldingRatioOfVotingRights") or           # jplh_cor
+            def _to_pct(raw):
+                if not raw:
+                    return None
+                try:
+                    v = float(raw.replace(",", ""))
+                    v = v * 100 if v < 1.0 else v
+                    return v if 0 < v <= 100 else None
+                except ValueError:
+                    return None
+
+            ratio = _to_pct(
+                _ixval(txt, "HoldingRatioOfShareCertificatesEtc") or
+                _ixval(txt, "HoldingRatioOfVotingRights") or
                 _ixval(txt, "HoldingRatio")
             )
-            ratio = None
-            if ratio_raw:
-                try:
-                    v = float(ratio_raw.replace(",", ""))
-                    ratio = v * 100 if v < 1.0 else v   # decimal→% if needed
-                    if not (1.0 <= ratio <= 100):
-                        ratio = None
-                except ValueError:
-                    pass
+            prev_ratio = _to_pct(
+                _ixval(txt, "HoldingRatioOfShareCertificatesEtcPerLastReport") or
+                _ixval(txt, "HoldingRatioOfVotingRightsPerLastReport") or
+                _ixval(txt, "HoldingRatioPerLastReport")
+            )
 
-            return ratio, issuer_name, issuer_code
+            return ratio, issuer_name, issuer_code, prev_ratio
     except Exception as e:
         print(f"    xbrl fail {doc_id}: {e}")
-    return None, None, None
+    return None, None, None, None
 
 
 def build_entry(doc, companies):
@@ -209,6 +214,7 @@ def build_entry(doc, companies):
         "name": company_name,
         "filer": filer,
         "ratio": ratio,
+        "prev_ratio": None,
         "direction": direction or ("新規" if is_new else "変更"),
         "isNew": is_new,
     }
@@ -216,15 +222,25 @@ def build_entry(doc, companies):
 
 # ─── HTML ──────────────────────────────────────────────────────────────────────
 
-def badge(direction):
+def badge(e):
+    direction = e["direction"]
+    ratio = e["ratio"]
+    prev = e.get("prev_ratio")
     if direction == "新規":
         return '<span class="badge badge-new">新規</span>'
-    elif direction == "増加":
+    # 増減を計算（XBRLの前回比 or descriptionのdirection）
+    if prev is not None and ratio is not None:
+        diff = ratio - prev
+        if abs(diff) >= 0.005:
+            if diff > 0:
+                return f'<span class="badge badge-up">▲ +{diff:.2f}%</span>'
+            else:
+                return f'<span class="badge badge-dn">▼ {diff:.2f}%</span>'
+    if direction == "増加":
         return '<span class="badge badge-up">▲ 増加</span>'
     elif direction == "減少":
         return '<span class="badge badge-dn">▼ 減少</span>'
-    else:
-        return '<span class="badge badge-chg">変更</span>'
+    return '<span class="badge badge-chg">変更</span>'
 
 
 def make_row(e):
@@ -236,7 +252,7 @@ def make_row(e):
         code_cell = "—"
     return (
         f'<tr>'
-        f'<td>{badge(e["direction"])}</td>'
+        f'<td>{badge(e)}</td>'
         f'<td class="code">{code_cell}</td>'
         f'<td class="company">{e["name"] or "—"}</td>'
         f'<td class="filer">{e["filer"] or "—"}</td>'
@@ -380,16 +396,18 @@ def main():
     for i, doc in enumerate(docs):
         e = build_entry(doc, companies)
 
-        # XBRL から補完（銘柄名・コード・保有割合が足りない場合）
-        if not e["sec"] or not e["name"] or e["ratio"] is None:
+        # XBRL から補完（銘柄名・コード・保有割合・前回比が足りない場合）
+        if not e["sec"] or not e["name"] or e["ratio"] is None or e.get("prev_ratio") is None:
             print(f"  [{i+1}/{len(docs)}] XBRL fetch {e['docId']}")
-            xratio, xname, xcode = xbrl_parse(e["docId"])
+            xratio, xname, xcode, xprev = xbrl_parse(e["docId"])
             if not e["sec"] and xcode:
                 e["sec"] = xcode
             if not e["name"] and xname:
                 e["name"] = xname
             if e["ratio"] is None and xratio:
                 e["ratio"] = xratio
+            if e.get("prev_ratio") is None and xprev is not None:
+                e["prev_ratio"] = xprev
             time.sleep(0.3)
 
         tag = "NEW" if e["isNew"] else "CHG"
