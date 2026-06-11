@@ -12,10 +12,19 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 JST = ZoneInfo("Asia/Tokyo")
-API = "https://disclosure.edinet-api.go.jp/api/v2"
-UA = {"User-Agent": "holdings-radar/1.0 (https://github.com/jpn-x/holdings-radar)"}
+API = "https://api.edinet-fsa.go.jp/api/v2"
 
 CACHE_FILE = os.path.join(os.path.dirname(__file__), "..", "companies_cache.json")
+
+_sub_key = os.environ.get("EDINET_API_KEY", "")
+
+def _params(**kw):
+    """Merge Subscription-Key into params dict"""
+    if _sub_key:
+        kw["Subscription-Key"] = _sub_key
+    return kw
+
+UA = {"User-Agent": "holdings-radar/1.0 (https://github.com/jpn-x/holdings-radar)"}
 
 NEW_TYPES = {"28", "29"}   # 大量保有報告書
 CHG_TYPES = {"30", "31"}   # 変更報告書
@@ -32,43 +41,26 @@ def get_date():
     return d.strftime("%Y-%m-%d")
 
 
-def api_get(path, **params):
-    r = requests.get(f"{API}/{path}", params=params, headers=UA, timeout=60)
+def api_get(path, **kwargs):
+    r = requests.get(f"{API}/{path}", params=_params(**kwargs), headers=UA, timeout=60)
     r.raise_for_status()
     return r.json()
 
 
 def load_companies():
     """
-    Build secCode(4桁) → company name map.
-    ローカルキャッシュ優先、なければ EDINET company master を取得してキャッシュ保存。
+    Build secCode(4桁) → company name map from local cache.
+    Cache is built by running: python scripts/build_cache.py
+    (EDINET API に company list エンドポイントは存在しないため手動ビルド)
     """
     cache_path = os.path.abspath(CACHE_FILE)
-
     if os.path.exists(cache_path):
         with open(cache_path, encoding="utf-8") as f:
             m = json.load(f)
-        print(f"  company cache: {len(m)} entries from {cache_path}")
+        print(f"  company cache: {len(m)} entries")
         return m
-
-    print("  Fetching EDINET company master (初回のみ)...")
-    try:
-        data = api_get("company.json", type=1)
-        m = {}
-        for c in data.get("results", []):
-            sec = (c.get("secCode") or "").rstrip("0")
-            name = c.get("filerName") or ""
-            if sec and name:
-                m[sec] = name
-        if m:
-            with open(cache_path, "w", encoding="utf-8") as f:
-                json.dump(m, f, ensure_ascii=False)
-            print(f"  Saved {len(m)} entries to cache")
-            return m
-    except Exception as e:
-        print(f"  WARNING: company master fetch failed: {e}")
-
-    print("  銘柄名なし（コードのみ表示）")
+    print("  companies_cache.json not found. Showing secCode only.")
+    print("  Tip: Run 'python scripts/build_cache.py' to generate it.")
     return {}
 
 
@@ -104,7 +96,7 @@ def xbrl_ratio(doc_id):
     """Download document zip and extract holding ratio from XBRL"""
     try:
         r = requests.get(f"{API}/documents/{doc_id}",
-                         params={"type": 1}, headers=UA, timeout=60, stream=True)
+                         params=_params(type=1), headers=UA, timeout=60, stream=True)
         r.raise_for_status()
         raw = b"".join(r.iter_content(65536))
         with zipfile.ZipFile(io.BytesIO(raw)) as zf:
@@ -161,7 +153,7 @@ def badge(direction):
 
 def make_row(e):
     ratio_str = f"{e['ratio']:.2f}%" if e["ratio"] is not None else "—"
-    pdf_url = f"https://disclosure.edinet-api.go.jp/api/v2/documents/{e['docId']}?type=2"
+    pdf_url = f"https://api.edinet-fsa.go.jp/api/v2/documents/{e['docId']}?type=2"
     if e["sec"]:
         code_cell = f'<a href="https://finance.yahoo.co.jp/quote/{e["sec"]}.T" target="_blank">{e["sec"]}</a>'
     else:
@@ -328,7 +320,7 @@ def main():
     html = generate_html(new_entries, chg_entries, date)
     with open(out, "w", encoding="utf-8") as f:
         f.write(html)
-    print(f"Done — index.html generated ({len(new_entries)} new, {len(chg_entries)} changes)")
+    print(f"Done - index.html generated ({len(new_entries)} new, {len(chg_entries)} changes)")
 
 
 if __name__ == "__main__":

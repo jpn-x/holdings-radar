@@ -1,14 +1,18 @@
 name: Daily Update
 
 on:
-  # ローカルから push されたとき自動デプロイ（GitHub Pages ビルドのみ）
+  # push で index.html が更新されたとき GitHub Pages を自動ビルド
   push:
     branches: [master]
     paths:
       - "index.html"
       - "favicon.svg"
+      - "companies_cache.json"
 
-  # 手動トリガー（VPN 経由など日本 IP が使える環境があれば実行可能）
+  # 手動 or スケジュール実行（EDINET_API_KEY が設定されていれば GitHub Actions からも動く）
+  schedule:
+    # 平日 18:00 JST = 09:00 UTC
+    - cron: "0 9 * * 1-5"
   workflow_dispatch:
     inputs:
       target_date:
@@ -21,8 +25,8 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    # 手動トリガー時のみ実行
-    if: github.event_name == 'workflow_dispatch'
+    # push イベント以外（手動/スケジュール）のときのみ実行
+    if: github.event_name != 'push'
     steps:
       - uses: actions/checkout@v4
 
@@ -34,24 +38,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Check EDINET connectivity
-        id: connectivity
-        run: |
-          if curl -sf --max-time 10 "https://disclosure.edinet-api.go.jp/api/v2/documents.json?date=2024-01-01&type=1" > /dev/null 2>&1; then
-            echo "reachable=true" >> $GITHUB_OUTPUT
-          else
-            echo "reachable=false" >> $GITHUB_OUTPUT
-            echo "::warning::EDINET API unreachable from this runner (IP restriction). Run locally."
-          fi
-
       - name: Run fetch
-        if: steps.connectivity.outputs.reachable == 'true'
         env:
           TARGET_DATE: ${{ github.event.inputs.target_date }}
+          EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
         run: python scripts/fetch.py
 
       - name: Commit & push
-        if: steps.connectivity.outputs.reachable == 'true'
         run: |
           git config user.name  "holdings-radar[bot]"
           git config user.email "holdings-radar[bot]@users.noreply.github.com"

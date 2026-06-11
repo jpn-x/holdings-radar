@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>大量保有 Radar</title>
+<title>大量保有 Radar — 2026-06-10</title>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <style>
 :root{
@@ -12,18 +12,94 @@
   --gold:#f5c842;--green:#3ddc84;--red:#ff5c5c;--blue:#4fa8ff;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:'Hiragino Sans','Noto Sans JP',sans-serif;font-size:14px;min-height:100vh;display:flex;align-items:center;justify-content:center}
-.init{text-align:center;padding:48px;color:var(--muted)}
-.init svg{display:block;margin:0 auto 20px}
-.init p{font-size:15px;line-height:2}
-.init code{color:var(--gold);font-size:13px}
+body{background:var(--bg);color:var(--text);font-family:'Hiragino Sans','Noto Sans JP',sans-serif;font-size:14px;min-height:100vh}
+header{background:var(--surf);border-bottom:1px solid var(--border);padding:14px 24px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.logo{width:32px;height:32px;flex-shrink:0}
+h1{font-size:18px;font-weight:700;color:var(--gold);letter-spacing:.05em}
+.meta{margin-left:auto;font-size:12px;color:var(--muted)}
+.meta a{color:var(--muted);text-decoration:none}
+.meta a:hover{color:var(--gold)}
+main{padding:20px 24px;max-width:1280px;margin:0 auto}
+.sec-head{display:flex;align-items:center;gap:8px;margin:28px 0 10px;font-size:15px;font-weight:700}
+.dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.dot-new{background:var(--gold)}
+.dot-chg{background:var(--blue)}
+.cnt{font-size:12px;font-weight:normal;color:var(--muted)}
+.wrap{overflow-x:auto;border-radius:10px;border:1px solid var(--border)}
+table{width:100%;border-collapse:collapse}
+thead th{background:#1c2130;padding:9px 14px;text-align:left;color:var(--muted);font-size:11px;font-weight:600;white-space:nowrap;border-bottom:1px solid var(--border)}
+tbody tr{border-bottom:1px solid var(--border)}
+tbody tr:last-child{border-bottom:none}
+tbody tr:hover{background:rgba(255,255,255,.03)}
+td{padding:10px 14px;vertical-align:middle}
+.badge{display:inline-block;padding:3px 8px;border-radius:5px;font-size:11px;font-weight:700;white-space:nowrap}
+.badge-new{background:rgba(245,200,66,.15);color:var(--gold);border:1px solid rgba(245,200,66,.3)}
+.badge-up{background:rgba(61,220,132,.12);color:var(--green);border:1px solid rgba(61,220,132,.3)}
+.badge-dn{background:rgba(255,92,92,.12);color:var(--red);border:1px solid rgba(255,92,92,.3)}
+.badge-chg{background:rgba(79,168,255,.12);color:var(--blue);border:1px solid rgba(79,168,255,.3)}
+td.code{font-weight:700;white-space:nowrap}
+td.code a{color:var(--gold);text-decoration:none}
+td.code a:hover{text-decoration:underline}
+td.company{font-weight:600;max-width:200px}
+td.filer{color:var(--muted);font-size:13px;max-width:300px}
+td.ratio{font-weight:700;font-size:15px;text-align:right;white-space:nowrap;color:var(--text)}
+.btn-pdf{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--muted);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}
+.btn-pdf:hover{border-color:var(--gold);color:var(--gold)}
+.empty{text-align:center;color:var(--muted);padding:24px;font-size:13px}
+footer{text-align:center;padding:32px 16px;color:var(--muted);font-size:12px;line-height:2;margin-top:20px}
+footer a{color:var(--muted);text-decoration:none}
+footer a:hover{color:var(--gold)}
+@media(max-width:680px){
+  td.filer{display:none}
+  main{padding:12px}
+  td,th{padding:8px 10px}
+  h1{font-size:16px}
+}
 </style>
 </head>
 <body>
-<div class="init">
-  <img src="favicon.svg" width="64" height="64" alt="">
-  <p>GitHub Actions が初回実行されると<br>大量保有データが表示されます。<br><br>
-  手動実行: <code>Actions → Daily Update → Run workflow</code></p>
+<header>
+  <img src="favicon.svg" class="logo" alt="">
+  <h1>大量保有 Radar</h1>
+  <div class="meta">更新: 2026年06月11日 14:42 JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
+</header>
+<main>
+
+<div class="sec-head">
+  <span class="dot dot-new"></span>
+  大量保有報告書（新規）
+  <span class="cnt">0 件</span>
 </div>
+<div class="wrap">
+  <table>
+    <thead><tr>
+      <th>区分</th><th>コード</th><th>銘柄名</th>
+      <th>保有者</th><th style="text-align:right">保有割合</th><th></th>
+    </tr></thead>
+    <tbody><tr><td colspan="6" class="empty">本日の提出書類はありません</td></tr></tbody>
+  </table>
+</div>
+
+<div class="sec-head">
+  <span class="dot dot-chg"></span>
+  変更報告書
+  <span class="cnt">0 件</span>
+</div>
+<div class="wrap">
+  <table>
+    <thead><tr>
+      <th>区分</th><th>コード</th><th>銘柄名</th>
+      <th>保有者</th><th style="text-align:right">保有割合</th><th></th>
+    </tr></thead>
+    <tbody><tr><td colspan="6" class="empty">本日の提出書類はありません</td></tr></tbody>
+  </table>
+</div>
+
+</main>
+<footer>
+  大量保有 Radar — EDINET 大量保有報告書・変更報告書 毎日自動集計<br>
+  データ取得元: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET（金融庁 電子開示システム）</a><br>
+  当サイトは情報提供のみを目的としています。投資判断は自己責任でお願いします。
+</footer>
 </body>
 </html>
