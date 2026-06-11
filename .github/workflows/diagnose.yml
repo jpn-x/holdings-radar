@@ -30,9 +30,17 @@ jobs:
           # Get doc list
           r = requests.get(f"{API}/documents.json", params=p(date=date, type=2), headers=UA, timeout=60)
           docs = r.json().get("results",[])
-          # Pick first 大量保有 or 変更報告書 doc
-          target = next((d for d in docs if d.get("docTypeCode") in {"350","360"}
-                        and "訂正" not in d.get("docDescription","")), None)
+          # Pick a doc with desc = 大量保有報告書 or 変更報告書 (non-特例, non-訂正)
+          target = next((d for d in docs
+              if d.get("docTypeCode") in {"350","360"}
+              and d.get("docDescription","") in {"大量保有報告書","変更報告書"}
+          ), None)
+          if not target:  # fallback: any 350 without 特例
+              target = next((d for d in docs
+                  if d.get("docTypeCode") in {"350"}
+                  and "特例" not in d.get("docDescription","")
+                  and "訂正" not in d.get("docDescription","")
+              ), None)
           if not target:
               print("No target doc found"); exit()
           doc_id = target["docID"]
@@ -48,8 +56,11 @@ jobs:
                       print(f"\n--- {name} (first 3000 chars) ---")
                       # Show all data elements (not context/schema)
                       import re as re2
-                      elems = re2.findall(r'<(jplvh_cor|jplh_cor|jpdei_cor)[^>]*>([^<]{1,100})</\1', txt)
-                      for tag, val in elems[:60]:
-                          print(f"  {tag}: {val.strip()}")
+                      # Match full qualified name: <prefix:ElementName attrs>value</prefix:ElementName>
+                      elems = re2.findall(
+                          r'<((jplvh_cor|jplh_cor|jpdei_cor):\w+)[^>]*>\s*([^<]{1,200}?)\s*</\1\s*>',
+                          txt)
+                      for fullname, _ns, val in elems[:80]:
+                          print(f"  {fullname}: {val.strip()}")
                       break
           EOF
