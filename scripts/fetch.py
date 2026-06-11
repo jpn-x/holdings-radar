@@ -469,11 +469,15 @@ footer a:hover{{color:var(--gold)}}
 <div class="search-bar">
   <div class="search-group">
     <span class="search-label">コード番号検索</span>
-    <input class="search-input" id="inp-code" type="text" placeholder="例: 8001, 436A" oninput="doSearch()">
+    <input class="search-input" id="inp-code" type="text" placeholder="例: 8001, 436A"
+      oninput="doSearch()" onfocus="showHistory('code')" onblur="hideHistory('code')" autocomplete="off" list="">
+    <datalist id="dl-code"></datalist>
   </div>
   <div class="search-group">
     <span class="search-label">保有者検索</span>
-    <input class="search-input" id="inp-filer" type="text" placeholder="例: Evo Fund, 伊藤忠" oninput="doSearch()">
+    <input class="search-input" id="inp-filer" type="text" placeholder="例: Evo Fund, 伊藤忠"
+      oninput="doSearch()" onfocus="showHistory('filer')" onblur="hideHistory('filer')" autocomplete="off" list="">
+    <datalist id="dl-filer"></datalist>
   </div>
   <button class="btn-clear" onclick="clearSearch()">✕ クリア</button>
 </div>
@@ -554,8 +558,10 @@ function doSearch() {{
     </tr>`;
   }}).join('');
 
+  if (code)  addHist('code', document.getElementById('inp-code').value.trim());
+  if (filer) addHist('filer', filer);
   document.getElementById('search-meta').textContent = `検索結果: ${{results.length}} 件`;
-  document.getElementById('search-panel').style.display = '';
+  document.getElementById('search-panel').style.display = 'block';
   document.getElementById('tab-bar').style.display = 'none';
   document.querySelectorAll('.tab-panel').forEach(p => p.style.display = 'none');
 }}
@@ -579,6 +585,41 @@ function switchTab(m) {{
 }}
 let currentTab = '{first_month}';
 switchTab('{first_month}');
+
+// ─── 検索履歴（localStorage） ───────────────────────────────
+const HIST_KEY = {{ code: 'radar_hist_code', filer: 'radar_hist_filer' }};
+const HIST_MAX = 10;
+
+function getHist(type) {{
+  try {{ return JSON.parse(localStorage.getItem(HIST_KEY[type]) || '[]'); }}
+  catch {{ return []; }}
+}}
+function addHist(type, val) {{
+  if (!val) return;
+  let h = getHist(type).filter(x => x !== val);
+  h.unshift(val);
+  h = h.slice(0, HIST_MAX);
+  localStorage.setItem(HIST_KEY[type], JSON.stringify(h));
+  updateDatalist(type);
+}}
+function updateDatalist(type) {{
+  const dl = document.getElementById('dl-' + type);
+  if (!dl) return;
+  dl.innerHTML = getHist(type).map(v => `<option value="${{v}}">`).join('');
+}}
+function showHistory(type) {{
+  const inp = document.getElementById('inp-' + type);
+  inp.setAttribute('list', 'dl-' + type);
+  updateDatalist(type);
+}}
+function hideHistory(type) {{
+  // 少し遅らせて選択を優先
+  setTimeout(() => document.getElementById('inp-' + type)?.removeAttribute('list'), 200);
+}}
+
+// ページ読み込み時にdatalist初期化
+updateDatalist('code');
+updateDatalist('filer');
 </script>
 <footer>
   大量保有 Radar — EDINET 大量保有報告書・変更報告書 毎日自動集計<br>
