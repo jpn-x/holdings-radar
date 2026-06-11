@@ -14,31 +14,38 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install requests -q
-      - name: Diagnose
+      - name: Diagnose XBRL sample
         env:
           EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
         run: |
           python - <<'EOF'
-          import requests, os
-          from collections import defaultdict
+          import requests, os, zipfile, io, re
           API = "https://api.edinet-fsa.go.jp/api/v2"
-          UA = {"User-Agent": "diag/1.0"}
+          UA  = {"User-Agent": "diag/1.0"}
           KEY = os.environ.get("EDINET_API_KEY","")
           date = "${{ github.event.inputs.date }}"
           def p(**kw):
               if KEY: kw["Subscription-Key"] = KEY
               return kw
+          # Get doc list
           r = requests.get(f"{API}/documents.json", params=p(date=date, type=2), headers=UA, timeout=60)
           docs = r.json().get("results",[])
-          print(f"\n{date}: {len(docs)} docs\n")
-          by_code = defaultdict(list)
-          for d in docs: by_code[d.get("docTypeCode","")].append(d)
-          for code in sorted(by_code):
-              samples = by_code[code]
-              print(f"[{code}] {len(samples)} docs")
-              for d in samples[:3]:
-                  sec = (d.get("secCode") or "").rstrip("0")
-                  ec  = d.get("edinetCode","")
-                  print(f"  sec={sec:6} ec={ec:8} filer={d.get('filerName','')[:28]:28} desc={d.get('docDescription','')[:45]}")
-              print()
+          # Pick first 大量保有 or 変更報告書 doc
+          target = next((d for d in docs if d.get("docTypeCode") in {"350","360"}
+                        and "訂正" not in d.get("docDescription","")), None)
+          if not target:
+              print("No target doc found"); exit()
+          doc_id = target["docID"]
+          print(f"Fetching XBRL for {doc_id} ({target.get('filerName','')}) - {target.get('docDescription','')}")
+          # Download zip
+          r2 = requests.get(f"{API}/documents/{doc_id}", params=p(type=1), headers=UA, timeout=60, stream=True)
+          raw = b"".join(r2.iter_content(65536))
+          with zipfile.ZipFile(io.BytesIO(raw)) as zf:
+              print("Files in zip:", zf.namelist())
+              for name in zf.namelist():
+                  if name.lower().endswith(".xbrl"):
+                      txt = zf.read(name).decode("utf-8", errors="ignore")
+                      print(f"\n--- {name} (first 3000 chars) ---")
+                      print(txt[:3000])
+                      break
           EOF
