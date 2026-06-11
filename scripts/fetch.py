@@ -254,10 +254,10 @@ def make_row(e):
         f'<tr>'
         f'<td>{badge(e)}</td>'
         f'<td class="ratio">{ratio_str}</td>'
+        f'<td><a href="{pdf_url}" target="_blank" class="btn-pdf">PDF</a></td>'
         f'<td class="code">{code_cell}</td>'
         f'<td class="company">{e["name"] or "—"}</td>'
         f'<td class="filer">{e["filer"] or "—"}</td>'
-        f'<td><a href="{pdf_url}" target="_blank" class="btn-pdf">PDF</a></td>'
         f'</tr>'
     )
 
@@ -317,7 +317,7 @@ th.ratio{{text-align:right}}
 col.col-badge{{width:120px}}
 col.col-ratio{{width:90px}}
 col.col-code{{width:70px}}
-.btn-pdf{{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--muted);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}}
+.btn-pdf{{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--text);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}}
 .btn-pdf:hover{{border-color:var(--gold);color:var(--gold)}}
 .btn-reload{{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}}
 .btn-reload:hover{{background:rgba(245,200,66,.2);border-color:var(--gold)}}
@@ -349,10 +349,10 @@ footer a:hover{{color:var(--gold)}}
 </div>
 <div class="wrap">
   <table>
-    <colgroup><col class="col-badge"><col class="col-ratio"><col class="col-code"><col><col><col style="width:50px"></colgroup>
+    <colgroup><col class="col-badge"><col class="col-ratio"><col style="width:50px"><col class="col-code"><col><col></colgroup>
     <thead><tr>
-      <th>区分</th><th class="ratio">保有割合</th><th>コード</th>
-      <th>銘柄名</th><th>保有者</th><th></th>
+      <th>区分</th><th class="ratio">保有割合</th><th></th>
+      <th>コード</th><th>銘柄名</th><th>保有者</th>
     </tr></thead>
     <tbody>{new_rows}</tbody>
   </table>
@@ -365,10 +365,10 @@ footer a:hover{{color:var(--gold)}}
 </div>
 <div class="wrap">
   <table>
-    <colgroup><col class="col-badge"><col class="col-ratio"><col class="col-code"><col><col><col style="width:50px"></colgroup>
+    <colgroup><col class="col-badge"><col class="col-ratio"><col style="width:50px"><col class="col-code"><col><col></colgroup>
     <thead><tr>
-      <th>区分</th><th class="ratio">保有割合</th><th>コード</th>
-      <th>銘柄名</th><th>保有者</th><th></th>
+      <th>区分</th><th class="ratio">保有割合</th><th></th>
+      <th>コード</th><th>銘柄名</th><th>保有者</th>
     </tr></thead>
     <tbody>{chg_rows}</tbody>
   </table>
