@@ -66,8 +66,13 @@ def load_companies():
 
 def get_docs(date):
     data = api_get("documents.json", date=date, type=2)
-    return [d for d in data.get("results", [])
-            if d.get("docTypeCode") in ALL_TYPES]
+    all_results = data.get("results", [])
+    # Debug: show docTypeCode distribution
+    from collections import Counter
+    code_counts = Counter(d.get("docTypeCode") for d in all_results)
+    print(f"  Total docs: {len(all_results)}, types: {dict(sorted(code_counts.items()))}")
+    filtered = [d for d in all_results if d.get("docTypeCode") in ALL_TYPES]
+    return filtered
 
 
 def parse_desc(desc):
