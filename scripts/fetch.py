@@ -71,6 +71,13 @@ def get_docs(date):
     from collections import Counter
     code_counts = Counter(d.get("docTypeCode") for d in all_results)
     print(f"  Total docs: {len(all_results)}, types: {dict(sorted(code_counts.items()))}")
+    # Show sample docs for each type to identify 大量保有 codes
+    seen = set()
+    for d in all_results:
+        tc = d.get("docTypeCode")
+        if tc not in seen:
+            seen.add(tc)
+            print(f"    [{tc}] filer={d.get('filerName','')[:30]} desc={d.get('docDescription','')[:50]}")
     filtered = [d for d in all_results if d.get("docTypeCode") in ALL_TYPES]
     return filtered
 
