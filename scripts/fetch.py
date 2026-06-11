@@ -262,11 +262,23 @@ def make_row(e):
     )
 
 
+def section_row(label, cnt, dot_cls):
+    return (
+        f'<tr class="section-row">'
+        f'<td colspan="6">'
+        f'<span class="dot {dot_cls}"></span>'
+        f'{label}'
+        f'<span class="cnt">{cnt} 件</span>'
+        f'</td></tr>'
+    )
+
 def generate_html(new_entries, chg_entries, date):
-    empty = '<tr><td colspan="6" class="empty">本日の提出書類はありません</td></tr>'
-    new_rows = "".join(make_row(e) for e in new_entries) or empty
-    chg_rows = "".join(make_row(e) for e in chg_entries) or empty
+    empty_new = '<tr><td colspan="6" class="empty">本日の新規報告はありません</td></tr>'
+    empty_chg = '<tr><td colspan="6" class="empty">本日の変更報告はありません</td></tr>'
+    new_rows = "".join(make_row(e) for e in new_entries) or empty_new
+    chg_rows = "".join(make_row(e) for e in chg_entries) or empty_chg
     updated = datetime.now(JST).strftime("%Y年%m月%d日 %H:%M")
+    date_display = date  # YYYY-MM-DD
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
@@ -314,9 +326,16 @@ td.company{{font-weight:600;max-width:200px}}
 td.filer{{color:var(--text);font-size:13px;max-width:300px}}
 td.ratio{{font-weight:700;font-size:15px;text-align:right;white-space:nowrap;color:var(--text)}}
 th.ratio{{text-align:right}}
-col.col-badge{{width:120px}}
+col.col-badge{{width:130px}}
 col.col-ratio{{width:90px}}
+col.col-pdf{{width:56px}}
 col.col-code{{width:70px}}
+tr.section-row td{{background:#1c2130;padding:10px 16px;font-size:13px;font-weight:700;color:var(--text);border-top:2px solid var(--border);display:flex;align-items:center;gap:8px}}
+tr.section-row{{display:table-row}}
+tr.section-row td{{display:table-cell;vertical-align:middle}}
+tr.section-row .dot{{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle}}
+tr.section-row .cnt{{font-size:12px;font-weight:normal;color:var(--muted);margin-left:6px}}
+.date-chip{{display:inline-block;background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.3);border-radius:6px;color:var(--gold);font-size:13px;font-weight:700;padding:4px 12px;margin-bottom:16px;margin-top:8px}}
 .btn-pdf{{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:5px;color:var(--text);font-size:11px;text-decoration:none;transition:all .15s;white-space:nowrap}}
 .btn-pdf:hover{{border-color:var(--gold);color:var(--gold)}}
 .btn-reload{{background:rgba(245,200,66,.1);border:1px solid rgba(245,200,66,.35);border-radius:6px;color:var(--gold);font-size:12px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}}
@@ -341,39 +360,29 @@ footer a:hover{{color:var(--gold)}}
   <div class="meta">更新: {updated} JST &nbsp;｜&nbsp; データ: <a href="https://disclosure.edinet.go.jp/" target="_blank">EDINET</a></div>
 </header>
 <main>
-
-<div class="sec-head">
-  <span class="dot dot-new"></span>
-  大量保有報告書（新規）
-  <span class="cnt">{len(new_entries)} 件</span>
-</div>
+<div class="date-chip">📅 {date_display}</div>
 <div class="wrap">
-  <table>
-    <colgroup><col class="col-badge"><col class="col-ratio"><col style="width:50px"><col class="col-code"><col><col></colgroup>
+  <table style="table-layout:fixed;width:100%">
+    <colgroup>
+      <col class="col-badge">
+      <col class="col-ratio">
+      <col class="col-pdf">
+      <col class="col-code">
+      <col style="width:220px">
+      <col>
+    </colgroup>
     <thead><tr>
       <th>区分</th><th class="ratio">保有割合</th><th></th>
       <th>コード</th><th>銘柄名</th><th>保有者</th>
     </tr></thead>
-    <tbody>{new_rows}</tbody>
+    <tbody>
+      {section_row("大量保有報告書（新規）", len(new_entries), "dot-new")}
+      {new_rows}
+      {section_row("変更報告書", len(chg_entries), "dot-chg")}
+      {chg_rows}
+    </tbody>
   </table>
 </div>
-
-<div class="sec-head">
-  <span class="dot dot-chg"></span>
-  変更報告書
-  <span class="cnt">{len(chg_entries)} 件</span>
-</div>
-<div class="wrap">
-  <table>
-    <colgroup><col class="col-badge"><col class="col-ratio"><col style="width:50px"><col class="col-code"><col><col></colgroup>
-    <thead><tr>
-      <th>区分</th><th class="ratio">保有割合</th><th></th>
-      <th>コード</th><th>銘柄名</th><th>保有者</th>
-    </tr></thead>
-    <tbody>{chg_rows}</tbody>
-  </table>
-</div>
-
 </main>
 <footer>
   大量保有 Radar — EDINET 大量保有報告書・変更報告書 毎日自動集計<br>
