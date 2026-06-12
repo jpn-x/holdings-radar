@@ -38,11 +38,8 @@ jobs:
       - name: Install dependencies
         run: pip install requests pypdf
 
-      # MSワラント行使ウォッチ（株探がActionsのIPをブロックする可能性があるため失敗許容）
-      - name: Warrant watch
-        continue-on-error: true
-        run: python scripts/warrant_watch.py
-
+      # MSワラント行使ウォッチは株探がActionsのIPをブロック(405)するためローカル実行のみ
+      # (run_daily.bat / タスクスケジューラから更新し、warrants.json をコミットする)
       - name: Run fetch
         env:
           TARGET_DATE: ${{ github.event.inputs.target_date }}

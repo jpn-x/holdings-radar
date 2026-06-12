@@ -322,12 +322,15 @@ def warrant_row(sec):
         pct = f" ({w['exercised_pct']}%)" if w.get("exercised_pct") is not None else ""
         parts.append(f"行使済: {w['exercised']:,}個{total}{pct}")
     if w.get("unexercised") is not None:
-        shares = f"（{w['unexercised_shares']:,}株）" if w.get("unexercised_shares") else ""
-        parts.append(f"<b>未行使残: {w['unexercised']:,}個{shares}</b>")
-        if w.get("unexercised_shares") and w.get("outstanding"):
-            dil = w["unexercised_shares"] / w["outstanding"] * 100
-            parts.append(f"希薄化 {dil:.1f}%")
-    detail = " ｜ ".join(parts) if parts else "数値抽出失敗（PDF参照）"
+        if w["unexercised"] == 0:
+            parts.append('<span class="w-done">☑ 未行使0個・終了</span>')
+        else:
+            shares = f"（{w['unexercised_shares']:,}株）" if w.get("unexercised_shares") else ""
+            parts.append(f"<b>未行使残: {w['unexercised']:,}個{shares}</b>")
+            if w.get("unexercised_shares") and w.get("outstanding"):
+                dil = w["unexercised_shares"] / w["outstanding"] * 100
+                parts.append(f"希薄化 {dil:.1f}%")
+    detail = " ｜ ".join(parts) if parts else '<span class="w-warn">⚠ 数値不明・PDF確認</span>'
     return (
         f'<tr class="warrant-row"><td colspan="6">'
         f'💣 <a href="{w["pdf"]}" target="_blank">{kai}新株予約権 行使状況 ({w["date"]})</a>'
@@ -475,6 +478,8 @@ tr.warrant-row td{{background:#1d1620;border-left:3px solid #c084fc;padding:7px 
 tr.warrant-row a{{color:#c084fc;text-decoration:none;font-weight:600}}
 tr.warrant-row a:hover{{text-decoration:underline}}
 tr.warrant-row .w-detail b{{color:#ff8c5c}}
+tr.warrant-row .w-done{{color:var(--green)}}
+tr.warrant-row .w-warn{{color:var(--gold)}}
 tr.date-row td{{background:#0d0f14;padding:12px 16px;font-size:14px;font-weight:700;color:var(--gold);letter-spacing:.05em;border-top:3px solid rgba(245,200,66,.4)}}
 tr.date-row:first-child td{{border-top:none}}
 .search-bar{{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 6px;align-items:center}}
@@ -562,12 +567,16 @@ function warrantRow(sec) {{
     parts.push(`行使済: ${{w.exercised.toLocaleString()}}個${{total}}${{pct}}`);
   }}
   if (w.unexercised != null) {{
-    const sh = w.unexercised_shares ? `（${{w.unexercised_shares.toLocaleString()}}株）` : '';
-    parts.push(`<b>未行使残: ${{w.unexercised.toLocaleString()}}個${{sh}}</b>`);
-    if (w.unexercised_shares && w.outstanding)
-      parts.push(`希薄化 ${{(w.unexercised_shares / w.outstanding * 100).toFixed(1)}}%`);
+    if (w.unexercised === 0) {{
+      parts.push('<span class="w-done">☑ 未行使0個・終了</span>');
+    }} else {{
+      const sh = w.unexercised_shares ? `（${{w.unexercised_shares.toLocaleString()}}株）` : '';
+      parts.push(`<b>未行使残: ${{w.unexercised.toLocaleString()}}個${{sh}}</b>`);
+      if (w.unexercised_shares && w.outstanding)
+        parts.push(`希薄化 ${{(w.unexercised_shares / w.outstanding * 100).toFixed(1)}}%`);
+    }}
   }}
-  const detail = parts.length ? parts.join(' ｜ ') : '数値抽出失敗（PDF参照）';
+  const detail = parts.length ? parts.join(' ｜ ') : '<span class="w-warn">⚠ 数値不明・PDF確認</span>';
   return `<tr class="warrant-row"><td colspan="6">💣 <a href="${{w.pdf}}" target="_blank">${{kai}}新株予約権 行使状況 (${{w.date}})</a><span class="w-detail"> ｜ ${{detail}}</span></td></tr>`;
 }}
 

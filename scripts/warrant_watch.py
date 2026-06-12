@@ -47,12 +47,12 @@ def collect_watch_codes() -> dict:
 
 
 def fetch_kabutan_news(code: str) -> list:
-    """株探の開示一覧から (日時, タイトル, PDF URL) リストを返す（新しい順）"""
+    """株探の開示一覧から (日時, タイトル, PDF URL) リストを返す（新しい順）
+    アクセスブロック等のHTTPエラー時は例外を投げる（既存データ保持のため）"""
     url = f"https://kabutan.jp/stock/news?code={code}&nmode=4"
     r = requests.get(url, headers=UA, timeout=30)
     if r.status_code != 200:
-        print(f"    kabutan {code}: HTTP {r.status_code}")
-        return []
+        raise RuntimeError(f"kabutan HTTP {r.status_code}")
     rows = []
     pat = re.compile(
         r'<time datetime="([^"]+)"[^>]*>.*?'
@@ -136,12 +136,15 @@ def main():
         with open(OUT_PATH, encoding="utf-8") as f:
             results = json.load(f).get("items", {})
 
+    ok_count = 0
     for i, (code, info) in enumerate(sorted(codes.items())):
         print(f"[{i+1}/{len(codes)}] {code} {info['name'][:20]}")
         try:
             news = fetch_kabutan_news(code)
+            ok_count += 1
         except Exception as e:
-            print(f"    list error: {e}")
+            print(f"    list error: {e} — 既存データ保持")
+            time.sleep(1.5)
             continue
         hit = next((n for n in news if TITLE_RE.search(n["title"])), None)
         if not hit:
@@ -165,6 +168,10 @@ def main():
             print(f"    → 未行使: {data.get('unexercised')}個 ({data.get('unexercised_shares')}株)")
         else:
             print(f"    → 数値抽出できず（タイトルのみ保存）")
+
+    if ok_count == 0:
+        print("\n全銘柄アクセス失敗（ブロックの可能性）— warrants.json は更新しません")
+        sys.exit(1)
 
     payload = {
         "updated": datetime.now(JST).strftime("%Y-%m-%d %H:%M"),
