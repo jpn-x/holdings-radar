@@ -164,9 +164,10 @@ def xbrl_parse(doc_id):
             )
             # 証券コード（4桁）
             issuer_code = (
-                _ixval(txt, "SecurityCodeOfIssuer") or    # jplvh_cor
+                _ixval(txt, "SecurityCodeOfIssuer") or    # jplvh_cor (発行会社コード)
                 _ixval(txt, "IssuedCompanySecuritiesCode") or
-                _ixval(txt, "SecuritiesCode")
+                _ixval(txt, "SecuritiesCodeOfIssuer")
+                # ※ SecuritiesCode は除外: 保有者自身のコードを返す誤検知が多い
             )
             if issuer_code:
                 issuer_code = issuer_code.strip()
@@ -260,6 +261,7 @@ def make_row(e):
         f'<td class="company">{e["name"] or "—"}</td>'
         f'<td class="filer">{e["filer"] or "—"}</td>'
         f'</tr>'
+        + warrant_row(e.get("sec") or "")
     )
 
 
@@ -287,10 +289,51 @@ def load_all_days():
     os.makedirs(DATA_DIR, exist_ok=True)
     days = []
     for fname in sorted(os.listdir(DATA_DIR), reverse=True):
-        if fname.endswith(".json"):
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", fname):
             with open(os.path.join(DATA_DIR, fname), encoding="utf-8") as f:
                 days.append(json.load(f))
     return days
+
+
+def load_warrants():
+    """MSワラント行使ウォッチデータ (warrants.json) を読み込む"""
+    path = os.path.join(DATA_DIR, "warrants.json")
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f).get("items", {})
+
+
+# generate_html 時にセットされるグローバル（make_row から参照）
+WARRANTS = {}
+
+
+def warrant_row(sec):
+    """銘柄コードに対応する💣行使ウォッチ行（なければ空文字）"""
+    w = WARRANTS.get(sec)
+    if not w:
+        return ""
+    kai = f"第{w['kai']}回" if w.get("kai") else ""
+    parts = []
+    if w.get("kofu") is not None:
+        parts.append(f"交付: {w['kofu']:,}株")
+    if w.get("exercised") is not None:
+        total = f"/{w['total']:,}個" if w.get("total") else ""
+        pct = f" ({w['exercised_pct']}%)" if w.get("exercised_pct") is not None else ""
+        parts.append(f"行使済: {w['exercised']:,}個{total}{pct}")
+    if w.get("unexercised") is not None:
+        shares = f"（{w['unexercised_shares']:,}株）" if w.get("unexercised_shares") else ""
+        parts.append(f"<b>未行使残: {w['unexercised']:,}個{shares}</b>")
+        if w.get("unexercised_shares") and w.get("outstanding"):
+            dil = w["unexercised_shares"] / w["outstanding"] * 100
+            parts.append(f"希薄化 {dil:.1f}%")
+    detail = " ｜ ".join(parts) if parts else "数値抽出失敗（PDF参照）"
+    return (
+        f'<tr class="warrant-row"><td colspan="6">'
+        f'💣 <a href="{w["pdf"]}" target="_blank">{kai}新株予約権 行使状況 ({w["date"]})</a>'
+        f'<span class="w-detail"> ｜ {detail}</span>'
+        f'</td></tr>'
+    )
 
 
 def make_day_block(day):
@@ -312,6 +355,8 @@ def make_day_block(day):
 
 
 def generate_html(days, updated_str):
+    global WARRANTS
+    WARRANTS = load_warrants()
     updated = updated_str
     date = days[0]["date"] if days else ""
 
@@ -368,6 +413,7 @@ def generate_html(days, updated_str):
                 "docId": e.get("docId") or "",
             })
     all_entries_json = _json.dumps(all_entries, ensure_ascii=False)
+    warrants_json = _json.dumps(WARRANTS, ensure_ascii=False)
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
@@ -425,6 +471,10 @@ tr.section-row{{display:table-row}}
 tr.section-row td{{display:table-cell;vertical-align:middle}}
 tr.section-row .dot{{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle}}
 tr.section-row .cnt{{font-size:12px;font-weight:normal;color:var(--muted);margin-left:6px}}
+tr.warrant-row td{{background:#1d1620;border-left:3px solid #c084fc;padding:7px 16px 7px 24px;font-size:12.5px;color:var(--muted)}}
+tr.warrant-row a{{color:#c084fc;text-decoration:none;font-weight:600}}
+tr.warrant-row a:hover{{text-decoration:underline}}
+tr.warrant-row .w-detail b{{color:#ff8c5c}}
 tr.date-row td{{background:#0d0f14;padding:12px 16px;font-size:14px;font-weight:700;color:var(--gold);letter-spacing:.05em;border-top:3px solid rgba(245,200,66,.4)}}
 tr.date-row:first-child td{{border-top:none}}
 .search-bar{{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 6px;align-items:center}}
@@ -498,6 +548,28 @@ footer a:hover{{color:var(--gold)}}
 </main>
 <script>
 const ALL = {all_entries_json};
+const WARRANTS = {warrants_json};
+
+function warrantRow(sec) {{
+  const w = WARRANTS[sec];
+  if (!w) return '';
+  const kai = w.kai ? `第${{w.kai}}回` : '';
+  const parts = [];
+  if (w.kofu != null) parts.push(`交付: ${{w.kofu.toLocaleString()}}株`);
+  if (w.exercised != null) {{
+    const total = w.total ? `/${{w.total.toLocaleString()}}個` : '';
+    const pct = w.exercised_pct != null ? ` (${{w.exercised_pct}}%)` : '';
+    parts.push(`行使済: ${{w.exercised.toLocaleString()}}個${{total}}${{pct}}`);
+  }}
+  if (w.unexercised != null) {{
+    const sh = w.unexercised_shares ? `（${{w.unexercised_shares.toLocaleString()}}株）` : '';
+    parts.push(`<b>未行使残: ${{w.unexercised.toLocaleString()}}個${{sh}}</b>`);
+    if (w.unexercised_shares && w.outstanding)
+      parts.push(`希薄化 ${{(w.unexercised_shares / w.outstanding * 100).toFixed(1)}}%`);
+  }}
+  const detail = parts.length ? parts.join(' ｜ ') : '数値抽出失敗（PDF参照）';
+  return `<tr class="warrant-row"><td colspan="6">💣 <a href="${{w.pdf}}" target="_blank">${{kai}}新株予約権 行使状況 (${{w.date}})</a><span class="w-detail"> ｜ ${{detail}}</span></td></tr>`;
+}}
 
 function badge(e) {{
   const d = e.direction, r = e.ratio, p = e.prev_ratio;
@@ -528,7 +600,7 @@ function makeRow(e) {{
     <td class="code">${{code}}</td>
     <td class="company">${{e.name || '—'}}</td>
     <td class="filer">${{e.filer || '—'}}</td>
-  </tr>`;
+  </tr>` + warrantRow(e.sec);
 }}
 
 function doSearch() {{
@@ -557,7 +629,7 @@ function doSearch() {{
       <td class="code">${{code2}}</td>
       <td class="company">${{e.name || '—'}}</td>
       <td class="filer">${{e.filer || '—'}}</td>
-    </tr>`;
+    </tr>` + warrantRow(e.sec);
   }}).join('');
 
   if (code)  addHist('code', document.getElementById('inp-code').value.trim());
@@ -656,6 +728,13 @@ def main():
         if not e["sec"] or not e["name"] or e["ratio"] is None or e.get("prev_ratio") is None:
             print(f"  [{i+1}/{len(docs)}] XBRL fetch {e['docId']}")
             xratio, xname, xcode, xprev = xbrl_parse(e["docId"])
+            if xcode:
+                # 保有者自身のコードを誤って返すケースを除外
+                # EDINET API の secCode は提出者（保有者）のコードなので、一致したら却下
+                filer_sec = (doc.get("secCode") or "").strip()
+                if filer_sec and xcode == filer_sec:
+                    print(f"    [warn] xcode={xcode} matches filer secCode — ignored")
+                    xcode = None
             if xcode:
                 e["sec"] = xcode  # 発行会社のコード（XBRLが正）
             if not e["name"] and xname:

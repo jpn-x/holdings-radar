@@ -36,7 +36,12 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests pypdf
+
+      # MSワラント行使ウォッチ（株探がActionsのIPをブロックする可能性があるため失敗許容）
+      - name: Warrant watch
+        continue-on-error: true
+        run: python scripts/warrant_watch.py
 
       - name: Run fetch
         env:
