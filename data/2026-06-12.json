@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-12",
+  "new": [
+    {
+      "docId": "S100YAMB",
+      "sec": "3719",
+      "name": "ＡＩストーム株式会社",
+      "filer": "ＤＹＮＡＭＩＣ　ＢＥＳＴ　ＧＲＯＵＰ　ＬＩＭＩＴＥＤ",
+      "ratio": 9.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YBBZ",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 20.52,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YB1N",
+      "sec": "4179",
+      "name": "株式会社ジーネクスト",
+      "filer": "横治　祐介",
+      "ratio": 10.65,
+      "prev_ratio": 13.09,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YAM7",
+      "sec": "5288",
+      "name": "アジアパイルホールディングス株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 2.43,
+      "prev_ratio": 11.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8X2",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 41.83,
+      "prev_ratio": 22.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y9CY",
+      "sec": "4475",
+      "name": "HENNGE株式会社",
+      "filer": "宮本　和明",
+      "ratio": 9.28,
+      "prev_ratio": 10.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB10",
+      "sec": "8783",
+      "name": "ａｂｃ株式会社",
+      "filer": "ＷＯＷＯＯ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 36.97,
+      "prev_ratio": 37.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB41",
+      "sec": "7502",
+      "name": "株式会社プラザホールディングス",
+      "filer": "ソフトバンク株式会社",
+      "ratio": 5.56,
+      "prev_ratio": 9.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y9J3",
+      "sec": "7057",
+      "name": "株式会社エヌ・シー・エヌ",
+      "filer": "田鎖　郁夫",
+      "ratio": 11.95,
+      "prev_ratio": 11.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB7I",
+      "sec": "3083",
+      "name": "スターシーズ　株式会社",
+      "filer": "株式会社　光輝ＥＮＥＲＧＹ",
+      "ratio": 7.62,
+      "prev_ratio": 7.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAZN",
+      "sec": "3664",
+      "name": "株式会社WIZE",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 39.57,
+      "prev_ratio": 45.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAZB",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 27.05,
+      "prev_ratio": 27.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAEH",
+      "sec": "8289",
+      "name": "株式会社Olympicグループ",
+      "filer": "株式会社カネヨシ",
+      "ratio": 27.38,
+      "prev_ratio": 27.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y9YD",
+      "sec": "6058",
+      "name": "株式会社ベクトル",
+      "filer": "西江　肇司",
+      "ratio": 12.18,
+      "prev_ratio": 12.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YA06",
+      "sec": "6058",
+      "name": "株式会社ベクトル",
+      "filer": "西江　肇司",
+      "ratio": 12.18,
+      "prev_ratio": 12.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y9HF",
+      "sec": "7361",
+      "name": "株式会社ヒューマンクリエイションホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 6.63,
+      "prev_ratio": 6.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y9HH",
+      "sec": "9658",
+      "name": "株式会社ビジネスブレイン太田昭和",
+      "filer": "光通信株式会社",
+      "ratio": 7.39,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB00",
+      "sec": "3823",
+      "name": "ＴＨＥ　ＷＨＹ　ＨＯＷ　ＤＯ　ＣＯＭＰＡＮＹ株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 5.01,
+      "prev_ratio": 5.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB5S",
+      "sec": "2172",
+      "name": "株式会社インサイト",
+      "filer": "浅井　一",
+      "ratio": 20.87,
+      "prev_ratio": 29.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB6H",
+      "sec": "3513",
+      "name": "イチカワ株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 24.0,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB6W",
+      "sec": "3512",
+      "name": "日本フエルト株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 2.03,
+      "prev_ratio": 1.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y9CN",
+      "sec": "6706",
+      "name": "電気興業",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 11.02,
+      "prev_ratio": 10.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAXW",
+      "sec": "4691",
+      "name": "ワシントンホテル株式会社",
+      "filer": "アパホールディングス株式会社",
+      "ratio": 4.61,
+      "prev_ratio": 3.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y9E3",
+      "sec": "4019",
+      "name": "株式会社スタメン",
+      "filer": "株式会社スターフロンツ",
+      "ratio": 1.34,
+      "prev_ratio": 2.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBBU",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 64.29,
+      "prev_ratio": 65.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAPG",
+      "sec": "1518",
+      "name": "三井松島ホールディングス株式会社",
+      "filer": "株式会社エスグラントコーポレーション",
+      "ratio": 4.94,
+      "prev_ratio": 99.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBA7",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 36.4,
+      "prev_ratio": 38.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBCD",
+      "sec": "9425",
+      "name": "ReYuu Japan株式会社",
+      "filer": "株式会社Ｓｈｏｗｃａｓｅ　Ｃａｐｉｔａｌ",
+      "ratio": 12.6,
+      "prev_ratio": 7.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBC9",
+      "sec": "9024",
+      "name": "株式会社西武ホールディングス",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 9.02,
+      "prev_ratio": 7.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBCM",
+      "sec": "7685",
+      "name": "株式会社 BuySell Technologies",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 49.02,
+      "prev_ratio": 49.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBCZ",
+      "sec": "9166",
+      "name": "株式会社 GENDA",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 28.53,
+      "prev_ratio": 28.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBBJ",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 17.41,
+      "prev_ratio": 20.92,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
