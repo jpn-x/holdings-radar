@@ -1,0 +1,317 @@
+{
+  "date": "2025-10-17",
+  "new": [
+    {
+      "docId": "S100WUYM",
+      "sec": "6255",
+      "name": "株式会社エヌ・ピー・シー",
+      "filer": "ＬＩＭ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WVQ4",
+      "sec": "423A",
+      "name": "株式会社ライオン事務器",
+      "filer": "株式会社　大塚商会",
+      "ratio": 38.25,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WSAL",
+      "sec": "2986",
+      "name": "株式会社LAホールディングス",
+      "filer": "サマーバンク合同会社",
+      "ratio": 7.43,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WVRY",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "有限会社カツコーポレーション",
+      "ratio": 33.93,
+      "prev_ratio": 33.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVS5",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "有限会社カツコーポレーション",
+      "ratio": 33.93,
+      "prev_ratio": 33.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVSF",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "有限会社カツコーポレーション",
+      "ratio": 33.93,
+      "prev_ratio": 33.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVRJ",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "福村　康廣",
+      "ratio": 4.11,
+      "prev_ratio": 5.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVSY",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人　投資証券",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 28.999999999999996,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVTN",
+      "sec": "5101",
+      "name": "横浜ゴム株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 9.0,
+      "prev_ratio": 33.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WV90",
+      "sec": "4588",
+      "name": "オンコリスバイオファーマ株式会社",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 9.49,
+      "prev_ratio": 10.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVRR",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.65,
+      "prev_ratio": 21.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVT0",
+      "sec": "212A",
+      "name": "フィットイージー株式会社",
+      "filer": "株式会社オリーブ",
+      "ratio": 45.4,
+      "prev_ratio": 47.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVJC",
+      "sec": "4616",
+      "name": "川上塗料株式会社",
+      "filer": "株式会社サイブリッジ",
+      "ratio": 15.55,
+      "prev_ratio": 15.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVS4",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 24.79,
+      "prev_ratio": 25.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVSV",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 48.67,
+      "prev_ratio": 49.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVV7",
+      "sec": "8011",
+      "name": "株式会社三陽商会",
+      "filer": "八木通商株式会社",
+      "ratio": 9.51,
+      "prev_ratio": 13.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WST6",
+      "sec": "9206",
+      "name": "株式会社スターフライヤー",
+      "filer": "株式会社ジャパネットホールディングス",
+      "ratio": 13.21,
+      "prev_ratio": 33.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUQY",
+      "sec": "7128",
+      "name": "フルサト・マルカホールディングス株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 16.91,
+      "prev_ratio": 17.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WURF",
+      "sec": "9699",
+      "name": "ニシオホールディングス株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 14.42,
+      "prev_ratio": 14.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUS0",
+      "sec": "6566",
+      "name": "株式会社要興業",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 27.62,
+      "prev_ratio": 27.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUVO",
+      "sec": "6151",
+      "name": "日東工器株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 11.0,
+      "prev_ratio": 10.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUU1",
+      "sec": "6517",
+      "name": "デンヨー株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 13.68,
+      "prev_ratio": 13.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUX7",
+      "sec": "2492",
+      "name": "株式会社インフォマート",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 23.8,
+      "prev_ratio": 22.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WV70",
+      "sec": "5011",
+      "name": "ニチレキグループ株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 16.31,
+      "prev_ratio": 15.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WV92",
+      "sec": "8511",
+      "name": "日本証券金融株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 23.29,
+      "prev_ratio": 24.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVME",
+      "sec": "6596",
+      "name": "筑波精工株式会社",
+      "filer": "合同会社ＴＣＴＳ０５",
+      "ratio": 7.23,
+      "prev_ratio": 7.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WV9X",
+      "sec": "3580",
+      "name": "小松マテーレ株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 12.66,
+      "prev_ratio": 12.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVA9",
+      "sec": "6279",
+      "name": "株式会社瑞光",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 37.1,
+      "prev_ratio": 36.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVCX",
+      "sec": "9755",
+      "name": "応用地質株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 12.61,
+      "prev_ratio": 11.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVDB",
+      "sec": "9663",
+      "name": "株式会社ナガワ",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 15.91,
+      "prev_ratio": 15.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVX6",
+      "sec": "6096",
+      "name": "株式会社レアジョブ",
+      "filer": "株式会社ＵＥＤ",
+      "ratio": 6.01,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

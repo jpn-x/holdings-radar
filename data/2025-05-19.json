@@ -1,0 +1,257 @@
+{
+  "date": "2025-05-19",
+  "new": [
+    {
+      "docId": "S100VS14",
+      "sec": "6095",
+      "name": "メドピア株式会社",
+      "filer": "牧　寛之",
+      "ratio": 5.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VS0G",
+      "sec": "7037",
+      "name": "株式会社テノ．ホールディングス",
+      "filer": "ＡＩＡＩグループ株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VRDA",
+      "sec": "196A",
+      "name": "株式会社MSF",
+      "filer": "結キャピタル・パートナーズ株式会社",
+      "ratio": 8.2,
+      "prev_ratio": 6.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRQT",
+      "sec": "",
+      "name": "",
+      "filer": "アセットマネジメントＯｎｅ株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRMD",
+      "sec": "8624",
+      "name": "いちよし証券株式会社",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 6.33,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRNV",
+      "sec": "6918",
+      "name": "株式会社アバールデータ",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 14.7,
+      "prev_ratio": 15.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR9I",
+      "sec": "3497",
+      "name": "株式会社LeTech",
+      "filer": "合同会社エメラルド",
+      "ratio": null,
+      "prev_ratio": 68.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRXB",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.72,
+      "prev_ratio": 11.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRWJ",
+      "sec": "9366",
+      "name": "株式会社サンリツ",
+      "filer": "大津　直樹",
+      "ratio": 7.22,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRVT",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 36.12,
+      "prev_ratio": 37.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VS1I",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": null,
+      "prev_ratio": 2.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRBR",
+      "sec": "5132",
+      "name": "株式会社ｐｌｕｓｚｅｒｏ",
+      "filer": "永田　基樹",
+      "ratio": 12.88,
+      "prev_ratio": 14.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRYI",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 13.59,
+      "prev_ratio": 16.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VS2C",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 29.02,
+      "prev_ratio": 31.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRJ9",
+      "sec": "3656",
+      "name": "ＫＬａｂ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 13.84,
+      "prev_ratio": 14.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VS0V",
+      "sec": "5255",
+      "name": "株式会社モンスターラボ",
+      "filer": "いな川　宏樹",
+      "ratio": 10.31,
+      "prev_ratio": 10.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQUT",
+      "sec": "4686",
+      "name": "株式会社ジャストシステム",
+      "filer": "光通信株式会社",
+      "ratio": 3.8,
+      "prev_ratio": 3.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VS2T",
+      "sec": "9302",
+      "name": "三井倉庫ホールディングス株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 6.11,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VS1H",
+      "sec": "4891",
+      "name": "株式会社ティムス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 11.21,
+      "prev_ratio": 12.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VS3E",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 26.66,
+      "prev_ratio": 29.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRWQ",
+      "sec": "3261",
+      "name": "株式会社グランディーズ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 4.76,
+      "prev_ratio": 5.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VS34",
+      "sec": "2782",
+      "name": "株式会社セリア",
+      "filer": "スプラウスグローブインベストメントマネジメントリミテッド",
+      "ratio": 8.03,
+      "prev_ratio": 9.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRTM",
+      "sec": "7127",
+      "name": "株式会社一家ホールディングス",
+      "filer": "武長　太郎",
+      "ratio": 13.72,
+      "prev_ratio": 13.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQOU",
+      "sec": "6532",
+      "name": "株式会社ベイカレント",
+      "filer": "江口　新",
+      "ratio": 9.05,
+      "prev_ratio": 10.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRQX",
+      "sec": "9127",
+      "name": "玉井商船　株式会社",
+      "filer": "株式会社　アイエスシー",
+      "ratio": 2.75,
+      "prev_ratio": 2.64,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

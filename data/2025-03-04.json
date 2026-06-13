@@ -1,0 +1,237 @@
+{
+  "date": "2025-03-04",
+  "new": [
+    {
+      "docId": "S100VA6B",
+      "sec": "8005",
+      "name": "株式会社スクロール",
+      "filer": "鈴木　裕司",
+      "ratio": 4.3,
+      "prev_ratio": 6.16,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VBWH",
+      "sec": "4264",
+      "name": "株式会社セキュア",
+      "filer": "株式会社メルコホールディングス",
+      "ratio": 14.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VC5H",
+      "sec": "8086",
+      "name": "ニプロ株式会社",
+      "filer": "日本電気硝子株式会社",
+      "ratio": 6.96,
+      "prev_ratio": 7.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC70",
+      "sec": "3738",
+      "name": "株式会社ティーガイア",
+      "filer": "株式会社ＢＣＪ‐８２‐１",
+      "ratio": 20.9,
+      "prev_ratio": 20.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB2D",
+      "sec": "8150",
+      "name": "三信電気株式会社",
+      "filer": "有限会社松永榮一",
+      "ratio": 3.1,
+      "prev_ratio": 9.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBTW",
+      "sec": "9257",
+      "name": "ＹＣＰホールディングス（グローバル）リミテッド",
+      "filer": "植島　幹九郎",
+      "ratio": 6.83,
+      "prev_ratio": 8.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC6C",
+      "sec": "9254",
+      "name": "株式会社ラバブルマーケティンググループ",
+      "filer": "合同会社みやびマネージメント",
+      "ratio": 12.75,
+      "prev_ratio": 23.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC79",
+      "sec": "4415",
+      "name": "株式会社ブロードエンタープライズ",
+      "filer": "中西　良祐",
+      "ratio": 17.07,
+      "prev_ratio": 17.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC7Q",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 16.01,
+      "prev_ratio": 17.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC4P",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.5,
+      "prev_ratio": 19.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC4R",
+      "sec": "7603",
+      "name": "株式会社マックハウス",
+      "filer": "トラストアップ株式会社",
+      "ratio": 66.62,
+      "prev_ratio": 60.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC0U",
+      "sec": "149A",
+      "name": "株式会社シンカ",
+      "filer": "Ｗｏｊｃｉｅｃｈ　Ｊａｋｕｂ　Ｐｏｄｏｂａｓ",
+      "ratio": 9.83,
+      "prev_ratio": 7.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAZH",
+      "sec": "3076",
+      "name": "あいホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 4.99,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAZS",
+      "sec": "4685",
+      "name": "株式会社菱友システムズ",
+      "filer": "光通信株式会社",
+      "ratio": 7.15,
+      "prev_ratio": 7.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC66",
+      "sec": "3135",
+      "name": "株式会社マーケットエンタープライズ",
+      "filer": "加茂　知之",
+      "ratio": 9.84,
+      "prev_ratio": 10.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAZT",
+      "sec": "4848",
+      "name": "株式会社フルキャストホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 7.86,
+      "prev_ratio": 7.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBIO",
+      "sec": "1870",
+      "name": "矢作建設工業株式会社",
+      "filer": "名古屋鉄道株式会社",
+      "ratio": 18.57,
+      "prev_ratio": 18.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCC2",
+      "sec": "3738",
+      "name": "株式会社ティーガイア",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 8.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC8J",
+      "sec": "9466",
+      "name": "株式会社アイドママーケティングコミュニケーション",
+      "filer": "蛯谷　貴",
+      "ratio": 19.61,
+      "prev_ratio": 21.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC2H",
+      "sec": "5988",
+      "name": "株式会社パイオラックス",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 4.92,
+      "prev_ratio": 4.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCCE",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.53,
+      "prev_ratio": 2.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC9N",
+      "sec": "4179",
+      "name": "株式会社ジーネクスト",
+      "filer": "横治　祐介",
+      "ratio": 26.9,
+      "prev_ratio": 37.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBSM",
+      "sec": "6524",
+      "name": "湖北工業株式会社",
+      "filer": "石井　太",
+      "ratio": 41.01,
+      "prev_ratio": 45.08,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

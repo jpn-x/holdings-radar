@@ -1,0 +1,377 @@
+{
+  "date": "2025-01-06",
+  "new": [
+    {
+      "docId": "S100V1F5",
+      "sec": "298A",
+      "name": "GVATECH株式会社",
+      "filer": "山本　俊",
+      "ratio": 21.9,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V0JV",
+      "sec": "5622",
+      "name": "ワンビ株式会社",
+      "filer": "株式会社アイキューブドシステムズ",
+      "ratio": 53.85,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V0ON",
+      "sec": "151A",
+      "name": "株式会社ダイブ",
+      "filer": "庄子　潔",
+      "ratio": 40.83,
+      "prev_ratio": 41.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1AX",
+      "sec": "3541",
+      "name": "株式会社農業総合研究所",
+      "filer": "及川　智正",
+      "ratio": 16.99,
+      "prev_ratio": 16.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100UZWZ",
+      "sec": "6638",
+      "name": "株式会社ミマキエンジニアリング",
+      "filer": "田中　規幸",
+      "ratio": 6.36,
+      "prev_ratio": 6.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V19E",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 38.9,
+      "prev_ratio": 40.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1B8",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.49,
+      "prev_ratio": 2.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1B9",
+      "sec": "4992",
+      "name": "北興化学工業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 3.1,
+      "prev_ratio": 3.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1B1",
+      "sec": "4674",
+      "name": "株式会社クレスコ",
+      "filer": "有限会社イワサキコーポレーション",
+      "ratio": 18.77,
+      "prev_ratio": 18.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1D6",
+      "sec": "9326",
+      "name": "株式会社関通",
+      "filer": "達城　久裕",
+      "ratio": 6.0,
+      "prev_ratio": 6.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V19B",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 68.74,
+      "prev_ratio": 69.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0WM",
+      "sec": "7378",
+      "name": "株式会社アシロ",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 4.41,
+      "prev_ratio": 5.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100UZUT",
+      "sec": "7833",
+      "name": "株式会社アイフィスジャパン",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 1.06,
+      "prev_ratio": 1.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V19I",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 25.77,
+      "prev_ratio": 26.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1CU",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "グランジャー・ピーク・グローバル・アドバイザーズ・エルエルシー",
+      "ratio": 4.68,
+      "prev_ratio": 6.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1C3",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "トラストアップ株式会社",
+      "ratio": 69.52,
+      "prev_ratio": 7.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V12V",
+      "sec": "7707",
+      "name": "プレシジョン・システム・サイエンス株式会社",
+      "filer": "田島　秀二",
+      "ratio": 16.65,
+      "prev_ratio": 17.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1D4",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "藤代　真一",
+      "ratio": 10.56,
+      "prev_ratio": 33.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1HK",
+      "sec": "6748",
+      "name": "星和電機株式会社",
+      "filer": "公益財団法人京都青少年育成スポーツ財団",
+      "ratio": 7.55,
+      "prev_ratio": 7.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1IW",
+      "sec": "7075",
+      "name": "株式会社ＱＬＳホールディングス",
+      "filer": "雨田　武史",
+      "ratio": 6.16,
+      "prev_ratio": 7.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V17K",
+      "sec": "4428",
+      "name": "株式会社シノプス",
+      "filer": "合同会社南谷ホールディングス",
+      "ratio": 33.63,
+      "prev_ratio": 33.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1L4",
+      "sec": "2715",
+      "name": "エレマテック株式会社",
+      "filer": "豊田通商株式会社",
+      "ratio": 96.79,
+      "prev_ratio": 87.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1JV",
+      "sec": "4307",
+      "name": "株式会社野村総合研究所",
+      "filer": "野村證券株式会社",
+      "ratio": 2.96,
+      "prev_ratio": 3.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1FP",
+      "sec": "8337",
+      "name": "千葉興業銀行",
+      "filer": "アリアケ・マスター・ファンド",
+      "ratio": 20.1,
+      "prev_ratio": 19.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1KE",
+      "sec": "2820",
+      "name": "株式会社やまみ",
+      "filer": "山名　徹",
+      "ratio": 12.16,
+      "prev_ratio": 13.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1KM",
+      "sec": "5131",
+      "name": "リンカーズ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 9.2,
+      "prev_ratio": 9.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0AE",
+      "sec": "6238",
+      "name": "フリュー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.05,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0Q7",
+      "sec": "9362",
+      "name": "兵機海運株式会社",
+      "filer": "堂島汽船株式会社",
+      "ratio": 9.78,
+      "prev_ratio": 7.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0AF",
+      "sec": "7681",
+      "name": "株式会社レオクラン",
+      "filer": "光通信株式会社",
+      "ratio": 7.51,
+      "prev_ratio": 7.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0AM",
+      "sec": "9236",
+      "name": "ジャパンＭ＆Ａソリューション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.08,
+      "prev_ratio": 6.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0UH",
+      "sec": "7278",
+      "name": "株式会社エクセディ",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 4.24,
+      "prev_ratio": 5.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V11E",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1JZ",
+      "sec": "148A",
+      "name": "株式会社ハッチ・ワーク",
+      "filer": "増田　知平",
+      "ratio": 6.29,
+      "prev_ratio": 6.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1F9",
+      "sec": "4595",
+      "name": "株式会社ミズホメディー",
+      "filer": "唐川　文成",
+      "ratio": 20.55,
+      "prev_ratio": 22.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V173",
+      "sec": "4784",
+      "name": "ＧＭＯインターネット株式会社",
+      "filer": "ＧＭＯアドホールディングス株式会社",
+      "ratio": 2.78,
+      "prev_ratio": 45.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V16V",
+      "sec": "9237",
+      "name": "株式会社笑美面",
+      "filer": "榎並　将志",
+      "ratio": 43.22,
+      "prev_ratio": 44.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V15K",
+      "sec": "3267",
+      "name": "株式会社フィル・カンパニー",
+      "filer": "日本郵政キャピタル株式会社",
+      "ratio": 4.12,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

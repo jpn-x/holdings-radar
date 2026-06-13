@@ -1,0 +1,237 @@
+{
+  "date": "2025-01-15",
+  "new": [
+    {
+      "docId": "S100V3BG",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "中村　健一郎",
+      "ratio": 27.27,
+      "prev_ratio": 23.4,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V2X9",
+      "sec": "309A",
+      "name": "株式会社コスモス調剤",
+      "filer": "株式会社メイホク",
+      "ratio": 99.99,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V36F",
+      "sec": "6347",
+      "name": "株式会社プラコー",
+      "filer": "武田　毅",
+      "ratio": 6.67,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V2C5",
+      "sec": "4973",
+      "name": "日本高純度化学株式会社",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": 16.07,
+      "prev_ratio": 15.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V28Z",
+      "sec": "7896",
+      "name": "セブン工業株式会社",
+      "filer": "西垣林業株式会社",
+      "ratio": 9.67,
+      "prev_ratio": 22.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2Y1",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "永島　毅一郎",
+      "ratio": 14.73,
+      "prev_ratio": 10.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2WZ",
+      "sec": "4635",
+      "name": "東京インキ株式会社",
+      "filer": "石川　吉之助",
+      "ratio": 8.24,
+      "prev_ratio": 7.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2VX",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2CC",
+      "sec": "7342",
+      "name": "ウェルスナビ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 15.34,
+      "prev_ratio": 15.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2DM",
+      "sec": "7066",
+      "name": "株式会社ピアズ",
+      "filer": "桑野　隆司",
+      "ratio": 3.93,
+      "prev_ratio": 3.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2DO",
+      "sec": "7066",
+      "name": "株式会社ピアズ",
+      "filer": "桑野　隆司",
+      "ratio": 3.93,
+      "prev_ratio": 3.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3CB",
+      "sec": "5255",
+      "name": "株式会社モンスターラボホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 41.61,
+      "prev_ratio": 42.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3CD",
+      "sec": "6522",
+      "name": "株式会社アスタリスク",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 7.18,
+      "prev_ratio": 11.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2IZ",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "伊達　晃洋",
+      "ratio": 10.72,
+      "prev_ratio": 19.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2WP",
+      "sec": "5582",
+      "name": "株式会社グリッド",
+      "filer": "三井物産株式会社",
+      "ratio": 6.64,
+      "prev_ratio": 7.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1YS",
+      "sec": "1826",
+      "name": "佐田建設株式会社",
+      "filer": "ＵＧＳアセットマネジメント株式会社",
+      "ratio": 12.77,
+      "prev_ratio": 11.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V26T",
+      "sec": "3480",
+      "name": "株式会社ジェイ・エス・ビー",
+      "filer": "光通信株式会社",
+      "ratio": 6.57,
+      "prev_ratio": 6.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V26U",
+      "sec": "5368",
+      "name": "日本インシュレーション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.46,
+      "prev_ratio": 7.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3HD",
+      "sec": "5259",
+      "name": "ＢＢＤイニシアティブ株式会社",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 8.08,
+      "prev_ratio": 8.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2YC",
+      "sec": "1518",
+      "name": "三井松島ホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 6.23,
+      "prev_ratio": 5.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V39R",
+      "sec": "9627",
+      "name": "株式会社アインホールディングス",
+      "filer": "スプラウスグローブインベストメントマネジメントリミテッド",
+      "ratio": 10.13,
+      "prev_ratio": 11.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3HP",
+      "sec": "4260",
+      "name": "株式会社ハイブリッドテクノロジーズ",
+      "filer": "ＴＲＡＮ　ＶＡＮ　ＭＩＮＨ",
+      "ratio": 6.43,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V27W",
+      "sec": "1973",
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 14.2,
+      "prev_ratio": 13.12,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

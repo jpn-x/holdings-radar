@@ -1,0 +1,247 @@
+{
+  "date": "2025-04-22",
+  "new": [
+    {
+      "docId": "S100VNGU",
+      "sec": "3077",
+      "name": "ホリイフードサービス株式会社",
+      "filer": "掛谷　和俊",
+      "ratio": 5.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VNI9",
+      "sec": "3774",
+      "name": "株式会社インターネットイニシアティブ",
+      "filer": "Ｇｌｏｂａｌ　Ａｌｐｈａ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｔｄ．",
+      "ratio": 4.03,
+      "prev_ratio": 5.06,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VN3C",
+      "sec": "7571",
+      "name": "株式会社ヤマノホールディングス",
+      "filer": "山野　義友",
+      "ratio": 10.74,
+      "prev_ratio": 11.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN5R",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰ",
+      "filer": "家髙　利康",
+      "ratio": 2.89,
+      "prev_ratio": 5.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNAY",
+      "sec": "3113",
+      "name": "株式会社UNIVA・Oakホールディングス",
+      "filer": "株式会社ユニヴァ・アセット・マネジメント",
+      "ratio": 8.7,
+      "prev_ratio": 8.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNEQ",
+      "sec": "4679",
+      "name": "株式会社田谷",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 16.41,
+      "prev_ratio": 19.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN5Y",
+      "sec": "5993",
+      "name": "知多鋼業株式会社",
+      "filer": "カヤバ株式会社",
+      "ratio": 99.52,
+      "prev_ratio": 95.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNDJ",
+      "sec": "3391",
+      "name": "株式会社ツルハホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 6.55,
+      "prev_ratio": 6.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN65",
+      "sec": "4366",
+      "name": "ダイトーケミックス株式会社",
+      "filer": "平松　裕将",
+      "ratio": 10.15,
+      "prev_ratio": 9.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN64",
+      "sec": "4388",
+      "name": "株式会社エーアイ",
+      "filer": "吉田　大志",
+      "ratio": 2.14,
+      "prev_ratio": 2.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNJB",
+      "sec": "4374",
+      "name": "株式会社ROBOT PAYMENT",
+      "filer": "清久　健也",
+      "ratio": 21.0,
+      "prev_ratio": 21.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMZH",
+      "sec": "6181",
+      "name": "タメニー株式会社",
+      "filer": "株式会社ＩＢＪ",
+      "ratio": 15.09,
+      "prev_ratio": 9.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN68",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 10.94,
+      "prev_ratio": 13.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN2L",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "成成株式会社",
+      "ratio": 14.27,
+      "prev_ratio": 12.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNBX",
+      "sec": "6544",
+      "name": "ジャパンエレベーターサービスホールディングス株式会社",
+      "filer": "株式会社ＫＩ",
+      "ratio": 21.28,
+      "prev_ratio": 22.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNJ3",
+      "sec": "8957",
+      "name": "東急リアル・エステート投資法人",
+      "filer": "東急株式会社",
+      "ratio": 11.19,
+      "prev_ratio": 10.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNK5",
+      "sec": "",
+      "name": "レジル株式会社",
+      "filer": "Ｔｅａｍ　Ｅｎｅｒｇｙ　ＧＩ株式会社",
+      "ratio": 48.35,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMYW",
+      "sec": "3768",
+      "name": "リスクモンスター株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.3,
+      "prev_ratio": 7.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNGT",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 6.4,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNED",
+      "sec": "3914",
+      "name": "JIG-SAW株式会社",
+      "filer": "山川　真考",
+      "ratio": 13.7,
+      "prev_ratio": 14.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNIG",
+      "sec": "4891",
+      "name": "株式会社ティムス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 15.41,
+      "prev_ratio": 16.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNII",
+      "sec": "7567",
+      "name": "栄電子株式会社",
+      "filer": "ウルトラテクノロジー株式会社",
+      "ratio": 7.47,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNI9",
+      "sec": "3774",
+      "name": "株式会社インターネットイニシアティブ",
+      "filer": "Ｇｌｏｂａｌ　Ａｌｐｈａ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｔｄ．",
+      "ratio": 4.03,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNLO",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "株式会社五六",
+      "ratio": 4.42,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

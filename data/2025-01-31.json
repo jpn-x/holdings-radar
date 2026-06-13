@@ -1,0 +1,277 @@
+{
+  "date": "2025-01-31",
+  "new": [
+    {
+      "docId": "S100V57K",
+      "sec": "2994",
+      "name": "株式会社アンサーホールディングス",
+      "filer": "三谷　俊介",
+      "ratio": 98.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V59U",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社アベＣ",
+      "ratio": 46.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V5A0",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ネクスタ",
+      "ratio": 34.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V5WQ",
+      "sec": "9235",
+      "name": "株式会社売れるネット広告社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 5.83,
+      "prev_ratio": 7.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V55J",
+      "sec": "3104",
+      "name": "富士紡ホールディングス株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.27,
+      "prev_ratio": 4.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5T4",
+      "sec": "4594",
+      "name": "ブライトパス・バイオ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.23,
+      "prev_ratio": 23.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V539",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 29.42,
+      "prev_ratio": 30.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5ZJ",
+      "sec": "",
+      "name": "レジル株式会社",
+      "filer": "中村　誠司",
+      "ratio": 8.51,
+      "prev_ratio": 8.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5V0",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 35.89,
+      "prev_ratio": 36.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5WF",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.92,
+      "prev_ratio": 23.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5UT",
+      "sec": "6927",
+      "name": "ヘリオス　テクノ　ホールディング株式会社",
+      "filer": "Ｂｌａｃｋ　Ｃｌｏｖｅｒ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.62,
+      "prev_ratio": 7.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5RK",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 4.27,
+      "prev_ratio": 5.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5W8",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.63,
+      "prev_ratio": 11.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5YQ",
+      "sec": "8996",
+      "name": "株式会社ハウスフリーダム",
+      "filer": "小島　賢二",
+      "ratio": 4.96,
+      "prev_ratio": 4.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V60L",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 26.54,
+      "prev_ratio": 27.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V636",
+      "sec": "4414",
+      "name": "株式会社フレクト",
+      "filer": "大橋　正興",
+      "ratio": 4.76,
+      "prev_ratio": 6.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5WT",
+      "sec": "6573",
+      "name": "アジャイルメディア・ネットワーク株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 14.66,
+      "prev_ratio": 15.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5W5",
+      "sec": "3224",
+      "name": "株式会社ゼネラル・オイスター",
+      "filer": "株式会社ネクスタ",
+      "ratio": 45.44,
+      "prev_ratio": 45.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4Z6",
+      "sec": "5451",
+      "name": "株式会社淀川製鋼所",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 7.29,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5BF",
+      "sec": "4587",
+      "name": "ペプチドリーム株式会社",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 5.11,
+      "prev_ratio": 6.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V59E",
+      "sec": "260A",
+      "name": "株式会社オルツ",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 5.24,
+      "prev_ratio": 6.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5N3",
+      "sec": "5482",
+      "name": "愛知製鋼株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4XB",
+      "sec": "5990",
+      "name": "株式会社スーパーツール",
+      "filer": "ホライズン株式会社",
+      "ratio": 16.72,
+      "prev_ratio": 15.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V64P",
+      "sec": "2341",
+      "name": "株式会社アルバイトタイムス",
+      "filer": "光通信株式会社",
+      "ratio": 6.28,
+      "prev_ratio": 6.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5UY",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "株式会社ウィズ・パートナーズ",
+      "ratio": null,
+      "prev_ratio": 22.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V64G",
+      "sec": "3491",
+      "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "樋口　龍",
+      "ratio": 28.7,
+      "prev_ratio": 29.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V64Z",
+      "sec": "3491",
+      "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "樋口　龍",
+      "ratio": 28.41,
+      "prev_ratio": 28.7,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

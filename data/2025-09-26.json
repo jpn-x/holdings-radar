@@ -1,0 +1,1217 @@
+{
+  "date": "2025-09-26",
+  "new": [
+    {
+      "docId": "S100WQBF",
+      "sec": "9816",
+      "name": "株式会社ストライダーズ",
+      "filer": "合同会社ＨＡＹＡＫＡＷＡ",
+      "ratio": 15.41,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WRI6",
+      "sec": "409A",
+      "name": "オリオンビール株式会社",
+      "filer": "アサヒビール株式会社",
+      "ratio": 10.11,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WNTT",
+      "sec": "4069",
+      "name": "株式会社ＢｌｕｅＭｅｍｅ",
+      "filer": "情報技術開発株式会社",
+      "ratio": 23.7,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WLDG",
+      "sec": "410A",
+      "name": "GMOコマース株式会社",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 69.63,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WQJF",
+      "sec": "3768",
+      "name": "リスクモンスター株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.3,
+      "prev_ratio": 7.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJS",
+      "sec": "1966",
+      "name": "株式会社高田工業所",
+      "filer": "光通信株式会社",
+      "ratio": 6.58,
+      "prev_ratio": 6.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKA",
+      "sec": "1968",
+      "name": "太平電業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.57,
+      "prev_ratio": 6.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJU",
+      "sec": "3480",
+      "name": "株式会社ジェイ・エス・ビー",
+      "filer": "光通信株式会社",
+      "ratio": 6.56,
+      "prev_ratio": 6.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJW",
+      "sec": "4093",
+      "name": "東邦アセチレン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.43,
+      "prev_ratio": 7.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJX",
+      "sec": "4491",
+      "name": "コンピューターマネージメント株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.88,
+      "prev_ratio": 7.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQTG",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 2.09,
+      "prev_ratio": 2.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJY",
+      "sec": "4754",
+      "name": "株式会社トスネット",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK0",
+      "sec": "7466",
+      "name": "ＳＰＫ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.24,
+      "prev_ratio": 7.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK7",
+      "sec": "7681",
+      "name": "株式会社レオクラン",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK1",
+      "sec": "8006",
+      "name": "ユアサ・フナショク株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 8.68,
+      "prev_ratio": 8.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK2",
+      "sec": "8085",
+      "name": "ナラサキ産業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.14,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKE",
+      "sec": "9438",
+      "name": "株式会社エムティーアイ",
+      "filer": "光通信株式会社",
+      "ratio": 6.74,
+      "prev_ratio": 6.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ51",
+      "sec": "1736",
+      "name": "株式会社オーテック",
+      "filer": "光通信株式会社",
+      "ratio": 7.0,
+      "prev_ratio": 6.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK3",
+      "sec": "1766",
+      "name": "東建コーポレーション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.38,
+      "prev_ratio": 7.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5H",
+      "sec": "1810",
+      "name": "松井建設株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.11,
+      "prev_ratio": 7.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5I",
+      "sec": "1892",
+      "name": "徳倉建設株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.03,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5K",
+      "sec": "1905",
+      "name": "株式会社テノックス",
+      "filer": "光通信株式会社",
+      "ratio": 7.0,
+      "prev_ratio": 7.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5U",
+      "sec": "1930",
+      "name": "北陸電気工事株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.59,
+      "prev_ratio": 5.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5P",
+      "sec": "1938",
+      "name": "日本リーテック株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.15,
+      "prev_ratio": 4.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQL1",
+      "sec": "9930",
+      "name": "北沢産業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.86,
+      "prev_ratio": 4.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJJ",
+      "sec": "3437",
+      "name": "特殊電極株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 8.37,
+      "prev_ratio": 8.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5D",
+      "sec": "3671",
+      "name": "ソフトマックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.29,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI1",
+      "sec": "3678",
+      "name": "株式会社メディアドゥ",
+      "filer": "光通信株式会社",
+      "ratio": 7.54,
+      "prev_ratio": 7.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5R",
+      "sec": "1945",
+      "name": "株式会社東京エネシス",
+      "filer": "光通信株式会社",
+      "ratio": 7.32,
+      "prev_ratio": 7.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRFW",
+      "sec": "6946",
+      "name": "日本アビオニクス株式会社",
+      "filer": "ＮＡＪホールディングス株式会社",
+      "ratio": 46.41,
+      "prev_ratio": 50.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJC",
+      "sec": "3682",
+      "name": "エンカレッジ・テクノロジ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK4",
+      "sec": "1982",
+      "name": "日比谷総合設備株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.46,
+      "prev_ratio": 6.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIU",
+      "sec": "3712",
+      "name": "株式会社情報企画",
+      "filer": "光通信株式会社",
+      "ratio": 5.55,
+      "prev_ratio": 5.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJK",
+      "sec": "3727",
+      "name": "株式会社アプリックス",
+      "filer": "光通信株式会社",
+      "ratio": 4.97,
+      "prev_ratio": 4.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ6B",
+      "sec": "1992",
+      "name": "神田通信機株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.88,
+      "prev_ratio": 6.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKG",
+      "sec": "3763",
+      "name": "株式会社プロシップ",
+      "filer": "光通信株式会社",
+      "ratio": 5.9,
+      "prev_ratio": 5.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ62",
+      "sec": "1997",
+      "name": "暁飯島工業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.75,
+      "prev_ratio": 6.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKF",
+      "sec": "3766",
+      "name": "システムズ・デザイン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.31,
+      "prev_ratio": 7.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQW4",
+      "sec": "7823",
+      "name": "株式会社アートネイチャー",
+      "filer": "光通信株式会社",
+      "ratio": 7.1,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIV",
+      "sec": "3796",
+      "name": "株式会社いい生活",
+      "filer": "光通信株式会社",
+      "ratio": 6.34,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ6A",
+      "sec": "2152",
+      "name": "幼児活動研究会株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.86,
+      "prev_ratio": 6.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI3",
+      "sec": "3800",
+      "name": "株式会社ユニリタ",
+      "filer": "光通信株式会社",
+      "ratio": 7.1,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ6H",
+      "sec": "2185",
+      "name": "株式会社シイエム・シイ",
+      "filer": "光通信株式会社",
+      "ratio": 6.94,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI4",
+      "sec": "3839",
+      "name": "株式会社ＯＤＫソリューションズ",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ6L",
+      "sec": "2303",
+      "name": "株式会社ドーン",
+      "filer": "光通信株式会社",
+      "ratio": 5.91,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK5",
+      "sec": "2341",
+      "name": "株式会社アルバイトタイムス",
+      "filer": "光通信株式会社",
+      "ratio": 6.43,
+      "prev_ratio": 6.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK6",
+      "sec": "2349",
+      "name": "株式会社エヌアイデイ",
+      "filer": "光通信株式会社",
+      "ratio": 6.49,
+      "prev_ratio": 6.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK8",
+      "sec": "2376",
+      "name": "株式会社サイネックス",
+      "filer": "光通信株式会社",
+      "ratio": 6.51,
+      "prev_ratio": 6.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQK9",
+      "sec": "2461",
+      "name": "株式会社ファンコミュニケーションズ",
+      "filer": "光通信株式会社",
+      "ratio": 8.29,
+      "prev_ratio": 8.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKB",
+      "sec": "2477",
+      "name": "手間いらず株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.74,
+      "prev_ratio": 6.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKC",
+      "sec": "2480",
+      "name": "システム・ロケーション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.46,
+      "prev_ratio": 7.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKD",
+      "sec": "2481",
+      "name": "株式会社タウンニュース社",
+      "filer": "光通信株式会社",
+      "ratio": 7.46,
+      "prev_ratio": 7.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJ3",
+      "sec": "2483",
+      "name": "株式会社翻訳センター",
+      "filer": "光通信株式会社",
+      "ratio": 7.39,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJL",
+      "sec": "3848",
+      "name": "株式会社データ・アプリケーション",
+      "filer": "光通信株式会社",
+      "ratio": 6.11,
+      "prev_ratio": 6.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5T",
+      "sec": "2488",
+      "name": "JTP株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.15,
+      "prev_ratio": 7.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI6",
+      "sec": "3850",
+      "name": "株式会社エヌ・ティ・ティ・データ・イントラマート",
+      "filer": "光通信株式会社",
+      "ratio": 4.47,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQFX",
+      "sec": "2795",
+      "name": "日本プリメックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.13,
+      "prev_ratio": 7.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI7",
+      "sec": "3920",
+      "name": "アイビーシー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.18,
+      "prev_ratio": 6.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5W",
+      "sec": "3045",
+      "name": "株式会社カワサキ",
+      "filer": "光通信株式会社",
+      "ratio": 5.47,
+      "prev_ratio": 5.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJA",
+      "sec": "3076",
+      "name": "あいホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.25,
+      "prev_ratio": 5.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJM",
+      "sec": "3934",
+      "name": "株式会社ベネフィットジャパン",
+      "filer": "光通信株式会社",
+      "ratio": 8.38,
+      "prev_ratio": 8.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI8",
+      "sec": "3969",
+      "name": "株式会社エイトレッド",
+      "filer": "光通信株式会社",
+      "ratio": 5.02,
+      "prev_ratio": 4.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQG3",
+      "sec": "3079",
+      "name": "ディーブイエックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.16,
+      "prev_ratio": 7.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ6O",
+      "sec": "3143",
+      "name": "オーウイル株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.16,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJN",
+      "sec": "3979",
+      "name": "株式会社うるる",
+      "filer": "光通信株式会社",
+      "ratio": 7.58,
+      "prev_ratio": 7.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIA",
+      "sec": "3981",
+      "name": "株式会社ビーグリー",
+      "filer": "光通信株式会社",
+      "ratio": 5.56,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQG7",
+      "sec": "3150",
+      "name": "株式会社グリムス",
+      "filer": "光通信株式会社",
+      "ratio": 5.1,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ68",
+      "sec": "3276",
+      "name": "株式会社ＪＰＭＣ",
+      "filer": "光通信株式会社",
+      "ratio": 7.57,
+      "prev_ratio": 7.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIW",
+      "sec": "3986",
+      "name": "株式会社ビーブレイクシステムズ",
+      "filer": "光通信株式会社",
+      "ratio": 6.55,
+      "prev_ratio": 6.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ76",
+      "sec": "3361",
+      "name": "株式会社トーエル",
+      "filer": "光通信株式会社",
+      "ratio": 5.13,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJO",
+      "sec": "4247",
+      "name": "ポバール興業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQFK",
+      "sec": "3386",
+      "name": "コスモ・バイオ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.21,
+      "prev_ratio": 7.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJR",
+      "sec": "4299",
+      "name": "株式会社ハイマックス",
+      "filer": "光通信株式会社",
+      "ratio": 6.89,
+      "prev_ratio": 7.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ64",
+      "sec": "4848",
+      "name": "株式会社フルキャストホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 7.86,
+      "prev_ratio": 7.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIB",
+      "sec": "4333",
+      "name": "株式会社東邦システムサイエンス",
+      "filer": "光通信株式会社",
+      "ratio": 2.57,
+      "prev_ratio": 2.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJI",
+      "sec": "4826",
+      "name": "株式会社ＣＩＪ",
+      "filer": "光通信株式会社",
+      "ratio": 6.78,
+      "prev_ratio": 6.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIX",
+      "sec": "4356",
+      "name": "応用技術株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ63",
+      "sec": "4800",
+      "name": "オリコン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.85,
+      "prev_ratio": 6.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQID",
+      "sec": "4372",
+      "name": "ユミルリンク株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.45,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ61",
+      "sec": "4792",
+      "name": "山田コンサルティンググループ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.28,
+      "prev_ratio": 7.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5S",
+      "sec": "4389",
+      "name": "プロパティデータバンク株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.42,
+      "prev_ratio": 7.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5Y",
+      "sec": "4783",
+      "name": "ＮＣＤ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.87,
+      "prev_ratio": 6.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ5Z",
+      "sec": "4771",
+      "name": "株式会社エフアンドエム",
+      "filer": "光通信株式会社",
+      "ratio": 3.97,
+      "prev_ratio": 3.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQVM",
+      "sec": "4429",
+      "name": "リックソフト株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.94,
+      "prev_ratio": 7.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIY",
+      "sec": "4494",
+      "name": "バリオセキュア株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.67,
+      "prev_ratio": 7.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJE",
+      "sec": "4769",
+      "name": "株式会社ＩＣ",
+      "filer": "光通信株式会社",
+      "ratio": 5.43,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIF",
+      "sec": "4496",
+      "name": "株式会社コマースＯｎｅホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 7.06,
+      "prev_ratio": 6.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJT",
+      "sec": "4762",
+      "name": "株式会社エックスネット",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIN",
+      "sec": "4556",
+      "name": "株式会社カイノス",
+      "filer": "光通信株式会社",
+      "ratio": 7.18,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJQ",
+      "sec": "4746",
+      "name": "株式会社東計電算",
+      "filer": "光通信株式会社",
+      "ratio": 4.83,
+      "prev_ratio": 4.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIO",
+      "sec": "4629",
+      "name": "大伸化学株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJD",
+      "sec": "4743",
+      "name": "株式会社アイティフォー",
+      "filer": "光通信株式会社",
+      "ratio": 6.81,
+      "prev_ratio": 6.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQIR",
+      "sec": "4686",
+      "name": "株式会社ジャストシステム",
+      "filer": "光通信株式会社",
+      "ratio": 3.8,
+      "prev_ratio": 3.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQJV",
+      "sec": "4659",
+      "name": "株式会社エイジス",
+      "filer": "光通信株式会社",
+      "ratio": 5.83,
+      "prev_ratio": 5.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQKI",
+      "sec": "3843",
+      "name": "フリービット株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.16,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WR3R",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 39.96,
+      "prev_ratio": 43.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ43",
+      "sec": "6445",
+      "name": "株式会社ジャノメ",
+      "filer": "ＭＭ　Ｉｎｖｅｓｔｍｅｎｔｓ株式会社",
+      "ratio": 9.34,
+      "prev_ratio": 8.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIDB",
+      "sec": "3136",
+      "name": "株式会社エコノス",
+      "filer": "長谷川　勝也",
+      "ratio": null,
+      "prev_ratio": 27.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIDF",
+      "sec": "3136",
+      "name": "株式会社エコノス",
+      "filer": "石澤　淳一",
+      "ratio": null,
+      "prev_ratio": 7.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WREV",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 5.14,
+      "prev_ratio": 6.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRO7",
+      "sec": "8927",
+      "name": "株式会社明豊エンタープライズ",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 6.75,
+      "prev_ratio": 7.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WROX",
+      "sec": "4395",
+      "name": "株式会社アクリート",
+      "filer": "小松　匡",
+      "ratio": 24.86,
+      "prev_ratio": 23.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRPD",
+      "sec": "4395",
+      "name": "株式会社アクリート",
+      "filer": "小松　匡",
+      "ratio": 21.6,
+      "prev_ratio": 24.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ3G",
+      "sec": "2136",
+      "name": "株式会社ヒップ",
+      "filer": "光通信株式会社",
+      "ratio": 5.15,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ3H",
+      "sec": "8715",
+      "name": "アニコム ホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.69,
+      "prev_ratio": 4.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQ7V",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 18.42,
+      "prev_ratio": 17.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRGC",
+      "sec": "7093",
+      "name": "アディッシュ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 8.69,
+      "prev_ratio": 10.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRQC",
+      "sec": "6048",
+      "name": "株式会社デザインワン・ジャパン",
+      "filer": "ＳＢＩキャピタル株式会社",
+      "ratio": 9.42,
+      "prev_ratio": 9.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRED",
+      "sec": "5572",
+      "name": "株式会社Ridge-i",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 14.94,
+      "prev_ratio": 14.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQUW",
+      "sec": "4917",
+      "name": "株式会社マンダム",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WR9Z",
+      "sec": "1821",
+      "name": "三井住友建設株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQV6",
+      "sec": "338A",
+      "name": "株式会社ZenmuTech",
+      "filer": "セグエグループ株式会社",
+      "ratio": 6.86,
+      "prev_ratio": 9.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRPJ",
+      "sec": "290A",
+      "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
+      "filer": "野村證券株式会社",
+      "ratio": 12.1,
+      "prev_ratio": 13.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRGR",
+      "sec": "286A",
+      "name": "株式会社ユカリア",
+      "filer": "株式会社エクソソーム",
+      "ratio": 42.12,
+      "prev_ratio": 42.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WR6I",
+      "sec": "4892",
+      "name": "株式会社サイフューズ",
+      "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
+      "ratio": 4.88,
+      "prev_ratio": 4.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQPR",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 9.46,
+      "prev_ratio": 6.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WR6Y",
+      "sec": "219A",
+      "name": "Ｈｅａｒｔｓｅｅｄ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 2.03,
+      "prev_ratio": 3.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI9",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 7.52,
+      "prev_ratio": 8.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRF6",
+      "sec": "2978",
+      "name": "株式会社ツクルバ",
+      "filer": "村上浩輝",
+      "ratio": 19.1,
+      "prev_ratio": 19.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRSI",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 11.19,
+      "prev_ratio": 9.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRHV",
+      "sec": "3300",
+      "name": "株式会社アンビションDXホールディングス",
+      "filer": "清水　剛",
+      "ratio": 20.11,
+      "prev_ratio": 20.11,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

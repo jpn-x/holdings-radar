@@ -1,0 +1,227 @@
+{
+  "date": "2025-09-18",
+  "new": [
+    {
+      "docId": "S100WP49",
+      "sec": "7732",
+      "name": "株式会社トプコン",
+      "filer": "ＴＫ株式会社",
+      "ratio": 78.12,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WP5I",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 49.59,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WKUZ",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "大垣内　剛",
+      "ratio": 13.1,
+      "prev_ratio": 21.3,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WP7V",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPG8",
+      "sec": "6577",
+      "name": "株式会社ベストワンドットコム",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 3.93,
+      "prev_ratio": 8.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOBI",
+      "sec": "3635",
+      "name": "株式会社コーエーテクモホールディングス",
+      "filer": "襟川　陽一",
+      "ratio": 2.0,
+      "prev_ratio": 2.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPPU",
+      "sec": "4816",
+      "name": "東映アニメーション株式会社",
+      "filer": "株式会社フジ・メディア・ホールディングス",
+      "ratio": 3.13,
+      "prev_ratio": 8.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPQM",
+      "sec": "3635",
+      "name": "株式会社コーエーテクモホールディングス",
+      "filer": "柿原　健晴",
+      "ratio": 18.0,
+      "prev_ratio": 18.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPQR",
+      "sec": "6054",
+      "name": "株式会社リブセンス",
+      "filer": "桂　大介",
+      "ratio": 9.58,
+      "prev_ratio": 9.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOP7",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 17.29,
+      "prev_ratio": 16.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPMQ",
+      "sec": "8127",
+      "name": "ヤマトインターナショナル株式会社",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.03,
+      "prev_ratio": 8.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPKE",
+      "sec": "7161",
+      "name": "株式会社　じもとホールディングス",
+      "filer": "株式会社　整理回収機構",
+      "ratio": 63.15,
+      "prev_ratio": 68.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNXL",
+      "sec": "7732",
+      "name": "株式会社トプコン",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOZH",
+      "sec": "9913",
+      "name": "日邦産業株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 17.23,
+      "prev_ratio": 16.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPKB",
+      "sec": "8559",
+      "name": "株式会社　豊和銀行",
+      "filer": "株式会社　整理回収機構",
+      "ratio": 7.8,
+      "prev_ratio": 7.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOFF",
+      "sec": "7278",
+      "name": "株式会社エクセディ",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 4.14,
+      "prev_ratio": 4.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNTK",
+      "sec": "7731",
+      "name": "株式会社ニコン",
+      "filer": "エシロールルックスオティカ",
+      "ratio": 9.47,
+      "prev_ratio": 8.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPS3",
+      "sec": "4917",
+      "name": "株式会社マンダム",
+      "filer": "公益財団法人西村奨学財団",
+      "ratio": 7.46,
+      "prev_ratio": 7.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPSK",
+      "sec": "293A",
+      "name": "ＢＡＢＹ　ＪＯＢ株式会社",
+      "filer": "金沢　崇",
+      "ratio": 1.88,
+      "prev_ratio": 5.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOZJ",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 9.83,
+      "prev_ratio": 10.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO6H",
+      "sec": "7732",
+      "name": "株式会社トプコン",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": null,
+      "prev_ratio": 10.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WPH5",
+      "sec": "4690",
+      "name": "日本パレットプール株式会社",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 4.24,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "date": "2025-10-07",
+  "new": [
+    {
+      "docId": "S100WTRC",
+      "sec": "414A",
+      "name": "株式会社オーバーラップホールディングス",
+      "filer": "永田　勝治",
+      "ratio": 5.88,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WTA9",
+      "sec": "7389",
+      "name": "株式会社あいちフィナンシャルグループ",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WTTB",
+      "sec": "403A",
+      "name": "株式会社北條組",
+      "filer": "北條　將隆",
+      "ratio": 30.95,
+      "prev_ratio": 32.42,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WTPQ",
+      "sec": "403A",
+      "name": "株式会社北條組",
+      "filer": "北條　美憲",
+      "ratio": 8.39,
+      "prev_ratio": 8.79,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WTBB",
+      "sec": "3306",
+      "name": "日本製麻株式会社",
+      "filer": "ＬＥＯＭＯ，ｉｎｃ",
+      "ratio": 17.83,
+      "prev_ratio": 49.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTMX",
+      "sec": "6037",
+      "name": "楽待株式会社",
+      "filer": "坂口　直大",
+      "ratio": 63.82,
+      "prev_ratio": 63.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSTS",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 63.71,
+      "prev_ratio": 63.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTOP",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 57.72,
+      "prev_ratio": 61.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTIZ",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "ディスリーン・グループ・エルピー",
+      "ratio": 5.13,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT4I",
+      "sec": "5592",
+      "name": "株式会社くすりの窓口",
+      "filer": "オリックス株式会社",
+      "ratio": 4.67,
+      "prev_ratio": 8.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTLZ",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 23.4,
+      "prev_ratio": 24.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTMV",
+      "sec": "7076",
+      "name": "名南M&amp;A株式会社",
+      "filer": "株式会社名南経営ホールディングス",
+      "ratio": 53.94,
+      "prev_ratio": 56.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTQ4",
+      "sec": "4375",
+      "name": "セーフィー株式会社",
+      "filer": "下崎　守朗",
+      "ratio": 8.42,
+      "prev_ratio": 8.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTQH",
+      "sec": "5706",
+      "name": "三井金属鉱業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.04,
+      "prev_ratio": 2.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTQD",
+      "sec": "7455",
+      "name": "株式会社パリミキホールディングス",
+      "filer": "株式会社ルネット",
+      "ratio": 46.76,
+      "prev_ratio": 46.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTRM",
+      "sec": "324A",
+      "name": "株式会社ブッキングリゾート",
+      "filer": "エス・エヌ・ホールディングス有限会社",
+      "ratio": 48.88,
+      "prev_ratio": 50.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTSF",
+      "sec": "324A",
+      "name": "株式会社ブッキングリゾート",
+      "filer": "エス・エヌ・ホールディングス有限会社",
+      "ratio": 47.71,
+      "prev_ratio": 48.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTDP",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ネクスタ",
+      "ratio": 18.33,
+      "prev_ratio": 18.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTM9",
+      "sec": "6332",
+      "name": "月島ホールディングス株式会社",
+      "filer": "株式会社日本製鋼所",
+      "ratio": 4.42,
+      "prev_ratio": 5.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT6S",
+      "sec": "3529",
+      "name": "アツギ株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 22.29,
+      "prev_ratio": 21.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTSS",
+      "sec": "7105",
+      "name": "三菱ロジスネクスト株式会社",
+      "filer": "三菱重工業株式会社",
+      "ratio": 64.5,
+      "prev_ratio": 64.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSOT",
+      "sec": "2796",
+      "name": "ファーマライズホールディングス株式会社",
+      "filer": "大野　利美知",
+      "ratio": 6.64,
+      "prev_ratio": 5.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTNM",
+      "sec": "5572",
+      "name": "株式会社Ridge-i",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 22.62,
+      "prev_ratio": 14.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTJK",
+      "sec": "7527",
+      "name": "株式会社システムソフト",
+      "filer": "ＡＰＡＭＡＮ株式会社",
+      "ratio": 15.31,
+      "prev_ratio": 10.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTQ7",
+      "sec": "6096",
+      "name": "株式会社レアジョブ",
+      "filer": "株式会社ＵＥＤ",
+      "ratio": 6.14,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSVO",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "田坂　大作",
+      "ratio": 5.89,
+      "prev_ratio": 5.83,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "date": "2025-12-18",
+  "new": [
+    {
+      "docId": "S100XAID",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "株式会社Ｍｅｄｉｃａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｎｓｕｌｔｉｎｇ",
+      "ratio": 5.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAVF",
+      "sec": "6993",
+      "name": "大黒屋ホールディングス株式会社",
+      "filer": "合同会社Ｓバンク",
+      "ratio": 68.53,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAW3",
+      "sec": "7270",
+      "name": "株式会社SUBARU",
+      "filer": "ノルウェー銀行",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9XS",
+      "sec": "7254",
+      "name": "株式会社　ユニバンス",
+      "filer": "Ｂｅ　Ｂｒａｖｅ株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XA36",
+      "sec": "9305",
+      "name": "株式会社ヤマタネ",
+      "filer": "株式会社スノーボールキャピタル",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XB4P",
+      "sec": "2585",
+      "name": "株式会社ライフドリンク　カンパニー",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 5.73,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XA4N",
+      "sec": "8570",
+      "name": "イオンフィナンシャルサービス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XB1O",
+      "sec": "2531",
+      "name": "宝ホールディングス株式会社",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBBC",
+      "sec": "4481",
+      "name": "ベース株式会社",
+      "filer": "中山　克成",
+      "ratio": 12.0,
+      "prev_ratio": 13.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAJS",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "株式会社ＰＬＡＮＡ",
+      "ratio": 12.2,
+      "prev_ratio": 12.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAI3",
+      "sec": "8105",
+      "name": "Bitcoin Japan株式会社",
+      "filer": "バックト・オプコ・ホールディングス・エルエルシー",
+      "ratio": 28.28,
+      "prev_ratio": 28.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBCP",
+      "sec": "9441",
+      "name": "株式会社ベルパーク",
+      "filer": "西川　猛",
+      "ratio": 25.91,
+      "prev_ratio": 15.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XANP",
+      "sec": "4323",
+      "name": "日本システム技術株式会社",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 28.28,
+      "prev_ratio": 27.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBD0",
+      "sec": "4957",
+      "name": "ヤスハラケミカル株式会社",
+      "filer": "ＹＡＨＯ株式会社",
+      "ratio": 48.06,
+      "prev_ratio": 48.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB2L",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 24.98,
+      "prev_ratio": 26.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ19",
+      "sec": "7649",
+      "name": "スギホールディングス株式会社",
+      "filer": "株式会社スギ商事",
+      "ratio": 35.65,
+      "prev_ratio": 35.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBC2",
+      "sec": "2168",
+      "name": "株式会社パソナグループ",
+      "filer": "南部靖之",
+      "ratio": 37.07,
+      "prev_ratio": 36.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBFA",
+      "sec": "7864",
+      "name": "株式会社フジシールインターナショナル",
+      "filer": "Ｇｌｏｂａｌ　Ａｌｐｈａ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｔｄ．",
+      "ratio": 3.9,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBGE",
+      "sec": "7615",
+      "name": "株式会社京都きもの友禅ホールディングス",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 30.85,
+      "prev_ratio": 32.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8SQ",
+      "sec": "9719",
+      "name": "ＳＣＳＫ株式会社",
+      "filer": "住友商事株式会社",
+      "ratio": 50.49,
+      "prev_ratio": 50.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBHO",
+      "sec": "6993",
+      "name": "大黒屋ホールディングス株式会社",
+      "filer": "小川　浩平",
+      "ratio": 11.41,
+      "prev_ratio": 27.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBHT",
+      "sec": "6993",
+      "name": "大黒屋ホールディングス株式会社",
+      "filer": "小川　浩平",
+      "ratio": 11.41,
+      "prev_ratio": 11.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4XO",
+      "sec": "8185",
+      "name": "株式会社チヨダ",
+      "filer": "株式会社中央商事",
+      "ratio": 8.42,
+      "prev_ratio": 7.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA3B",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "合同会社ＡＥＧＩＳ",
+      "ratio": null,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA41",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "株式会社キャピタルタイフーン",
+      "ratio": 25.83,
+      "prev_ratio": 21.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA58",
+      "sec": "3983",
+      "name": "株式会社オロ",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 8.66,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9ZR",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": 8.53,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAY7",
+      "sec": "5970",
+      "name": "株式会社ジーテクト",
+      "filer": "本田技研工業株式会社",
+      "ratio": 21.7,
+      "prev_ratio": 29.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBIR",
+      "sec": "4826",
+      "name": "株式会社ＣＩＪ",
+      "filer": "光通信株式会社",
+      "ratio": 6.72,
+      "prev_ratio": 6.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA0L",
+      "sec": "3401",
+      "name": "帝人株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 14.21,
+      "prev_ratio": 13.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB53",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "３１ＶＥＮＴＵＲＥＳ－グローバル・ブレイン－グロースＩ合同会社",
+      "ratio": 3.89,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA91",
+      "sec": "3920",
+      "name": "アイビーシー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.34,
+      "prev_ratio": 6.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBJG",
+      "sec": "6572",
+      "name": "オープングループ株式会社",
+      "filer": "大角　暢之",
+      "ratio": 10.58,
+      "prev_ratio": 10.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBEP",
+      "sec": "5578",
+      "name": "ＡＲアドバンストテクノロジ株式会社",
+      "filer": "武内　寿憲",
+      "ratio": 86.0,
+      "prev_ratio": 88.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBIJ",
+      "sec": "5578",
+      "name": "ＡＲアドバンストテクノロジ株式会社",
+      "filer": "武内　寿憲",
+      "ratio": 86.0,
+      "prev_ratio": 86.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBBO",
+      "sec": "2936",
+      "name": "ベースフード株式会社",
+      "filer": "牧　寛之",
+      "ratio": 32.98,
+      "prev_ratio": 32.99,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

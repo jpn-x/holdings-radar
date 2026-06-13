@@ -1,0 +1,367 @@
+{
+  "date": "2025-03-05",
+  "new": [
+    {
+      "docId": "S100VBMA",
+      "sec": "281A",
+      "name": "インフォメティス株式会社",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 5.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VCHM",
+      "sec": "3440",
+      "name": "日創プロニティ株式会社",
+      "filer": "石田　洋子",
+      "ratio": 12.64,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VCLZ",
+      "sec": "325A",
+      "name": "株式会社TENTIAL",
+      "filer": "中西　裕太郎",
+      "ratio": 28.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VCKR",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "ベーア・ディミトリー・フィリップ",
+      "ratio": 26.77,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VBIP",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 19.84,
+      "prev_ratio": 20.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBVY",
+      "sec": "6141",
+      "name": "ＤＭＧ森精機株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 2.47,
+      "prev_ratio": 2.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBZR",
+      "sec": "9159",
+      "name": "株式会社W TOKYO",
+      "filer": "株式会社トランザクション",
+      "ratio": 4.63,
+      "prev_ratio": 5.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCEU",
+      "sec": "6524",
+      "name": "湖北工業株式会社",
+      "filer": "石井　太",
+      "ratio": 41.02,
+      "prev_ratio": 45.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCFL",
+      "sec": "6058",
+      "name": "株式会社ベクトル",
+      "filer": "西江　肇司",
+      "ratio": 40.12,
+      "prev_ratio": 40.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VA6B",
+      "sec": "8005",
+      "name": "株式会社スクロール",
+      "filer": "鈴木　裕司",
+      "ratio": 4.3,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC45",
+      "sec": "2743",
+      "name": "ピクセルカンパニーズ株式会社",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 21.94,
+      "prev_ratio": 23.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCGE",
+      "sec": "3391",
+      "name": "株式会社ツルハホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 6.91,
+      "prev_ratio": 7.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCHI",
+      "sec": "3440",
+      "name": "日創プロニティ株式会社",
+      "filer": "石田　利幸",
+      "ratio": null,
+      "prev_ratio": 11.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCFD",
+      "sec": "6557",
+      "name": "AIAIグループ株式会社",
+      "filer": "渡辺　崇",
+      "ratio": 12.12,
+      "prev_ratio": 13.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC7E",
+      "sec": "7552",
+      "name": "株式会社ハピネット",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 1.32,
+      "prev_ratio": 2.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBK8",
+      "sec": "3063",
+      "name": "株式会社ジェイグループホールディングス",
+      "filer": "東海東京証券株式会社",
+      "ratio": 12.23,
+      "prev_ratio": 10.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCGM",
+      "sec": "2743",
+      "name": "ピクセルカンパニーズ株式会社",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 18.95,
+      "prev_ratio": 21.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCI2",
+      "sec": "2198",
+      "name": "アイ・ケイ・ケイホールディングス株式会社",
+      "filer": "金子　和斗志",
+      "ratio": 10.38,
+      "prev_ratio": 10.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC4K",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "Ａｐａｍａｎ　Ｎｅｔｗｏｒｋ株式会社",
+      "ratio": 22.74,
+      "prev_ratio": 29.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBT2",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "株式会社ケイアイホールディングス",
+      "ratio": 3.03,
+      "prev_ratio": 5.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBGI",
+      "sec": "6272",
+      "name": "レオン自動機株式会社",
+      "filer": "株式会社　常陽銀行",
+      "ratio": null,
+      "prev_ratio": 99.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCK2",
+      "sec": "3750",
+      "name": "株式会社サイトリ細胞研究所",
+      "filer": "堀江　聡寧",
+      "ratio": 5.16,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBW1",
+      "sec": "4886",
+      "name": "あすか製薬ホールディングス株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 7.66,
+      "prev_ratio": 7.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB6Z",
+      "sec": "7559",
+      "name": "ジーエフシー株式会社",
+      "filer": "重田　光時",
+      "ratio": 9.57,
+      "prev_ratio": 9.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC0H",
+      "sec": "5930",
+      "name": "文化シヤッター株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 3.46,
+      "prev_ratio": 3.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBMB",
+      "sec": "5449",
+      "name": "大阪製鐵株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 11.6,
+      "prev_ratio": 10.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCF1",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 12.4,
+      "prev_ratio": 14.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC22",
+      "sec": "3843",
+      "name": "フリービット株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.16,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBKX",
+      "sec": "6533",
+      "name": "株式会社Orchestra Holdings",
+      "filer": "佐藤　亨樹",
+      "ratio": 17.18,
+      "prev_ratio": 18.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCKQ",
+      "sec": "9166",
+      "name": "株式会社GENDA",
+      "filer": "申　真衣",
+      "ratio": 4.38,
+      "prev_ratio": 4.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCLP",
+      "sec": "2483",
+      "name": "株式会社翻訳センター",
+      "filer": "光通信株式会社",
+      "ratio": 7.39,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC8B",
+      "sec": "6533",
+      "name": "株式会社Orchestra Holdings",
+      "filer": "ＴＳＫ　ｃａｐｉｔａｌ株式会社",
+      "ratio": 7.73,
+      "prev_ratio": 7.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCCM",
+      "sec": "3395",
+      "name": "株式会社サンマルクホールディングス",
+      "filer": "ＡＡＧＳ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ．",
+      "ratio": 6.28,
+      "prev_ratio": 20.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCLO",
+      "sec": "3457",
+      "name": "株式会社And Doホールディングス",
+      "filer": "安藤　正弘",
+      "ratio": 1.48,
+      "prev_ratio": 1.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBO8",
+      "sec": "3679",
+      "name": "株式会社じげん",
+      "filer": "平尾丈",
+      "ratio": 4.73,
+      "prev_ratio": 4.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCI4",
+      "sec": "4536",
+      "name": "参天製薬株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.1,
+      "prev_ratio": 6.08,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

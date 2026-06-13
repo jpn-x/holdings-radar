@@ -1,0 +1,377 @@
+{
+  "date": "2025-11-20",
+  "new": [
+    {
+      "docId": "S100X5GR",
+      "sec": "8202",
+      "name": "ラオックスホールディングス株式会社",
+      "filer": "ワイズハブ・インターナショナル・コーポレーション・リミテッド",
+      "ratio": 23.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X5JO",
+      "sec": "367A",
+      "name": "プリモグローバルホールディングス株式会社",
+      "filer": "インテグラル株式会社",
+      "ratio": 2.98,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X595",
+      "sec": "157A",
+      "name": "グリーンモンスター株式会社",
+      "filer": "Ｓｕｍｏ　Ｊａｐａｎ　Ｖｅｎｔｕｒｅｓ　Ｓｅｇｒｅｇａｔｅｄ　Ｐｏｒｔｆｏｌｉｏ　ｏｆ　Ｆｕｎｄｖｉｅｗｓ　ＳＰＣ　Ｌｔｄ．",
+      "ratio": 29.16,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X5QR",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 26.66,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X51X",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "大垣内　剛",
+      "ratio": 11.35,
+      "prev_ratio": 13.07,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X5IA",
+      "sec": "442A",
+      "name": "クラシコ株式会社",
+      "filer": "ＭＮインターファッション株式会社",
+      "ratio": 8.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X5QL",
+      "sec": "5706",
+      "name": "三井金属株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 7.000000000000001,
+      "prev_ratio": 19.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5PI",
+      "sec": "3723",
+      "name": "日本ファルコム株式会社",
+      "filer": "五味　大輔",
+      "ratio": 6.03,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5LM",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.61,
+      "prev_ratio": 7.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4YP",
+      "sec": "1724",
+      "name": "シンクレイヤ株式会社",
+      "filer": "株式会社ＭＡＳ　Ｂｕｄｄｙ",
+      "ratio": 16.66,
+      "prev_ratio": 21.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5GV",
+      "sec": "8202",
+      "name": "ラオックスホールディングス株式会社",
+      "filer": "ハンマックス・インベストメント・リミテッド",
+      "ratio": null,
+      "prev_ratio": 24.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5BI",
+      "sec": "6424",
+      "name": "株式会社高見沢サイバネティックス",
+      "filer": "富士電機株式会社",
+      "ratio": 17.3,
+      "prev_ratio": 20.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5MG",
+      "sec": "5998",
+      "name": "株式会社　アドバネクス",
+      "filer": "ＡＡＡ株式会社",
+      "ratio": 10.74,
+      "prev_ratio": 10.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5TD",
+      "sec": "7409",
+      "name": "AeroEdge株式会社",
+      "filer": "ＤＭＧ森精機株式会社",
+      "ratio": 10.41,
+      "prev_ratio": 10.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5OI",
+      "sec": "4937",
+      "name": "株式会社Waqoo",
+      "filer": "ＳＢＣメディカルグループ株式会社",
+      "ratio": 9.76,
+      "prev_ratio": 9.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5HU",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 1.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5TV",
+      "sec": "2170",
+      "name": "株式会社リンクアンドモチベーション",
+      "filer": "株式会社フェニックス",
+      "ratio": 1.98,
+      "prev_ratio": 2.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZL3",
+      "sec": "1827",
+      "name": "株式会社ナカノフドー建設",
+      "filer": "公益財団法人大島育英会",
+      "ratio": 20.74,
+      "prev_ratio": 19.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZOO",
+      "sec": "1827",
+      "name": "株式会社ナカノフドー建設",
+      "filer": "大島　義和",
+      "ratio": 7.8,
+      "prev_ratio": 8.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5R7",
+      "sec": "8167",
+      "name": "株式会社リテールパートナーズ",
+      "filer": "池田興産有限会社",
+      "ratio": 4.84,
+      "prev_ratio": 4.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5MG",
+      "sec": "5998",
+      "name": "株式会社　アドバネクス",
+      "filer": "ＡＡＡ株式会社",
+      "ratio": 10.74,
+      "prev_ratio": 10.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5GV",
+      "sec": "8202",
+      "name": "ラオックスホールディングス株式会社",
+      "filer": "ハンマックス・インベストメント・リミテッド",
+      "ratio": null,
+      "prev_ratio": 24.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5PT",
+      "sec": "276A",
+      "name": "ククレブ・アドバイザーズ株式会社",
+      "filer": "宮寺　之裕",
+      "ratio": 39.92,
+      "prev_ratio": 43.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X55S",
+      "sec": "5943",
+      "name": "株式会社ノーリツ",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 3.09,
+      "prev_ratio": 3.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5KB",
+      "sec": "7085",
+      "name": "株式会社カーブスホールディングス",
+      "filer": "腰髙　修",
+      "ratio": 96.0,
+      "prev_ratio": 1.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X39K",
+      "sec": "2579",
+      "name": "コカ・コーラ ボトラーズジャパンホールディングス株式会社",
+      "filer": "日本コカ・コーラ株式会社",
+      "ratio": 16.32,
+      "prev_ratio": 15.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5YF",
+      "sec": "7812",
+      "name": "株式会社クレステック",
+      "filer": "髙林　彰",
+      "ratio": 7.21,
+      "prev_ratio": 10.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5YI",
+      "sec": "3974",
+      "name": "ＳＣＡＴ株式会社",
+      "filer": "株式会社ＥＰＡＲＫ",
+      "ratio": 6.3,
+      "prev_ratio": 5.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5FS",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "信太　明",
+      "ratio": 33.16,
+      "prev_ratio": 32.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5H9",
+      "sec": "7940",
+      "name": "ウェーブロックホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5KW",
+      "sec": "6923",
+      "name": "スタンレー電気株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5MY",
+      "sec": "7294",
+      "name": "株式会社ヨロズ",
+      "filer": "株式会社南青山不動産",
+      "ratio": null,
+      "prev_ratio": 7.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4WH",
+      "sec": "4439",
+      "name": "株式会社東名",
+      "filer": "光通信株式会社",
+      "ratio": 7.31,
+      "prev_ratio": 7.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4WL",
+      "sec": "6018",
+      "name": "阪神内燃機工業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.03,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5TS",
+      "sec": "367A",
+      "name": "プリモグローバルホールディングス株式会社",
+      "filer": "プリモ・インテグラル１株式会社",
+      "ratio": null,
+      "prev_ratio": 2.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4WN",
+      "sec": "8085",
+      "name": "ナラサキ産業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.14,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5SM",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 18.8,
+      "prev_ratio": 20.59,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

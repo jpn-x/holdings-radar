@@ -1,0 +1,327 @@
+{
+  "date": "2025-07-14",
+  "new": [
+    {
+      "docId": "S100WCOY",
+      "sec": "8946",
+      "name": "株式会社ASIAN STAR",
+      "filer": "ＸＩＡ　ＺＵＩＴＩＮＧ",
+      "ratio": 9.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WCU7",
+      "sec": "8946",
+      "name": "株式会社ASIAN STAR",
+      "filer": "Ｐｅｎｔａｇｒａｍ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ株式会社",
+      "ratio": 9.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WCSE",
+      "sec": "6395",
+      "name": "株式会社タダノ",
+      "filer": "ジャパン・アクティベーション・キャピタル株式会社",
+      "ratio": 10.81,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WCQ9",
+      "sec": "4833",
+      "name": "株式会社 Def consulting",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 18.97,
+      "prev_ratio": 19.52,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WCA1",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "株式会社ＭＣ",
+      "ratio": 27.61,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCPN",
+      "sec": "7379",
+      "name": "株式会社サーキュレーション",
+      "filer": "株式会社クラウドワークス",
+      "ratio": 23.79,
+      "prev_ratio": 23.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCNN",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "福村　康廣",
+      "ratio": 22.44,
+      "prev_ratio": 24.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCOO",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "福村　康廣",
+      "ratio": 18.77,
+      "prev_ratio": 21.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCOC",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "福村　康廣",
+      "ratio": 21.07,
+      "prev_ratio": 22.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCS4",
+      "sec": "8946",
+      "name": "株式会社ASIAN STAR",
+      "filer": "徳威国際発展有限公司",
+      "ratio": 20.58,
+      "prev_ratio": 20.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCSI",
+      "sec": "4387",
+      "name": "株式会社ＺＵＵ",
+      "filer": "冨田　和成",
+      "ratio": 50.62,
+      "prev_ratio": 50.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCS5",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.0,
+      "prev_ratio": 22.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCL2",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 45.04,
+      "prev_ratio": 46.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCSM",
+      "sec": "9895",
+      "name": "株式会社コンセック",
+      "filer": "日本鉱泉株式会社",
+      "ratio": 9.11,
+      "prev_ratio": 10.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBSX",
+      "sec": "7480",
+      "name": "スズデン株式会社",
+      "filer": "ベル株式会社",
+      "ratio": 9.35,
+      "prev_ratio": 10.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCVG",
+      "sec": "7693",
+      "name": "北海道歯科産業株式会社",
+      "filer": "山田　哲哉",
+      "ratio": 39.23,
+      "prev_ratio": 37.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCUT",
+      "sec": "6982",
+      "name": "株式会社リード",
+      "filer": "岩崎　元治",
+      "ratio": 11.46,
+      "prev_ratio": 11.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCRM",
+      "sec": "9987",
+      "name": "株式会社スズケン",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.13,
+      "prev_ratio": 6.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCWP",
+      "sec": "6963",
+      "name": "ローム株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 4.59,
+      "prev_ratio": 3.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCQT",
+      "sec": "7451",
+      "name": "三菱食品株式会社",
+      "filer": "三菱商事株式会社",
+      "ratio": 89.22,
+      "prev_ratio": 37.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCX2",
+      "sec": "6973",
+      "name": "協栄産業株式会社",
+      "filer": "加賀電子株式会社",
+      "ratio": 51.95,
+      "prev_ratio": 8.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBSY",
+      "sec": "6516",
+      "name": "山洋電気株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 14.23,
+      "prev_ratio": 13.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCW0",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "中村　健一郎",
+      "ratio": 8.94,
+      "prev_ratio": 9.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCYJ",
+      "sec": "2483",
+      "name": "株式会社翻訳センター",
+      "filer": "光通信株式会社",
+      "ratio": 7.39,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCQ7",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 20.64,
+      "prev_ratio": 22.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCYB",
+      "sec": "138A",
+      "name": "光フードサービス株式会社",
+      "filer": "大谷　光徳",
+      "ratio": 13.31,
+      "prev_ratio": 13.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCQA",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 5.52,
+      "prev_ratio": 6.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCQ8",
+      "sec": "7093",
+      "name": "アディッシュ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 11.0,
+      "prev_ratio": 12.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCET",
+      "sec": "4979",
+      "name": "ＯＡＴアグリオ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.98,
+      "prev_ratio": 6.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCPO",
+      "sec": "4892",
+      "name": "株式会社サイフューズ",
+      "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
+      "ratio": 5.35,
+      "prev_ratio": 5.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCYT",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "福村　康廣",
+      "ratio": 23.82,
+      "prev_ratio": 24.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCZA",
+      "sec": "7793",
+      "name": "株式会社イメージ・マジック",
+      "filer": "山川　誠",
+      "ratio": 15.57,
+      "prev_ratio": 16.46,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

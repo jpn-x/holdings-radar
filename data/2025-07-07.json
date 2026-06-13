@@ -1,0 +1,297 @@
+{
+  "date": "2025-07-07",
+  "new": [
+    {
+      "docId": "S100WB2A",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "田坂　大作",
+      "ratio": 5.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WASX",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "株式会社ＩＴ",
+      "ratio": 8.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WBIR",
+      "sec": "372A",
+      "name": "株式会社レント",
+      "filer": "ユアサ商事株式会社",
+      "ratio": 7.29,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WBL1",
+      "sec": "7601",
+      "name": "株式会社ポプラ",
+      "filer": "目黒　俊治",
+      "ratio": 19.83,
+      "prev_ratio": 20.52,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WAVT",
+      "sec": "6145",
+      "name": "ＮＩＴＴОＫＵ株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WA0H",
+      "sec": "1436",
+      "name": "株式会社 グリーンエナジー＆カンパニー",
+      "filer": "シンプレクス・キャピタル・インベストメント株式会社",
+      "ratio": 11.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100W9WI",
+      "sec": "6879",
+      "name": "株式会社 IMAGICA GROUP",
+      "filer": "株式会社クレアート",
+      "ratio": 53.96,
+      "prev_ratio": 53.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBDL",
+      "sec": "9722",
+      "name": "藤田観光株式会社",
+      "filer": "Ｏｌｄ　Ｐｅａｋ　Ｇｒｏｕｐ　Ｌｔｄ．",
+      "ratio": 6.13,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAQF",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "トラストアップ株式会社",
+      "ratio": 13.99,
+      "prev_ratio": 27.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBGO",
+      "sec": "6993",
+      "name": "大黒屋ホールディングス株式会社",
+      "filer": "小川　浩平",
+      "ratio": 28.13,
+      "prev_ratio": 28.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBDO",
+      "sec": "7277",
+      "name": "株式会社TBK",
+      "filer": "Ａｔｈａｎａｓｅ　Ｉｎｄｕｓｔｒｉａｌ　Ｐａｒｔｎｅｒ　ＡＢ",
+      "ratio": null,
+      "prev_ratio": 4.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAAD",
+      "sec": "2762",
+      "name": "株式会社SANKO MARKETING FOODS",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.95,
+      "prev_ratio": 12.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBCE",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.23,
+      "prev_ratio": 21.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBJ3",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 1.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBDB",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 16.67,
+      "prev_ratio": 18.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W885",
+      "sec": "4689",
+      "name": "LINEヤフー株式会社",
+      "filer": "ソフトバンク株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBAJ",
+      "sec": "9386",
+      "name": "日本コンセプト株式会社",
+      "filer": "株式会社　商船三井",
+      "ratio": 29.0,
+      "prev_ratio": 29.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBJN",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "株式会社Ａｄｏ",
+      "ratio": 24.03,
+      "prev_ratio": 25.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBFL",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 24.06,
+      "prev_ratio": 25.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBDR",
+      "sec": "9973",
+      "name": "KOZOホールディングス株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 5.95,
+      "prev_ratio": 14.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WARA",
+      "sec": "5992",
+      "name": "中央発條株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 1.53,
+      "prev_ratio": 89.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBMV",
+      "sec": "8957",
+      "name": "東急リアル・エステート投資法人",
+      "filer": "東急株式会社",
+      "ratio": 13.19,
+      "prev_ratio": 12.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAE2",
+      "sec": "4496",
+      "name": "株式会社コマースＯｎｅホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 6.88,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBNB",
+      "sec": "9684",
+      "name": "株式会社スクウェア・エニックス・ホールディングス",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 11.93,
+      "prev_ratio": 10.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAE5",
+      "sec": "9444",
+      "name": "トーシンホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.18,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAE7",
+      "sec": "9441",
+      "name": "株式会社ベルパーク",
+      "filer": "光通信株式会社",
+      "ratio": 1.69,
+      "prev_ratio": 11.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBNK",
+      "sec": "4176",
+      "name": "株式会社ココナラ",
+      "filer": "新明　智",
+      "ratio": 4.59,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100SL1A",
+      "sec": "7709",
+      "name": "クボテック株式会社",
+      "filer": "久保　哲夫",
+      "ratio": 28.04,
+      "prev_ratio": 28.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WA9J",
+      "sec": "5941",
+      "name": "株式会社中西製作所",
+      "filer": "シンプレクス・アセット・マネジメント株式会社",
+      "ratio": 12.69,
+      "prev_ratio": 14.54,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

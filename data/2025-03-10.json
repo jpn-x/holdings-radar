@@ -1,0 +1,337 @@
+{
+  "date": "2025-03-10",
+  "new": [
+    {
+      "docId": "S100VD8Q",
+      "sec": "9235",
+      "name": "株式会社売れるネット広告社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 4.83,
+      "prev_ratio": 5.83,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VD65",
+      "sec": "326A",
+      "name": "株式会社aero lab international",
+      "filer": "鼓呂雲　健造",
+      "ratio": 99.38,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VD9N",
+      "sec": "7603",
+      "name": "株式会社マックハウス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 33.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VD9H",
+      "sec": "6229",
+      "name": "株式会社オーケーエム",
+      "filer": "奥村晋一商会株式会社",
+      "ratio": 6.4,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VCMT",
+      "sec": "3132",
+      "name": "マクニカホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VCIT",
+      "sec": "9254",
+      "name": "株式会社ラバブルマーケティンググループ",
+      "filer": "株式会社日比谷コンピュータシステム",
+      "ratio": null,
+      "prev_ratio": 9.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD43",
+      "sec": "5595",
+      "name": "株式会社ＱＰＳ研究所",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 16.23,
+      "prev_ratio": 17.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBYX",
+      "sec": "263A",
+      "name": "株式会社デジタルキューブ",
+      "filer": "小賀浩通",
+      "ratio": 27.73,
+      "prev_ratio": 31.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBZV",
+      "sec": "263A",
+      "name": "株式会社デジタルキューブ",
+      "filer": "リジェネラティブ株式会社",
+      "ratio": 33.59,
+      "prev_ratio": 41.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD93",
+      "sec": "3011",
+      "name": "株式会社バナーズ",
+      "filer": "株式会社エルガみらい研究所",
+      "ratio": 16.48,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCT6",
+      "sec": "7800",
+      "name": "株式会社アミファ",
+      "filer": "藤井　愉三",
+      "ratio": 88.0,
+      "prev_ratio": 88.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDBW",
+      "sec": "7794",
+      "name": "株式会社イーディーピー",
+      "filer": "野村證券株式会社",
+      "ratio": 8.79,
+      "prev_ratio": 9.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDAJ",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.93,
+      "prev_ratio": 20.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD9Y",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 30.74,
+      "prev_ratio": 36.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDBF",
+      "sec": "2751",
+      "name": "株式会社テンポスホールディングス",
+      "filer": "森下　篤史",
+      "ratio": 12.93,
+      "prev_ratio": 12.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD9J",
+      "sec": "6229",
+      "name": "株式会社オーケーエム",
+      "filer": "奥村　晋一",
+      "ratio": 4.0,
+      "prev_ratio": 6.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD74",
+      "sec": "7227",
+      "name": "アスカ株式会社",
+      "filer": "株式会社ＣＩＳ",
+      "ratio": 32.97,
+      "prev_ratio": 25.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VA8Q",
+      "sec": "7128",
+      "name": "フルサト・マルカホールディングス株式会社",
+      "filer": "有限会社エフアールテイ",
+      "ratio": 12.73,
+      "prev_ratio": 10.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDCT",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 3.0,
+      "prev_ratio": 1.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4KN",
+      "sec": "3955",
+      "name": "株式会社イムラ",
+      "filer": "井村守宏",
+      "ratio": 2.4,
+      "prev_ratio": 3.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCQA",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "伊達　晃洋",
+      "ratio": 6.59,
+      "prev_ratio": 7.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCY6",
+      "sec": "4337",
+      "name": "ぴあ株式会社",
+      "filer": "ＫＤＤＩ株式会社",
+      "ratio": 9.55,
+      "prev_ratio": 9.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDAM",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 9.89,
+      "prev_ratio": 11.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDAO",
+      "sec": "7093",
+      "name": "アディッシュ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 14.74,
+      "prev_ratio": 15.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCXY",
+      "sec": "6346",
+      "name": "キクカワエンタープライズ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.12,
+      "prev_ratio": 7.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDAB",
+      "sec": "1721",
+      "name": "コムシスホールディングス株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 6.09,
+      "prev_ratio": 7.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDES",
+      "sec": "4337",
+      "name": "ぴあ株式会社",
+      "filer": "ＫＤＤＩ株式会社",
+      "ratio": 1.31,
+      "prev_ratio": 9.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD0F",
+      "sec": "7833",
+      "name": "株式会社アイフィスジャパン",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 44.0,
+      "prev_ratio": 1.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCHU",
+      "sec": "4495",
+      "name": "株式会社アイキューブドシステムズ",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 5.17,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDFC",
+      "sec": "2175",
+      "name": "株式会社エス・エム・エス",
+      "filer": "ＭＯＲＯ合同会社",
+      "ratio": 17.56,
+      "prev_ratio": 17.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD8Q",
+      "sec": "9235",
+      "name": "株式会社売れるネット広告社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 4.83,
+      "prev_ratio": 5.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAH9",
+      "sec": "3439",
+      "name": "株式会社三ツ知",
+      "filer": "野田　正英",
+      "ratio": 5.19,
+      "prev_ratio": 6.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDC7",
+      "sec": "4477",
+      "name": "BASE株式会社",
+      "filer": "牧　寛之",
+      "ratio": 8.0,
+      "prev_ratio": 5.4,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

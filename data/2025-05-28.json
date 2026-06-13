@@ -1,0 +1,277 @@
+{
+  "date": "2025-05-28",
+  "new": [
+    {
+      "docId": "S100VU0P",
+      "sec": "3010",
+      "name": "ポラリス・ホールディングス株式会社",
+      "filer": "Ｔｈｅ　Ｔｒｕｓｔｅｅｓ　ｏｆ　Ｃｏｌｕｍｂｉａ　Ｕｎｉｖｅｒｓｉｔｙ　ｉｎ　ｔｈｅ　Ｃｉｔｙ　ｏｆ　Ｎｅｗ　Ｙｏｒｋ",
+      "ratio": 7.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VTDN",
+      "sec": "8886",
+      "name": "株式会社ウッドフレンズ",
+      "filer": "株式会社　長谷工コーポレーション",
+      "ratio": 89.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VSZR",
+      "sec": "5271",
+      "name": "株式会社トーヨーアサノ",
+      "filer": "株式会社直木商事",
+      "ratio": 25.85,
+      "prev_ratio": 24.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTO1",
+      "sec": "5726",
+      "name": "株式会社大阪チタニウムテクノロジーズ",
+      "filer": "株式会社　神戸製鋼所",
+      "ratio": 11.42,
+      "prev_ratio": 12.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU2R",
+      "sec": "3808",
+      "name": "株式会社オウケイウェイヴ",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 21.09,
+      "prev_ratio": 22.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU28",
+      "sec": "5941",
+      "name": "株式会社中西製作所",
+      "filer": "中西　一真",
+      "ratio": 9.72,
+      "prev_ratio": 8.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU1L",
+      "sec": "4849",
+      "name": "エン・ジャパン株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 7.93,
+      "prev_ratio": 5.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU4G",
+      "sec": "2001",
+      "name": "株式会社ニップン",
+      "filer": "野村證券株式会社",
+      "ratio": 5.82,
+      "prev_ratio": 5.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU4Z",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "有限会社フクジュコーポレーション",
+      "ratio": 21.52,
+      "prev_ratio": 24.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU6Q",
+      "sec": "4881",
+      "name": "株式会社ファンペップ",
+      "filer": "森下　竜一",
+      "ratio": 1.89,
+      "prev_ratio": 2.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTDB",
+      "sec": "6951",
+      "name": "日本電子株式会社",
+      "filer": "みさき投資株式会社",
+      "ratio": 4.69,
+      "prev_ratio": 5.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTD2",
+      "sec": "9235",
+      "name": "売れるネット広告社グループ株式会社",
+      "filer": "加藤　公一レオ",
+      "ratio": 34.89,
+      "prev_ratio": 38.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU7D",
+      "sec": "7408",
+      "name": "株式会社ジャムコ",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 16.98,
+      "prev_ratio": 33.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTPJ",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 19.53,
+      "prev_ratio": 20.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VSXO",
+      "sec": "3409",
+      "name": "北日本紡績株式会社",
+      "filer": "ＰＴ　ＡＳＩＡ　ＰＬＡＳＴＩＫ　ＶＩＫＴＯＲＩ",
+      "ratio": 59.71,
+      "prev_ratio": 65.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTPK",
+      "sec": "3656",
+      "name": "ＫＬａｂ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 12.41,
+      "prev_ratio": 13.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VSXY",
+      "sec": "3409",
+      "name": "北日本紡績株式会社",
+      "filer": "ＰＴ　ＡＳＩＡ　ＰＬＡＳＴＩＫ　ＶＩＫＴＯＲＩ",
+      "ratio": 60.41,
+      "prev_ratio": 59.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTV2",
+      "sec": "3810",
+      "name": "サイバーステップ株式会社",
+      "filer": "佐藤　類",
+      "ratio": 5.12,
+      "prev_ratio": 5.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VT1O",
+      "sec": "3276",
+      "name": "株式会社ＪＰＭＣ",
+      "filer": "光通信株式会社",
+      "ratio": 7.57,
+      "prev_ratio": 7.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTNU",
+      "sec": "6332",
+      "name": "月島ホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU7S",
+      "sec": "6871",
+      "name": "株式会社日本マイクロニクス",
+      "filer": "野村證券株式会社",
+      "ratio": 43.0,
+      "prev_ratio": 27.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU7H",
+      "sec": "6095",
+      "name": "メドピア株式会社",
+      "filer": "牧　寛之",
+      "ratio": 11.22,
+      "prev_ratio": 9.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU2A",
+      "sec": "4881",
+      "name": "株式会社ファンペップ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 3.01,
+      "prev_ratio": 3.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTYB",
+      "sec": "7049",
+      "name": "株式会社識学",
+      "filer": "安藤　広大",
+      "ratio": 24.16,
+      "prev_ratio": 25.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTQ7",
+      "sec": "260A",
+      "name": "株式会社オルツ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 2.02,
+      "prev_ratio": 2.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU22",
+      "sec": "7359",
+      "name": "株式会社東京通信グループ",
+      "filer": "外川　穣",
+      "ratio": 60.0,
+      "prev_ratio": 60.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTRY",
+      "sec": "2196",
+      "name": "株式会社エスクリ",
+      "filer": "岩本　博",
+      "ratio": 7.47,
+      "prev_ratio": 7.47,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

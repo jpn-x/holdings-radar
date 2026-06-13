@@ -1,0 +1,457 @@
+{
+  "date": "2025-08-20",
+  "new": [
+    {
+      "docId": "S100WJZD",
+      "sec": "6699",
+      "name": "ダイヤモンドエレクトリックホールディングス株式会社",
+      "filer": "勝野　仁視",
+      "ratio": 5.16,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WK1Y",
+      "sec": "7021",
+      "name": "株式会社ニッチツ",
+      "filer": "扇栄会　理事長　山﨑　俊隆",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WK4J",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "グローバル・ブレイン株式会社",
+      "ratio": 12.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WK5E",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "３１ＶＥＮＴＵＲＥＳ－グローバル・ブレイン－グロースＩ合同会社",
+      "ratio": 9.27,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WIVR",
+      "sec": "9386",
+      "name": "日本コンセプト株式会社",
+      "filer": "株式会社Ｍ",
+      "ratio": 58.6,
+      "prev_ratio": 29.0,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WKBI",
+      "sec": "7176",
+      "name": "株式会社シンプレクス・ファイナンシャル・ホールディングス",
+      "filer": "株式会社ＯＦＦＩＣＥ　Ｍ",
+      "ratio": 9.97,
+      "prev_ratio": 6.99,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WKC1",
+      "sec": "7176",
+      "name": "株式会社シンプレクス・ファイナンシャル・ホールディングス",
+      "filer": "株式会社ＯＦＦＩＣＥ　Ｍ",
+      "ratio": 6.2,
+      "prev_ratio": 9.97,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WKCE",
+      "sec": "7176",
+      "name": "株式会社シンプレクス・ファイナンシャル・ホールディングス",
+      "filer": "水嶋　浩雅",
+      "ratio": 24.79,
+      "prev_ratio": 40.0,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WKDH",
+      "sec": "290A",
+      "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
+      "filer": "野村證券株式会社",
+      "ratio": 16.81,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WK0L",
+      "sec": "2531",
+      "name": "宝ホールディングス株式会社",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WK8B",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "Ｔｅａｍ　Ｅｎｅｒｇｙ　ＧＩ株式会社",
+      "ratio": 48.67,
+      "prev_ratio": 48.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK8L",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "Ｔｅａｍ　Ｅｎｅｒｇｙ　ＧＩ株式会社",
+      "ratio": 47.56,
+      "prev_ratio": 47.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK87",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "中村　誠司",
+      "ratio": 8.21,
+      "prev_ratio": 8.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK89",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "中村　誠司",
+      "ratio": 8.05,
+      "prev_ratio": 8.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK88",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "中村　誠司",
+      "ratio": 8.13,
+      "prev_ratio": 8.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJWW",
+      "sec": "7176",
+      "name": "株式会社シンプレクス・ファイナンシャル・ホールディングス",
+      "filer": "株式会社ＳＩＭＰＬＥＸ",
+      "ratio": 4.23,
+      "prev_ratio": 4.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJ6F",
+      "sec": "9386",
+      "name": "日本コンセプト株式会社",
+      "filer": "松元　孝義",
+      "ratio": null,
+      "prev_ratio": 21.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJUL",
+      "sec": "1960",
+      "name": "株式会社サンテック",
+      "filer": "双栄興業株式会社",
+      "ratio": 10.55,
+      "prev_ratio": 7.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK8M",
+      "sec": "4052",
+      "name": "フィーチャ株式会社",
+      "filer": "脇　健一郎",
+      "ratio": 10.34,
+      "prev_ratio": 11.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK4N",
+      "sec": "2762",
+      "name": "株式会社SANKO MARKETING FOODS",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 8.75,
+      "prev_ratio": 9.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK5Y",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 13.0,
+      "prev_ratio": 14.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK43",
+      "sec": "4588",
+      "name": "オンコリスバイオファーマ株式会社",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 13.84,
+      "prev_ratio": 14.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKBA",
+      "sec": "9285",
+      "name": "東京インフラ・エネルギー投資法人",
+      "filer": "株式会社クールトラスト",
+      "ratio": 13.7,
+      "prev_ratio": 12.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK91",
+      "sec": "6957",
+      "name": "株式会社芝浦電子",
+      "filer": "サムソン・ロック・キャピタル・エルエルピー",
+      "ratio": 5.97,
+      "prev_ratio": 7.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKAN",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "代永衛",
+      "ratio": 7.19,
+      "prev_ratio": 7.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKCX",
+      "sec": "7686",
+      "name": "株式会社ひとまいる",
+      "filer": "株式会社ＳＫＹグループホールディングス",
+      "ratio": 46.93,
+      "prev_ratio": 48.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKAM",
+      "sec": "5341",
+      "name": "ASAHI EITOホールディングス株式会社",
+      "filer": "山川株式会社",
+      "ratio": 6.78,
+      "prev_ratio": 7.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJSV",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ネクスタ",
+      "ratio": 18.45,
+      "prev_ratio": 31.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJSX",
+      "sec": "3224",
+      "name": "株式会社ゼネラル・オイスター",
+      "filer": "株式会社ネクスタ",
+      "ratio": 45.44,
+      "prev_ratio": 45.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJ96",
+      "sec": "1882",
+      "name": "東亜道路工業株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 11.64,
+      "prev_ratio": 12.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJAX",
+      "sec": "8585",
+      "name": "株式会社オリエントコーポレーション",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 7.28,
+      "prev_ratio": 6.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJT7",
+      "sec": "9386",
+      "name": "日本コンセプト株式会社",
+      "filer": "株式会社　商船三井",
+      "ratio": 29.0,
+      "prev_ratio": 29.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK8G",
+      "sec": "4320",
+      "name": "株式会社CEホールディングス",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 1.6,
+      "prev_ratio": 9.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJXD",
+      "sec": "277A",
+      "name": "グ ロ ー ビ ン グ 株 式 会 社",
+      "filer": "輪島総介",
+      "ratio": 17.2,
+      "prev_ratio": 25.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJ1F",
+      "sec": "1888",
+      "name": "若築建設株式会社",
+      "filer": "株式会社麻生",
+      "ratio": 40.93,
+      "prev_ratio": 39.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJWD",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.95,
+      "prev_ratio": 9.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKAZ",
+      "sec": "7094",
+      "name": "株式会社NexTone",
+      "filer": "株式会社フェイス",
+      "ratio": 6.57,
+      "prev_ratio": 7.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK8C",
+      "sec": "4833",
+      "name": "株式会社 Def consulting",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 15.55,
+      "prev_ratio": 16.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJRW",
+      "sec": "9257",
+      "name": "YCPホールディングス（グローバル）リミテッド",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK4W",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 36.51,
+      "prev_ratio": 37.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK4K",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "Ｂｅｎｅｄｉｃｔ　Ｂｅｈ　Ｗｅｉ　Ｈａｏ",
+      "ratio": 5.38,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJJY",
+      "sec": "7379",
+      "name": "株式会社サーキュレーション",
+      "filer": "株式会社ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ",
+      "ratio": 92.3,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKF0",
+      "sec": "8957",
+      "name": "東急リアル・エステート投資法人",
+      "filer": "東急株式会社",
+      "ratio": 14.2,
+      "prev_ratio": 13.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJ3I",
+      "sec": "2154",
+      "name": "株式会社オープンアップグループ",
+      "filer": "有限会社志",
+      "ratio": 4.56,
+      "prev_ratio": 6.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKAW",
+      "sec": "9647",
+      "name": "株式会社協和コンサルタンツ",
+      "filer": "持山　銀次郎",
+      "ratio": 5.73,
+      "prev_ratio": 6.82,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

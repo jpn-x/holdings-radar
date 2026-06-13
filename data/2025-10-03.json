@@ -1,0 +1,427 @@
+{
+  "date": "2025-10-03",
+  "new": [
+    {
+      "docId": "S100WT4I",
+      "sec": "5592",
+      "name": "株式会社くすりの窓口",
+      "filer": "オリックス株式会社",
+      "ratio": 4.67,
+      "prev_ratio": 8.5,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WT4U",
+      "sec": "4572",
+      "name": "カルナバイオサイエンス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 9.68,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WQDK",
+      "sec": "9066",
+      "name": "株式会社日新",
+      "filer": "日新商事株式会社",
+      "ratio": 18.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W9JE",
+      "sec": "254A",
+      "name": "ＡＩフュージョンキャピタルグループ株式会社",
+      "filer": "株式会社ＤＳＧ１",
+      "ratio": 19.75,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WT13",
+      "sec": "2791",
+      "name": "大黒天物産株式会社",
+      "filer": "大賀　昭司",
+      "ratio": 7.77,
+      "prev_ratio": 8.51,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WS7V",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 14.05,
+      "prev_ratio": 11.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQHQ",
+      "sec": "1736",
+      "name": "株式会社　オーテック",
+      "filer": "日本継手株式会社",
+      "ratio": 18.35,
+      "prev_ratio": 18.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRQ3",
+      "sec": "1736",
+      "name": "株式会社　オーテック",
+      "filer": "日本継手株式会社",
+      "ratio": 18.35,
+      "prev_ratio": 18.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WQI5",
+      "sec": "1736",
+      "name": "株式会社　オーテック",
+      "filer": "日本継手株式会社",
+      "ratio": 18.35,
+      "prev_ratio": 18.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSYN",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 29.86,
+      "prev_ratio": 31.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSUJ",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 11.57,
+      "prev_ratio": 11.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT55",
+      "sec": "3934",
+      "name": "株式会社ベネフィットジャパン",
+      "filer": "佐久間　寛",
+      "ratio": 22.19,
+      "prev_ratio": 22.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSLL",
+      "sec": "8439",
+      "name": "東京センチュリー株式会社",
+      "filer": "中央日本土地建物株式会社",
+      "ratio": 13.95,
+      "prev_ratio": 13.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WS9Z",
+      "sec": "5386",
+      "name": "株式会社鶴弥",
+      "filer": "鶴見　哲",
+      "ratio": 19.97,
+      "prev_ratio": 19.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT5Z",
+      "sec": "3779",
+      "name": "ジェイ・エスコムホールディングス株式会社",
+      "filer": "株式会社ＫＪＣインター",
+      "ratio": 30.52,
+      "prev_ratio": 31.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT32",
+      "sec": "9610",
+      "name": "ウィルソン・ラーニング　ワールドワイド株式会社",
+      "filer": "株式会社日本経済新聞社",
+      "ratio": null,
+      "prev_ratio": 7.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9PI",
+      "sec": "254A",
+      "name": "ＡＩフュージョンキャピタルグループ株式会社",
+      "filer": "株式会社ＤＳＧ１",
+      "ratio": 19.75,
+      "prev_ratio": 19.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9XL",
+      "sec": "254A",
+      "name": "ＡＩフュージョンキャピタルグループ株式会社",
+      "filer": "株式会社ＤＳＧ１",
+      "ratio": 24.32,
+      "prev_ratio": 19.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSYR",
+      "sec": "3665",
+      "name": "株式会社エニグモ",
+      "filer": "須田　将啓",
+      "ratio": 12.39,
+      "prev_ratio": 12.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSUS",
+      "sec": "5706",
+      "name": "三井金属鉱業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.25,
+      "prev_ratio": 1.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSIL",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 14.31,
+      "prev_ratio": 14.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTA0",
+      "sec": "9240",
+      "name": "株式会社デリバリーコンサルティング",
+      "filer": "ＭＦアセット株式会社",
+      "ratio": 8.42,
+      "prev_ratio": 10.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT9Q",
+      "sec": "7793",
+      "name": "株式会社イメージ・マジック",
+      "filer": "山川　誠",
+      "ratio": 15.46,
+      "prev_ratio": 16.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSRF",
+      "sec": "5570",
+      "name": "株式会社ジェノバ",
+      "filer": "南　尚子",
+      "ratio": 18.05,
+      "prev_ratio": 18.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSH7",
+      "sec": "6089",
+      "name": "株式会社ウィルグループ",
+      "filer": "池田　良介",
+      "ratio": 17.32,
+      "prev_ratio": 18.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WS39",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": 6.35,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSHV",
+      "sec": "9417",
+      "name": "株式会社スマートバリュー",
+      "filer": "渋谷　一正",
+      "ratio": 18.15,
+      "prev_ratio": 20.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRY5",
+      "sec": "1882",
+      "name": "東亜道路工業株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 6.02,
+      "prev_ratio": 6.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTAL",
+      "sec": "9213",
+      "name": "株式会社セイファート",
+      "filer": "マネックス証券株式会社",
+      "ratio": 7.1,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSNL",
+      "sec": "7476",
+      "name": "アズワン株式会社",
+      "filer": "有限会社井内盛英堂",
+      "ratio": 10.04,
+      "prev_ratio": 10.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSRQ",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSHE",
+      "sec": "7462",
+      "name": "株式会社CAPITA",
+      "filer": "森　猛",
+      "ratio": 5.51,
+      "prev_ratio": 6.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT4S",
+      "sec": "3799",
+      "name": "キーウェアソリューションズ株式会社",
+      "filer": "株式会社ＨＢＡ",
+      "ratio": 15.2,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSRO",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＫＤＤＩ株式会社",
+      "ratio": 9.5,
+      "prev_ratio": 14.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT26",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＫＤＤＩ株式会社",
+      "ratio": 7.51,
+      "prev_ratio": 9.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT38",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＫＤＤＩ株式会社",
+      "ratio": 6.17,
+      "prev_ratio": 7.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT39",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＫＤＤＩ株式会社",
+      "ratio": 5.08,
+      "prev_ratio": 6.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT2X",
+      "sec": "247A",
+      "name": "Ａｉロボティクス株式会社",
+      "filer": "ＳＢＩインキュベーション株式会社",
+      "ratio": 3.79,
+      "prev_ratio": 4.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT6E",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 15.19,
+      "prev_ratio": 14.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT3R",
+      "sec": "5070",
+      "name": "株式会社ドラフト",
+      "filer": "チンクエチェント株式会社",
+      "ratio": 42.29,
+      "prev_ratio": 6.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSLM",
+      "sec": "2384",
+      "name": "ＳＢＳホールディングス株式会社",
+      "filer": "鎌田正彦",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT3T",
+      "sec": "5070",
+      "name": "株式会社ドラフト",
+      "filer": "チンクエチェント株式会社",
+      "ratio": 42.29,
+      "prev_ratio": 42.29,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "date": "2025-04-30",
+  "new": [
+    {
+      "docId": "S100VAVS",
+      "sec": "3103",
+      "name": "ユニチカ株式会社",
+      "filer": "株式会社地域経済活性化支援機構",
+      "ratio": 66.67,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VOUA",
+      "sec": "4176",
+      "name": "株式会社ココナラ",
+      "filer": "ｎｏｔｅ株式会社",
+      "ratio": 9.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VNK2",
+      "sec": "350A",
+      "name": "デジタルグリッド株式会社",
+      "filer": "ウィル・マネジメント・ツー・リミテッド",
+      "ratio": 5.39,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VOMX",
+      "sec": "7623",
+      "name": "株式会社サンオータス",
+      "filer": "ＥＮＥＯＳホールディングス株式会社",
+      "ratio": null,
+      "prev_ratio": 7.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO71",
+      "sec": "7623",
+      "name": "株式会社サンオータス",
+      "filer": "太田興産株式会社",
+      "ratio": 73.33,
+      "prev_ratio": 25.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOSH",
+      "sec": "3329",
+      "name": "東和フードサービス株式会社",
+      "filer": "株式会社誠香",
+      "ratio": 14.05,
+      "prev_ratio": 14.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMQ1",
+      "sec": "9409",
+      "name": "株式会社テレビ朝日ホールディングス",
+      "filer": "株式会社朝日新聞社",
+      "ratio": 19.49,
+      "prev_ratio": 24.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOSI",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 38.71,
+      "prev_ratio": 40.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOU1",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "ＺＵＵ　Ｆｕｎｄｅｒｓ株式会社",
+      "ratio": 5.29,
+      "prev_ratio": 5.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOUI",
+      "sec": "6060",
+      "name": "こころネット株式会社",
+      "filer": "菅野　孝太郎",
+      "ratio": 2.32,
+      "prev_ratio": 1.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOWT",
+      "sec": "9760",
+      "name": "株式会社進学会ホールディングス",
+      "filer": "株式会社学研ホールディングス",
+      "ratio": 8.56,
+      "prev_ratio": 8.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VODZ",
+      "sec": "3306",
+      "name": "日本製麻株式会社",
+      "filer": "立川　光昭",
+      "ratio": 9.06,
+      "prev_ratio": 16.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VORI",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 19.99,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOE3",
+      "sec": "3306",
+      "name": "日本製麻株式会社",
+      "filer": "立川　光昭",
+      "ratio": 4.53,
+      "prev_ratio": 9.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNZG",
+      "sec": "4347",
+      "name": "ブロードメディア株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 8.78,
+      "prev_ratio": 9.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOX8",
+      "sec": "5484",
+      "name": "東北特殊鋼株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.46,
+      "prev_ratio": 7.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOSO",
+      "sec": "2162",
+      "name": "ｎｍｓホールディングス株式会社",
+      "filer": "日本アジア投資株式会社",
+      "ratio": 7.57,
+      "prev_ratio": 7.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOXG",
+      "sec": "3770",
+      "name": "株式会社ザッパラス",
+      "filer": "光通信株式会社",
+      "ratio": 16.1,
+      "prev_ratio": 12.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNYD",
+      "sec": "4347",
+      "name": "ブロードメディア株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 15.09,
+      "prev_ratio": 13.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOXH",
+      "sec": "3934",
+      "name": "株式会社ベネフィットジャパン",
+      "filer": "光通信株式会社",
+      "ratio": 8.38,
+      "prev_ratio": 8.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOXM",
+      "sec": "6820",
+      "name": "アイコム株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.98,
+      "prev_ratio": 8.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOXB",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 16.08,
+      "prev_ratio": 19.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOXL",
+      "sec": "8908",
+      "name": "株式会社　毎日コムネット",
+      "filer": "伊藤　守",
+      "ratio": 12.67,
+      "prev_ratio": 12.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO3R",
+      "sec": "3848",
+      "name": "株式会社データ・アプリケーション",
+      "filer": "光通信株式会社",
+      "ratio": 6.11,
+      "prev_ratio": 6.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO3S",
+      "sec": "4333",
+      "name": "株式会社東邦システムサイエンス",
+      "filer": "光通信株式会社",
+      "ratio": 2.57,
+      "prev_ratio": 2.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO3T",
+      "sec": "6555",
+      "name": "株式会社ＭＳ＆Ｃｏｎｓｕｌｔｉｎｇ",
+      "filer": "光通信株式会社",
+      "ratio": 7.19,
+      "prev_ratio": 7.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO3V",
+      "sec": "9438",
+      "name": "株式会社エムティーアイ",
+      "filer": "光通信株式会社",
+      "ratio": 6.74,
+      "prev_ratio": 6.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO3W",
+      "sec": "9441",
+      "name": "株式会社ベルパーク",
+      "filer": "光通信株式会社",
+      "ratio": 11.25,
+      "prev_ratio": 11.25,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "date": "2025-09-12",
+  "new": [
+    {
+      "docId": "S100WOBR",
+      "sec": "3161",
+      "name": "アゼアス株式会社",
+      "filer": "株式会社Ａｓａｈｉｃｈｏ",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WOMF",
+      "sec": "1899",
+      "name": "株式会社福田組",
+      "filer": "株式会社第四北越銀行",
+      "ratio": 3.33,
+      "prev_ratio": 4.67,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WOCU",
+      "sec": "1420",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 19.15,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WO50",
+      "sec": "5983",
+      "name": "イワブチ株式会社",
+      "filer": "ＳＥＮＪＩＮ　ＣＡＰＩＴＡＬ　ＰＴＹ　ＬＴＤ",
+      "ratio": 4.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WOQM",
+      "sec": "6937",
+      "name": "古河電池株式会社",
+      "filer": "株式会社ＡＰ７８",
+      "ratio": 33.12,
+      "prev_ratio": 57.26,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WOPX",
+      "sec": "8798",
+      "name": "株式会社アドバンスクリエイト",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 28.71,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WOHE",
+      "sec": "8927",
+      "name": "株式会社明豊エンタープライズ",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 7.92,
+      "prev_ratio": 9.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO9X",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOKF",
+      "sec": "7947",
+      "name": "株式会社エフピコ",
+      "filer": "株式会社小松安弘興産",
+      "ratio": 34.03,
+      "prev_ratio": 34.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOEG",
+      "sec": "7746",
+      "name": "岡本硝子株式会社",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 17.35,
+      "prev_ratio": 16.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO5G",
+      "sec": "5070",
+      "name": "株式会社ドラフト",
+      "filer": "山下　泰樹",
+      "ratio": 6.06,
+      "prev_ratio": 6.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO70",
+      "sec": "8986",
+      "name": "大和証券リビング投資法人",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 7.56,
+      "prev_ratio": 7.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLTB",
+      "sec": "7476",
+      "name": "アズワン株式会社",
+      "filer": "有限会社井内盛英堂",
+      "ratio": 10.04,
+      "prev_ratio": 10.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO3S",
+      "sec": "4015",
+      "name": "ペイクラウドホールディングス株式会社",
+      "filer": "岩井　陽介",
+      "ratio": 10.82,
+      "prev_ratio": 11.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOMF",
+      "sec": "1899",
+      "name": "株式会社福田組",
+      "filer": "株式会社第四北越銀行",
+      "ratio": 3.33,
+      "prev_ratio": 4.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOD4",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 29.88,
+      "prev_ratio": 31.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNY5",
+      "sec": "5161",
+      "name": "西川ゴム工業株式会社",
+      "filer": "Ｂｅ　Ｂｒａｖｅ株式会社",
+      "ratio": 1.13,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNV8",
+      "sec": "2767",
+      "name": "円谷フィールズホールディングス株式会社",
+      "filer": "山本　英俊",
+      "ratio": 23.31,
+      "prev_ratio": 23.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO9W",
+      "sec": "4816",
+      "name": "東映アニメーション株式会社",
+      "filer": "東映株式会社",
+      "ratio": 33.71,
+      "prev_ratio": 33.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOKM",
+      "sec": "215A",
+      "name": "株式会社タイミー",
+      "filer": "株式会社Ｒｅｃｏｌｌｅ",
+      "ratio": 8.56,
+      "prev_ratio": 8.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WODW",
+      "sec": "4392",
+      "name": "FIG株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 12.3,
+      "prev_ratio": 13.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOAW",
+      "sec": "4591",
+      "name": "株式会社リボミック",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 35.7,
+      "prev_ratio": 36.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNSF",
+      "sec": "5998",
+      "name": "株式会社アドバネクス",
+      "filer": "加藤雄一",
+      "ratio": 1.4,
+      "prev_ratio": 91.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMXA",
+      "sec": "3073",
+      "name": "株式会社ＤＤグループ",
+      "filer": "松村　厚久",
+      "ratio": 2.0,
+      "prev_ratio": 27.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO3W",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "株式会社Ｔｈｅ　ｃａｐｉｔａｌ",
+      "ratio": 58.8,
+      "prev_ratio": 48.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO6K",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 13.88,
+      "prev_ratio": 16.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOB0",
+      "sec": "4892",
+      "name": "株式会社サイフューズ",
+      "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
+      "ratio": 4.93,
+      "prev_ratio": 4.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOQI",
+      "sec": "9302",
+      "name": "三井倉庫ホールディングス株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 11.15,
+      "prev_ratio": 10.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOR6",
+      "sec": "6937",
+      "name": "古河電池株式会社",
+      "filer": "株式会社ＡＰ７８",
+      "ratio": 33.12,
+      "prev_ratio": 33.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WORS",
+      "sec": "4076",
+      "name": "株式会社シイエヌエス",
+      "filer": "富山　広己",
+      "ratio": 13.93,
+      "prev_ratio": 13.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNXV",
+      "sec": "4743",
+      "name": "株式会社アイティフォー",
+      "filer": "光通信株式会社",
+      "ratio": 6.53,
+      "prev_ratio": 5.46,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "date": "2025-08-04",
+  "new": [
+    {
+      "docId": "S100WFHC",
+      "sec": "3779",
+      "name": "ジェイ・エスコムホールディングス株式会社",
+      "filer": "株式会社ベータグリッド",
+      "ratio": 14.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WG3Q",
+      "sec": "189A",
+      "name": "株式会社Ｄ＆Ｍカンパニー",
+      "filer": "松下　明義",
+      "ratio": 5.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WEZM",
+      "sec": "3779",
+      "name": "ジェイ・エスコムホールディングス株式会社",
+      "filer": "株式会社明日クリエイト",
+      "ratio": null,
+      "prev_ratio": 14.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG1L",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 11.87,
+      "prev_ratio": 14.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WF4Y",
+      "sec": "9997",
+      "name": "株式会社ベルーナ",
+      "filer": "安野　清",
+      "ratio": 3.0,
+      "prev_ratio": 3.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGBP",
+      "sec": "5844",
+      "name": "株式会社京都フィナンシャルグループ",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.44,
+      "prev_ratio": 8.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFR2",
+      "sec": "3968",
+      "name": "セグエグループ株式会社",
+      "filer": "愛須　康之",
+      "ratio": 31.62,
+      "prev_ratio": 31.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG1I",
+      "sec": "6577",
+      "name": "株式会社ベストワンドットコム",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 10.52,
+      "prev_ratio": 11.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG8L",
+      "sec": "2818",
+      "name": "株式会社ピエトロ",
+      "filer": "西川　啓子",
+      "ratio": 3.55,
+      "prev_ratio": 3.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFLW",
+      "sec": "4819",
+      "name": "株式会社デジタルガレージ",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 17.88,
+      "prev_ratio": 17.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGFF",
+      "sec": "3808",
+      "name": "株式会社オウケイウェイヴ",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 18.23,
+      "prev_ratio": 17.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGG0",
+      "sec": "5244",
+      "name": "株式会社jig.jp",
+      "filer": "岸　周平",
+      "ratio": 11.16,
+      "prev_ratio": 11.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEU8",
+      "sec": "6411",
+      "name": "中野冷機株式会社",
+      "filer": "エムキャップ十五号株式会社",
+      "ratio": 61.96,
+      "prev_ratio": 61.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGHH",
+      "sec": "7239",
+      "name": "株式会社タチエス",
+      "filer": "ＡＡＧＳ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ．",
+      "ratio": 13.53,
+      "prev_ratio": 13.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFQE",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 18.06,
+      "prev_ratio": 18.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFUS",
+      "sec": "6232",
+      "name": "株式会社ＡＣＳＬ",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 8.9,
+      "prev_ratio": 9.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGHI",
+      "sec": "3662",
+      "name": "株式会社エイチーム",
+      "filer": "林　高生",
+      "ratio": 3.75,
+      "prev_ratio": 3.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WF99",
+      "sec": "1882",
+      "name": "東亜道路工業株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 13.78,
+      "prev_ratio": 14.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGBU",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.69,
+      "prev_ratio": 21.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGFC",
+      "sec": "6312",
+      "name": "フロイント産業株式会社",
+      "filer": "牧　寛之",
+      "ratio": 28.07,
+      "prev_ratio": 17.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG74",
+      "sec": "4892",
+      "name": "株式会社サイフューズ",
+      "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
+      "ratio": 5.22,
+      "prev_ratio": 5.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEZZ",
+      "sec": "6498",
+      "name": "株式会社キッツ",
+      "filer": "千賀　恒宏",
+      "ratio": 6.22,
+      "prev_ratio": 5.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGAE",
+      "sec": "9249",
+      "name": "日本エコシステム株式会社",
+      "filer": "松島　穣",
+      "ratio": 6.99,
+      "prev_ratio": 7.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG0P",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 8.37,
+      "prev_ratio": 8.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGJW",
+      "sec": "6312",
+      "name": "フロイント産業株式会社",
+      "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
+      "ratio": 10.46,
+      "prev_ratio": 10.46,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "date": "2025-11-14",
+  "new": [
+    {
+      "docId": "S100X4Q5",
+      "sec": "1997",
+      "name": "暁飯島工業株式会社",
+      "filer": "浅野　秀一",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X3YZ",
+      "sec": "9067",
+      "name": "株式会社丸運",
+      "filer": "センコーグループホールディングス株式会社",
+      "ratio": 79.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X3W2",
+      "sec": "9204",
+      "name": "スカイマーク株式会社",
+      "filer": "株式会社エアトリ",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X0QL",
+      "sec": "3937",
+      "name": "株式会社Ubicomホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 5.43,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WXDK",
+      "sec": "9543",
+      "name": "静岡ガス株式会社",
+      "filer": "東京瓦斯株式会社",
+      "ratio": 6.86,
+      "prev_ratio": 7.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4D3",
+      "sec": "4062",
+      "name": "イビデン株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.38,
+      "prev_ratio": 1.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X449",
+      "sec": "9331",
+      "name": "株式会社キャスター",
+      "filer": "株式会社Ｗｉｚ",
+      "ratio": 6.3,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4FY",
+      "sec": "1841",
+      "name": "サンユー建設株式会社",
+      "filer": "公益財団法人ホース未来福祉財団",
+      "ratio": 10.0,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X3UB",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "グローバル・ブレイン株式会社",
+      "ratio": 11.02,
+      "prev_ratio": 12.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4GL",
+      "sec": "9930",
+      "name": "北沢産業株式会社",
+      "filer": "杉山　肇",
+      "ratio": 6.95,
+      "prev_ratio": 8.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4KM",
+      "sec": "1841",
+      "name": "サンユー建設株式会社",
+      "filer": "株式会社カバロ企画",
+      "ratio": 2.5,
+      "prev_ratio": 2.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X27V",
+      "sec": "8131",
+      "name": "株式会社ミツウロコグループホールディングス",
+      "filer": "ＥＮＥＯＳホールディングス株式会社",
+      "ratio": 4.06,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4JE",
+      "sec": "5631",
+      "name": "株式会社日本製鋼所",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 2.0,
+      "prev_ratio": 40.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4OO",
+      "sec": "8518",
+      "name": "日本アジア投資株式会社",
+      "filer": "ガバナンス・パートナーズ株式会社",
+      "ratio": 40.9,
+      "prev_ratio": 36.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X3LM",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "Ｄａｎ　Ｔａｋａｈａｓｈｉ　ＬＬＣ",
+      "ratio": 55.15,
+      "prev_ratio": 56.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X3UM",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 23.15,
+      "prev_ratio": 23.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X482",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 19.59,
+      "prev_ratio": 23.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X48K",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 19.53,
+      "prev_ratio": 19.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X49W",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 19.51,
+      "prev_ratio": 19.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4AF",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 19.51,
+      "prev_ratio": 19.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4MU",
+      "sec": "7044",
+      "name": "株式会社ピアラ",
+      "filer": "飛鳥　貴雄",
+      "ratio": 10.42,
+      "prev_ratio": 10.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4AL",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 19.51,
+      "prev_ratio": 19.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4AR",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 13.5,
+      "prev_ratio": 19.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X45U",
+      "sec": "6794",
+      "name": "フォスター電機株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 13.82,
+      "prev_ratio": 12.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4EZ",
+      "sec": "9067",
+      "name": "株式会社丸運",
+      "filer": "ＪＸ金属株式会社",
+      "ratio": 38.12,
+      "prev_ratio": 38.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X2SN",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社アベＣ",
+      "ratio": 4.63,
+      "prev_ratio": 5.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X1LA",
+      "sec": "8715",
+      "name": "アニコム　ホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 7.37,
+      "prev_ratio": 6.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X2FL",
+      "sec": "4362",
+      "name": "日本精化株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 2.72,
+      "prev_ratio": 3.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X3VU",
+      "sec": "1420",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 18.44,
+      "prev_ratio": 19.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4TB",
+      "sec": "7081",
+      "name": "コーユーレンティア株式会社",
+      "filer": "ワイドフレンズ株式会社",
+      "ratio": 68.67,
+      "prev_ratio": 70.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X2UM",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "信太　明",
+      "ratio": 32.12,
+      "prev_ratio": 31.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X48B",
+      "sec": "2207",
+      "name": "株式会社meito",
+      "filer": "興和株式会社",
+      "ratio": 9.03,
+      "prev_ratio": 9.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X1Q3",
+      "sec": "8803",
+      "name": "平和不動産株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 8.0,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X1CI",
+      "sec": "5527",
+      "name": "株式会社property technologies",
+      "filer": "濱中　雄大",
+      "ratio": 33.12,
+      "prev_ratio": 34.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X2V3",
+      "sec": "7940",
+      "name": "ウェーブロックホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X3MH",
+      "sec": "7731",
+      "name": "株式会社ニコン",
+      "filer": "エシロールルックスオティカ",
+      "ratio": 11.84,
+      "prev_ratio": 10.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X48Z",
+      "sec": "2374",
+      "name": "セントケア・ホールディング株式会社",
+      "filer": "村上　美晴",
+      "ratio": 11.78,
+      "prev_ratio": 11.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4ON",
+      "sec": "1377",
+      "name": "株式会社サカタのタネ",
+      "filer": "有限会社ティーエム興産",
+      "ratio": 16.39,
+      "prev_ratio": 16.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4QT",
+      "sec": "1841",
+      "name": "サンユー建設株式会社",
+      "filer": "馬場邦明",
+      "ratio": 2.78,
+      "prev_ratio": 2.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4DO",
+      "sec": "197A",
+      "name": "株式会社タウンズ",
+      "filer": "野中　雅貴",
+      "ratio": 29.66,
+      "prev_ratio": 29.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4OI",
+      "sec": "9776",
+      "name": "札幌臨床検査センタ－株式会社",
+      "filer": "伊達アセットマネ－ジメント合同会社",
+      "ratio": 28.13,
+      "prev_ratio": 28.13,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

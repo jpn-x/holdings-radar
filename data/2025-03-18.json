@@ -1,0 +1,437 @@
+{
+  "date": "2025-03-18",
+  "new": [
+    {
+      "docId": "S100VAX1",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　陽子",
+      "ratio": 2.87,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VEO0",
+      "sec": "329A",
+      "name": "株式会社ジールアソシエイツ",
+      "filer": "永門　大輔",
+      "ratio": 19.43,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VF5K",
+      "sec": "3271",
+      "name": "株式会社ＴＨＥグローバル社",
+      "filer": "永嶋　秀和",
+      "ratio": null,
+      "prev_ratio": 19.63,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VEVC",
+      "sec": "4331",
+      "name": "株式会社テイクアンドギヴ・ニーズ",
+      "filer": "ツナグ・インベストメンツ・ピーティーイー・エルティーディー",
+      "ratio": 7.47,
+      "prev_ratio": 8.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF0Z",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 24.75,
+      "prev_ratio": 23.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEMY",
+      "sec": "5255",
+      "name": "株式会社モンスターラボホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 32.0,
+      "prev_ratio": 33.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEYZ",
+      "sec": "5101",
+      "name": "横浜ゴム株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": null,
+      "prev_ratio": 13.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEHM",
+      "sec": "281A",
+      "name": "インフォメティス株式会社",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 4.92,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VETE",
+      "sec": "2809",
+      "name": "キユーピー株式会社",
+      "filer": "株式会社中島董商店",
+      "ratio": 7.98,
+      "prev_ratio": 7.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VERE",
+      "sec": "9837",
+      "name": "モリト株式会社",
+      "filer": "宮永　憲一",
+      "ratio": 7.12,
+      "prev_ratio": 8.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEUT",
+      "sec": "9837",
+      "name": "モリト株式会社",
+      "filer": "宮永　憲一",
+      "ratio": 5.83,
+      "prev_ratio": 7.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEWC",
+      "sec": "9837",
+      "name": "モリト株式会社",
+      "filer": "宮永　憲一",
+      "ratio": 4.69,
+      "prev_ratio": 5.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE6C",
+      "sec": "2185",
+      "name": "株式会社シイエム・シイ",
+      "filer": "佐々　幸恭",
+      "ratio": 2.67,
+      "prev_ratio": 2.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAYS",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　陽子",
+      "ratio": 2.5,
+      "prev_ratio": 2.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBKS",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　陽子",
+      "ratio": 2.5,
+      "prev_ratio": 2.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB3N",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　陽子",
+      "ratio": 2.5,
+      "prev_ratio": 2.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF4C",
+      "sec": "3611",
+      "name": "株式会社マツオカコーポレーション",
+      "filer": "松岡　典之",
+      "ratio": 11.91,
+      "prev_ratio": 12.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB46",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　陽子",
+      "ratio": 2.5,
+      "prev_ratio": 2.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB4A",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　陽子",
+      "ratio": 2.58,
+      "prev_ratio": 2.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB4D",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　陽子",
+      "ratio": 2.58,
+      "prev_ratio": 2.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBZN",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　博",
+      "ratio": 26.21,
+      "prev_ratio": 26.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBAW",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "三津原　博",
+      "ratio": 14.98,
+      "prev_ratio": 14.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEX0",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "豊田Ｈｏｌｄｉｎｇｓ株式会社",
+      "ratio": 54.71,
+      "prev_ratio": 54.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF02",
+      "sec": "6573",
+      "name": "アジャイルメディア・ネットワーク株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.42,
+      "prev_ratio": 11.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEZV",
+      "sec": "9696",
+      "name": "株式会社ウィザス",
+      "filer": "Ｓｗｉｓｓ－Ａｓｉａ　Ｆｉｎａｎｃｉａｌ　Ｓｅｒｖｉｃｅｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 17.82,
+      "prev_ratio": 17.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF5M",
+      "sec": "4615",
+      "name": "神東塗料株式会社",
+      "filer": "大日本塗料株式会社",
+      "ratio": 50.07,
+      "prev_ratio": 45.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE3L",
+      "sec": "9072",
+      "name": "ニッコンホールディングス株式会社",
+      "filer": "Ｆａｒａｌｌｏｎ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｌ．Ｃ．",
+      "ratio": 13.8,
+      "prev_ratio": 10.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF4Q",
+      "sec": "6658",
+      "name": "シライ電子工業株式会社",
+      "filer": "白井商事株式会社",
+      "ratio": 13.4,
+      "prev_ratio": 13.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAYL",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "合同会社マックスプランニング",
+      "ratio": 6.99,
+      "prev_ratio": 8.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBGM",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "合同会社マックスプランニング",
+      "ratio": 6.99,
+      "prev_ratio": 6.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBN1",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "合同会社マックスプランニング",
+      "ratio": 6.99,
+      "prev_ratio": 6.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEZW",
+      "sec": "4320",
+      "name": "株式会社CEホールディングス",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 13.57,
+      "prev_ratio": 14.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VETY",
+      "sec": "6890",
+      "name": "株式会社フェローテックホールディングス",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 6.0,
+      "prev_ratio": 6.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBTD",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "合同会社マックスプランニング",
+      "ratio": 7.21,
+      "prev_ratio": 6.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF5R",
+      "sec": "7559",
+      "name": "ジーエフシー株式会社",
+      "filer": "有限会社ニシムラ",
+      "ratio": null,
+      "prev_ratio": 2.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDYP",
+      "sec": "1810",
+      "name": "松井建設株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.02,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDYR",
+      "sec": "3763",
+      "name": "株式会社プロシップ",
+      "filer": "光通信株式会社",
+      "ratio": 5.93,
+      "prev_ratio": 5.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBTJ",
+      "sec": "3341",
+      "name": "日本調剤株式会社",
+      "filer": "合同会社三津原興産",
+      "ratio": 11.23,
+      "prev_ratio": 11.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDYV",
+      "sec": "6307",
+      "name": "サンセイ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 3.37,
+      "prev_ratio": 2.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF6I",
+      "sec": "1892",
+      "name": "徳倉建設株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.03,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF6M",
+      "sec": "8945",
+      "name": "サンネクスタグループ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.93,
+      "prev_ratio": 6.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEN4",
+      "sec": "3656",
+      "name": "ＫＬａｂ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 20.06,
+      "prev_ratio": 21.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF6L",
+      "sec": "9760",
+      "name": "株式会社進学会ホールディングス",
+      "filer": "株式会社学研ホールディングス",
+      "ratio": 9.6,
+      "prev_ratio": 9.87,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

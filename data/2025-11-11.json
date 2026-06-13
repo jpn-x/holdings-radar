@@ -1,0 +1,157 @@
+{
+  "date": "2025-11-11",
+  "new": [
+    {
+      "docId": "S100WZMV",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "ノアグループホールディングス株式会社",
+      "ratio": 5.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X19V",
+      "sec": "6080",
+      "name": "M&amp;Aキャピタルパートナーズ株式会社",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 5.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WZWW",
+      "sec": "6141",
+      "name": "ＤＭＧ森精機株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 2.46,
+      "prev_ratio": 2.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ51",
+      "sec": "6925",
+      "name": "ウシオ電機株式会社",
+      "filer": "Ｍ＆Ｇインベストメント・マネジメント・リミテッド",
+      "ratio": 9.26,
+      "prev_ratio": 10.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZFN",
+      "sec": "340A",
+      "name": "株式会社ジグザグ",
+      "filer": "モバイル・インターネットキャピタル株式会社",
+      "ratio": 5.03,
+      "prev_ratio": 6.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X0CY",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 20.52,
+      "prev_ratio": 19.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X0FO",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 17.71,
+      "prev_ratio": 16.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X1IZ",
+      "sec": "3498",
+      "name": "霞ヶ関キャピタル株式会社",
+      "filer": "河本　幸士郎",
+      "ratio": 8.52,
+      "prev_ratio": 8.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X1JD",
+      "sec": "3498",
+      "name": "霞ヶ関キャピタル株式会社",
+      "filer": "小川　潤之",
+      "ratio": 23.22,
+      "prev_ratio": 23.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZBN",
+      "sec": "7361",
+      "name": "株式会社ヒューマンクリエイションホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 6.63,
+      "prev_ratio": 6.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X12H",
+      "sec": "8617",
+      "name": "光世証券株式会社",
+      "filer": "株式会社巽也蔵",
+      "ratio": 20.39,
+      "prev_ratio": 20.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X120",
+      "sec": "9338",
+      "name": "株式会社ＩＮＦＯＲＩＣＨ",
+      "filer": "秋山　広宣",
+      "ratio": 18.18,
+      "prev_ratio": 18.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ89",
+      "sec": "5990",
+      "name": "株式会社スーパーツール",
+      "filer": "ＧＬＯＢＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＡＲＴＮＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 16.57,
+      "prev_ratio": 15.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X19R",
+      "sec": "438A",
+      "name": "株式会社インフキュリオン",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 2.58,
+      "prev_ratio": 2.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYJA",
+      "sec": "6305",
+      "name": "日立建機株式会社",
+      "filer": "株式会社日立製作所",
+      "ratio": 18.16,
+      "prev_ratio": 25.13,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

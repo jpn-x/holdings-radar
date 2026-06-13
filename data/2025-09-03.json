@@ -1,0 +1,377 @@
+{
+  "date": "2025-09-03",
+  "new": [
+    {
+      "docId": "S100WMMT",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "Ｇｏｌｄ　Ｐａｃｉｆｉｃ　Ｇｌｏｂａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.51,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WMD7",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 16.97,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WMXH",
+      "sec": "7687",
+      "name": "株式会社ミクリード",
+      "filer": "株式会社ひとまいる",
+      "ratio": 23.59,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WMOW",
+      "sec": "9346",
+      "name": "株式会社ココルポート",
+      "filer": "光通信株式会社",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WLNO",
+      "sec": "3073",
+      "name": "株式会社ＤＤグループ",
+      "filer": "ＰＣＧＶＩー１株式会社",
+      "ratio": 77.6,
+      "prev_ratio": 8.06,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WLT9",
+      "sec": "7250",
+      "name": "太平洋工業株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 5.54,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WMTY",
+      "sec": "1899",
+      "name": "株式会社　福田組",
+      "filer": "公益財団法人福田育英会",
+      "ratio": 7.66,
+      "prev_ratio": 7.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIXG",
+      "sec": "4933",
+      "name": "株式会社Ｉ－ｎｅ",
+      "filer": "大西　洋平",
+      "ratio": 17.95,
+      "prev_ratio": 18.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMVB",
+      "sec": "7687",
+      "name": "株式会社ミクリード",
+      "filer": "株式会社ＳＫＹグループホールディングス",
+      "ratio": 23.59,
+      "prev_ratio": 23.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMJG",
+      "sec": "7918",
+      "name": "株式会社ヴィア・ホールディングス",
+      "filer": "ＮＯＭＵＲＡ　ＩＮＴＥＲＮＡＴＩＯＮＡＬ　ＰＬＣ",
+      "ratio": 7.000000000000001,
+      "prev_ratio": 14.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMIF",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 37.78,
+      "prev_ratio": 38.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMVR",
+      "sec": "6946",
+      "name": "日本アビオニクス株式会社",
+      "filer": "ＮＡＪホールディングス株式会社",
+      "ratio": 50.01,
+      "prev_ratio": 50.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMVP",
+      "sec": "6557",
+      "name": "AIAIグループ株式会社",
+      "filer": "渡辺　崇",
+      "ratio": 5.36,
+      "prev_ratio": 8.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMV5",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "株式会社ＰＬＡＮＡ",
+      "ratio": 10.96,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMWK",
+      "sec": "7458",
+      "name": "株式会社第一興商",
+      "filer": "株式会社ホシ・クリエート",
+      "ratio": 4.71,
+      "prev_ratio": 4.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMPI",
+      "sec": "7603",
+      "name": "株式会社マックハウス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.24,
+      "prev_ratio": 18.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMYJ",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "有限会社フクジュコーポレーション",
+      "ratio": 6.23,
+      "prev_ratio": 7.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMFC",
+      "sec": "9837",
+      "name": "モリト株式会社",
+      "filer": "株式会社クラレ",
+      "ratio": 5.25,
+      "prev_ratio": 7.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLQ9",
+      "sec": "9127",
+      "name": "玉井商船　株式会社",
+      "filer": "株式会社　アイエスシー",
+      "ratio": 2.89,
+      "prev_ratio": 3.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WM5I",
+      "sec": "1976",
+      "name": "明星工業株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 7.38,
+      "prev_ratio": 7.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMIQ",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ネクスタ",
+      "ratio": 18.93,
+      "prev_ratio": 20.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK9D",
+      "sec": "135A",
+      "name": "株式会社ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+      "filer": "南塲　勇佑",
+      "ratio": 28.61,
+      "prev_ratio": 28.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMK3",
+      "sec": "4833",
+      "name": "株式会社 Def consulting",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 5.46,
+      "prev_ratio": 7.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WM97",
+      "sec": "5262",
+      "name": "日本ヒューム株式会社",
+      "filer": "ＧＬＯＢＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＡＲＴＮＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 5.31,
+      "prev_ratio": 6.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLOJ",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 6.97,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMTX",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 4.28,
+      "prev_ratio": 7.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMAX",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズ",
+      "filer": "須田　忠雄",
+      "ratio": 58.82,
+      "prev_ratio": 60.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN0S",
+      "sec": "7687",
+      "name": "株式会社ミクリード",
+      "filer": "株式会社ＳＫＹグループホールディングス",
+      "ratio": null,
+      "prev_ratio": 23.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLO2",
+      "sec": "9271",
+      "name": "株式会社和心",
+      "filer": "森　智宏",
+      "ratio": 32.99,
+      "prev_ratio": 25.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK0D",
+      "sec": "3986",
+      "name": "株式会社ビーブレイクシステムズ",
+      "filer": "白岩　次郎",
+      "ratio": 35.65,
+      "prev_ratio": 44.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMZP",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "牧　寛之",
+      "ratio": 15.58,
+      "prev_ratio": 15.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMOF",
+      "sec": "3135",
+      "name": "株式会社マーケットエンタープライズ",
+      "filer": "小林　泰士",
+      "ratio": 10.08,
+      "prev_ratio": 10.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLVN",
+      "sec": "8705",
+      "name": "日産証券グループ株式会社",
+      "filer": "株式会社ＮＳＨＤ",
+      "ratio": 47.15,
+      "prev_ratio": 48.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMSF",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 34.22,
+      "prev_ratio": 35.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WM8I",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 1.81,
+      "prev_ratio": 3.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN20",
+      "sec": "4068",
+      "name": "ベイシス株式会社",
+      "filer": "吉村　公孝",
+      "ratio": 17.19,
+      "prev_ratio": 17.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMVS",
+      "sec": "3494",
+      "name": "株式会社マリオン",
+      "filer": "一般社団法人ホンジン・ホールディングス",
+      "ratio": 5.44,
+      "prev_ratio": 6.45,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

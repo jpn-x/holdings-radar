@@ -1,0 +1,247 @@
+{
+  "date": "2025-08-25",
+  "new": [
+    {
+      "docId": "S100WKFT",
+      "sec": "5884",
+      "name": "株式会社クラダシ",
+      "filer": "日本郵便株式会社",
+      "ratio": 10.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W1HH",
+      "sec": "6096",
+      "name": "株式会社レアジョブ",
+      "filer": "株式会社ＵＥＤ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WKWD",
+      "sec": "2150",
+      "name": "株式会社ケアネット",
+      "filer": "Ｔｅｍｐｅｒｅｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｍａｎａｇｅｍｅｎｔ　ＬＴＤ．",
+      "ratio": 5.37,
+      "prev_ratio": 9.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WJWQ",
+      "sec": "7792",
+      "name": "株式会社コラントッテ",
+      "filer": "株式会社アーク・クエスト",
+      "ratio": 39.64,
+      "prev_ratio": 39.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKQY",
+      "sec": "2998",
+      "name": "クリアル株式会社",
+      "filer": "徳山　明成",
+      "ratio": 24.01,
+      "prev_ratio": 25.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKV6",
+      "sec": "3896",
+      "name": "阿波製紙株式会社",
+      "filer": "株式会社徳応舎",
+      "ratio": 19.86,
+      "prev_ratio": 19.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKTQ",
+      "sec": "3810",
+      "name": "サイバーステップ株式会社",
+      "filer": "安達　礼",
+      "ratio": 8.32,
+      "prev_ratio": 10.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WL08",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "代永衛",
+      "ratio": 6.9,
+      "prev_ratio": 7.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WL2X",
+      "sec": "8091",
+      "name": "ニチモウ株式会社",
+      "filer": "中村　格彰",
+      "ratio": 6.8,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKFY",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 16.79,
+      "prev_ratio": 17.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK5H",
+      "sec": "6333",
+      "name": "株式会社帝国電機製作所",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 17.45,
+      "prev_ratio": 18.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK3I",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 86.0,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKYP",
+      "sec": "4833",
+      "name": "株式会社 Def consulting",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 14.6,
+      "prev_ratio": 15.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WL5T",
+      "sec": "2483",
+      "name": "株式会社翻訳センター",
+      "filer": "光通信株式会社",
+      "ratio": 7.39,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKY7",
+      "sec": "3839",
+      "name": "株式会社ＯＤＫソリューションズ",
+      "filer": "光通信株式会社",
+      "ratio": 7.43,
+      "prev_ratio": 6.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKY8",
+      "sec": "3850",
+      "name": "株式会社エヌ・ティ・ティ・データ・イントラマート",
+      "filer": "光通信株式会社",
+      "ratio": 5.04,
+      "prev_ratio": 6.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKY9",
+      "sec": "4848",
+      "name": "株式会社フルキャストホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 7.86,
+      "prev_ratio": 7.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKYA",
+      "sec": "7361",
+      "name": "株式会社ヒューマンクリエイションホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 6.15,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKFG",
+      "sec": "4619",
+      "name": "日本特殊塗料株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKNJ",
+      "sec": "4690",
+      "name": "日本パレットプール株式会社",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 5.31,
+      "prev_ratio": 4.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKYL",
+      "sec": "4431",
+      "name": "株式会社スマレジ",
+      "filer": "山本　博士",
+      "ratio": 2.9,
+      "prev_ratio": 2.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WL6J",
+      "sec": "9240",
+      "name": "株式会社デリバリーコンサルティング",
+      "filer": "ＭＦアセット株式会社",
+      "ratio": 10.71,
+      "prev_ratio": 10.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKGI",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 18.73,
+      "prev_ratio": 19.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WL6Z",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 9.0,
+      "prev_ratio": 1.5,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

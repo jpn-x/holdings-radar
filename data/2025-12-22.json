@@ -1,0 +1,307 @@
+{
+  "date": "2025-12-22",
+  "new": [
+    {
+      "docId": "S100X7AB",
+      "sec": "470A",
+      "name": "株式会社ローカル",
+      "filer": "吉永　安宏",
+      "ratio": 46.25,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XC2W",
+      "sec": "5537",
+      "name": "株式会社AlbaLink",
+      "filer": "河田　憲二",
+      "ratio": 51.25,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XC31",
+      "sec": "5537",
+      "name": "株式会社AlbaLink",
+      "filer": "内木場　隼",
+      "ratio": 15.68,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X55L",
+      "sec": "472A",
+      "name": "株式会社ミラティブ",
+      "filer": "ＡＮＲＩ株式会社",
+      "ratio": 6.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XA7I",
+      "sec": "471A",
+      "name": "NSグループ株式会社",
+      "filer": "ビーシーピーイー　セイ　ケイマン　エルピー",
+      "ratio": 5.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XB0N",
+      "sec": "8361",
+      "name": "株式会社大垣共立銀行",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 5.65,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XC6E",
+      "sec": "4583",
+      "name": "株式会社カイオム・バイオサイエンス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 16.67,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XC9B",
+      "sec": "6406",
+      "name": "フジテック株式会社",
+      "filer": "Ｂｏｓｐｏｌｄｅｒ　１株式会社",
+      "ratio": 78.49,
+      "prev_ratio": 6.39,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X5MI",
+      "sec": "8163",
+      "name": "ＳＲＳホールディングス株式会社",
+      "filer": "重里　欣孝",
+      "ratio": 3.74,
+      "prev_ratio": 4.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XATU",
+      "sec": "4344",
+      "name": "ソースネクスト株式会社",
+      "filer": "松田　憲幸",
+      "ratio": 25.56,
+      "prev_ratio": 26.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC1Y",
+      "sec": "5191",
+      "name": "住友理工株式会社",
+      "filer": "住友電気工業株式会社",
+      "ratio": 91.17,
+      "prev_ratio": 48.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC1J",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 24.27,
+      "prev_ratio": 24.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC3A",
+      "sec": "1949",
+      "name": "住友電設株式会社",
+      "filer": "住友電気工業株式会社",
+      "ratio": 50.03,
+      "prev_ratio": 50.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB22",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 26.68,
+      "prev_ratio": 25.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB0L",
+      "sec": "7378",
+      "name": "株式会社アシロ",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 8.45,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB17",
+      "sec": "9476",
+      "name": "株式会社中央経済社ホールディングス",
+      "filer": "重田　光時",
+      "ratio": 10.57,
+      "prev_ratio": 9.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XALP",
+      "sec": "340A",
+      "name": "株式会社ジグザグ",
+      "filer": "モバイル・インターネットキャピタル株式会社",
+      "ratio": 3.93,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBLF",
+      "sec": "3974",
+      "name": "ＳＣＡＴ株式会社",
+      "filer": "株式会社ＥＰＡＲＫ",
+      "ratio": 7.55,
+      "prev_ratio": 6.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC0W",
+      "sec": "6406",
+      "name": "フジテック株式会社",
+      "filer": "Ｆａｒａｌｌｏｎ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｌ．Ｃ．",
+      "ratio": null,
+      "prev_ratio": 6.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAJB",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "株式会社ウィズ・パートナーズ",
+      "ratio": 1.55,
+      "prev_ratio": 18.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC4B",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "中谷　正和",
+      "ratio": 14.02,
+      "prev_ratio": 14.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB6U",
+      "sec": "5368",
+      "name": "日本インシュレーション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.13,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB6W",
+      "sec": "7681",
+      "name": "株式会社レオクラン",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC99",
+      "sec": "6406",
+      "name": "フジテック株式会社",
+      "filer": "株式会社ウチヤマ・インターナショナル",
+      "ratio": 5.96,
+      "prev_ratio": 6.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAO0",
+      "sec": "6958",
+      "name": "日本シイエムケイ",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 11.2,
+      "prev_ratio": 9.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC9Z",
+      "sec": "6406",
+      "name": "フジテック株式会社",
+      "filer": "Ｂｏｓｐｏｌｄｅｒ　１株式会社",
+      "ratio": 78.49,
+      "prev_ratio": 78.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC9W",
+      "sec": "3902",
+      "name": "メディカル・データ・ビジョン株式会社",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 36.24,
+      "prev_ratio": 35.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9M2",
+      "sec": "6406",
+      "name": "フジテック株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": null,
+      "prev_ratio": 29.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBPT",
+      "sec": "5019",
+      "name": "出光興産株式会社",
+      "filer": "日章興産株式会社",
+      "ratio": 9.9,
+      "prev_ratio": 9.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBPW",
+      "sec": "5019",
+      "name": "出光興産株式会社",
+      "filer": "日章興産株式会社",
+      "ratio": 8.5,
+      "prev_ratio": 9.9,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2025-10-10",
+  "new": [
+    {
+      "docId": "S100WTE2",
+      "sec": "414A",
+      "name": "株式会社オーバーラップホールディングス",
+      "filer": "株式会社ポケモン",
+      "ratio": 12.79,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WUNN",
+      "sec": "428A",
+      "name": "サイプレス・ホールディングス株式会社",
+      "filer": "東　稔哉",
+      "ratio": 6.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WPV8",
+      "sec": "418A",
+      "name": "ウリドキ株式会社",
+      "filer": "株式会社ニキティス",
+      "ratio": 9.21,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WUDU",
+      "sec": "4811",
+      "name": "株式会社ドリーム・アーツ",
+      "filer": "山本　孝昭",
+      "ratio": 16.3,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTMC",
+      "sec": "4054",
+      "name": "日本情報クリエイト株式会社",
+      "filer": "米津　健一",
+      "ratio": 20.35,
+      "prev_ratio": 21.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUH1",
+      "sec": "7693",
+      "name": "北海道歯科産業株式会社",
+      "filer": "髙島　健二",
+      "ratio": 7.02,
+      "prev_ratio": 8.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUHL",
+      "sec": "7693",
+      "name": "北海道歯科産業株式会社",
+      "filer": "髙島　雄太",
+      "ratio": 5.29,
+      "prev_ratio": 4.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUHV",
+      "sec": "7320",
+      "name": "Ｓｏｌｖｖｙ株式会社",
+      "filer": "吉川淳史",
+      "ratio": 2.17,
+      "prev_ratio": 2.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUJG",
+      "sec": "6095",
+      "name": "メドピア株式会社",
+      "filer": "石見　陽",
+      "ratio": 23.82,
+      "prev_ratio": 18.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU7G",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.2,
+      "prev_ratio": 12.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUBP",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 27.84,
+      "prev_ratio": 37.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WULL",
+      "sec": "9341",
+      "name": "株式会社GENOVA",
+      "filer": "平瀬　智樹",
+      "ratio": 31.46,
+      "prev_ratio": 31.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU33",
+      "sec": "4491",
+      "name": "コンピューターマネージメント株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.7,
+      "prev_ratio": 6.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTXE",
+      "sec": "3660",
+      "name": "株式会社アイスタイル",
+      "filer": "吉松　徹郎",
+      "ratio": 7.37,
+      "prev_ratio": 7.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU6K",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "信太　明",
+      "ratio": 28.58,
+      "prev_ratio": 27.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUNV",
+      "sec": "5801",
+      "name": "古河電気工業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 65.0,
+      "prev_ratio": 81.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUNZ",
+      "sec": "247A",
+      "name": "Aiロボティクス株式会社",
+      "filer": "桑山　友美",
+      "ratio": 4.86,
+      "prev_ratio": 5.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTDW",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 5.8,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUOI",
+      "sec": "247A",
+      "name": "Aiロボティクス株式会社",
+      "filer": "龍川　誠",
+      "ratio": 19.92,
+      "prev_ratio": 20.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUB2",
+      "sec": "8139",
+      "name": "株式会社ナガホリ",
+      "filer": "リ・ジェネレーション株式会社",
+      "ratio": 9.38,
+      "prev_ratio": 10.57,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

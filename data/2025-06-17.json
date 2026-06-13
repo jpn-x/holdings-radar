@@ -1,0 +1,567 @@
+{
+  "date": "2025-06-17",
+  "new": [
+    {
+      "docId": "S100VY1B",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 15.77,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VY7R",
+      "sec": "184A",
+      "name": "株式会社学びエイド",
+      "filer": "いなよしキャピタルパートナーズ株式会社",
+      "ratio": 33.4,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VX1X",
+      "sec": "9941",
+      "name": "太洋物産株式会社",
+      "filer": "ＯＲＣＨＩＤ　ＰＬＵＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 9.77,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VXF1",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "株式会社ＭＣ",
+      "ratio": 27.61,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VYOF",
+      "sec": "2656",
+      "name": "株式会社ベクターホールディングス",
+      "filer": "ＱＵＥＴＴＡ合同会社",
+      "ratio": 27.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VY8A",
+      "sec": "264A",
+      "name": "株式会社Ｓｃｈｏｏ",
+      "filer": "池原　諒平",
+      "ratio": 10.05,
+      "prev_ratio": 9.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYG4",
+      "sec": "8105",
+      "name": "堀田丸正株式会社",
+      "filer": "合同会社エンヴィー",
+      "ratio": null,
+      "prev_ratio": 28.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY16",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 7.04,
+      "prev_ratio": 6.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY18",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 5.62,
+      "prev_ratio": 7.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY19",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 5.6,
+      "prev_ratio": 5.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY1A",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 4.5,
+      "prev_ratio": 5.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY1D",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 8.68,
+      "prev_ratio": 15.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXHH",
+      "sec": "4221",
+      "name": "大倉工業株式会社",
+      "filer": "長野　光幸",
+      "ratio": 3.9,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY1E",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 8.75,
+      "prev_ratio": 8.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY9A",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 7.43,
+      "prev_ratio": 8.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYC3",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 4.17,
+      "prev_ratio": 7.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXPF",
+      "sec": "2980",
+      "name": "ＳＲＥホールディングス株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 6.95,
+      "prev_ratio": 9.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXTH",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": 47.5,
+      "prev_ratio": 47.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXPQ",
+      "sec": "6577",
+      "name": "株式会社ベストワンドットコム",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 18.23,
+      "prev_ratio": 20.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY81",
+      "sec": "6918",
+      "name": "株式会社アバールデータ",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 13.7,
+      "prev_ratio": 14.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY3Z",
+      "sec": "3557",
+      "name": "ユナイテッド＆コレクティブ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 6.0,
+      "prev_ratio": 7.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY3R",
+      "sec": "6573",
+      "name": "アジャイルメディア・ネットワーク株式会社",
+      "filer": "株式会社ウエルネスジャパン",
+      "ratio": 1.62,
+      "prev_ratio": 5.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYKI",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 26.69,
+      "prev_ratio": 27.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYP5",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 9.75,
+      "prev_ratio": 12.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYPV",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 7.71,
+      "prev_ratio": 9.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYMM",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 4.74,
+      "prev_ratio": 6.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYQ4",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 3.85,
+      "prev_ratio": 7.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYFT",
+      "sec": "5341",
+      "name": "ASAHI EITOホールディングス株式会社",
+      "filer": "Ｇｌｏｂａｌ　Ｓｅｍｉｃｏｎｄｕｃｔｏｒ　Ｓｐｅｃｉａｌ　Ｇａｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 25.19,
+      "prev_ratio": 25.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0B",
+      "sec": "6232",
+      "name": "株式会社ＡＣＳＬ",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 9.43,
+      "prev_ratio": 10.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYJR",
+      "sec": "4564",
+      "name": "オンコセラピー・サイエンス株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 17.13,
+      "prev_ratio": 18.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYKW",
+      "sec": "2156",
+      "name": "株式会社セーラー広告",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 11.69,
+      "prev_ratio": 12.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYPH",
+      "sec": "8194",
+      "name": "株式会社 ライフコーポレーション",
+      "filer": "三菱商事株式会社",
+      "ratio": 23.34,
+      "prev_ratio": 21.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXPT",
+      "sec": "5930",
+      "name": "文化シヤッター株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 3.46,
+      "prev_ratio": 3.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYO0",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 10.35,
+      "prev_ratio": 11.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWVG",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 58.21,
+      "prev_ratio": 60.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX3S",
+      "sec": "4389",
+      "name": "プロパティデータバンク株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.42,
+      "prev_ratio": 7.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYW2",
+      "sec": "6095",
+      "name": "メドピア株式会社",
+      "filer": "牧　寛之",
+      "ratio": 20.88,
+      "prev_ratio": 19.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY2T",
+      "sec": "4347",
+      "name": "ブロードメディア株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 27.0,
+      "prev_ratio": 25.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYVY",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "遠藤　文樹",
+      "ratio": 36.64,
+      "prev_ratio": 39.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYWC",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "遠藤　文樹",
+      "ratio": 36.64,
+      "prev_ratio": 36.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYWG",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "遠藤　文樹",
+      "ratio": 36.64,
+      "prev_ratio": 36.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYWZ",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "遠藤　文樹",
+      "ratio": 38.47,
+      "prev_ratio": 36.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYXY",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "遠藤　文樹",
+      "ratio": 41.75,
+      "prev_ratio": 39.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYX4",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "遠藤　文樹",
+      "ratio": 39.97,
+      "prev_ratio": 38.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYY2",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "遠藤　文樹",
+      "ratio": 41.75,
+      "prev_ratio": 41.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYYU",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "佐々木　正男",
+      "ratio": 5.45,
+      "prev_ratio": 5.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYZ0",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "佐々木　正男",
+      "ratio": 5.45,
+      "prev_ratio": 5.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYZ5",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "佐々木　正男",
+      "ratio": 6.45,
+      "prev_ratio": 5.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYZ9",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "佐々木　正男",
+      "ratio": 6.49,
+      "prev_ratio": 6.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX1R",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "ＯＲＣＨＩＤ　ＰＬＵＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 29.78,
+      "prev_ratio": 21.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYZS",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "株式会社ＢＰＭＨ",
+      "ratio": null,
+      "prev_ratio": 37.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYC8",
+      "sec": "9168",
+      "name": "株式会社ライズ・コンサルティング・グループ",
+      "filer": "朝日　竜樹",
+      "ratio": 4.92,
+      "prev_ratio": 17.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ04",
+      "sec": "9941",
+      "name": "太洋物産株式会社",
+      "filer": "株式会社ＢＰＭＨ",
+      "ratio": 17.54,
+      "prev_ratio": 25.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYY3",
+      "sec": "2752",
+      "name": "株式会社フジオフードグループ本社",
+      "filer": "サッポロビール株式会社",
+      "ratio": 5.84,
+      "prev_ratio": 10.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ0J",
+      "sec": "4937",
+      "name": "株式会社Waqoo",
+      "filer": "株式会社ＢＰＭＨ",
+      "ratio": 50.0,
+      "prev_ratio": 5.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYUB",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 7.99,
+      "prev_ratio": 7.66,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

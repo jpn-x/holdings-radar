@@ -1,0 +1,267 @@
+{
+  "date": "2025-01-16",
+  "new": [
+    {
+      "docId": "S100V3DA",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 6.67,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V2TB",
+      "sec": "4168",
+      "name": "株式会社ヤプリ",
+      "filer": "Ｅｉｇｈｔ　Ｒｏａｄｓ　Ｖｅｎｔｕｒｅｓ　Ｊａｐａｎ　ＩＩ　ＬＰ",
+      "ratio": 7.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V3IV",
+      "sec": "9522",
+      "name": "リニューアブル・ジャパン株式会社",
+      "filer": "東急不動産株式会社",
+      "ratio": 61.52,
+      "prev_ratio": 16.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3FI",
+      "sec": "5255",
+      "name": "株式会社モンスターラボホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 41.12,
+      "prev_ratio": 41.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3H8",
+      "sec": "6522",
+      "name": "株式会社アスタリスク",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 6.14,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3JI",
+      "sec": "206A",
+      "name": "株式会社PRISM　BioLab",
+      "filer": "ライフサイエンスベンチャーキャピタル株式会社",
+      "ratio": 5.3,
+      "prev_ratio": 6.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3CX",
+      "sec": "9522",
+      "name": "リニューアブル・ジャパン株式会社",
+      "filer": "シャンハイ・アライアンス・ファイナンシャル・サービシズ・カンパニー・リミテッド",
+      "ratio": null,
+      "prev_ratio": 6.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3CR",
+      "sec": "9522",
+      "name": "リニューアブル・ジャパン株式会社",
+      "filer": "株式会社Ｈ＆Ｔコーポレーション",
+      "ratio": 36.21,
+      "prev_ratio": 36.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3HQ",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 37.12,
+      "prev_ratio": 38.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3FJ",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 46.55,
+      "prev_ratio": 47.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3M5",
+      "sec": "141A",
+      "name": "株式会社トライアルホールディングス",
+      "filer": "株式会社Ｈｅｒｏｉｃ　ｉｎｖｅｓｔｍｅｎｔ",
+      "ratio": 7.66,
+      "prev_ratio": 7.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3KC",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド（Beat Holdings Limited）",
+      "filer": "Ｌａｉ　Ｍａｎｋｏｎ",
+      "ratio": 33.33,
+      "prev_ratio": 5.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3LY",
+      "sec": "4955",
+      "name": "アグロ　カネショウ株式会社",
+      "filer": "出光興産株式会社",
+      "ratio": 90.38,
+      "prev_ratio": 83.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3ND",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "永島　毅一郎",
+      "ratio": 14.73,
+      "prev_ratio": 14.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2XQ",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 24.82,
+      "prev_ratio": 25.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3BU",
+      "sec": "6728",
+      "name": "株式会社アルバック",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 9.28,
+      "prev_ratio": 10.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2WT",
+      "sec": "3593",
+      "name": "株式会社ホギメディカル",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 7.64,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2VW",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 10.81,
+      "prev_ratio": 9.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V31J",
+      "sec": "4626",
+      "name": "太陽ホールディングス株式会社",
+      "filer": "みさき投資株式会社",
+      "ratio": 4.16,
+      "prev_ratio": 6.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V26Y",
+      "sec": "2376",
+      "name": "株式会社サイネックス",
+      "filer": "光通信株式会社",
+      "ratio": 6.51,
+      "prev_ratio": 6.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V26Z",
+      "sec": "2477",
+      "name": "手間いらず株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.81,
+      "prev_ratio": 4.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V271",
+      "sec": "9539",
+      "name": "京葉瓦斯株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.12,
+      "prev_ratio": 6.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V15G",
+      "sec": "9270",
+      "name": "バリュエンスホールディングス株式会社",
+      "filer": "ＳＦプロパティマネジメント株式会社",
+      "ratio": 53.61,
+      "prev_ratio": 55.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3OK",
+      "sec": "3857",
+      "name": "株式会社ラック",
+      "filer": "ＫＤＤＩ株式会社",
+      "ratio": 91.47,
+      "prev_ratio": 31.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3M6",
+      "sec": "280A",
+      "name": "株式会社ＴＭＨ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 6.89,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3OQ",
+      "sec": "3963",
+      "name": "株式会社社シンクロ・フード",
+      "filer": "ＶＩＳ　Ａｄｖｉｓｏｒｓ，ＬＰ",
+      "ratio": 9.94,
+      "prev_ratio": 8.29,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

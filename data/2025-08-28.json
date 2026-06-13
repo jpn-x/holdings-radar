@@ -1,0 +1,337 @@
+{
+  "date": "2025-08-28",
+  "new": [
+    {
+      "docId": "S100WL5Q",
+      "sec": "6181",
+      "name": "タメニー株式会社",
+      "filer": "ＡＩフュージョンキャピタルグループ株式会社",
+      "ratio": 16.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WKNE",
+      "sec": "3908",
+      "name": "株式会社コラボス",
+      "filer": "コムテック株式会社",
+      "ratio": 7.75,
+      "prev_ratio": 12.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLI9",
+      "sec": "9699",
+      "name": "ニシオホールディングス株式会社",
+      "filer": "西尾　公志",
+      "ratio": 4.62,
+      "prev_ratio": 4.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLII",
+      "sec": "9699",
+      "name": "ニシオホールディングス株式会社",
+      "filer": "西尾　公志",
+      "ratio": 4.62,
+      "prev_ratio": 4.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKX2",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "株式会社ミヤマ",
+      "ratio": 9.62,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLTP",
+      "sec": "7501",
+      "name": "株式会社ティムコ",
+      "filer": "株式会社スノーピーク",
+      "ratio": null,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLGF",
+      "sec": "2683",
+      "name": "株式会社魚喜",
+      "filer": "有吉　和枝",
+      "ratio": 15.34,
+      "prev_ratio": 15.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLPE",
+      "sec": "4890",
+      "name": "株式会社坪田ラボ",
+      "filer": "坪田　一男",
+      "ratio": 46.76,
+      "prev_ratio": 48.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLKC",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 8.29,
+      "prev_ratio": 9.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLVP",
+      "sec": "3077",
+      "name": "ホリイフードサービス株式会社",
+      "filer": "株式会社第一ソフト",
+      "ratio": 4.85,
+      "prev_ratio": 5.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLDL",
+      "sec": "4591",
+      "name": "株式会社リボミック",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 39.8,
+      "prev_ratio": 41.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLVB",
+      "sec": "5706",
+      "name": "三井金属鉱業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.15,
+      "prev_ratio": 30.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLWW",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "みらい再生支援機構合同会社",
+      "ratio": 18.25,
+      "prev_ratio": 19.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLNR",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": null,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLNV",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.06,
+      "prev_ratio": 18.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLVM",
+      "sec": "6951",
+      "name": "日本電子株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 1.98,
+      "prev_ratio": 1.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLI4",
+      "sec": "9308",
+      "name": "乾汽船株式会社",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 7.34,
+      "prev_ratio": 6.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLNK",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "トラストアップ株式会社",
+      "ratio": 18.41,
+      "prev_ratio": 16.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLVV",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 35.45,
+      "prev_ratio": 36.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLW4",
+      "sec": "4596",
+      "name": "窪田製薬ホールディングス株式会社",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 12.58,
+      "prev_ratio": 13.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLRY",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 9.74,
+      "prev_ratio": 12.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLRX",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 2.93,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLSX",
+      "sec": "3494",
+      "name": "株式会社マリオン",
+      "filer": "一般社団法人ホンジン・ホールディングス",
+      "ratio": 6.45,
+      "prev_ratio": 7.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLZW",
+      "sec": "173A",
+      "name": "株式会社ハンモック",
+      "filer": "光通信株式会社",
+      "ratio": 7.24,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WL86",
+      "sec": "7367",
+      "name": "株式会社セルム",
+      "filer": "加島禎二",
+      "ratio": 14.04,
+      "prev_ratio": 12.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLZY",
+      "sec": "3763",
+      "name": "株式会社プロシップ",
+      "filer": "光通信株式会社",
+      "ratio": 5.92,
+      "prev_ratio": 5.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLZZ",
+      "sec": "8051",
+      "name": "株式会社山善",
+      "filer": "光通信株式会社",
+      "ratio": 6.76,
+      "prev_ratio": 6.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK0H",
+      "sec": "173A",
+      "name": "株式会社ハンモック",
+      "filer": "若山　正美",
+      "ratio": 9.17,
+      "prev_ratio": 13.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKYB",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 16.91,
+      "prev_ratio": 17.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLZB",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 34.22,
+      "prev_ratio": 35.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLAT",
+      "sec": "5941",
+      "name": "株式会社中西製作所",
+      "filer": "シンプレクス・アセット・マネジメント株式会社",
+      "ratio": 11.69,
+      "prev_ratio": 12.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WK09",
+      "sec": "5027",
+      "name": "AnyMind Group株式会社",
+      "filer": "小堤　音彦",
+      "ratio": 9.57,
+      "prev_ratio": 9.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WLTP",
+      "sec": "7501",
+      "name": "株式会社ティムコ",
+      "filer": "株式会社スノーピーク",
+      "ratio": null,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

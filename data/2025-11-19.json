@@ -1,0 +1,317 @@
+{
+  "date": "2025-11-19",
+  "new": [
+    {
+      "docId": "S100X3TZ",
+      "sec": "2325",
+      "name": "株式会社ＮＪＳ",
+      "filer": "ブルーブルームキャピタル株式会社",
+      "ratio": 2.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X505",
+      "sec": "9816",
+      "name": "株式会社ストライダーズ",
+      "filer": "成成株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X4BN",
+      "sec": "4464",
+      "name": "株式会社ソフト９９コーポレーション",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 35.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X5BS",
+      "sec": "4112",
+      "name": "保土谷化学工業株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 3.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X5BE",
+      "sec": "6460",
+      "name": "セガサミーホールディングス株式会社",
+      "filer": "里見　治",
+      "ratio": 1.73,
+      "prev_ratio": 1.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X59F",
+      "sec": "",
+      "name": "",
+      "filer": "みずほ証券株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X586",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.66,
+      "prev_ratio": 10.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5CJ",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 16.75,
+      "prev_ratio": 17.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5A0",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 31.17,
+      "prev_ratio": 32.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5H6",
+      "sec": "6050",
+      "name": "イー・ガーディアン株式会社",
+      "filer": "株式会社チェンジホールディングス",
+      "ratio": 51.74,
+      "prev_ratio": 48.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5L2",
+      "sec": "5950",
+      "name": "日本パワーファスニング株式会社",
+      "filer": "土肥　雄治",
+      "ratio": 8.05,
+      "prev_ratio": 8.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5LE",
+      "sec": "6050",
+      "name": "イー・ガーディアン株式会社",
+      "filer": "高谷　康久",
+      "ratio": 2.78,
+      "prev_ratio": 6.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5IC",
+      "sec": "3452",
+      "name": "株式会社ビーロット",
+      "filer": "宮内　誠",
+      "ratio": 5.73,
+      "prev_ratio": 5.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5ER",
+      "sec": "9878",
+      "name": "株式会社　セキド",
+      "filer": "関戸　正実",
+      "ratio": 13.5,
+      "prev_ratio": 13.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5MO",
+      "sec": "7455",
+      "name": "株式会社パリミキホールディングス",
+      "filer": "株式会社ルネット",
+      "ratio": 46.37,
+      "prev_ratio": 46.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X4YR",
+      "sec": "3267",
+      "name": "株式会社フィル・カンパニー",
+      "filer": "髙橋　伸彰",
+      "ratio": 19.46,
+      "prev_ratio": 19.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X50S",
+      "sec": "3224",
+      "name": "株式会社ゼネラル・オイスター",
+      "filer": "株式会社ネクスタ",
+      "ratio": 55.87,
+      "prev_ratio": 45.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5FW",
+      "sec": "8705",
+      "name": "日産証券グループ株式会社",
+      "filer": "株式会社ＮＳＨＤ",
+      "ratio": 43.25,
+      "prev_ratio": 44.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X57K",
+      "sec": "3529",
+      "name": "アツギ株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 25.25,
+      "prev_ratio": 23.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X523",
+      "sec": "7718",
+      "name": "スター精密株式会社",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 35.69,
+      "prev_ratio": 35.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5HL",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 20.59,
+      "prev_ratio": 21.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X34F",
+      "sec": "9742",
+      "name": "株式会社アイネス",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 12.35,
+      "prev_ratio": 11.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5DY",
+      "sec": "4826",
+      "name": "株式会社ＣＩＪ",
+      "filer": "光通信株式会社",
+      "ratio": 6.72,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5NQ",
+      "sec": "4071",
+      "name": "株式会社プラスアルファ・コンサルティング",
+      "filer": "三室　克哉",
+      "ratio": 12.12,
+      "prev_ratio": 15.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X55V",
+      "sec": "7940",
+      "name": "ウェーブロックホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X56N",
+      "sec": "6875",
+      "name": "株式会社メガチップス",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5AC",
+      "sec": "7278",
+      "name": "株式会社エクセディ",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 4.14,
+      "prev_ratio": 4.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5NG",
+      "sec": "7615",
+      "name": "株式会社京都きもの友禅ホールディングス",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 33.49,
+      "prev_ratio": 34.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X34E",
+      "sec": "9254",
+      "name": "株式会社ラバブルマーケティンググループ",
+      "filer": "ＡＩフュージョンキャピタルグループ株式会社",
+      "ratio": 40.67,
+      "prev_ratio": 25.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5PB",
+      "sec": "6523",
+      "name": "ＰＨＣホールディングス株式会社",
+      "filer": "パナソニックホールディングス株式会社",
+      "ratio": 6.13,
+      "prev_ratio": 7.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X493",
+      "sec": "7371",
+      "name": "Zenken株式会社",
+      "filer": "吉澤　信男",
+      "ratio": 42.87,
+      "prev_ratio": 47.75,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

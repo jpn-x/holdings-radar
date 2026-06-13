@@ -1,0 +1,287 @@
+{
+  "date": "2025-05-15",
+  "new": [
+    {
+      "docId": "S100VPF9",
+      "sec": "6345",
+      "name": "株式会社アイチコーポレーション",
+      "filer": "株式会社豊田自動織機",
+      "ratio": 42.15,
+      "prev_ratio": 54.34,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VRGJ",
+      "sec": "3497",
+      "name": "株式会社LeTech",
+      "filer": "住友林業株式会社",
+      "ratio": 68.66,
+      "prev_ratio": 4.22,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VRH9",
+      "sec": "2321",
+      "name": "株式会社ソフトフロントホールディングス",
+      "filer": "ＰＯＴＵＳ　ＣＡＰＩＴＡＬ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 12.91,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VRAS",
+      "sec": "241A",
+      "name": "株式会社ＲＯＸＸ",
+      "filer": "中嶋　汰朗",
+      "ratio": 16.63,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQND",
+      "sec": "7220",
+      "name": "武蔵精密工業株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 2.75,
+      "prev_ratio": 2.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPDR",
+      "sec": "6085",
+      "name": "アーキテクツスタジオジャパン株式会社",
+      "filer": "木下　昭彦",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQMB",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 19.02,
+      "prev_ratio": 20.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR3S",
+      "sec": "3834",
+      "name": "株式会社朝日ネット",
+      "filer": "杉山　裕一",
+      "ratio": 3.81,
+      "prev_ratio": 6.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VREU",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": null,
+      "prev_ratio": 2.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRG6",
+      "sec": "6565",
+      "name": "ＡＢホテル株式会社",
+      "filer": "ＡＢ開発株式会社",
+      "ratio": 35.55,
+      "prev_ratio": 36.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPO2",
+      "sec": "3439",
+      "name": "株式会社三ツ知",
+      "filer": "アイシンシロキ株式会社",
+      "ratio": null,
+      "prev_ratio": 7.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR9P",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 12.66,
+      "prev_ratio": 14.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQJ0",
+      "sec": "4388",
+      "name": "株式会社エーアイ",
+      "filer": "吉田　大志",
+      "ratio": 2.14,
+      "prev_ratio": 2.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQOB",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "成成株式会社",
+      "ratio": 15.72,
+      "prev_ratio": 14.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRG2",
+      "sec": "4377",
+      "name": "株式会社ワンキャリア",
+      "filer": "宮下　尚之",
+      "ratio": 44.11,
+      "prev_ratio": 44.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRKB",
+      "sec": "4483",
+      "name": "株式会社ＪＭＤＣ",
+      "filer": "ノーリツ鋼機株式会社",
+      "ratio": 4.74,
+      "prev_ratio": 5.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ0I",
+      "sec": "7347",
+      "name": "株式会社マーキュリアホールディングス",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 13.22,
+      "prev_ratio": 14.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOWN",
+      "sec": "3758",
+      "name": "株式会社アエリア",
+      "filer": "長嶋　貴之",
+      "ratio": 15.12,
+      "prev_ratio": 12.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOWP",
+      "sec": "3758",
+      "name": "株式会社アエリア",
+      "filer": "小林　祐介",
+      "ratio": 11.12,
+      "prev_ratio": 9.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VORP",
+      "sec": "8705",
+      "name": "日産証券グループ株式会社",
+      "filer": "株式会社ＮＳＨＤ",
+      "ratio": 59.22,
+      "prev_ratio": 54.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQXE",
+      "sec": "4450",
+      "name": "株式会社パワーソリューションズ",
+      "filer": "高橋　忠郎",
+      "ratio": 7.73,
+      "prev_ratio": 5.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPF9",
+      "sec": "6345",
+      "name": "株式会社アイチコーポレーション",
+      "filer": "株式会社豊田自動織機",
+      "ratio": 42.15,
+      "prev_ratio": 54.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ7V",
+      "sec": "3682",
+      "name": "エンカレッジ・テクノロジ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQJA",
+      "sec": "3031",
+      "name": "株式会社ラクーンホールディングス",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 14.97,
+      "prev_ratio": 16.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQCX",
+      "sec": "3306",
+      "name": "日本製麻株式会社",
+      "filer": "ＬＥＯＭＯ，ｉｎｃ",
+      "ratio": 49.15,
+      "prev_ratio": 45.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR9A",
+      "sec": "260A",
+      "name": "株式会社オルツ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 3.41,
+      "prev_ratio": 3.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQFM",
+      "sec": "2384",
+      "name": "ＳＢＳホールディングス株式会社",
+      "filer": "鎌田正彦",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRHF",
+      "sec": "3490",
+      "name": "株式会社アズ企画設計",
+      "filer": "松本　俊人",
+      "ratio": 40.06,
+      "prev_ratio": 36.06,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

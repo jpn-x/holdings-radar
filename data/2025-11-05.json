@@ -1,0 +1,287 @@
+{
+  "date": "2025-11-05",
+  "new": [
+    {
+      "docId": "S100WYPC",
+      "sec": "5890",
+      "name": "株式会社オフィスバスターズ",
+      "filer": "株式会社テンポスホールディングス",
+      "ratio": 27.88,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WYQH",
+      "sec": "2345",
+      "name": "株式会社クシム",
+      "filer": "株式会社ａ’ｇｉｌ",
+      "ratio": 4.63,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WWNR",
+      "sec": "7276",
+      "name": "株式会社小糸製作所",
+      "filer": "トヨタ自動車株式会社",
+      "ratio": 17.92,
+      "prev_ratio": 20.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYJL",
+      "sec": "4369",
+      "name": "株式会社　トリケミカル研究所",
+      "filer": "野村證券株式会社",
+      "ratio": 79.0,
+      "prev_ratio": 1.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYA2",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.61,
+      "prev_ratio": 7.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYLK",
+      "sec": "5017",
+      "name": "富士石油株式会社",
+      "filer": "出光興産株式会社",
+      "ratio": 74.12,
+      "prev_ratio": 21.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYCR",
+      "sec": "5186",
+      "name": "ニッタ株式会社",
+      "filer": "アイビーピー株式会社",
+      "ratio": 6.49,
+      "prev_ratio": 7.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYBT",
+      "sec": "5581",
+      "name": "株式会社カイテクノロジー",
+      "filer": "勝屋　嘉恭",
+      "ratio": 11.82,
+      "prev_ratio": 12.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYM7",
+      "sec": "5017",
+      "name": "富士石油株式会社",
+      "filer": "Ｋｕｗａｉｔ　Ｐｅｔｒｏｌｅｕｍ　Ｃｏｒｐｏｒａｔｉｏｎ",
+      "ratio": null,
+      "prev_ratio": 7.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYMO",
+      "sec": "3031",
+      "name": "株式会社ラクーンホールディングス",
+      "filer": "小方　功",
+      "ratio": 20.62,
+      "prev_ratio": 20.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYF9",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "Ｄａｎ　Ｔａｋａｈａｓｈｉ　ＬＬＣ",
+      "ratio": 57.72,
+      "prev_ratio": 59.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYAF",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 6.27,
+      "prev_ratio": 9.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYH8",
+      "sec": "197A",
+      "name": "株式会社タウンズ",
+      "filer": "野中　雅貴",
+      "ratio": 29.67,
+      "prev_ratio": 29.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYKK",
+      "sec": "6302",
+      "name": "住友重機械工業株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 12.31,
+      "prev_ratio": 13.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXEZ",
+      "sec": "6351",
+      "name": "株式会社鶴見製作所",
+      "filer": "辻本　治",
+      "ratio": 80.0,
+      "prev_ratio": 72.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYQE",
+      "sec": "9211",
+      "name": "株式会社エフ・コード",
+      "filer": "工藤　勉",
+      "ratio": 38.62,
+      "prev_ratio": 38.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYBI",
+      "sec": "7827",
+      "name": "株式会社オービス",
+      "filer": "中浜　勇",
+      "ratio": null,
+      "prev_ratio": 8.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXUJ",
+      "sec": "3267",
+      "name": "株式会社フィル・カンパニー",
+      "filer": "髙橋　伸彰",
+      "ratio": 19.44,
+      "prev_ratio": 19.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYFW",
+      "sec": "7827",
+      "name": "株式会社オービス",
+      "filer": "中浜　勇治",
+      "ratio": 24.71,
+      "prev_ratio": 16.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WY0R",
+      "sec": "3529",
+      "name": "アツギ株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 23.95,
+      "prev_ratio": 22.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXE3",
+      "sec": "8585",
+      "name": "株式会社オリエントコーポレーション",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 8.34,
+      "prev_ratio": 7.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WY99",
+      "sec": "9006",
+      "name": "京浜急行電鉄株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": 3.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYAB",
+      "sec": "4917",
+      "name": "株式会社マンダム",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYAI",
+      "sec": "6890",
+      "name": "株式会社フェローテック",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU83",
+      "sec": "8977",
+      "name": "阪急阪神リート投資法人",
+      "filer": "阪急阪神不動産株式会社",
+      "ratio": 10.16,
+      "prev_ratio": 9.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXRP",
+      "sec": "2303",
+      "name": "株式会社ドーン",
+      "filer": "光通信株式会社",
+      "ratio": 6.88,
+      "prev_ratio": 5.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXRQ",
+      "sec": "6018",
+      "name": "阪神内燃機工業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.03,
+      "prev_ratio": 7.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYP8",
+      "sec": "3491",
+      "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "樋口　龍",
+      "ratio": 25.82,
+      "prev_ratio": 25.85,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "date": "2025-06-16",
+  "new": [
+    {
+      "docId": "S100VXWX",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 15.85,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VXL8",
+      "sec": "4450",
+      "name": "株式会社パワーソリューションズ",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 3.3,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VXVU",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "ＫＡＮＤＢ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 28.75,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VXWN",
+      "sec": "6957",
+      "name": "株式会社芝浦電子",
+      "filer": "サムソン・ロック・キャピタル・エルエルピー",
+      "ratio": 5.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VWYP",
+      "sec": "3927",
+      "name": "株式会社フーバーブレイン",
+      "filer": "モダンパス合同会社",
+      "ratio": 18.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VY1H",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "株式会社Ａｄｏ",
+      "ratio": 36.77,
+      "prev_ratio": 37.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0L",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 18.79,
+      "prev_ratio": 15.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0U",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 20.31,
+      "prev_ratio": 18.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0N",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 19.2,
+      "prev_ratio": 20.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0M",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 17.56,
+      "prev_ratio": 19.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0V",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 16.53,
+      "prev_ratio": 17.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0X",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 15.46,
+      "prev_ratio": 16.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY0Y",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 10.83,
+      "prev_ratio": 15.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY10",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 7.41,
+      "prev_ratio": 10.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY17",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 5.96,
+      "prev_ratio": 7.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY12",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 6.14,
+      "prev_ratio": 5.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY13",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "景祥針織有限公司",
+      "ratio": 6.95,
+      "prev_ratio": 6.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXWV",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 6.01,
+      "prev_ratio": 8.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXRJ",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": null,
+      "prev_ratio": 6.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY30",
+      "sec": "6548",
+      "name": "株式会社旅工房",
+      "filer": "高山　泰仁",
+      "ratio": 7.15,
+      "prev_ratio": 8.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY1K",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 37.4,
+      "prev_ratio": 9.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY5D",
+      "sec": "6548",
+      "name": "株式会社旅工房",
+      "filer": "高山　泰仁",
+      "ratio": 7.15,
+      "prev_ratio": 8.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY8H",
+      "sec": "2001",
+      "name": "株式会社ニップン",
+      "filer": "野村證券株式会社",
+      "ratio": null,
+      "prev_ratio": 1.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRCZ",
+      "sec": "9433",
+      "name": "KDDI株式会社",
+      "filer": "トヨタ自動車株式会社",
+      "ratio": 9.71,
+      "prev_ratio": 9.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXYS",
+      "sec": "3053",
+      "name": "株式会社ペッパーフードサービス",
+      "filer": "株式会社フラッグシップアセットマネジメント",
+      "ratio": 1.55,
+      "prev_ratio": 1.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXDO",
+      "sec": "3656",
+      "name": "ＫＬａｂ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 10.34,
+      "prev_ratio": 11.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX52",
+      "sec": "9696",
+      "name": "株式会社ウィザス",
+      "filer": "Ｓｗｉｓｓ－Ａｓｉａ　Ｆｉｎａｎｃｉａｌ　Ｓｅｒｖｉｃｅｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 17.82,
+      "prev_ratio": 17.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXJ3",
+      "sec": "8714",
+      "name": "株式会社池田泉州ホールディングス",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 7.52,
+      "prev_ratio": 6.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWYR",
+      "sec": "4889",
+      "name": "株式会社レナサイエンス",
+      "filer": "ＤＣＩパートナーズ株式会社",
+      "ratio": 4.59,
+      "prev_ratio": 5.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYAI",
+      "sec": "218A",
+      "name": "株式会社Liberaware",
+      "filer": "ＡＩＴＩ株式会社",
+      "ratio": 10.0,
+      "prev_ratio": 11.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYBM",
+      "sec": "218A",
+      "name": "株式会社Liberaware",
+      "filer": "ＡＩＴＩ株式会社",
+      "ratio": 7.65,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYBR",
+      "sec": "218A",
+      "name": "株式会社Liberaware",
+      "filer": "ＡＩＴＩ株式会社",
+      "ratio": 6.44,
+      "prev_ratio": 7.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYBV",
+      "sec": "218A",
+      "name": "株式会社Liberaware",
+      "filer": "ＡＩＴＩ株式会社",
+      "ratio": 5.15,
+      "prev_ratio": 6.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTA4",
+      "sec": "3539",
+      "name": "株式会社ＪＭホールディングス",
+      "filer": "藤原　克朗",
+      "ratio": 1.52,
+      "prev_ratio": 2.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYCA",
+      "sec": "8105",
+      "name": "堀田丸正株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 53.97,
+      "prev_ratio": 58.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY1I",
+      "sec": "3242",
+      "name": "株式会社アーバネットコーポレーション",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 7.99,
+      "prev_ratio": 8.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VY8C",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "株式会社グローバルエナジー",
+      "ratio": 2.04,
+      "prev_ratio": 6.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYG5",
+      "sec": "3469",
+      "name": "株式会社デュアルタップ",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 9.13,
+      "prev_ratio": 10.2,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

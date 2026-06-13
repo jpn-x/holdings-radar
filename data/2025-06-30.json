@@ -1,0 +1,417 @@
+{
+  "date": "2025-06-30",
+  "new": [
+    {
+      "docId": "S100W381",
+      "sec": "7462",
+      "name": "株式会社ＣＡＰＩＴＡ",
+      "filer": "株式会社桃の木",
+      "ratio": 22.38,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W91K",
+      "sec": "3179",
+      "name": "シュッピン株式会社",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W9FJ",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 48.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100W937",
+      "sec": "7769",
+      "name": "リズム株式会社",
+      "filer": "植島　幹九郎",
+      "ratio": 14.13,
+      "prev_ratio": 14.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W684",
+      "sec": "7769",
+      "name": "リズム株式会社",
+      "filer": "植島　幹九郎",
+      "ratio": 10.66,
+      "prev_ratio": 14.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7Z0",
+      "sec": "7769",
+      "name": "リズム株式会社",
+      "filer": "植島　幹九郎",
+      "ratio": 7.98,
+      "prev_ratio": 10.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W80A",
+      "sec": "7769",
+      "name": "リズム株式会社",
+      "filer": "植島　幹九郎",
+      "ratio": 5.84,
+      "prev_ratio": 7.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W93F",
+      "sec": "7769",
+      "name": "リズム株式会社",
+      "filer": "植島　幹九郎",
+      "ratio": null,
+      "prev_ratio": 5.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W94K",
+      "sec": "9285",
+      "name": "東京インフラ・エネルギー投資法人",
+      "filer": "株式会社クールトラスト",
+      "ratio": 11.46,
+      "prev_ratio": 10.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7A8",
+      "sec": "6638",
+      "name": "株式会社ミマキエンジニアリング",
+      "filer": "田中　規幸",
+      "ratio": 6.36,
+      "prev_ratio": 6.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7B8",
+      "sec": "4180",
+      "name": "Appier Group株式会社",
+      "filer": "グローバル・プレミア・グループ・リミテッド",
+      "ratio": 4.53,
+      "prev_ratio": 5.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9EE",
+      "sec": "7097",
+      "name": "株式会社さくらさくプラス",
+      "filer": "西尾　義隆",
+      "ratio": 3.94,
+      "prev_ratio": 3.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9EW",
+      "sec": "7097",
+      "name": "株式会社さくらさくプラス",
+      "filer": "中山　隆志",
+      "ratio": 9.97,
+      "prev_ratio": 10.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9GG",
+      "sec": "4674",
+      "name": "株式会社クレスコ",
+      "filer": "有限会社イワサキコーポレーション",
+      "ratio": 16.5,
+      "prev_ratio": 16.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9IB",
+      "sec": "3558",
+      "name": "ジェイドグループ株式会社",
+      "filer": "田中　裕輔",
+      "ratio": 14.37,
+      "prev_ratio": 12.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9J3",
+      "sec": "3486",
+      "name": "株式会社グローバル・リンク・マネジメント",
+      "filer": "金　大仲",
+      "ratio": 14.2,
+      "prev_ratio": 15.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W93G",
+      "sec": "5255",
+      "name": "株式会社モンスターラボ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 4.74,
+      "prev_ratio": 6.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7XM",
+      "sec": "8793",
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "filer": "日本電気株式会社",
+      "ratio": 11.81,
+      "prev_ratio": 17.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W93K",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.4,
+      "prev_ratio": 25.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7U7",
+      "sec": "4406",
+      "name": "新日本理化株式会社",
+      "filer": "株式会社ワイエムシィ",
+      "ratio": 18.07,
+      "prev_ratio": 9.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXYR",
+      "sec": "1433",
+      "name": "ベステラ株式会社",
+      "filer": "吉野　炳樹",
+      "ratio": 13.43,
+      "prev_ratio": 14.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9AU",
+      "sec": "3242",
+      "name": "株式会社アーバネットコーポレーション",
+      "filer": "服部　信治",
+      "ratio": 1.03,
+      "prev_ratio": 1.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9RP",
+      "sec": "5588",
+      "name": "ファーストアカウンティング株式会社",
+      "filer": "森　啓太郎",
+      "ratio": 23.76,
+      "prev_ratio": 23.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9DK",
+      "sec": "7018",
+      "name": "内海造船株式会社",
+      "filer": "カナデビア株式会社",
+      "ratio": 29.62,
+      "prev_ratio": 29.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W91U",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "Ｓｗｉｓｓ－Ａｓｉａ　Ｆｉｎａｎｃｉａｌ　Ｓｅｒｖｉｃｅｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 25.59,
+      "prev_ratio": 24.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W95L",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 25.44,
+      "prev_ratio": 11.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W94D",
+      "sec": "4564",
+      "name": "オンコセラピー・サイエンス株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 15.19,
+      "prev_ratio": 15.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W94C",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 12.16,
+      "prev_ratio": 13.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W1TH",
+      "sec": "3903",
+      "name": "株式会社gumi",
+      "filer": "ＳＵＰＥＲ　ＳＴＡＴＥ　ＨＯＬＤＩＮＧＳ株式会社",
+      "ratio": 6.84,
+      "prev_ratio": 19.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W2NI",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "ＳＵＰＥＲ　ＳＴＡＴＥ　ＨＯＬＤＩＮＧＳ株式会社",
+      "ratio": null,
+      "prev_ratio": 8.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7NM",
+      "sec": "4556",
+      "name": "株式会社カイノス",
+      "filer": "光通信株式会社",
+      "ratio": 7.18,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7NO",
+      "sec": "8006",
+      "name": "ユアサ・フナショク株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 8.68,
+      "prev_ratio": 8.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W977",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ソン　ユウ　ニン（Ｓｕｎ　Ｙｏｕ　Ｎｉｎｇ）",
+      "ratio": 9.51,
+      "prev_ratio": 8.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W7NQ",
+      "sec": "8132",
+      "name": "シナネンホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.8,
+      "prev_ratio": 6.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W94U",
+      "sec": "8793",
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "filer": "株式会社ＳＢＩ新生銀行",
+      "ratio": 43.48,
+      "prev_ratio": 33.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W94A",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "株式会社Ａｄｏ",
+      "ratio": 28.59,
+      "prev_ratio": 28.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9W6",
+      "sec": "3775",
+      "name": "株式会社ガイアックス",
+      "filer": "上田　祐司",
+      "ratio": 11.76,
+      "prev_ratio": 9.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W81K",
+      "sec": "3031",
+      "name": "株式会社ラクーンホールディングス",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 12.73,
+      "prev_ratio": 13.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W90D",
+      "sec": "7615",
+      "name": "株式会社京都きもの友禅ホールディングス",
+      "filer": "ＣＯＴＴＯＮＦＡＩＲ　ＬＩＭＩＴＥＤ",
+      "ratio": 1.3,
+      "prev_ratio": 5.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9YS",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.52,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUJ9",
+      "sec": "4427",
+      "name": "株式会社　EduLab",
+      "filer": "株式会社旺文社",
+      "ratio": 5.16,
+      "prev_ratio": 5.41,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

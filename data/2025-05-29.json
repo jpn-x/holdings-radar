@@ -1,0 +1,267 @@
+{
+  "date": "2025-05-29",
+  "new": [
+    {
+      "docId": "S100VT7E",
+      "sec": "2196",
+      "name": "株式会社エスクリ",
+      "filer": "ラオックスホールディングス株式会社",
+      "ratio": 5.66,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VUJI",
+      "sec": "8105",
+      "name": "堀田丸正株式会社",
+      "filer": "合同会社エンヴィー",
+      "ratio": 28.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VU4R",
+      "sec": "358A",
+      "name": "株式会社ゼン・ランド",
+      "filer": "藤井　善英",
+      "ratio": 86.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VU54",
+      "sec": "358A",
+      "name": "株式会社ゼン・ランド",
+      "filer": "矢野　拓也",
+      "ratio": 13.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VSBA",
+      "sec": "357A",
+      "name": "株式会社エフアンドエフ",
+      "filer": "半田　めぐみ",
+      "ratio": 7.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VSAT",
+      "sec": "357A",
+      "name": "株式会社エフアンドエフ",
+      "filer": "藤川　佳織",
+      "ratio": 7.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VUF2",
+      "sec": "357A",
+      "name": "株式会社エフアンドエフ",
+      "filer": "藤川　欣洋",
+      "ratio": 7.24,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VTQT",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 15.99,
+      "prev_ratio": 15.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUE0",
+      "sec": "254A",
+      "name": "ＡＩフュージョンキャピタルグループ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 8.56,
+      "prev_ratio": 12.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUF4",
+      "sec": "3010",
+      "name": "ポラリス・ホールディングス株式会社",
+      "filer": "ＳＡＯ　ＩＩＩ　ＧＰ　Ｌｔｄ．",
+      "ratio": 29.5,
+      "prev_ratio": 38.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUB7",
+      "sec": "7352",
+      "name": "株式会社TWOSTONE&amp;Sons",
+      "filer": "髙原　克弥",
+      "ratio": 34.95,
+      "prev_ratio": 34.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUBS",
+      "sec": "7352",
+      "name": "株式会社TWOSTONE&amp;Sons",
+      "filer": "河端　保志",
+      "ratio": 35.12,
+      "prev_ratio": 35.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU21",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 4.95,
+      "prev_ratio": 6.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU4E",
+      "sec": "8624",
+      "name": "いちよし証券株式会社",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 7.46,
+      "prev_ratio": 6.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTQO",
+      "sec": "7919",
+      "name": "野崎印刷紙業株式会社",
+      "filer": "野﨑　隆男",
+      "ratio": 7.65,
+      "prev_ratio": 6.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUIX",
+      "sec": "248A",
+      "name": "株式会社キッズスター",
+      "filer": "平井　康博",
+      "ratio": 9.18,
+      "prev_ratio": 10.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUJA",
+      "sec": "5254",
+      "name": "株式会社Ａｒｅｎｔ",
+      "filer": "中川　高志",
+      "ratio": 4.2,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTL1",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド（Beat Holdings Limited）",
+      "filer": "Ｌａｉ　Ｍａｎｋｏｎ",
+      "ratio": 29.5,
+      "prev_ratio": 30.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VT6C",
+      "sec": "8125",
+      "name": "株式会社ワキタ",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 7.59,
+      "prev_ratio": 8.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU4L",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "豊田Ｈｏｌｄｉｎｇｓ株式会社",
+      "ratio": 54.71,
+      "prev_ratio": 54.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU0Y",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド（Beat Holdings Limited）",
+      "filer": "Ｌａｉ　Ｍａｎｋｏｎ",
+      "ratio": 28.2,
+      "prev_ratio": 29.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU0B",
+      "sec": "4512",
+      "name": "わかもと製薬株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 9.58,
+      "prev_ratio": 8.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTB6",
+      "sec": "8876",
+      "name": "株式会社リログループ",
+      "filer": "光通信株式会社",
+      "ratio": 7.7,
+      "prev_ratio": 7.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUKR",
+      "sec": "4014",
+      "name": "株式会社カラダノート",
+      "filer": "佐藤　竜也",
+      "ratio": 50.82,
+      "prev_ratio": 50.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTB7",
+      "sec": "9446",
+      "name": "株式会社サカイホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 3.37,
+      "prev_ratio": 3.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUHS",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 11.48,
+      "prev_ratio": 12.29,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

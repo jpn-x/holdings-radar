@@ -1,0 +1,537 @@
+{
+  "date": "2025-08-12",
+  "new": [
+    {
+      "docId": "S100WHKM",
+      "sec": "4588",
+      "name": "オンコリスバイオファーマ株式会社",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 14.79,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WIIQ",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 38.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WI8S",
+      "sec": "6143",
+      "name": "株式会社ソディック",
+      "filer": "ＡＡＧＳ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ．",
+      "ratio": 16.39,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WGJH",
+      "sec": "8105",
+      "name": "堀田丸正株式会社",
+      "filer": "バックト・オプコ・ホールディングス・エルエルシー",
+      "ratio": 28.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WGPJ",
+      "sec": "5870",
+      "name": "株式会社ナルネットコミュニケーションズ",
+      "filer": "株式会社イエローハット",
+      "ratio": 16.25,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WIHR",
+      "sec": "4170",
+      "name": "株式会社Ｋａｉｚｅｎ Ｐｌａｔｆｏｒｍ",
+      "filer": "黒田　直樹",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WHTW",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 7.97,
+      "prev_ratio": 8.06,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WILX",
+      "sec": "4464",
+      "name": "株式会社ソフト９９コーポレーション",
+      "filer": "サントレード株式会社",
+      "ratio": 15.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WIME",
+      "sec": "4464",
+      "name": "株式会社ソフト９９コーポレーション",
+      "filer": "鈴木　幹子",
+      "ratio": 6.7,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WH1I",
+      "sec": "4406",
+      "name": "新日本理化株式会社",
+      "filer": "株式会社ワイエムシィ",
+      "ratio": 22.2,
+      "prev_ratio": 21.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WICY",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "福村　京子",
+      "ratio": 18.0,
+      "prev_ratio": 1.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIGN",
+      "sec": "3565",
+      "name": "アセンテック株式会社",
+      "filer": "永森　信一",
+      "ratio": 22.51,
+      "prev_ratio": 22.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHN1",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "森田　晴彦",
+      "ratio": 47.0,
+      "prev_ratio": 47.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGX7",
+      "sec": "5337",
+      "name": "ダントーホールディングス株式会社",
+      "filer": "株式会社大建エンタープライズ",
+      "ratio": 29.53,
+      "prev_ratio": 28.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGW2",
+      "sec": "6416",
+      "name": "桂川電機株式会社",
+      "filer": "渡邉　正礼",
+      "ratio": 9.64,
+      "prev_ratio": 9.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGVM",
+      "sec": "6416",
+      "name": "桂川電機株式会社",
+      "filer": "株式会社三桂製作所",
+      "ratio": 33.3,
+      "prev_ratio": 33.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WICX",
+      "sec": "3415",
+      "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
+      "filer": "中水　英紀",
+      "ratio": 5.17,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIH0",
+      "sec": "4418",
+      "name": "株式会社JDSC",
+      "filer": "加藤　聡志",
+      "ratio": 29.47,
+      "prev_ratio": 29.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIDA",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "代永衛",
+      "ratio": 8.31,
+      "prev_ratio": 9.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGV9",
+      "sec": "7058",
+      "name": "共栄セキュリティーサービス株式会社",
+      "filer": "株式会社ケイ・エス・エス",
+      "ratio": 7.5,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIJT",
+      "sec": "8105",
+      "name": "堀田丸正株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 25.69,
+      "prev_ratio": 53.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGO6",
+      "sec": "1882",
+      "name": "東亜道路工業株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 12.76,
+      "prev_ratio": 13.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID1",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社植村組",
+      "ratio": 14.86,
+      "prev_ratio": 14.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID2",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社植村組",
+      "ratio": 14.86,
+      "prev_ratio": 14.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID3",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社植村組",
+      "ratio": 8.93,
+      "prev_ratio": 14.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID4",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社植村組",
+      "ratio": 8.93,
+      "prev_ratio": 8.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIE9",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズ",
+      "filer": "須田　忠雄",
+      "ratio": 61.62,
+      "prev_ratio": 63.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID5",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社植村組",
+      "ratio": 8.93,
+      "prev_ratio": 8.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIC5",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社ガイアテック",
+      "ratio": 8.93,
+      "prev_ratio": 8.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID0",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社ガイアテック",
+      "ratio": 8.93,
+      "prev_ratio": 8.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID8",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社日本地下技術",
+      "ratio": 5.59,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID9",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社日本地下技術",
+      "ratio": 5.59,
+      "prev_ratio": 5.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID6",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社南日本運輸建設",
+      "ratio": 6.51,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WID7",
+      "sec": "1743",
+      "name": "コーアツ工業株式会社",
+      "filer": "株式会社南日本運輸建設",
+      "ratio": 6.51,
+      "prev_ratio": 6.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIL4",
+      "sec": "4762",
+      "name": "株式会社エックスネット",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHD2",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "合同会社ＡＥＧＩＳ",
+      "ratio": 5.16,
+      "prev_ratio": 8.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIBH",
+      "sec": "5870",
+      "name": "株式会社ナルネットコミュニケーションズ",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": null,
+      "prev_ratio": 16.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WH5J",
+      "sec": "6327",
+      "name": "北川精機株式会社",
+      "filer": "ＬＩＭ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 14.55,
+      "prev_ratio": 13.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIL8",
+      "sec": "9696",
+      "name": "株式会社ウィザス",
+      "filer": "株式会社ＮＳＳＫ－Ｊ１",
+      "ratio": 89.26,
+      "prev_ratio": 82.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHPJ",
+      "sec": "3562",
+      "name": "株式会社Ｎｏ．１",
+      "filer": "光通信株式会社",
+      "ratio": 4.37,
+      "prev_ratio": 4.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHPM",
+      "sec": "4356",
+      "name": "応用技術株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIFX",
+      "sec": "3661",
+      "name": "株式会社エムアップホールディングス",
+      "filer": "美藤　宏一郎",
+      "ratio": 11.99,
+      "prev_ratio": 13.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHPN",
+      "sec": "6018",
+      "name": "阪神内燃機工業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.4,
+      "prev_ratio": 7.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIHE",
+      "sec": "6312",
+      "name": "フロイント産業株式会社",
+      "filer": "牧　寛之",
+      "ratio": 28.07,
+      "prev_ratio": 28.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHNP",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 7.52,
+      "prev_ratio": 7.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHTI",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 8.06,
+      "prev_ratio": 7.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WI47",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 8.65,
+      "prev_ratio": 7.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WI7H",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 8.54,
+      "prev_ratio": 8.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIJE",
+      "sec": "6405",
+      "name": "鈴茂器工株式会社",
+      "filer": "ガルフ・ジャパン１",
+      "ratio": 13.87,
+      "prev_ratio": 13.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIK2",
+      "sec": "6405",
+      "name": "鈴茂器工株式会社",
+      "filer": "ガルフ・ジャパン１",
+      "ratio": null,
+      "prev_ratio": 13.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIM6",
+      "sec": "4464",
+      "name": "株式会社ソフト９９コーポレーション",
+      "filer": "サントレード株式会社",
+      "ratio": 14.57,
+      "prev_ratio": 15.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WH35",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 7.26,
+      "prev_ratio": 8.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIMK",
+      "sec": "4464",
+      "name": "株式会社ソフト９９コーポレーション",
+      "filer": "鈴木　幹子",
+      "ratio": 6.7,
+      "prev_ratio": 6.7,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

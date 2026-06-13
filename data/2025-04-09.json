@@ -1,0 +1,267 @@
+{
+  "date": "2025-04-09",
+  "new": [
+    {
+      "docId": "S100VL07",
+      "sec": "5341",
+      "name": "ASAHI EITOホールディングス株式会社",
+      "filer": "山川株式会社",
+      "ratio": 10.41,
+      "prev_ratio": 13.16,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VKE4",
+      "sec": "3695",
+      "name": "GMOリサーチ&amp;AI",
+      "filer": "荻田　剛大",
+      "ratio": 9.48,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VLC8",
+      "sec": "3750",
+      "name": "サイトリ細胞研究所",
+      "filer": "植島　幹九郎",
+      "ratio": 5.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VKSV",
+      "sec": "4690",
+      "name": "日本パレットプール株式会社",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 4.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VKLM",
+      "sec": "7375",
+      "name": "株式会社リファインバースグループ",
+      "filer": "越智　晶",
+      "ratio": 10.77,
+      "prev_ratio": 10.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKWO",
+      "sec": "7375",
+      "name": "株式会社リファインバースグループ",
+      "filer": "越智　晶",
+      "ratio": 9.75,
+      "prev_ratio": 10.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKZR",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VL5X",
+      "sec": "5845",
+      "name": "全保連株式会社",
+      "filer": "ＡＺ－Ｓｔａｒ株式会社",
+      "ratio": 4.14,
+      "prev_ratio": 24.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKXF",
+      "sec": "5845",
+      "name": "全保連株式会社",
+      "filer": "インベストメントＺ株式会社",
+      "ratio": 1.44,
+      "prev_ratio": 8.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VL2H",
+      "sec": "4973",
+      "name": "日本高純度化学株式会社",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": 17.12,
+      "prev_ratio": 16.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK4Z",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 19.66,
+      "prev_ratio": 19.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VL4F",
+      "sec": "2762",
+      "name": "株式会社SANKO MARKETING FOODS",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.97,
+      "prev_ratio": 19.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VL64",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 13.18,
+      "prev_ratio": 16.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VL9B",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "有限会社フクジュコーポレーション",
+      "ratio": 24.5,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH7K",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰ",
+      "filer": "中島　篤三",
+      "ratio": 2.61,
+      "prev_ratio": 11.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKOY",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 15.7,
+      "prev_ratio": 16.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VLAG",
+      "sec": "9560",
+      "name": "株式会社プログリット",
+      "filer": "岡田　祥吾",
+      "ratio": 16.35,
+      "prev_ratio": 17.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKOT",
+      "sec": "3604",
+      "name": "川本産業株式会社",
+      "filer": "エア・ウォーター株式会社",
+      "ratio": 89.5,
+      "prev_ratio": 48.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJRL",
+      "sec": "5341",
+      "name": "ＡＳＡＨＩ　ＥＩＴＯホールディングス株式会社",
+      "filer": "山川株式会社",
+      "ratio": 13.16,
+      "prev_ratio": 15.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKZI",
+      "sec": "7022",
+      "name": "サノヤスホールディングス株式会社",
+      "filer": "日本駐車場開発株式会社",
+      "ratio": 12.33,
+      "prev_ratio": 11.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKQ6",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 10.06,
+      "prev_ratio": 8.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKWZ",
+      "sec": "6715",
+      "name": "株式会社ナカヨ",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 6.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKX0",
+      "sec": "3682",
+      "name": "エンカレッジ・テクノロジ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VL4X",
+      "sec": "4270",
+      "name": "株式会社BeeX",
+      "filer": "株式会社テラスカイ",
+      "ratio": 67.01,
+      "prev_ratio": 68.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VL3Q",
+      "sec": "5595",
+      "name": "株式会社ＱＰＳ研究所",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 10.13,
+      "prev_ratio": 11.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKO7",
+      "sec": "4676",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "株式会社レノ",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

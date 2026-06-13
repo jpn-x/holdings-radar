@@ -1,0 +1,237 @@
+{
+  "date": "2025-10-22",
+  "new": [
+    {
+      "docId": "S100WWAX",
+      "sec": "3750",
+      "name": "株式会社ＡＤＲ１２０Ｓ",
+      "filer": "ＦＴＬキャピタルマネジメント株式会社",
+      "ratio": 11.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWG2",
+      "sec": "431A",
+      "name": "ユーソナー株式会社",
+      "filer": "株式会社日本政策投資銀行",
+      "ratio": 7.58,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWFE",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 32.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWIA",
+      "sec": "433A",
+      "name": "株式会社ＭＪＥ",
+      "filer": "株式会社ＳＨＩＢＵＴＡＮＩホールディングス",
+      "ratio": 26.54,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WU7V",
+      "sec": "9090",
+      "name": "ＡＺ－ＣＯＭ丸和ホールディングス株式会社",
+      "filer": "ＡＺ－ＣＯＭ丸和ホールディングス株式会社",
+      "ratio": null,
+      "prev_ratio": 5.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWEI",
+      "sec": "9348",
+      "name": "株式会社ｉｓｐａｃｅ",
+      "filer": "袴田　武史",
+      "ratio": 11.32,
+      "prev_ratio": 12.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWEO",
+      "sec": "6988",
+      "name": "日東電工株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 2.0,
+      "prev_ratio": 4.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWC9",
+      "sec": "6037",
+      "name": "楽待株式会社",
+      "filer": "坂口　直大",
+      "ratio": 68.3,
+      "prev_ratio": 63.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWBL",
+      "sec": "2158",
+      "name": "株式会社FRONTEO",
+      "filer": "守本　正宏",
+      "ratio": 10.25,
+      "prev_ratio": 10.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVQR",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 10.67,
+      "prev_ratio": 11.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVVR",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.48,
+      "prev_ratio": 20.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW3Q",
+      "sec": "6081",
+      "name": "アライドアーキテクツ株式会社",
+      "filer": "中村　壮秀",
+      "ratio": 34.47,
+      "prev_ratio": 34.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWFR",
+      "sec": "4463",
+      "name": "日華化学株式会社",
+      "filer": "日華共栄会　理事長　出口隆弘",
+      "ratio": 10.14,
+      "prev_ratio": 8.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVTK",
+      "sec": "5337",
+      "name": "ダントーホールディングス株式会社",
+      "filer": "ＶＩＮＴＡＧＥ　ＣＡＶＥ　ＴＯＫＹＯ　株式会社",
+      "ratio": 10.02,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVUW",
+      "sec": "3753",
+      "name": "株式会社フライトソリューションズ",
+      "filer": "三田証券株式会社",
+      "ratio": 16.69,
+      "prev_ratio": 17.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWBZ",
+      "sec": "8127",
+      "name": "ヤマトインターナショナル株式会社",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 13.85,
+      "prev_ratio": 12.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWG9",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "牧　寛之",
+      "ratio": 33.93,
+      "prev_ratio": 32.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW17",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "信太　明",
+      "ratio": 29.65,
+      "prev_ratio": 28.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWHQ",
+      "sec": "285A",
+      "name": "キオクシアホールディングス株式会社",
+      "filer": "株式会社　東芝",
+      "ratio": 22.88,
+      "prev_ratio": 23.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVTO",
+      "sec": "3021",
+      "name": "株式会社パシフィックネット",
+      "filer": "上田　満弘",
+      "ratio": 7.6,
+      "prev_ratio": 8.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWHO",
+      "sec": "9927",
+      "name": "株式会社ワットマン",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 3.32,
+      "prev_ratio": 3.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW79",
+      "sec": "280A",
+      "name": "株式会社ＴＭＨ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 6.76,
+      "prev_ratio": 6.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWIL",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "田　篤史",
+      "ratio": 22.9,
+      "prev_ratio": 22.69,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

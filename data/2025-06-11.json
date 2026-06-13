@@ -1,0 +1,217 @@
+{
+  "date": "2025-06-11",
+  "new": [
+    {
+      "docId": "S100VX1E",
+      "sec": "7477",
+      "name": "ムラキ株式会社",
+      "filer": "宮治　友博",
+      "ratio": 6.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VWTT",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VWWJ",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "小松　周平",
+      "ratio": 5.48,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VWZE",
+      "sec": "4593",
+      "name": "株式会社ヘリオス",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 25.63,
+      "prev_ratio": 25.63,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VWU7",
+      "sec": "6577",
+      "name": "株式会社ベストワンドットコム",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 20.33,
+      "prev_ratio": 21.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWES",
+      "sec": "8886",
+      "name": "株式会社ウッドフレンズ",
+      "filer": "株式会社　長谷工コーポレーション",
+      "ratio": 98.52,
+      "prev_ratio": 89.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWIP",
+      "sec": "5255",
+      "name": "株式会社モンスターラボホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 21.81,
+      "prev_ratio": 22.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX0V",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 19.21,
+      "prev_ratio": 21.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX2C",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 16.12,
+      "prev_ratio": 19.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX24",
+      "sec": "7477",
+      "name": "ムラキ株式会社",
+      "filer": "早馬　義光",
+      "ratio": null,
+      "prev_ratio": 6.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX2S",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "合同会社インバウンドインベストメント",
+      "ratio": 14.79,
+      "prev_ratio": 16.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWWY",
+      "sec": "9612",
+      "name": "株式会社ラックランド",
+      "filer": "望月圭一郎",
+      "ratio": 2.82,
+      "prev_ratio": 3.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX35",
+      "sec": "2001",
+      "name": "株式会社ニップン",
+      "filer": "野村證券株式会社",
+      "ratio": 1.59,
+      "prev_ratio": 1.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVEP",
+      "sec": "4689",
+      "name": "LINEヤフー株式会社",
+      "filer": "ソフトバンク株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWND",
+      "sec": "3031",
+      "name": "株式会社ラクーンホールディングス",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 13.93,
+      "prev_ratio": 14.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWMV",
+      "sec": "6728",
+      "name": "株式会社アルバック",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 8.27,
+      "prev_ratio": 9.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWCP",
+      "sec": "4093",
+      "name": "東邦アセチレン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.43,
+      "prev_ratio": 7.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWCQ",
+      "sec": "7544",
+      "name": "株式会社スリーエフ",
+      "filer": "光通信株式会社",
+      "ratio": 7.41,
+      "prev_ratio": 6.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWSL",
+      "sec": "4023",
+      "name": "株式会社クレハ",
+      "filer": "株式会社エスグラントコーポレーション",
+      "ratio": 1.56,
+      "prev_ratio": 8.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VX31",
+      "sec": "6095",
+      "name": "メドピア株式会社",
+      "filer": "牧　寛之",
+      "ratio": 15.95,
+      "prev_ratio": 14.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWYN",
+      "sec": "4593",
+      "name": "株式会社ヘリオス",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 25.63,
+      "prev_ratio": 31.47,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "date": "2025-01-22",
+  "new": [
+    {
+      "docId": "S100V4CM",
+      "sec": "312A",
+      "name": "株式会社 シンコーホールディングス",
+      "filer": "株式会社シンコーホールディングス",
+      "ratio": 54.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V3XI",
+      "sec": "9450",
+      "name": "株式会社ファイバーゲート",
+      "filer": "光通信株式会社",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4AW",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 69.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4AM",
+      "sec": "3861",
+      "name": "王子ホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4GU",
+      "sec": "3856",
+      "name": "Abalance株式会社",
+      "filer": "龍　潤生",
+      "ratio": 29.73,
+      "prev_ratio": 29.74,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V4BX",
+      "sec": "9235",
+      "name": "株式会社売れるネット広告社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 7.45,
+      "prev_ratio": 8.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3Z1",
+      "sec": "3409",
+      "name": "北日本紡績株式会社",
+      "filer": "ミツワ樹脂工業株式会社",
+      "ratio": 62.48,
+      "prev_ratio": 10.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V22R",
+      "sec": "3050",
+      "name": "DCMホールディングス株式会社",
+      "filer": "イオン株式会社",
+      "ratio": 7.35,
+      "prev_ratio": 6.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3ZH",
+      "sec": "3409",
+      "name": "北日本紡績株式会社",
+      "filer": "ＰＴ　ＡＳＩＡ　ＰＬＡＳＴＩＫ　ＶＩＫＴＯＲＩ",
+      "ratio": 65.97,
+      "prev_ratio": 17.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3SI",
+      "sec": "7476",
+      "name": "アズワン株式会社",
+      "filer": "有限会社井内盛英堂",
+      "ratio": 9.49,
+      "prev_ratio": 9.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4AC",
+      "sec": "4060",
+      "name": "rakumo株式会社",
+      "filer": "平井　康博",
+      "ratio": 16.3,
+      "prev_ratio": 15.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V498",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.83,
+      "prev_ratio": 25.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4CZ",
+      "sec": "4060",
+      "name": "rakumo株式会社",
+      "filer": "平井　康博",
+      "ratio": 17.36,
+      "prev_ratio": 16.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V46E",
+      "sec": "3990",
+      "name": "UUUM株式会社",
+      "filer": "株式会社フリークアウト・ホールディングス",
+      "ratio": 99.4,
+      "prev_ratio": 92.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V429",
+      "sec": "7343",
+      "name": "ブロードマインド株式会社",
+      "filer": "伊藤　清",
+      "ratio": 27.51,
+      "prev_ratio": 28.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V42C",
+      "sec": "187A",
+      "name": "サムティホールディングス株式会社",
+      "filer": "株式会社大和証券グループ本社",
+      "ratio": 37.18,
+      "prev_ratio": 37.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4D9",
+      "sec": "4447",
+      "name": "株式会社ピー・ビーシステムズ",
+      "filer": "冨田　和久",
+      "ratio": 16.1,
+      "prev_ratio": 16.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V49O",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 43.11,
+      "prev_ratio": 44.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4CI",
+      "sec": "4393",
+      "name": "株式会社バンク・オブ・イノベーション",
+      "filer": "田中　大介",
+      "ratio": 6.99,
+      "prev_ratio": 6.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4F5",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 24.27,
+      "prev_ratio": 25.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4AI",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "Ｓｗｉｓｓ－Ａｓｉａ　Ｆｉｎａｎｃｉａｌ　Ｓｅｒｖｉｃｅｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 18.73,
+      "prev_ratio": 17.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3XD",
+      "sec": "1945",
+      "name": "株式会社東京エネシス",
+      "filer": "光通信株式会社",
+      "ratio": 7.32,
+      "prev_ratio": 6.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3XF",
+      "sec": "4356",
+      "name": "応用技術株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4G5",
+      "sec": "4324",
+      "name": "株式会社電通グループ",
+      "filer": "株式会社時事通信社",
+      "ratio": 6.03,
+      "prev_ratio": 6.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3XG",
+      "sec": "6083",
+      "name": "ＥＲＩホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.58,
+      "prev_ratio": 7.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3ZO",
+      "sec": "4889",
+      "name": "株式会社レナサイエンス",
+      "filer": "ＤＣＩパートナーズ株式会社",
+      "ratio": 6.83,
+      "prev_ratio": 8.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3XH",
+      "sec": "8132",
+      "name": "シナネンホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.22,
+      "prev_ratio": 6.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4H6",
+      "sec": "5259",
+      "name": "ＢＢＤイニシアティブ株式会社",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 7.06,
+      "prev_ratio": 8.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4AD",
+      "sec": "278A",
+      "name": "Ｔｅｒｒａ　Ｄｒｏｎｅ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 4.9,
+      "prev_ratio": 4.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V453",
+      "sec": "4412",
+      "name": "株式会社サイエンスアーツ",
+      "filer": "平岡　秀一",
+      "ratio": 11.31,
+      "prev_ratio": 13.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4AH",
+      "sec": "5131",
+      "name": "リンカーズ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 9.2,
+      "prev_ratio": 9.2,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

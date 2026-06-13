@@ -1,0 +1,397 @@
+{
+  "date": "2025-02-28",
+  "new": [
+    {
+      "docId": "S100V9Y3",
+      "sec": "3151",
+      "name": "株式会社バイタルケーエスケー・ホールディングス",
+      "filer": "合同会社ＭＨ",
+      "ratio": 9.43,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VBKP",
+      "sec": "4125",
+      "name": "三和油化工業",
+      "filer": "ＦＯＵＲ　ＳＥＡＳＯＮＳ　ＡＳＩＡ　ＩＮＶＥＳＴＭＥＮＴ　ＰＴＥ　ＬＴＤ",
+      "ratio": 5.18,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VB9Z",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "堀江　貴文",
+      "ratio": 10.11,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VBJP",
+      "sec": "323A",
+      "name": "株式会社フライヤー",
+      "filer": "株式会社メディアドゥ",
+      "ratio": 57.99,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VAOY",
+      "sec": "1938",
+      "name": "日本リーテック株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.86,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VBQ6",
+      "sec": "323A",
+      "name": "株式会社フライヤー",
+      "filer": "大賀　康史",
+      "ratio": 5.38,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V8NL",
+      "sec": "2937",
+      "name": "株式会社サンクゼール",
+      "filer": "久世　良太",
+      "ratio": 9.18,
+      "prev_ratio": 9.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBGQ",
+      "sec": "248A",
+      "name": "株式会社キッズスター",
+      "filer": "平井　康博",
+      "ratio": 8.52,
+      "prev_ratio": 8.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBDG",
+      "sec": "4179",
+      "name": "株式会社ジーネクスト",
+      "filer": "横治　祐介",
+      "ratio": 25.07,
+      "prev_ratio": 37.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB5X",
+      "sec": "1716",
+      "name": "第一カッター興業株式会社",
+      "filer": "ダイヤモンド機工株式会社",
+      "ratio": 9.07,
+      "prev_ratio": 8.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBG5",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 21.39,
+      "prev_ratio": 23.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9TF",
+      "sec": "3151",
+      "name": "株式会社バイタルケーエスケー・ホールディングス",
+      "filer": "鈴木　賢",
+      "ratio": 2.64,
+      "prev_ratio": 2.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBBD",
+      "sec": "8230",
+      "name": "株式会社　はせがわ",
+      "filer": "長谷川　裕一",
+      "ratio": 11.81,
+      "prev_ratio": 11.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBM4",
+      "sec": "",
+      "name": "レジル株式会社",
+      "filer": "中村　誠司",
+      "ratio": 8.25,
+      "prev_ratio": 8.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBHI",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 36.61,
+      "prev_ratio": 38.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBHY",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 50.61,
+      "prev_ratio": 56.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBO5",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 9.11,
+      "prev_ratio": 10.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBEJ",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 32.31,
+      "prev_ratio": 33.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VB9W",
+      "sec": "4783",
+      "name": "ＮＣＤ株式会社",
+      "filer": "アセンダー・キャピタル・リミテッド",
+      "ratio": 6.4,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBIK",
+      "sec": "8783",
+      "name": "ＧＦＡ式会社",
+      "filer": "堀江　貴文",
+      "ratio": 8.81,
+      "prev_ratio": 10.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBIL",
+      "sec": "8783",
+      "name": "ＧＦＡ株式会社",
+      "filer": "堀江　貴文",
+      "ratio": 7.48,
+      "prev_ratio": 8.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAUE",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "ＬＩＭ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 8.1,
+      "prev_ratio": 6.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAUV",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "伊達　晃洋",
+      "ratio": 7.6,
+      "prev_ratio": 8.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAKP",
+      "sec": "4169",
+      "name": "ＥＮＥＣＨＡＮＧＥ株式会社",
+      "filer": "ポート株式会社",
+      "ratio": 12.37,
+      "prev_ratio": 14.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9SH",
+      "sec": "3254",
+      "name": "株式会社プレサンスコーポレーション",
+      "filer": "株式会社オープンハウスグループ",
+      "ratio": 94.07,
+      "prev_ratio": 63.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBQB",
+      "sec": "2117",
+      "name": "ウェルネオシュガー株式会社",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 37.03,
+      "prev_ratio": 35.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VASO",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "合同会社トリコロール２",
+      "ratio": 13.41,
+      "prev_ratio": 16.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAG2",
+      "sec": "9072",
+      "name": "ニッコンホールディングス株式会社",
+      "filer": "Ｆａｒａｌｌｏｎ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｌ．Ｃ．",
+      "ratio": 8.54,
+      "prev_ratio": 7.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAYR",
+      "sec": "7944",
+      "name": "ローランド株式会社",
+      "filer": "タイヨウ・ジュピター・ホールディングス・ジーピー・エルティディー",
+      "ratio": 2.55,
+      "prev_ratio": 7.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBMG",
+      "sec": "280A",
+      "name": "株式会社ＴＭＨ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 6.89,
+      "prev_ratio": 6.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBRJ",
+      "sec": "3851",
+      "name": "株式会社日本一ソフトウェア",
+      "filer": "北角　浩一",
+      "ratio": 3.69,
+      "prev_ratio": 5.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBRK",
+      "sec": "1968",
+      "name": "太平電業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.67,
+      "prev_ratio": 7.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBR0",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "合同会社トリコロール２",
+      "ratio": 12.12,
+      "prev_ratio": 13.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBRZ",
+      "sec": "3851",
+      "name": "株式会社日本一ソフトウェア",
+      "filer": "北角　浩一",
+      "ratio": 2.14,
+      "prev_ratio": 3.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBS7",
+      "sec": "9376",
+      "name": "株式会社ユーラシア旅行社",
+      "filer": "井上　利男",
+      "ratio": 50.11,
+      "prev_ratio": 52.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBNV",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "吉田　直人",
+      "ratio": 23.72,
+      "prev_ratio": 25.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBPC",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 24.48,
+      "prev_ratio": 32.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBPW",
+      "sec": "7078",
+      "name": "ＩＮＣＬＵＳＩＶＥ株式会社",
+      "filer": "堀江　貴文",
+      "ratio": 5.43,
+      "prev_ratio": 5.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBNW",
+      "sec": "4593",
+      "name": "株式会社ヘリオス",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 31.47,
+      "prev_ratio": 31.47,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

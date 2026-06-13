@@ -1,0 +1,377 @@
+{
+  "date": "2025-12-17",
+  "new": [
+    {
+      "docId": "S100XALD",
+      "sec": "6558",
+      "name": "クックビズ株式会社",
+      "filer": "株式会社ＯＩＣグループ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAIL",
+      "sec": "469A",
+      "name": "フィットクルー株式会社",
+      "filer": "サファイア・キャピタル株式会社",
+      "ratio": 15.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAAM",
+      "sec": "6378",
+      "name": "木村化工機株式会社",
+      "filer": "株式会社東京共同会計事務所",
+      "ratio": 5.12,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XB4B",
+      "sec": "7376",
+      "name": "ＢＣＣ株式会社",
+      "filer": "ダイワボウホールディングス株式会社",
+      "ratio": 21.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAI5",
+      "sec": "3182",
+      "name": "オイシックス・ラ・大地株式会社",
+      "filer": "グランサム、マヨ、ヴァン　オッテルロー　アンド　カンパニー　エルエルシー",
+      "ratio": 9.29,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAX4",
+      "sec": "3182",
+      "name": "オイシックスドット大地株式会社",
+      "filer": "株式会社リクルート",
+      "ratio": 8.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XA8N",
+      "sec": "6294",
+      "name": "オカダアイヨン株式会社",
+      "filer": "ＡＰＩＰ，　Ｉｎｃ．",
+      "ratio": 18.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAP1",
+      "sec": "6890",
+      "name": "株式会社フェローテック",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 8.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XB1C",
+      "sec": "4957",
+      "name": "ヤスハラケミカル株式会社",
+      "filer": "ＹＡＨＯ株式会社",
+      "ratio": 48.06,
+      "prev_ratio": 10.95,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XB2X",
+      "sec": "4594",
+      "name": "",
+      "filer": "フィリップ証券株式会社",
+      "ratio": 24.68,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XB3T",
+      "sec": "4594",
+      "name": "",
+      "filer": "フィリップ証券株式会社",
+      "ratio": 24.32,
+      "prev_ratio": 24.68,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X9ID",
+      "sec": "3409",
+      "name": "株式会社北紡",
+      "filer": "ＰＴ　ＡＳＩＡ　ＰＬＡＳＴＩＫ　ＶＩＫＴＯＲＩ",
+      "ratio": 58.01,
+      "prev_ratio": 57.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAYT",
+      "sec": "3747",
+      "name": "株式会社インタートレード",
+      "filer": "株式会社ジャパンインベストメントアドバイザー",
+      "ratio": 12.0,
+      "prev_ratio": 10.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA9R",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 13.15,
+      "prev_ratio": 11.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAJH",
+      "sec": "8927",
+      "name": "株式会社明豊エンタープライズ",
+      "filer": "矢吹　満",
+      "ratio": 41.85,
+      "prev_ratio": 41.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAUO",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 14.62,
+      "prev_ratio": 15.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XATA",
+      "sec": "4591",
+      "name": "株式会社リボミック",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 32.13,
+      "prev_ratio": 32.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XANJ",
+      "sec": "8929",
+      "name": "株式会社青山財産ネットワークス",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 5.17,
+      "prev_ratio": 6.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB12",
+      "sec": "6918",
+      "name": "株式会社アバールデータ",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 10.64,
+      "prev_ratio": 11.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB3D",
+      "sec": "324A",
+      "name": "株式会社ブッキングリゾート",
+      "filer": "エス・エヌ・ホールディングス有限会社",
+      "ratio": 42.25,
+      "prev_ratio": 43.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAD9",
+      "sec": "3529",
+      "name": "アツギ株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 27.44,
+      "prev_ratio": 26.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9JM",
+      "sec": "6637",
+      "name": "寺崎電気産業株式会社",
+      "filer": "テラサキトラスト株式会社",
+      "ratio": 78.0,
+      "prev_ratio": 6.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB4Z",
+      "sec": "8105",
+      "name": "Bitcoin Japan株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 12.07,
+      "prev_ratio": 13.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX63",
+      "sec": "4124",
+      "name": "大阪油化工業株式会社",
+      "filer": "堀田　哲平",
+      "ratio": 5.68,
+      "prev_ratio": 22.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB1V",
+      "sec": "5254",
+      "name": "株式会社Arent",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 5.88,
+      "prev_ratio": 5.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAY4",
+      "sec": "3182",
+      "name": "オイシックスドット大地株式会社",
+      "filer": "株式会社リクルートホールディングス",
+      "ratio": null,
+      "prev_ratio": 12.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB52",
+      "sec": "5132",
+      "name": "株式会社ｐｌｕｓｚｅｒｏ",
+      "filer": "小代　義行",
+      "ratio": 25.56,
+      "prev_ratio": 25.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAEJ",
+      "sec": "2454",
+      "name": "株式会社オールアバウト",
+      "filer": "株式会社リクルートホールディングス",
+      "ratio": 7.06,
+      "prev_ratio": 7.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAXI",
+      "sec": "3182",
+      "name": "オイシックス・ラ・大地株式会社",
+      "filer": "株式会社リクルート",
+      "ratio": 6.96,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAXO",
+      "sec": "3182",
+      "name": "オイシックス・ラ・大地株式会社",
+      "filer": "株式会社リクルート",
+      "ratio": 2.63,
+      "prev_ratio": 6.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAN2",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "株式会社博報堂ＤＹホールディングス",
+      "ratio": 31.14,
+      "prev_ratio": 31.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAWB",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "株式会社博報堂ＤＹホールディングス",
+      "ratio": 58.53,
+      "prev_ratio": 31.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB5P",
+      "sec": "7244",
+      "name": "市光工業株式会社",
+      "filer": "コバス・アセット・マネジメント・エスジーアイアイシー・エスエー",
+      "ratio": 6.28,
+      "prev_ratio": 5.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA8Q",
+      "sec": "4439",
+      "name": "株式会社東名",
+      "filer": "光通信株式会社",
+      "ratio": 7.31,
+      "prev_ratio": 7.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XA8S",
+      "sec": "4771",
+      "name": "株式会社エフアンドエム",
+      "filer": "光通信株式会社",
+      "ratio": 4.49,
+      "prev_ratio": 3.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAM8",
+      "sec": "4441",
+      "name": "トビラシステムズ株式会社",
+      "filer": "Ｓｍｏａｋ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　ＬＬＣ",
+      "ratio": 6.12,
+      "prev_ratio": 4.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XAE0",
+      "sec": "6989",
+      "name": "北陸電気工業株式会社",
+      "filer": "株式会社フェローテック",
+      "ratio": 10.79,
+      "prev_ratio": 9.77,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

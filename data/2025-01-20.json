@@ -1,0 +1,337 @@
+{
+  "date": "2025-01-20",
+  "new": [
+    {
+      "docId": "S100V3W8",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド",
+      "filer": "Ｋｈｏｏ　Ｊｉｅ　Ｘｉｏｎｇ",
+      "ratio": 6.93,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V3Y1",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.6,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V40D",
+      "sec": "7238",
+      "name": "曙ブレーキ工業株式会社",
+      "filer": "ジャパン・インダストリアル・ソリューションズ株式会社",
+      "ratio": 50.32,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V3YF",
+      "sec": "5715",
+      "name": "古河機械金属株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V3YY",
+      "sec": "5216",
+      "name": "株式会社倉元製作所",
+      "filer": "Ｐｒｏｌｉｇｈｔ　Ｃｏｒｐｏｒａｔｉｏｎ　Ｌｉｍｉｔｅｄ",
+      "ratio": 33.16,
+      "prev_ratio": 33.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V40C",
+      "sec": "3857",
+      "name": "株式会社ラック",
+      "filer": "株式会社野村総合研究所",
+      "ratio": null,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3TN",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 44.88,
+      "prev_ratio": 46.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3U2",
+      "sec": "3557",
+      "name": "ユナイテッド＆コレクティブ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.19,
+      "prev_ratio": 12.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V41Q",
+      "sec": "5038",
+      "name": "株式会社ｅＷｅＬＬ",
+      "filer": "中野　剛人",
+      "ratio": 39.3,
+      "prev_ratio": 39.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3C7",
+      "sec": "3542",
+      "name": "株式会社ベガコーポレーション",
+      "filer": "浮城　智和",
+      "ratio": 26.91,
+      "prev_ratio": 26.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V41Y",
+      "sec": "5038",
+      "name": "株式会社ｅＷｅＬＬ",
+      "filer": "北村　亜沙子",
+      "ratio": 16.35,
+      "prev_ratio": 16.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3NK",
+      "sec": "6232",
+      "name": "株式会社ＡＣＳＬ",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 13.66,
+      "prev_ratio": 11.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3NU",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 24.23,
+      "prev_ratio": 24.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3ZX",
+      "sec": "7048",
+      "name": "ベルトラ株式会社",
+      "filer": "株式会社オープンドア",
+      "ratio": 14.53,
+      "prev_ratio": 13.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3E6",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "豊田　剛一郎",
+      "ratio": 10.07,
+      "prev_ratio": 10.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3C3",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "瀧口　浩平",
+      "ratio": 18.36,
+      "prev_ratio": 18.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3BW",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "ＯＬＰ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 9.74,
+      "prev_ratio": 8.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2ZR",
+      "sec": "3666",
+      "name": "株式会社テクノスジャパン",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 10.11,
+      "prev_ratio": 9.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2XL",
+      "sec": "4124",
+      "name": "大阪油化工業株式会社",
+      "filer": "ＧＬＯＢＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＡＲＴＮＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 18.38,
+      "prev_ratio": 18.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3NY",
+      "sec": "2484",
+      "name": "株式会社出前館",
+      "filer": "ＬＩＮＥヤフー株式会社",
+      "ratio": 33.79,
+      "prev_ratio": 34.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V40P",
+      "sec": "7408",
+      "name": "株式会社ジャムコ",
+      "filer": "昭和飛行機工業株式会社",
+      "ratio": 7.46,
+      "prev_ratio": 7.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V374",
+      "sec": "4556",
+      "name": "株式会社カイノス",
+      "filer": "光通信株式会社",
+      "ratio": 7.18,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2VO",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "星山　和彦",
+      "ratio": null,
+      "prev_ratio": 8.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3CW",
+      "sec": "260A",
+      "name": "株式会社オルツ",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 7.87,
+      "prev_ratio": 9.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3YE",
+      "sec": "1518",
+      "name": "三井松島ホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 7.38,
+      "prev_ratio": 6.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V42O",
+      "sec": "8890",
+      "name": "株式会社レーサム",
+      "filer": "ヒューリック株式会社",
+      "ratio": 28.8,
+      "prev_ratio": 28.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3RL",
+      "sec": "6849",
+      "name": "日本光電工業株式会社",
+      "filer": "スプラウスグローブインベストメントマネジメントリミテッド",
+      "ratio": 11.48,
+      "prev_ratio": 12.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V41B",
+      "sec": "5844",
+      "name": "株式会社京都フィナンシャルグループ",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.63,
+      "prev_ratio": 6.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2RJ",
+      "sec": "3353",
+      "name": "株式会社メディカル一光グループ",
+      "filer": "南野　利久",
+      "ratio": 17.46,
+      "prev_ratio": 5.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2RQ",
+      "sec": "3353",
+      "name": "株式会社メディカル一光グループ",
+      "filer": "株式会社南野",
+      "ratio": null,
+      "prev_ratio": 5.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2RR",
+      "sec": "3353",
+      "name": "株式会社メディカル一光グループ",
+      "filer": "株式会社サウス",
+      "ratio": null,
+      "prev_ratio": 5.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3ZR",
+      "sec": "4295",
+      "name": "株式会社フェイス",
+      "filer": "株式会社Ｇｅｎｅｓｉｓ１",
+      "ratio": 80.16,
+      "prev_ratio": 73.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2VO",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "星山　和彦",
+      "ratio": null,
+      "prev_ratio": 8.58,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

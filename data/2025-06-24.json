@@ -1,0 +1,367 @@
+{
+  "date": "2025-06-24",
+  "new": [
+    {
+      "docId": "S100W103",
+      "sec": "370A",
+      "name": "株式会社リバイブル",
+      "filer": "尾形　優",
+      "ratio": 69.97,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W1F6",
+      "sec": "370A",
+      "name": "株式会社リバイブル",
+      "filer": "水越　聖",
+      "ratio": 30.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VXEY",
+      "sec": "2776",
+      "name": "新都ホールディングス株式会社",
+      "filer": "株式会社ＭＪ",
+      "ratio": 5.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W3GM",
+      "sec": "3726",
+      "name": "株式会社フォーシーズホールディングス",
+      "filer": "井　康彦",
+      "ratio": 13.3,
+      "prev_ratio": 13.3,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100W1TN",
+      "sec": "3415",
+      "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
+      "filer": "中水　英紀",
+      "ratio": 6.52,
+      "prev_ratio": 7.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3HV",
+      "sec": "6866",
+      "name": "日置電機株式会社",
+      "filer": "日置勇二",
+      "ratio": 2.99,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W19O",
+      "sec": "7746",
+      "name": "岡本硝子株式会社",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 19.76,
+      "prev_ratio": 20.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W31Y",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 72.0,
+      "prev_ratio": 93.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3BW",
+      "sec": "4594",
+      "name": "ブライトパス・バイオ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 16.11,
+      "prev_ratio": 17.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3OD",
+      "sec": "338A",
+      "name": "株式会社ＺｅｎｍｕＴｅｃｈ",
+      "filer": "田口　善一",
+      "ratio": 6.13,
+      "prev_ratio": 6.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3LO",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "村井　智建",
+      "ratio": 5.66,
+      "prev_ratio": 9.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWRN",
+      "sec": "6238",
+      "name": "フリュー株式会社",
+      "filer": "三嶋　隆",
+      "ratio": 72.0,
+      "prev_ratio": 72.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3E4",
+      "sec": "2762",
+      "name": "株式会社SANKO MARKETING FOODS",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 12.98,
+      "prev_ratio": 13.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3C1",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 25.59,
+      "prev_ratio": 26.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3CU",
+      "sec": "7603",
+      "name": "株式会社マックハウス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.71,
+      "prev_ratio": 23.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0J1",
+      "sec": "3426",
+      "name": "アトムリビンテック株式会社",
+      "filer": "磯川　武志",
+      "ratio": null,
+      "prev_ratio": 10.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3XH",
+      "sec": "4627",
+      "name": "ナトコ株式会社",
+      "filer": "有限会社巴ホールディングス",
+      "ratio": 3.32,
+      "prev_ratio": 3.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W2OT",
+      "sec": "7462",
+      "name": "株式会社CAPITA",
+      "filer": "森　猛",
+      "ratio": 6.65,
+      "prev_ratio": 8.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ0U",
+      "sec": "340A",
+      "name": "株式会社ジグザグ",
+      "filer": "モバイル・インターネットキャピタル株式会社",
+      "ratio": 15.88,
+      "prev_ratio": 17.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZLH",
+      "sec": "7585",
+      "name": "株式会社かんなん丸",
+      "filer": "有限会社群青",
+      "ratio": 10.5,
+      "prev_ratio": 15.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3AJ",
+      "sec": "3121",
+      "name": "マーチャント・バンカーズ株式会社",
+      "filer": "トータルネットワークホールディングスリミテッド",
+      "ratio": 17.28,
+      "prev_ratio": 18.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W06P",
+      "sec": "3497",
+      "name": "株式会社LeTech",
+      "filer": "住友林業株式会社",
+      "ratio": 79.97,
+      "prev_ratio": 68.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0PR",
+      "sec": "6927",
+      "name": "ヘリオス　テクノ　ホールディング株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 9.73,
+      "prev_ratio": 9.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W08S",
+      "sec": "8013",
+      "name": "株式会社ナイガイ",
+      "filer": "重田　光時",
+      "ratio": 7.4,
+      "prev_ratio": 6.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3WP",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "鯉沼　充",
+      "ratio": 4.91,
+      "prev_ratio": 6.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3BX",
+      "sec": "7093",
+      "name": "アディッシュ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 12.29,
+      "prev_ratio": 12.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3BY",
+      "sec": "4320",
+      "name": "株式会社CEホールディングス",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 10.26,
+      "prev_ratio": 10.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3B8",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "Ｓｗｉｓｓ－Ａｓｉａ　Ｆｉｎａｎｃｉａｌ　Ｓｅｒｖｉｃｅｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 24.36,
+      "prev_ratio": 23.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ2B",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 52.89,
+      "prev_ratio": 54.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W28R",
+      "sec": "4597",
+      "name": "ソレイジア・ファーマ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 17.33,
+      "prev_ratio": 18.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W2B5",
+      "sec": "9973",
+      "name": "KOZOホールディングス株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 16.7,
+      "prev_ratio": 18.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0KS",
+      "sec": "6770",
+      "name": "アルプスアルパイン株式会社",
+      "filer": "株式会社エスグラントコーポレーション",
+      "ratio": 7.86,
+      "prev_ratio": 8.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYQ4",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 3.85,
+      "prev_ratio": 7.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W219",
+      "sec": "3529",
+      "name": "アツギ株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 19.01,
+      "prev_ratio": 17.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W3MG",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "株式会社Ａｄｏ",
+      "ratio": 32.46,
+      "prev_ratio": 34.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W2XR",
+      "sec": "7615",
+      "name": "株式会社京都きもの友禅ホールディングス",
+      "filer": "ＣＯＴＴＯＮＦＡＩＲ　ＬＩＭＩＴＥＤ",
+      "ratio": 7.39,
+      "prev_ratio": 9.35,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

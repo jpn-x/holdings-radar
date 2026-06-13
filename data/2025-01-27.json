@@ -1,0 +1,377 @@
+{
+  "date": "2025-01-27",
+  "new": [
+    {
+      "docId": "S100V4P7",
+      "sec": "7983",
+      "name": "株式会社ミロク",
+      "filer": "株式会社　ミロク興産",
+      "ratio": 7.14,
+      "prev_ratio": 6.64,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4AV",
+      "sec": "9204",
+      "name": "スカイマーク株式会社",
+      "filer": "鈴与ホールディングス株式会社",
+      "ratio": 5.55,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4C3",
+      "sec": "2668",
+      "name": "タビオ株式会社",
+      "filer": "越智ホールディングス株式会社",
+      "ratio": 9.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4HF",
+      "sec": "9658",
+      "name": "株式会社ビジネスブレイン太田昭和",
+      "filer": "光通信株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V514",
+      "sec": "253A",
+      "name": "株式会社ETSグループ",
+      "filer": "アムス・インターナショナル株式会社",
+      "ratio": 47.99,
+      "prev_ratio": 47.99,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V4N9",
+      "sec": "8958",
+      "name": "グローバル・ワン不動産投資法人",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 7.01,
+      "prev_ratio": 7.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4DJ",
+      "sec": "7342",
+      "name": "ウェルスナビ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 93.02,
+      "prev_ratio": 15.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4VF",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 64.09,
+      "prev_ratio": 64.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V417",
+      "sec": "3738",
+      "name": "株式会社ティーガイア",
+      "filer": "住友商事株式会社",
+      "ratio": 28.08,
+      "prev_ratio": 41.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4JB",
+      "sec": "6224",
+      "name": "株式会社ＪＲＣ",
+      "filer": "濱口　佳宏",
+      "ratio": 5.77,
+      "prev_ratio": 5.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4X9",
+      "sec": "9204",
+      "name": "スカイマーク株式会社",
+      "filer": "株式会社日本政策投資銀行",
+      "ratio": 5.55,
+      "prev_ratio": 10.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4XC",
+      "sec": "9204",
+      "name": "スカイマーク株式会社",
+      "filer": "株式会社日本政策投資銀行",
+      "ratio": null,
+      "prev_ratio": 5.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4VG",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 21.21,
+      "prev_ratio": 22.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4VH",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 12.96,
+      "prev_ratio": 14.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4VI",
+      "sec": "2762",
+      "name": "株式会社SANKO MARKETING FOODS",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 26.73,
+      "prev_ratio": 27.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4Q5",
+      "sec": "2989",
+      "name": "東海道リート投資法人",
+      "filer": "ヨシコン株式会社",
+      "ratio": 7.39,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4U7",
+      "sec": "7794",
+      "name": "株式会社イーディーピー",
+      "filer": "野村證券株式会社",
+      "ratio": 10.94,
+      "prev_ratio": 12.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4YJ",
+      "sec": "3738",
+      "name": "株式会社ティーガイア",
+      "filer": "株式会社ＢＣＪ‐８２‐１",
+      "ratio": 20.9,
+      "prev_ratio": 20.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4VW",
+      "sec": "7342",
+      "name": "ウェルスナビ株式会社",
+      "filer": "柴山　和久",
+      "ratio": 3.0,
+      "prev_ratio": 17.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4V7",
+      "sec": "148A",
+      "name": "株式会社ハッチ・ワーク",
+      "filer": "ＥＮＥＯＳイノベーションパートナーズ合同会社",
+      "ratio": 5.4,
+      "prev_ratio": 6.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4YD",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "中村　健一郎",
+      "ratio": 9.98,
+      "prev_ratio": 27.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4YL",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "永島　毅一郎",
+      "ratio": 4.69,
+      "prev_ratio": 10.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V44D",
+      "sec": "7769",
+      "name": "リズム株式会社",
+      "filer": "植島　幹九郎",
+      "ratio": 13.83,
+      "prev_ratio": 12.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4U2",
+      "sec": "253A",
+      "name": "株式会社ETSグループ",
+      "filer": "アムス・インターナショナル株式会社",
+      "ratio": 47.99,
+      "prev_ratio": 47.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4XQ",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 23.17,
+      "prev_ratio": 24.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4VR",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 23.55,
+      "prev_ratio": 24.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4P6",
+      "sec": "6199",
+      "name": "株式会社セラク",
+      "filer": "宮﨑　龍己",
+      "ratio": 35.42,
+      "prev_ratio": 40.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V42P",
+      "sec": "4124",
+      "name": "大阪油化工業株式会社",
+      "filer": "ＧＬＯＢＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＡＲＴＮＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 18.38,
+      "prev_ratio": 18.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V42S",
+      "sec": "9305",
+      "name": "株式会社ヤマタネ",
+      "filer": "ＧＬＯＢＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＡＲＴＮＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 4.0,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4UU",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "株式会社ウィズ・パートナーズ",
+      "ratio": 36.7,
+      "prev_ratio": 42.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4FN",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 11.98,
+      "prev_ratio": 10.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4UA",
+      "sec": "2668",
+      "name": "タビオ株式会社",
+      "filer": "有限会社越智産業",
+      "ratio": 27.18,
+      "prev_ratio": 36.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V47Z",
+      "sec": "260A",
+      "name": "株式会社オルツ",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 6.43,
+      "prev_ratio": 7.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V50G",
+      "sec": "5259",
+      "name": "ＢＢＤイニシアティブ株式会社",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 6.26,
+      "prev_ratio": 7.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V44S",
+      "sec": "8101",
+      "name": "株式会社ＧＳＩクレオス",
+      "filer": "グンゼ株式会社",
+      "ratio": 3.0,
+      "prev_ratio": 7.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4OA",
+      "sec": "4398",
+      "name": "株式会社ブロードバンドセキュリティ",
+      "filer": "ＳＢＩインキュベーション株式会社",
+      "ratio": 15.28,
+      "prev_ratio": 15.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4AA",
+      "sec": "1973",
+      "name": "ＮＥＣネッツエスアイ株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 15.22,
+      "prev_ratio": 14.2,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

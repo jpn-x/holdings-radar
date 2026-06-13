@@ -1,0 +1,297 @@
+{
+  "date": "2025-07-09",
+  "new": [
+    {
+      "docId": "S100WB2Y",
+      "sec": "6952",
+      "name": "カシオ計算機株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 5.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WBF1",
+      "sec": "378A",
+      "name": "株式会社ヒット",
+      "filer": "松丸　敦之",
+      "ratio": 44.99,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WBVW",
+      "sec": "3426",
+      "name": "アトムリビンテック株式会社",
+      "filer": "磯川　武志",
+      "ratio": 15.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WC2O",
+      "sec": "377A",
+      "name": "株式会社エージェントＩＧホールディングス",
+      "filer": "株式会社ザ・ファーストドア",
+      "ratio": 19.61,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WB01",
+      "sec": "2315",
+      "name": "株式会社CAlCA DIGITAL",
+      "filer": "株式会社ネクスグループ",
+      "ratio": 55.00000000000001,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WBQJ",
+      "sec": "3137",
+      "name": "株式会社ファンデリー",
+      "filer": "阿部　公祐",
+      "ratio": 58.73,
+      "prev_ratio": 63.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBGB",
+      "sec": "4165",
+      "name": "株式会社プレイド",
+      "filer": "田畑　正吾",
+      "ratio": 9.16,
+      "prev_ratio": 9.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBXP",
+      "sec": "340A",
+      "name": "株式会社ジグザグ",
+      "filer": "モバイル・インターネットキャピタル株式会社",
+      "ratio": 11.09,
+      "prev_ratio": 12.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB8C",
+      "sec": "6625",
+      "name": "JALCOホールディングス株式会社",
+      "filer": "カタリスト株式会社",
+      "ratio": 15.01,
+      "prev_ratio": 17.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBLS",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 14.74,
+      "prev_ratio": 16.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC0T",
+      "sec": "4493",
+      "name": "株式会社サイバーセキュリティクラウド",
+      "filer": "西江　肇司",
+      "ratio": 5.73,
+      "prev_ratio": 6.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBU9",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 14.71,
+      "prev_ratio": 15.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBTQ",
+      "sec": "9478",
+      "name": "ＳＥホールディングス・アンド・インキュベーションズ株式会社",
+      "filer": "速水　浩二",
+      "ratio": 16.32,
+      "prev_ratio": 15.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBZZ",
+      "sec": "340A",
+      "name": "株式会社ジグザグ",
+      "filer": "モバイル・インターネットキャピタル株式会社",
+      "ratio": 7.61,
+      "prev_ratio": 11.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC28",
+      "sec": "5571",
+      "name": "エキサイトホールディングス株式会社",
+      "filer": "西條　晋一",
+      "ratio": 17.06,
+      "prev_ratio": 19.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC2V",
+      "sec": "5571",
+      "name": "エキサイトホールディングス株式会社",
+      "filer": "西條　晋一",
+      "ratio": 17.05,
+      "prev_ratio": 17.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC37",
+      "sec": "5571",
+      "name": "エキサイトホールディングス株式会社",
+      "filer": "西條　晋一",
+      "ratio": 17.04,
+      "prev_ratio": 17.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9ND",
+      "sec": "9882",
+      "name": "株式会社イエローハット",
+      "filer": "株式会社イエローハット",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9PV",
+      "sec": "3190",
+      "name": "株式会社ホットマン",
+      "filer": "株式会社イエローハット",
+      "ratio": 15.11,
+      "prev_ratio": 15.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBYN",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 22.89,
+      "prev_ratio": 24.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBQG",
+      "sec": "3031",
+      "name": "株式会社ラクーンホールディングス",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 11.63,
+      "prev_ratio": 12.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAU9",
+      "sec": "5449",
+      "name": "大阪製鐵株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 12.29,
+      "prev_ratio": 12.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBG0",
+      "sec": "5449",
+      "name": "大阪製鐵株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 12.29,
+      "prev_ratio": 12.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC4Q",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 6.0,
+      "prev_ratio": 1.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBA6",
+      "sec": "5983",
+      "name": "イワブチ株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 1.98,
+      "prev_ratio": 4.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC56",
+      "sec": "9302",
+      "name": "三井倉庫ホールディングス株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 8.13,
+      "prev_ratio": 7.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WABR",
+      "sec": "135A",
+      "name": "株式会社ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+      "filer": "南塲　勇佑",
+      "ratio": 28.96,
+      "prev_ratio": 28.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC0B",
+      "sec": "4377",
+      "name": "株式会社ワンキャリア",
+      "filer": "宮下　尚之",
+      "ratio": 41.51,
+      "prev_ratio": 42.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBZZ",
+      "sec": "340A",
+      "name": "株式会社ジグザグ",
+      "filer": "モバイル・インターネットキャピタル株式会社",
+      "ratio": 7.61,
+      "prev_ratio": 11.09,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

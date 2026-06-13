@@ -1,0 +1,297 @@
+{
+  "date": "2025-02-03",
+  "new": [
+    {
+      "docId": "S100V64F",
+      "sec": "4679",
+      "name": "株式会社田谷",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.82,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V659",
+      "sec": "4493",
+      "name": "株式会社サイバーセキュリティクラウド",
+      "filer": "野村證券株式会社",
+      "ratio": 8.6,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V6AY",
+      "sec": "5243",
+      "name": "note株式会社",
+      "filer": "グーグル・インターナショナル・エルエルシー",
+      "ratio": 6.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V5XX",
+      "sec": "6521",
+      "name": "株式会社オキサイド",
+      "filer": "大和証券株式会社",
+      "ratio": null,
+      "prev_ratio": 16.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V644",
+      "sec": "4769",
+      "name": "株式会社ＩＣ",
+      "filer": "一般財団法人ＩＣ齋藤育英会",
+      "ratio": 14.76,
+      "prev_ratio": 13.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5SO",
+      "sec": "5026",
+      "name": "株式会社トリプルアイズ",
+      "filer": "トラストアップ株式会社",
+      "ratio": 4.45,
+      "prev_ratio": 5.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V63C",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 62.99,
+      "prev_ratio": 64.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3G7",
+      "sec": "3733",
+      "name": "株式会社ソフトウェア・サービス",
+      "filer": "宮﨑　勝",
+      "ratio": 23.69,
+      "prev_ratio": 23.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5Z3",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 27.43,
+      "prev_ratio": 29.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5KO",
+      "sec": "218A",
+      "name": "株式会社Ｌｉｂｅｒａｗａｒｅ",
+      "filer": "東日本旅客鉄道株式会社",
+      "ratio": 11.77,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5HH",
+      "sec": "3454",
+      "name": "ファーストブラザーズ株式会社",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 7.05,
+      "prev_ratio": 6.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V61B",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 34.95,
+      "prev_ratio": 35.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V61U",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 36.08,
+      "prev_ratio": 37.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V68E",
+      "sec": "7721",
+      "name": "東京計器㈱",
+      "filer": "酒井　憲一",
+      "ratio": 4.41,
+      "prev_ratio": 5.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V647",
+      "sec": "6993",
+      "name": "大黒屋ホールディングス株式会社",
+      "filer": "小川　浩平",
+      "ratio": 39.3,
+      "prev_ratio": 40.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V69Z",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "合同会社トリコロール２",
+      "ratio": 17.88,
+      "prev_ratio": 19.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5EA",
+      "sec": "2653",
+      "name": "イオン九州株式会社",
+      "filer": "イオン株式会社",
+      "ratio": 71.41,
+      "prev_ratio": 73.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6AS",
+      "sec": "3810",
+      "name": "サイバーステップ株式会社",
+      "filer": "株式会社チェンバーマネイジメント",
+      "ratio": 31.39,
+      "prev_ratio": 31.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6B0",
+      "sec": "3810",
+      "name": "サイバーステップ株式会社",
+      "filer": "株式会社チェンバーマネイジメント",
+      "ratio": 31.39,
+      "prev_ratio": 31.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5L6",
+      "sec": "151A",
+      "name": "株式会社ダイブ",
+      "filer": "庄子　潔",
+      "ratio": 40.66,
+      "prev_ratio": 40.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V665",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "中谷　正和",
+      "ratio": 6.13,
+      "prev_ratio": 7.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6BK",
+      "sec": "6058",
+      "name": "株式会社ベクトル",
+      "filer": "西江　肇司",
+      "ratio": 40.12,
+      "prev_ratio": 40.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6AO",
+      "sec": "6668",
+      "name": "株式会社アドテック　プラズマ　テクノロジー",
+      "filer": "藤井　修逸",
+      "ratio": 22.71,
+      "prev_ratio": 26.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5EW",
+      "sec": "4889",
+      "name": "株式会社レナサイエンス",
+      "filer": "ＤＣＩパートナーズ株式会社",
+      "ratio": 5.76,
+      "prev_ratio": 6.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V581",
+      "sec": "3682",
+      "name": "エンカレッジ・テクノロジ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V585",
+      "sec": "4389",
+      "name": "プロパティデータバンク株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.42,
+      "prev_ratio": 7.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6E5",
+      "sec": "3491",
+      "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "樋口　龍",
+      "ratio": 28.7,
+      "prev_ratio": 28.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6EJ",
+      "sec": "3491",
+      "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "樋口　龍",
+      "ratio": 28.7,
+      "prev_ratio": 28.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2CT",
+      "sec": "173A",
+      "name": "株式会社ハンモック",
+      "filer": "若山　大典",
+      "ratio": 34.19,
+      "prev_ratio": 34.19,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

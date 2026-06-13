@@ -1,0 +1,547 @@
+{
+  "date": "2025-12-24",
+  "new": [
+    {
+      "docId": "S100XCO2",
+      "sec": "477A",
+      "name": "株式会社スタートライン",
+      "filer": "池原　諒平",
+      "ratio": 7.25,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XCDK",
+      "sec": "9612",
+      "name": "株式会社ラックランド",
+      "filer": "両備ホールディングス株式会社",
+      "ratio": 5.25,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XBR3",
+      "sec": "7817",
+      "name": "パラマウントベッドホールディングス株式会社",
+      "filer": "クレディ　アンドスリエル　エ　コメルシアル",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XC8A",
+      "sec": "472A",
+      "name": "株式会社ミラティブ",
+      "filer": "株式会社グロービス・キャピタル・パートナーズ",
+      "ratio": 11.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XCMD",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "株式会社Ｍｉｎｔ　Ｔｏｗｎ",
+      "ratio": 9.94,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XCNP",
+      "sec": "3031",
+      "name": "株式会社ラクーンホールディングス",
+      "filer": "ＡＡＧＳ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ．",
+      "ratio": 25.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X8X1",
+      "sec": "485A",
+      "name": "株式会社パワーエックス",
+      "filer": "今治造船株式会社",
+      "ratio": 6.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XAF7",
+      "sec": "5250",
+      "name": "プライム・ストラテジー株式会社",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 62.36,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XB9Y",
+      "sec": "9166",
+      "name": "株式会社ＧＥＮＤＡ",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 5.62,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XC1X",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 19.25,
+      "prev_ratio": 3.65,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XCYX",
+      "sec": "7088",
+      "name": "株式会社フォーラムエンジニアリング",
+      "filer": "ＫＪ００３株式会社",
+      "ratio": 55.71,
+      "prev_ratio": 36.95,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XCXH",
+      "sec": "8303",
+      "name": "株式会社SBI新生銀行",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 19.54,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XCRF",
+      "sec": "403A",
+      "name": "（株）北條組",
+      "filer": "北條　將道",
+      "ratio": 13.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100XCP9",
+      "sec": "4369",
+      "name": "株式会社　トリケミカル研究所",
+      "filer": "野村證券株式会社",
+      "ratio": 19.0,
+      "prev_ratio": 19.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCPD",
+      "sec": "5891",
+      "name": "株式会社魁力屋",
+      "filer": "藤田　宗",
+      "ratio": 17.28,
+      "prev_ratio": 17.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8ZL",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "宇内　章起",
+      "ratio": 6.77,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8ZL",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "宇内　章起",
+      "ratio": 6.77,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCRR",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "みらい再生支援機構合同会社",
+      "ratio": 11.08,
+      "prev_ratio": 12.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8ZL",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "宇内　章起",
+      "ratio": 6.77,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYHD",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "宇内　章起",
+      "ratio": null,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8ZL",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "宇内　章起",
+      "ratio": 6.77,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCQI",
+      "sec": "6349",
+      "name": "株式会社小森コーポレーション",
+      "filer": "ブランデス・インベストメント・パートナーズ・エル・ピー",
+      "ratio": 10.14,
+      "prev_ratio": 11.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCTD",
+      "sec": "9166",
+      "name": "株式会社 GENDA",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 29.11,
+      "prev_ratio": 32.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCNV",
+      "sec": "4679",
+      "name": "株式会社田谷",
+      "filer": "有限会社ティーズ",
+      "ratio": 26.45,
+      "prev_ratio": 31.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCLX",
+      "sec": "4746",
+      "name": "株式会社　東計電算",
+      "filer": "東京濾器株式会社",
+      "ratio": 7.5,
+      "prev_ratio": 10.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCTX",
+      "sec": "247A",
+      "name": "Aiロボティクス株式会社",
+      "filer": "桑山　友美",
+      "ratio": 4.86,
+      "prev_ratio": 5.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCI6",
+      "sec": "9816",
+      "name": "株式会社ストライダーズ",
+      "filer": "合同会社ＨＡＹＡＫＡＷＡ",
+      "ratio": 15.41,
+      "prev_ratio": 15.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCGC",
+      "sec": "7674",
+      "name": "株式会社ＮＡＴＴＹ　ＳＷＡＮＫＹホールディングス",
+      "filer": "田中　竜也",
+      "ratio": 15.46,
+      "prev_ratio": 16.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC64",
+      "sec": "7462",
+      "name": "株式会社CAPITA",
+      "filer": "森　猛",
+      "ratio": 2.88,
+      "prev_ratio": 5.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCUT",
+      "sec": "340A",
+      "name": "株式会社ジグザグ",
+      "filer": "仲里　一義",
+      "ratio": 18.72,
+      "prev_ratio": 20.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCUU",
+      "sec": "3902",
+      "name": "メディカル・データ・ビジョン株式会社",
+      "filer": "株式会社メディパルホールディングス",
+      "ratio": 8.03,
+      "prev_ratio": 8.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCVA",
+      "sec": "247A",
+      "name": "Aiロボティクス株式会社",
+      "filer": "桑山好美",
+      "ratio": 4.81,
+      "prev_ratio": 5.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBKT",
+      "sec": "8715",
+      "name": "アニコム　ホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 11.65,
+      "prev_ratio": 10.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XBFH",
+      "sec": "8013",
+      "name": "株式会社ナイガイ",
+      "filer": "重田　光時",
+      "ratio": 6.51,
+      "prev_ratio": 5.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCWO",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ソン　ユウ　ニン（Ｓｕｎ　Ｙｏｕ　Ｎｉｎｇ）",
+      "ratio": 11.01,
+      "prev_ratio": 10.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC12",
+      "sec": "3593",
+      "name": "株式会社ホギメディカル",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 8.58,
+      "prev_ratio": 8.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCXV",
+      "sec": "4379",
+      "name": "株式会社Photosynth",
+      "filer": "光通信株式会社",
+      "ratio": 5.6,
+      "prev_ratio": 4.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCXX",
+      "sec": "138A",
+      "name": "光フードサービス株式会社",
+      "filer": "大谷　光徳",
+      "ratio": 13.31,
+      "prev_ratio": 13.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XC1H",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 13.94,
+      "prev_ratio": 14.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB7W",
+      "sec": "456A",
+      "name": "HUMAN　MADE株式会社",
+      "filer": "長尾　智明",
+      "ratio": 3.62,
+      "prev_ratio": 7.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCE2",
+      "sec": "2162",
+      "name": "ｎｍｓホールディングス株式会社",
+      "filer": "日本アジア投資株式会社",
+      "ratio": 3.53,
+      "prev_ratio": 7.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCY1",
+      "sec": "9684",
+      "name": "株式会社スクウェア・エニックス・ホールディングス",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 16.48,
+      "prev_ratio": 15.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCUB",
+      "sec": "2162",
+      "name": "nmsホールディングス株式会社",
+      "filer": "株式会社ワールドホールディングス",
+      "ratio": 29.24,
+      "prev_ratio": 17.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCN5",
+      "sec": "331A",
+      "name": "株式会社メディックス",
+      "filer": "田中　正則",
+      "ratio": 7.0,
+      "prev_ratio": 6.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCQE",
+      "sec": "4564",
+      "name": "オンコセラピー・サイエンス株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 15.26,
+      "prev_ratio": 16.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCS8",
+      "sec": "8518",
+      "name": "日本アジア投資株式会社",
+      "filer": "ガバナンス・パートナーズ株式会社",
+      "ratio": 24.58,
+      "prev_ratio": 40.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCQV",
+      "sec": "8518",
+      "name": "日本アジア投資株式会社",
+      "filer": "株式会社ジーエヌアイグループ",
+      "ratio": 17.82,
+      "prev_ratio": 18.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCZ0",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "金田　卓也",
+      "ratio": 4.18,
+      "prev_ratio": 5.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCL8",
+      "sec": "197A",
+      "name": "株式会社タウンズ",
+      "filer": "ＣＩＴＩＣ　ＣＡＰＩＴＡＬ　ＪＡＰＡＮ　ＰＡＲＴＮＥＲＳ　ＩＩＩ、Ｌ．Ｐ．",
+      "ratio": 39.2,
+      "prev_ratio": 41.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCYJ",
+      "sec": "6558",
+      "name": "クックビズ株式会社",
+      "filer": "山本　新九郎",
+      "ratio": 11.04,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCZ3",
+      "sec": "4564",
+      "name": "オンコセラピー・サイエンス株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 13.7,
+      "prev_ratio": 15.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCZ9",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 19.14,
+      "prev_ratio": 19.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCEO",
+      "sec": "157A",
+      "name": "グリーンモンスター株式会社",
+      "filer": "小川　亮",
+      "ratio": 5.28,
+      "prev_ratio": 34.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XCZ6",
+      "sec": "157A",
+      "name": "グリーンモンスター株式会社",
+      "filer": "Ｓｕｍｏ　Ｊａｐａｎ　Ｖｅｎｔｕｒｅｓ　Ｓｅｇｒｅｇａｔｅｄ　Ｐｏｒｔｆｏｌｉｏ　ｏｆ　Ｆｕｎｄｖｉｅｗｓ　ＳＰＣ　Ｌｔｄ．",
+      "ratio": 29.16,
+      "prev_ratio": 29.16,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "date": "2025-03-11",
+  "new": [
+    {
+      "docId": "S100VDOO",
+      "sec": "4615",
+      "name": "神東塗料株式会社",
+      "filer": "大日本塗料株式会社",
+      "ratio": 45.14,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VDCN",
+      "sec": "3997",
+      "name": "株式会社トレードワークス",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 5.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VDL6",
+      "sec": "2372",
+      "name": "株式会社アイロムグループ",
+      "filer": "ビー・エックス・ジェイ・ビー・ツー・ホールディング株式会社",
+      "ratio": 72.48,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VDD6",
+      "sec": "3978",
+      "name": "株式会社マクロミル",
+      "filer": "グランサム、マヨ、ヴァン　オッテルロー　アンド　カンパニー　エルエルシー",
+      "ratio": 11.64,
+      "prev_ratio": 11.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDAA",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 23.48,
+      "prev_ratio": 23.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDJJ",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 23.65,
+      "prev_ratio": 23.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDKD",
+      "sec": "9713",
+      "name": "株式会社ロイヤルホテル",
+      "filer": "サントリーホールディングス株式会社",
+      "ratio": 6.65,
+      "prev_ratio": 9.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDK4",
+      "sec": "9713",
+      "name": "株式会社ロイヤルホテル",
+      "filer": "アサヒビール株式会社",
+      "ratio": 12.71,
+      "prev_ratio": 19.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD38",
+      "sec": "3491",
+      "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "ベイリー・ギフォード・アンド・カンパニー",
+      "ratio": 11.12,
+      "prev_ratio": 11.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDI1",
+      "sec": "2372",
+      "name": "株式会社アイロムグループ",
+      "filer": "森　豊隆",
+      "ratio": 13.42,
+      "prev_ratio": 38.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDMJ",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 14.91,
+      "prev_ratio": 16.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCX7",
+      "sec": "6218",
+      "name": "エンシュウ株式会社",
+      "filer": "池浦　捷行",
+      "ratio": 17.6,
+      "prev_ratio": 16.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCDE",
+      "sec": "5246",
+      "name": "株式会社ELEMENTS",
+      "filer": "株式会社ＢＯＣ",
+      "ratio": 5.3,
+      "prev_ratio": 6.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAYB",
+      "sec": "6023",
+      "name": "ダイハツディーゼル株式会社",
+      "filer": "積水ハウス株式会社",
+      "ratio": 6.28,
+      "prev_ratio": 7.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDN6",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "辛　澤",
+      "ratio": 11.39,
+      "prev_ratio": 11.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VD99",
+      "sec": "9990",
+      "name": "株式会社サックスバー　ホールディングス",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 1.72,
+      "prev_ratio": 63.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDNI",
+      "sec": "5596",
+      "name": "アウトルックコンサルティング株式会社",
+      "filer": "アスパラントグループ株式会社",
+      "ratio": null,
+      "prev_ratio": 11.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDJ6",
+      "sec": "4114",
+      "name": "株式会社日本触媒",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 6.27,
+      "prev_ratio": 7.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDNR",
+      "sec": "4377",
+      "name": "株式会社ワンキャリア",
+      "filer": "長澤　有紘",
+      "ratio": 4.75,
+      "prev_ratio": 5.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCOG",
+      "sec": "5440",
+      "name": "共英製鋼株式会社",
+      "filer": "エア・ウォーター株式会社",
+      "ratio": 4.46,
+      "prev_ratio": 5.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDIC",
+      "sec": "7859",
+      "name": "株式会社アルメディオ",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 2.0,
+      "prev_ratio": 7.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCHJ",
+      "sec": "9696",
+      "name": "株式会社ウィザス",
+      "filer": "Ｓｗｉｓｓ－Ａｓｉａ　Ｆｉｎａｎｃｉａｌ　Ｓｅｒｖｉｃｅｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 17.82,
+      "prev_ratio": 17.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VCY0",
+      "sec": "4333",
+      "name": "株式会社東邦システムサイエンス",
+      "filer": "光通信株式会社",
+      "ratio": 7.37,
+      "prev_ratio": 8.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDA1",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 6.69,
+      "prev_ratio": 5.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDMW",
+      "sec": "4477",
+      "name": "BASE株式会社",
+      "filer": "牧　寛之",
+      "ratio": 11.42,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDP8",
+      "sec": "166A",
+      "name": "株式会社タスキホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 14.28,
+      "prev_ratio": 15.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDPH",
+      "sec": "2372",
+      "name": "株式会社アイロムグループ",
+      "filer": "ビー・エックス・ジェイ・ビー・ツー・ホールディング株式会社",
+      "ratio": 72.48,
+      "prev_ratio": 72.48,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "date": "2025-06-20",
+  "new": [
+    {
+      "docId": "S100VZBJ",
+      "sec": "7605",
+      "name": "株式会社フジ・コーポレーション",
+      "filer": "クレディ　アンドスリエル　エ　コメルシアル",
+      "ratio": 5.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W06D",
+      "sec": "4249",
+      "name": "森六株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 5.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W06W",
+      "sec": "6901",
+      "name": "澤藤電機株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 6.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W06I",
+      "sec": "6584",
+      "name": "三櫻工業株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 5.39,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W13D",
+      "sec": "7229",
+      "name": "株式会社ユタカ技研",
+      "filer": "本田技研工業株式会社",
+      "ratio": 69.65,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W127",
+      "sec": "7220",
+      "name": "武蔵精密工業株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 24.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W10I",
+      "sec": "7218",
+      "name": "田中精密工業株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 24.34,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W0ZT",
+      "sec": "7296",
+      "name": "株式会社エフ・シー・シー",
+      "filer": "本田技研工業株式会社",
+      "ratio": 20.9,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100W04W",
+      "sec": "7287",
+      "name": "日本精機株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 6.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100W04O",
+      "sec": "6957",
+      "name": "株式会社芝浦電子",
+      "filer": "サムソン・ロック・キャピタル・エルエルピー",
+      "ratio": 6.49,
+      "prev_ratio": 5.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0CZ",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "ＭＭＸＸベンチャーズ・リミテッド",
+      "ratio": 6.99,
+      "prev_ratio": 6.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZDZ",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 2.15,
+      "prev_ratio": 2.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W176",
+      "sec": "6572",
+      "name": "オープングループ株式会社",
+      "filer": "大角　暢之",
+      "ratio": 10.58,
+      "prev_ratio": 10.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W099",
+      "sec": "7603",
+      "name": "株式会社マックハウス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 23.44,
+      "prev_ratio": 23.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W1F5",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 5.37,
+      "prev_ratio": 10.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W07K",
+      "sec": "3937",
+      "name": "株式会社Ubicomホールディングス",
+      "filer": "青木　正之",
+      "ratio": 40.12,
+      "prev_ratio": 40.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0XN",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 9.76,
+      "prev_ratio": 10.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXXO",
+      "sec": "5817",
+      "name": "JMACS株式会社",
+      "filer": "本多　敏行",
+      "ratio": 6.79,
+      "prev_ratio": 11.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W1GS",
+      "sec": "4833",
+      "name": "株式会社 Def consulting",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 25.41,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYOQ",
+      "sec": "4626",
+      "name": "太陽ホールディングス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 13.0,
+      "prev_ratio": 10.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZZ9",
+      "sec": "4626",
+      "name": "太陽ホールディングス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 14.89,
+      "prev_ratio": 13.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXXY",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 54.2,
+      "prev_ratio": 56.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYIE",
+      "sec": "5992",
+      "name": "中央発條株式会社",
+      "filer": "植島　幹九郎",
+      "ratio": 3.08,
+      "prev_ratio": 2.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ13",
+      "sec": "4109",
+      "name": "ステラケミファ株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 4.24,
+      "prev_ratio": 4.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0IZ",
+      "sec": "5989",
+      "name": "株式会社エイチワン",
+      "filer": "本田技研工業株式会社",
+      "ratio": 21.33,
+      "prev_ratio": 23.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0RB",
+      "sec": "7313",
+      "name": "テイ・エス テック株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 18.84,
+      "prev_ratio": 18.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZTH",
+      "sec": "8803",
+      "name": "平和不動産株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 8.0,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W0GQ",
+      "sec": "5970",
+      "name": "株式会社ジーテクト",
+      "filer": "本田技研工業株式会社",
+      "ratio": 29.67,
+      "prev_ratio": 29.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ5G",
+      "sec": "3422",
+      "name": "株式会社　Ｊ－ＭＡＸ",
+      "filer": "本田技研工業株式会社",
+      "ratio": 8.34,
+      "prev_ratio": 10.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VXY8",
+      "sec": "3662",
+      "name": "株式会社エイチームホールディングス",
+      "filer": "ＡＰＩＰ，　Ｉｎｃ．",
+      "ratio": 31.3,
+      "prev_ratio": 28.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ5B",
+      "sec": "7212",
+      "name": "株式会社エフテック",
+      "filer": "本田技研工業株式会社",
+      "ratio": 13.63,
+      "prev_ratio": 20.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ57",
+      "sec": "6844",
+      "name": "新電元工業株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 12.93,
+      "prev_ratio": 12.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VZ3I",
+      "sec": "6923",
+      "name": "スタンレー電気株式会社",
+      "filer": "本田技研工業株式会社",
+      "ratio": 11.01,
+      "prev_ratio": 9.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W1EP",
+      "sec": "2162",
+      "name": "nmsホールディングス株式会社",
+      "filer": "株式会社ワールドホールディングス",
+      "ratio": 17.21,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWZE",
+      "sec": "4593",
+      "name": "株式会社ヘリオス",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 25.63,
+      "prev_ratio": 25.63,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

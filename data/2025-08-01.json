@@ -1,0 +1,237 @@
+{
+  "date": "2025-08-01",
+  "new": [
+    {
+      "docId": "S100WFR7",
+      "sec": "8203",
+      "name": "株式会社ミスターマックス・ホールディングス",
+      "filer": "株式会社ＷａｉｚＨｏｌｄｉｎｇｓ",
+      "ratio": 28.45,
+      "prev_ratio": 27.38,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WFSE",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 29.16,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WF5R",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社豊崎会計事務所",
+      "ratio": 19.53,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WDJ8",
+      "sec": "3733",
+      "name": "株式会社ソフトウェア・サービス",
+      "filer": "宮﨑　勝",
+      "ratio": 23.69,
+      "prev_ratio": 23.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG35",
+      "sec": "3024",
+      "name": "クリエイト株式会社",
+      "filer": "福井　道夫",
+      "ratio": 9.73,
+      "prev_ratio": 11.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG3P",
+      "sec": "9270",
+      "name": "バリュエンスホールディングス株式会社株式会社",
+      "filer": "ＶＩＳ　Ａｄｖｉｓｏｒｓ，ＬＰ",
+      "ratio": 6.16,
+      "prev_ratio": 7.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFS2",
+      "sec": "9640",
+      "name": "株式会社セゾンテクノロジー",
+      "filer": "ＳＴＭ　ＨＥＲＩＴＡＧＥ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 7.21,
+      "prev_ratio": 7.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFUY",
+      "sec": "3851",
+      "name": "株式会社日本一ソフトウェア",
+      "filer": "ＳＴＭ　ＨＥＲＩＴＡＧＥ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 7.6,
+      "prev_ratio": 7.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFKC",
+      "sec": "5892",
+      "name": "株式会社yutori",
+      "filer": "片石　貴展",
+      "ratio": 27.16,
+      "prev_ratio": 27.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG4R",
+      "sec": "7247",
+      "name": "株式会社ミクニ",
+      "filer": "塩井　健治",
+      "ratio": 6.01,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG14",
+      "sec": "6297",
+      "name": "鉱研工業株式会社",
+      "filer": "中山　尚",
+      "ratio": null,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG6A",
+      "sec": "5247",
+      "name": "株式会社BTM",
+      "filer": "ＭＴインベストメント株式会社",
+      "ratio": 7.96,
+      "prev_ratio": 7.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG1O",
+      "sec": "5856",
+      "name": "株式会社エルアイイーエイチ",
+      "filer": "福村　京子",
+      "ratio": 1.33,
+      "prev_ratio": 2.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG6Q",
+      "sec": "9336",
+      "name": "大栄環境株式会社",
+      "filer": "ウイングトワ株式会社",
+      "ratio": 61.47,
+      "prev_ratio": 61.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEGG",
+      "sec": "6080",
+      "name": "Ｍ＆Ａキャピタルパートナーズ株式会社",
+      "filer": "中村　悟",
+      "ratio": 43.09,
+      "prev_ratio": 44.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFQN",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 11.99,
+      "prev_ratio": 13.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WF3A",
+      "sec": "6853",
+      "name": "株式会社共和電業",
+      "filer": "光通信株式会社",
+      "ratio": 7.36,
+      "prev_ratio": 7.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG3L",
+      "sec": "4377",
+      "name": "株式会社ワンキャリア",
+      "filer": "宮下　尚之",
+      "ratio": 40.49,
+      "prev_ratio": 41.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WF3C",
+      "sec": "9767",
+      "name": "日建工学株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.09,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG8A",
+      "sec": "8129",
+      "name": "東邦ホールディングス株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 20.15,
+      "prev_ratio": 19.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG7Z",
+      "sec": "5817",
+      "name": "JMACS株式会社",
+      "filer": "本多　敏行",
+      "ratio": 4.42,
+      "prev_ratio": 6.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WG3W",
+      "sec": "4264",
+      "name": "株式会社セキュア",
+      "filer": "株式会社バッファロー",
+      "ratio": 14.32,
+      "prev_ratio": 14.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WF00",
+      "sec": "6532",
+      "name": "株式会社ベイカレント",
+      "filer": "江口　新",
+      "ratio": 5.96,
+      "prev_ratio": 6.98,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

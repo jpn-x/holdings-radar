@@ -1,0 +1,227 @@
+{
+  "date": "2025-07-17",
+  "new": [
+    {
+      "docId": "S100WDNE",
+      "sec": "3426",
+      "name": "アトムリビンテック株式会社",
+      "filer": "櫻井金属工業株式会社",
+      "ratio": 3.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WCIP",
+      "sec": "5331",
+      "name": "ノリタケ株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WAIZ",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 10.05,
+      "prev_ratio": 15.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDDF",
+      "sec": "5946",
+      "name": "株式会社長府製作所",
+      "filer": "ファースト・イーグル・インベストメント・マネジメント・エルエルシー",
+      "ratio": 12.18,
+      "prev_ratio": 13.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDGX",
+      "sec": "4679",
+      "name": "株式会社田谷",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 7.03,
+      "prev_ratio": 7.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDFL",
+      "sec": "6525",
+      "name": "株式会社KOKUSAI ELECTRIC",
+      "filer": "ＫＫＲ　ＨＫＥ　Ｉｎｖｅｓｔｍｅｎｔ　Ｌ．Ｐ．",
+      "ratio": 10.37,
+      "prev_ratio": 23.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDG0",
+      "sec": "6525",
+      "name": "株式会社KOKUSAI ELECTRIC",
+      "filer": "ＫＫＲ　ＨＫＥ　Ｉｎｖｅｓｔｍｅｎｔ　Ｌ．Ｐ．",
+      "ratio": 10.37,
+      "prev_ratio": 10.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDOC",
+      "sec": "9895",
+      "name": "株式会社コンセック",
+      "filer": "公益財団法人　秀里会",
+      "ratio": 2.78,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD0N",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "ＯＬＰ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.16,
+      "prev_ratio": 7.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD2E",
+      "sec": "3660",
+      "name": "株式会社アイスタイル",
+      "filer": "吉松　徹郎",
+      "ratio": 9.84,
+      "prev_ratio": 11.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDF2",
+      "sec": "3490",
+      "name": "株式会社アズ企画設計",
+      "filer": "三田証券株式会社",
+      "ratio": 9.59,
+      "prev_ratio": 12.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD0H",
+      "sec": "4549",
+      "name": "栄研化学株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 8.4,
+      "prev_ratio": 8.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD0I",
+      "sec": "2206",
+      "name": "江崎グリコ株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 11.0,
+      "prev_ratio": 8.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD6X",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 18.06,
+      "prev_ratio": 19.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCNA",
+      "sec": "4429",
+      "name": "リックソフト株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.04,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCNC",
+      "sec": "5126",
+      "name": "ポーターズ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.05,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDQO",
+      "sec": "9684",
+      "name": "株式会社スクウェア・エニックス・ホールディングス",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 14.36,
+      "prev_ratio": 13.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDOA",
+      "sec": "4593",
+      "name": "株式会社ヘリオス",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 20.75,
+      "prev_ratio": 25.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDOB",
+      "sec": "4593",
+      "name": "株式会社ヘリオス",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 20.75,
+      "prev_ratio": 20.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDI9",
+      "sec": "3420",
+      "name": "株式会社ケー・エフ・シー",
+      "filer": "那須電機鉄工株式会社",
+      "ratio": 11.64,
+      "prev_ratio": 10.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCFL",
+      "sec": "4446",
+      "name": "Ｌｉｎｋ－Ｕグループ株式会社",
+      "filer": "山田　剛史",
+      "ratio": 29.3,
+      "prev_ratio": 29.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDRI",
+      "sec": "7163",
+      "name": "住信ＳＢＩネット銀行株式会社",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 34.19,
+      "prev_ratio": 34.19,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "date": "2025-11-28",
+  "new": [
+    {
+      "docId": "S100X7FJ",
+      "sec": "7413",
+      "name": "株式会社創健社",
+      "filer": "笛木　正司",
+      "ratio": 8.67,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X76E",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.99,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X7K1",
+      "sec": "4360",
+      "name": "株式会社マナック・ケミカル・パートナーズ",
+      "filer": "一般財団法人松永財団",
+      "ratio": 15.54,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X6Z5",
+      "sec": "6932",
+      "name": "株式会社遠藤照明",
+      "filer": "ＡＡＧＳ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ．",
+      "ratio": 13.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X6L7",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "トラストアップ株式会社",
+      "ratio": 54.75,
+      "prev_ratio": 54.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X75S",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "トラストアップ株式会社",
+      "ratio": 49.95,
+      "prev_ratio": 54.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WY6G",
+      "sec": "9221",
+      "name": "フルハシＥＰＯ株式会社",
+      "filer": "山口　直彦",
+      "ratio": 1.55,
+      "prev_ratio": 1.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7EP",
+      "sec": "7413",
+      "name": "株式会社創健社",
+      "filer": "石井　康友",
+      "ratio": null,
+      "prev_ratio": 8.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7DS",
+      "sec": "4425",
+      "name": "Kudan株式会社",
+      "filer": "大野　智弘",
+      "ratio": 29.37,
+      "prev_ratio": 29.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7G0",
+      "sec": "265A",
+      "name": "Ｈｍｃｏｍｍ株式会社",
+      "filer": "三本　幸司",
+      "ratio": 30.44,
+      "prev_ratio": 31.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7GJ",
+      "sec": "4592",
+      "name": "サンバイオ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 5.82,
+      "prev_ratio": 6.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7C1",
+      "sec": "5536",
+      "name": "株式会社京橋アートレジデンス",
+      "filer": "西谷　明久",
+      "ratio": 63.9,
+      "prev_ratio": 99.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7GI",
+      "sec": "4572",
+      "name": "カルナバイオサイエンス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 15.02,
+      "prev_ratio": 9.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X79E",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 29.59,
+      "prev_ratio": 30.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X77E",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 16.46,
+      "prev_ratio": 17.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7GA",
+      "sec": "3895",
+      "name": "ハビックス株式会社",
+      "filer": "各務　正人",
+      "ratio": 1.59,
+      "prev_ratio": 3.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6K1",
+      "sec": "8705",
+      "name": "日産証券グループ株式会社",
+      "filer": "株式会社ＮＳＨＤ",
+      "ratio": 38.17,
+      "prev_ratio": 39.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7I7",
+      "sec": "3034",
+      "name": "クオール株式会社",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 10.77,
+      "prev_ratio": 9.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6VR",
+      "sec": "3994",
+      "name": "株式会社マネーフォワード",
+      "filer": "ＧＣＱ　ＦＵＮＤＳ　ＭＡＮＡＧＥＭＥＮＴ　ＰＴＹ　Ｌｔｄ",
+      "ratio": 6.18,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X74S",
+      "sec": "8715",
+      "name": "アニコム　ホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 9.53,
+      "prev_ratio": 8.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7KA",
+      "sec": "8105",
+      "name": "Bitcoin Japan株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 18.85,
+      "prev_ratio": 20.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7HP",
+      "sec": "5132",
+      "name": "株式会社ｐｌｕｓｚｅｒｏ",
+      "filer": "森　遼太",
+      "ratio": 10.93,
+      "prev_ratio": 10.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7HZ",
+      "sec": "3815",
+      "name": "株式会社メディア工房",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 15.46,
+      "prev_ratio": 16.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7AH",
+      "sec": "5527",
+      "name": "株式会社property technologies",
+      "filer": "濱中　雄大",
+      "ratio": 32.12,
+      "prev_ratio": 33.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6JI",
+      "sec": "3937",
+      "name": "株式会社Ubicomホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 6.44,
+      "prev_ratio": 5.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7L5",
+      "sec": "4385",
+      "name": "株式会社メルカリ",
+      "filer": "山田　進太郎",
+      "ratio": 21.47,
+      "prev_ratio": 22.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7L3",
+      "sec": "7110",
+      "name": "株式会社クラシコム",
+      "filer": "青木　耕平",
+      "ratio": 54.91,
+      "prev_ratio": 54.91,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

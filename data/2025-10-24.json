@@ -1,0 +1,277 @@
+{
+  "date": "2025-10-24",
+  "new": [
+    {
+      "docId": "S100WVK8",
+      "sec": "430A",
+      "name": "株式会社ネクストハンズ",
+      "filer": "長田　敏彦",
+      "ratio": 20.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWSS",
+      "sec": "439A",
+      "name": "株式会社アクトビ",
+      "filer": "藤原　良輔",
+      "ratio": 68.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWW4",
+      "sec": "431A",
+      "name": "ユーソナー株域会社",
+      "filer": "福富　七海",
+      "ratio": 46.64,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWUP",
+      "sec": "439A",
+      "name": "株式会社アクトビ",
+      "filer": "石村　真一",
+      "ratio": 9.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWUW",
+      "sec": "439A",
+      "name": "株式会社アクトビ",
+      "filer": "豊田産業株式会社",
+      "ratio": 14.9,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WVUT",
+      "sec": "7601",
+      "name": "株式会社ポプラ",
+      "filer": "株式会社ＭＩＴ　Ｃｏｒｐｏｒａｔｅ　Ａｄｖｉｓｏｒｙ　Ｓｅｒｖｉｃｅｓ",
+      "ratio": 8.86,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WWQY",
+      "sec": "5706",
+      "name": "三井金属株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 19.0,
+      "prev_ratio": 1.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWS4",
+      "sec": "4434",
+      "name": "株式会社サーバーワークス",
+      "filer": "大石　良",
+      "ratio": 26.3,
+      "prev_ratio": 29.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWG4",
+      "sec": "7606",
+      "name": "株式会社ユナイテッドアローズ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 1.92,
+      "prev_ratio": 2.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWQZ",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "ディスリーン・グループ・エルピー",
+      "ratio": 4.07,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWSW",
+      "sec": "9388",
+      "name": "株式会社パパネッツ",
+      "filer": "株式会社花明",
+      "ratio": 27.07,
+      "prev_ratio": 30.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWOE",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.28,
+      "prev_ratio": 22.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWV7",
+      "sec": "4439",
+      "name": "株式会社東名",
+      "filer": "山本　文彦",
+      "ratio": 38.9,
+      "prev_ratio": 42.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVV6",
+      "sec": "8462",
+      "name": "フューチャーベンチャーキャピタル株式会社",
+      "filer": "株式会社ＤＳＧ１",
+      "ratio": 22.02,
+      "prev_ratio": 22.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWKI",
+      "sec": "2338",
+      "name": "クオンタムソリューションズ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 38.67,
+      "prev_ratio": 37.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWVO",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 70.6,
+      "prev_ratio": 19.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT42",
+      "sec": "5527",
+      "name": "株式会社property technologies",
+      "filer": "濱中　雄大",
+      "ratio": 34.96,
+      "prev_ratio": 36.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWOC",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 10.82,
+      "prev_ratio": 11.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVZC",
+      "sec": "8818",
+      "name": "京阪神ビルディング株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 8.28,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWL7",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ネクスタ",
+      "ratio": 13.98,
+      "prev_ratio": 15.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWX0",
+      "sec": "285A",
+      "name": "キオクシアホールディングス株式会社",
+      "filer": "株式会社　東芝",
+      "ratio": 21.87,
+      "prev_ratio": 22.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWFA",
+      "sec": "3175",
+      "name": "株式会社エー・ピーホールディングス",
+      "filer": "米山　久",
+      "ratio": 42.38,
+      "prev_ratio": 42.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW2V",
+      "sec": "3673",
+      "name": "株式会社ブロードリーフ",
+      "filer": "光通信株式会社",
+      "ratio": 6.78,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWWJ",
+      "sec": "7273",
+      "name": "(株式会社イクヨ",
+      "filer": "酒井　宏修",
+      "ratio": 5.32,
+      "prev_ratio": 6.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWXD",
+      "sec": "4415",
+      "name": "株式会社ブロードエンタープライズ",
+      "filer": "中西　良祐",
+      "ratio": 18.4,
+      "prev_ratio": 17.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSU4",
+      "sec": "2961",
+      "name": "日本調理機株式会社",
+      "filer": "株式会社マルゼン",
+      "ratio": 10.03,
+      "prev_ratio": 10.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWXO",
+      "sec": "5889",
+      "name": "Japan Eyewear Holdings株式会社",
+      "filer": "金子インベスト株式会社",
+      "ratio": 37.67,
+      "prev_ratio": 37.97,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

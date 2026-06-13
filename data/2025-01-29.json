@@ -1,0 +1,257 @@
+{
+  "date": "2025-01-29",
+  "new": [
+    {
+      "docId": "S100V58N",
+      "sec": "9285",
+      "name": "東京インフラ・エネルギー投資法人",
+      "filer": "株式会社クールトラスト",
+      "ratio": 5.03,
+      "prev_ratio": 3.87,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V5IZ",
+      "sec": "1730",
+      "name": "麻生フオームクリート株式会社",
+      "filer": "日特建設株式会社",
+      "ratio": 30.12,
+      "prev_ratio": 41.52,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V4UP",
+      "sec": "6525",
+      "name": "株式会社ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 9.42,
+      "prev_ratio": 10.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V57I",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 7.54,
+      "prev_ratio": 9.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V53M",
+      "sec": "4168",
+      "name": "株式会社ヤプリ",
+      "filer": "Ｅｉｇｈｔ　Ｒｏａｄｓ　Ｖｅｎｔｕｒｅｓ　Ｊａｐａｎ　ＩＩ　ＬＰ",
+      "ratio": 6.2,
+      "prev_ratio": 7.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5CQ",
+      "sec": "4576",
+      "name": "株式会社デ・ウエスタン・セラピテクス研究所",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 6.11,
+      "prev_ratio": 8.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5D5",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 29.03,
+      "prev_ratio": 30.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4LE",
+      "sec": "5214",
+      "name": "日本電気硝子株式会社",
+      "filer": "ニプロ株式会社",
+      "ratio": 4.4,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V571",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 37.73,
+      "prev_ratio": 38.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5FK",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 22.02,
+      "prev_ratio": 23.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5GD",
+      "sec": "5101",
+      "name": "横浜ゴム株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 13.0,
+      "prev_ratio": 24.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5GN",
+      "sec": "5892",
+      "name": "株式会社yutori",
+      "filer": "片石　貴展",
+      "ratio": 27.16,
+      "prev_ratio": 27.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0Q8",
+      "sec": "4286",
+      "name": "株式会社ＣＬホールディングス",
+      "filer": "株式会社ジェイユー",
+      "ratio": 37.4,
+      "prev_ratio": 39.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5G5",
+      "sec": "3180",
+      "name": "株式会社ビューティガレージ",
+      "filer": "ＶＩＳ　Ａｄｖｉｓｏｒｓ，ＬＰ",
+      "ratio": 8.33,
+      "prev_ratio": 7.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4V1",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "須田　忠雄",
+      "ratio": 70.89,
+      "prev_ratio": 71.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5HX",
+      "sec": "9554",
+      "name": "株式会社ＡＶｉＣ",
+      "filer": "岩田　匡平",
+      "ratio": 23.01,
+      "prev_ratio": 23.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4HE",
+      "sec": "9039",
+      "name": "株式会社サカイ引越センター",
+      "filer": "みさき投資株式会社",
+      "ratio": 5.46,
+      "prev_ratio": 6.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5IC",
+      "sec": "9166",
+      "name": "株式会社GENDA",
+      "filer": "申　真衣",
+      "ratio": 4.54,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4PB",
+      "sec": "6951",
+      "name": "日本電子株式会社",
+      "filer": "みさき投資株式会社",
+      "ratio": 5.89,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4O7",
+      "sec": "4919",
+      "name": "株式会社ミルボン",
+      "filer": "みさき投資株式会社",
+      "ratio": 5.2,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5IJ",
+      "sec": "9252",
+      "name": "株式会社ラストワンマイル",
+      "filer": "株式会社光通信",
+      "ratio": 2.23,
+      "prev_ratio": 2.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V57W",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "株式会社ウィズ・パートナーズ",
+      "ratio": 31.66,
+      "prev_ratio": 33.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4W7",
+      "sec": "4169",
+      "name": "ENECHANGE株式会社",
+      "filer": "Ｅｎｅｒｇｙ　Ｓｔａｔｉｏｎ　Ｃｏｍｐａｎｙ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.56,
+      "prev_ratio": 10.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5DQ",
+      "sec": "4169",
+      "name": "ENECHANGE株式会社",
+      "filer": "Ｅｎｅｒｇｙ　Ｓｔａｔｉｏｎ　Ｃｏｍｐａｎｙ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.56,
+      "prev_ratio": 4.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4WN",
+      "sec": "7732",
+      "name": "株式会社トプコン",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 10.58,
+      "prev_ratio": 7.38,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "date": "2025-06-02",
+  "new": [
+    {
+      "docId": "S100VV3W",
+      "sec": "361A",
+      "name": "株式会社リビングハウス",
+      "filer": "北村　常明",
+      "ratio": 9.31,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VV4R",
+      "sec": "361A",
+      "name": "株式会社リビングハウス",
+      "filer": "北村　甲介",
+      "ratio": 43.24,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VV0O",
+      "sec": "2894",
+      "name": "石井食品株式会社",
+      "filer": "石井　智康",
+      "ratio": 5.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VSAF",
+      "sec": "267A",
+      "name": "株式会社トワライズ",
+      "filer": "株式会社クローバー・ネットワーク・コム",
+      "ratio": 5.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VV1E",
+      "sec": "3538",
+      "name": "株式会社ウイルプラスホールディングス",
+      "filer": "成瀬　隆章",
+      "ratio": 21.22,
+      "prev_ratio": 21.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV3E",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "ＺＵＵ　Ｆｕｎｄｅｒｓ株式会社",
+      "ratio": 4.28,
+      "prev_ratio": 5.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV3G",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 12.31,
+      "prev_ratio": 15.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV37",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 8.86,
+      "prev_ratio": 11.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV3J",
+      "sec": "254A",
+      "name": "AIフュージョンキャピタルグループ株式会社",
+      "filer": "上原　俊彦",
+      "ratio": 11.21,
+      "prev_ratio": 9.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUTZ",
+      "sec": "4114",
+      "name": "株式会社日本触媒",
+      "filer": "ＥＮＥＯＳホールディングス株式会社",
+      "ratio": 3.86,
+      "prev_ratio": 5.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV32",
+      "sec": "4491",
+      "name": "コンピューターマネージメント株式会社",
+      "filer": "有限会社シー・エム・ケー",
+      "ratio": 35.93,
+      "prev_ratio": 39.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU8X",
+      "sec": "3840",
+      "name": "パス株式会社",
+      "filer": "株式会社サスティナ",
+      "ratio": 43.18,
+      "prev_ratio": 43.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTWR",
+      "sec": "2196",
+      "name": "株式会社エスクリ",
+      "filer": "渋谷　守浩",
+      "ratio": 5.77,
+      "prev_ratio": 5.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMYJ",
+      "sec": "2168",
+      "name": "株式会社パソナグループ",
+      "filer": "南部靖之",
+      "ratio": 36.73,
+      "prev_ratio": 35.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV5T",
+      "sec": "3097",
+      "name": "株式会社物語コーポレーション",
+      "filer": "小林　佳雄",
+      "ratio": 3.57,
+      "prev_ratio": 4.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV2V",
+      "sec": "8886",
+      "name": "株式会社ウッドフレンズ",
+      "filer": "前田　和彦",
+      "ratio": null,
+      "prev_ratio": 2.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VSTC",
+      "sec": "5891",
+      "name": "株式会社魁力屋",
+      "filer": "藤田　宗",
+      "ratio": 18.48,
+      "prev_ratio": 19.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV3U",
+      "sec": "8115",
+      "name": "ムーンバット株式会社",
+      "filer": "八木通商株式会社",
+      "ratio": 17.82,
+      "prev_ratio": 16.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV5W",
+      "sec": "7487",
+      "name": "小津産業株式会社",
+      "filer": "株式会社小津商店",
+      "ratio": 30.54,
+      "prev_ratio": 30.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV22",
+      "sec": "8793",
+      "name": "ＮＥＣキャピタルソリューション株式会社",
+      "filer": "日本電気株式会社",
+      "ratio": 17.62,
+      "prev_ratio": 17.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV2I",
+      "sec": "7685",
+      "name": "株式会社 BuySell Technologies",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 59.07,
+      "prev_ratio": 59.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV7R",
+      "sec": "9166",
+      "name": "株式会社GENDA",
+      "filer": "申　真衣",
+      "ratio": 3.34,
+      "prev_ratio": 3.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUXI",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 17.78,
+      "prev_ratio": 19.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV8N",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 2.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUAA",
+      "sec": "3810",
+      "name": "サイバーステップ株式会社",
+      "filer": "佐藤　類",
+      "ratio": 5.03,
+      "prev_ratio": 5.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTUK",
+      "sec": "9837",
+      "name": "モリト株式会社",
+      "filer": "株式会社クラレ",
+      "ratio": 7.25,
+      "prev_ratio": 7.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU8I",
+      "sec": "3673",
+      "name": "株式会社ブロードリーフ",
+      "filer": "光通信株式会社",
+      "ratio": 6.78,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV9C",
+      "sec": "2170",
+      "name": "株式会社リンクアンドモチベーション",
+      "filer": "株式会社フェニックス",
+      "ratio": 2.75,
+      "prev_ratio": 2.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU8L",
+      "sec": "9820",
+      "name": "エムティジェネックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV2C",
+      "sec": "9627",
+      "name": "株式会社アインホールディングス",
+      "filer": "スプラウスグローブインベストメントマネジメントリミテッド",
+      "ratio": 7.99,
+      "prev_ratio": 9.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV8Q",
+      "sec": "9927",
+      "name": "株式会社ワットマン",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 3.3,
+      "prev_ratio": 2.41,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

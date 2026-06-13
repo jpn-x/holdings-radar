@@ -1,0 +1,297 @@
+{
+  "date": "2025-12-10",
+  "new": [
+    {
+      "docId": "S100X9J0",
+      "sec": "462A",
+      "name": "株式会社FUNDINNO",
+      "filer": "平石　智紀",
+      "ratio": 6.97,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9JJ",
+      "sec": "462A",
+      "name": "株式会社FUNDINNO",
+      "filer": "株式会社ＪＣＣ",
+      "ratio": 20.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X8IG",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "株式会社博報堂ＤＹホールディングス",
+      "ratio": 25.78,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X96D",
+      "sec": "6201",
+      "name": "株式会社豊田自動織機",
+      "filer": "エリオット・インベストメント・マネージメント・エルピー（Ｅｌｌｉｏｔｔ　Ｉｎｖｅｓｔｍｅｎｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌ．Ｐ．）",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X97Y",
+      "sec": "4564",
+      "name": "オンコセラピー・サイエンス株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 18.81,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9FC",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X8D4",
+      "sec": "5890",
+      "name": "株式会社オフィスバスターズ",
+      "filer": "天野　太郎",
+      "ratio": 45.18,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X9EB",
+      "sec": "9993",
+      "name": "株式会社ヤマザワ",
+      "filer": "山澤　廣",
+      "ratio": 3.71,
+      "prev_ratio": 3.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9EC",
+      "sec": "3747",
+      "name": "株式会社インタートレード",
+      "filer": "株式会社ジャパンインベストメントアドバイザー",
+      "ratio": 10.95,
+      "prev_ratio": 9.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9DF",
+      "sec": "3762",
+      "name": "テクマトリックス株式会社",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 7.2,
+      "prev_ratio": 8.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9GD",
+      "sec": "7685",
+      "name": "株式会社 BuySell Technologies",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 49.06,
+      "prev_ratio": 51.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9B5",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "Ｄａｎ　Ｔａｋａｈａｓｈｉ　ＬＬＣ",
+      "ratio": 31.81,
+      "prev_ratio": 36.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9JT",
+      "sec": "333A",
+      "name": "株式会社テクノスマイル",
+      "filer": "馬見塚　讓",
+      "ratio": 7.39,
+      "prev_ratio": 7.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HR",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "Ｄａｎ　Ｔａｋａｈａｓｈｉ　ＬＬＣ",
+      "ratio": 19.8,
+      "prev_ratio": 31.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9KG",
+      "sec": "6063",
+      "name": "日本エマージェンシーアシスタンス",
+      "filer": "徐宏沢",
+      "ratio": 6.3,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8S2",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 25.67,
+      "prev_ratio": 23.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8SC",
+      "sec": "8715",
+      "name": "アニコム　ホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 10.61,
+      "prev_ratio": 9.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9I5",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "ＨＩＢＣ株式会社",
+      "ratio": 25.17,
+      "prev_ratio": 25.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9L0",
+      "sec": "3802",
+      "name": "株式会社エコミック",
+      "filer": "キャリアバンク株式会社",
+      "ratio": 34.96,
+      "prev_ratio": 42.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9AI",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "３１ＶＥＮＴＵＲＥＳ－グローバル・ブレイン－グロースＩ合同会社",
+      "ratio": 5.08,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HW",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "野内　敦",
+      "ratio": null,
+      "prev_ratio": 6.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9L8",
+      "sec": "9213",
+      "name": "株式会社セイファート",
+      "filer": "マネックス証券株式会社",
+      "ratio": 1.58,
+      "prev_ratio": 5.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9LV",
+      "sec": "4299",
+      "name": "株式会社ハイマックス",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 6.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8N3",
+      "sec": "7740",
+      "name": "株式会社タムロン",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 14.12,
+      "prev_ratio": 13.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X970",
+      "sec": "6544",
+      "name": "ジャパンエレベーターサービスホールディングス株式会社",
+      "filer": "株式会社ＫＩ",
+      "ratio": 20.27,
+      "prev_ratio": 21.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9K9",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "ネットプライス事業再生合同会社",
+      "ratio": 41.73,
+      "prev_ratio": 39.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9GT",
+      "sec": "5254",
+      "name": "株式会社Arent",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 5.88,
+      "prev_ratio": 5.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9GH",
+      "sec": "1878",
+      "name": "大東建託株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 8.15,
+      "prev_ratio": 7.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8WX",
+      "sec": "7031",
+      "name": "株式会社インバウンドテック",
+      "filer": "株式会社Ｓｈｅｌｔｅｒ",
+      "ratio": 11.89,
+      "prev_ratio": 10.83,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

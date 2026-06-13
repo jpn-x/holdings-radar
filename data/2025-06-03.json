@@ -1,0 +1,277 @@
+{
+  "date": "2025-06-03",
+  "new": [
+    {
+      "docId": "S100VVDC",
+      "sec": "3358",
+      "name": "ワイエスフード株式会社",
+      "filer": "須田　忠雄",
+      "ratio": 15.81,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VVJK",
+      "sec": "7718",
+      "name": "スター精密株式会社",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 35.69,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VV6N",
+      "sec": "7516",
+      "name": "コーナン商事株式会社",
+      "filer": "疋田耕造",
+      "ratio": 5.21,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVDF",
+      "sec": "261A",
+      "name": "株式会社　日水コン",
+      "filer": "公益財団法人水・地域イノベーション財団",
+      "ratio": 15.34,
+      "prev_ratio": 15.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMYZ",
+      "sec": "205A",
+      "name": "株式会社ロゴスホールディングス",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 50.79,
+      "prev_ratio": 53.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVCY",
+      "sec": "9446",
+      "name": "株式会社サカイホールディングス",
+      "filer": "ＶＴホールディングス株式会社",
+      "ratio": 5.74,
+      "prev_ratio": 5.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVAV",
+      "sec": "9404",
+      "name": "日本テレビホールディングス株式会社",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 8.01,
+      "prev_ratio": 7.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVCI",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.29,
+      "prev_ratio": 10.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVEB",
+      "sec": "4679",
+      "name": "株式会社田谷",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 10.36,
+      "prev_ratio": 11.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV5X",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": 49.94,
+      "prev_ratio": 49.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVH8",
+      "sec": "4374",
+      "name": "株式会社ROBOT PAYMENT",
+      "filer": "清久　健也",
+      "ratio": 10.5,
+      "prev_ratio": 10.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV6T",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": 47.5,
+      "prev_ratio": 49.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVHD",
+      "sec": "5036",
+      "name": "日本ビジネスシステムズ株式会社",
+      "filer": "株式会社三菱総合研究所",
+      "ratio": 14.5,
+      "prev_ratio": 14.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVI4",
+      "sec": "5585",
+      "name": "エコナビスタ株式会社",
+      "filer": "エーザイ株式会社",
+      "ratio": 100.0,
+      "prev_ratio": 97.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUZX",
+      "sec": "3675",
+      "name": "株式会社クロス・マーケティンググループ",
+      "filer": "五十嵐　幹",
+      "ratio": 32.69,
+      "prev_ratio": 32.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVFG",
+      "sec": "6676",
+      "name": "株式会社バッファロー",
+      "filer": "株式会社メルコグループ",
+      "ratio": 27.29,
+      "prev_ratio": 41.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU0U",
+      "sec": "3409",
+      "name": "北日本紡績株式会社",
+      "filer": "ミツワ樹脂工業株式会社",
+      "ratio": 56.27,
+      "prev_ratio": 62.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUN3",
+      "sec": "4549",
+      "name": "栄研化学株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 8.38,
+      "prev_ratio": 8.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV2H",
+      "sec": "3409",
+      "name": "北日本紡績株式会社",
+      "filer": "ミツワ樹脂工業株式会社",
+      "ratio": 57.35,
+      "prev_ratio": 56.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV9Q",
+      "sec": "9264",
+      "name": "ポエック株式会社",
+      "filer": "釆女　信二郎",
+      "ratio": null,
+      "prev_ratio": 6.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVJ3",
+      "sec": "9302",
+      "name": "三井倉庫ホールディングス株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 7.12,
+      "prev_ratio": 6.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VV8A",
+      "sec": "6973",
+      "name": "協栄産業株式会社",
+      "filer": "加賀電子株式会社",
+      "ratio": 8.88,
+      "prev_ratio": 8.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VUYH",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 8.32,
+      "prev_ratio": 8.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVJB",
+      "sec": "3486",
+      "name": "株式会社グローバル・リンク・マネジメント",
+      "filer": "金　大仲",
+      "ratio": 15.02,
+      "prev_ratio": 22.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU8N",
+      "sec": "1766",
+      "name": "東建コーポレーション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.38,
+      "prev_ratio": 7.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVJ6",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.3,
+      "prev_ratio": 1.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VVI6",
+      "sec": "6095",
+      "name": "メドピア株式会社",
+      "filer": "牧　寛之",
+      "ratio": 13.68,
+      "prev_ratio": 12.25,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

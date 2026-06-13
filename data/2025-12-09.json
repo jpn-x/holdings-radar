@@ -1,0 +1,267 @@
+{
+  "date": "2025-12-09",
+  "new": [
+    {
+      "docId": "S100X8GF",
+      "sec": "3415",
+      "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
+      "filer": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
+      "ratio": 27.32,
+      "prev_ratio": 27.56,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X8TK",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "大垣内　剛",
+      "ratio": 11.11,
+      "prev_ratio": 11.35,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X997",
+      "sec": "7438",
+      "name": "コンドーテック株式会社",
+      "filer": "タドラナ・マネジメント・ウンド・アセット・ゲーエムベーハー",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X96L",
+      "sec": "6654",
+      "name": "不二電機工業株式会社",
+      "filer": "藤本　豊士",
+      "ratio": 11.39,
+      "prev_ratio": 14.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8NL",
+      "sec": "4316",
+      "name": "株式会社ビーマップ",
+      "filer": "株式会社ＳｐｉｃｙＣｏｍｐａｎｙ",
+      "ratio": 8.0,
+      "prev_ratio": 7.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X97C",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 53.05,
+      "prev_ratio": 54.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X972",
+      "sec": "6958",
+      "name": "日本シイエムケイ株式会社",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": 6.09,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X97J",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 50.36,
+      "prev_ratio": 53.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X97G",
+      "sec": "5185",
+      "name": "株式会社フコク",
+      "filer": "河本太郎",
+      "ratio": 2.94,
+      "prev_ratio": 2.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8XJ",
+      "sec": "5185",
+      "name": "株式会社フコク",
+      "filer": "渡邉　まり",
+      "ratio": 4.07,
+      "prev_ratio": 4.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X97R",
+      "sec": "6558",
+      "name": "クックビズ株式会社",
+      "filer": "山本　新九郎",
+      "ratio": 9.3,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X98Y",
+      "sec": "3300",
+      "name": "株式会社アンビションDXホールディングス",
+      "filer": "清水　剛",
+      "ratio": 20.11,
+      "prev_ratio": 20.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X98V",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "中村　健一郎",
+      "ratio": 6.51,
+      "prev_ratio": 7.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8W8",
+      "sec": "336A",
+      "name": "ダイナミックマッププラットフォーム株式会社",
+      "filer": "三菱電機株式会社",
+      "ratio": 4.91,
+      "prev_ratio": 6.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8YI",
+      "sec": "7921",
+      "name": "株式会社ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 13.24,
+      "prev_ratio": 11.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X95M",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "Ｄａｎ　Ｔａｋａｈａｓｈｉ　ＬＬＣ",
+      "ratio": 36.05,
+      "prev_ratio": 40.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9AN",
+      "sec": "9993",
+      "name": "株式会社ヤマザワ",
+      "filer": "山澤　廣",
+      "ratio": null,
+      "prev_ratio": 2.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9AJ",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 28.35,
+      "prev_ratio": 29.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9B6",
+      "sec": "8410",
+      "name": "株式会社セブン銀行",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 18.57,
+      "prev_ratio": 17.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8RB",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 23.27,
+      "prev_ratio": 20.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9B4",
+      "sec": "7072",
+      "name": "株式会社インティメート・マージャー",
+      "filer": "簗島　亮次",
+      "ratio": 14.39,
+      "prev_ratio": 13.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8IV",
+      "sec": "6928",
+      "name": "エノモト",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 10.21,
+      "prev_ratio": 7.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X95K",
+      "sec": "5342",
+      "name": "ジャニス工業株式会社",
+      "filer": "株式会社ニッソウ",
+      "ratio": 6.3,
+      "prev_ratio": 5.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X95D",
+      "sec": "4124",
+      "name": "大阪油化工業株式会社",
+      "filer": "堀田　哲平",
+      "ratio": 22.17,
+      "prev_ratio": 22.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8EH",
+      "sec": "6193",
+      "name": "バーチャレクス・ホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.41,
+      "prev_ratio": 6.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9CB",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 12.54,
+      "prev_ratio": 15.87,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

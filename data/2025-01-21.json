@@ -1,0 +1,307 @@
+{
+  "date": "2025-01-21",
+  "new": [
+    {
+      "docId": "S100V40A",
+      "sec": "232A",
+      "name": "株式会社ヒルストン",
+      "filer": "石坂　裕",
+      "ratio": 82.79,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V42Q",
+      "sec": "7610",
+      "name": "株式会社テイツー",
+      "filer": "新沼　吾史",
+      "ratio": 7.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V43S",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "新沼　吾史",
+      "ratio": 12.59,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V45D",
+      "sec": "3976",
+      "name": "株式会社シャノン",
+      "filer": "株式会社イノベーション",
+      "ratio": 57.29,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V40K",
+      "sec": "287A",
+      "name": "黒田グループ株式会社",
+      "filer": "ＫＭ２，　Ｌ．Ｐ．",
+      "ratio": 61.16,
+      "prev_ratio": 65.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1L8",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "藤代　真一",
+      "ratio": 6.44,
+      "prev_ratio": 10.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2WS",
+      "sec": "2480",
+      "name": "システム・ロケーション株式会社",
+      "filer": "千村　岳彦",
+      "ratio": 22.91,
+      "prev_ratio": 23.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V309",
+      "sec": "8228",
+      "name": "株式会社マルイチ産商",
+      "filer": "有限会社ニシナ興産",
+      "ratio": 5.97,
+      "prev_ratio": 2.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V47I",
+      "sec": "3328",
+      "name": "ＢＥＥＮＯＳ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 1.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V47Y",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 33.44,
+      "prev_ratio": 36.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V484",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 90.0,
+      "prev_ratio": 92.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V47W",
+      "sec": "8228",
+      "name": "株式会社マルイチ産商",
+      "filer": "有限会社ニシナ興産",
+      "ratio": 6.12,
+      "prev_ratio": 5.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V46R",
+      "sec": "3358",
+      "name": "ワイエスフード株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 18.46,
+      "prev_ratio": 19.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V486",
+      "sec": "8228",
+      "name": "株式会社マルイチ産商",
+      "filer": "有限会社ニシナ興産",
+      "ratio": 6.12,
+      "prev_ratio": 6.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3QF",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 21.54,
+      "prev_ratio": 22.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3Y9",
+      "sec": "4174",
+      "name": "株式会社アピリッツ",
+      "filer": "和田　順児",
+      "ratio": 7.46,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V369",
+      "sec": "7581",
+      "name": "株式会社サイゼリヤ",
+      "filer": "正垣　泰彦",
+      "ratio": 27.17,
+      "prev_ratio": 28.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3BF",
+      "sec": "4124",
+      "name": "大阪油化工業株式会社",
+      "filer": "ＧＬＯＢＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＡＲＴＮＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 18.38,
+      "prev_ratio": 18.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V49D",
+      "sec": "7408",
+      "name": "株式会社ジャムコ",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 33.34,
+      "prev_ratio": 33.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V43Q",
+      "sec": "260A",
+      "name": "株式会社オルツ",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 1.83,
+      "prev_ratio": 1.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3O7",
+      "sec": "4889",
+      "name": "株式会社レナサイエンス",
+      "filer": "ＤＣＩパートナーズ株式会社",
+      "ratio": 8.73,
+      "prev_ratio": 10.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V25M",
+      "sec": "9160",
+      "name": "株式会社ノバレーゼ",
+      "filer": "株式会社ＩＢＪ",
+      "ratio": 11.68,
+      "prev_ratio": 11.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V47D",
+      "sec": "280A",
+      "name": "株式会社ＴＭＨ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 6.89,
+      "prev_ratio": 6.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V32Q",
+      "sec": "9160",
+      "name": "株式会社ノバレーゼ",
+      "filer": "株式会社ＩＢＪ",
+      "ratio": 2.31,
+      "prev_ratio": 11.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V416",
+      "sec": "300A",
+      "name": "ＭＩＣ株式会社",
+      "filer": "水上　光啓",
+      "ratio": 16.99,
+      "prev_ratio": 16.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V49Z",
+      "sec": "2461",
+      "name": "株式会社ファンコミュニケーションズ",
+      "filer": "光通信株式会社",
+      "ratio": 7.14,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3HE",
+      "sec": "7634",
+      "name": "株式会社星医療酸器",
+      "filer": "光通信株式会社",
+      "ratio": 5.2,
+      "prev_ratio": 4.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V3HF",
+      "sec": "9236",
+      "name": "ジャパンＭ＆Ａソリューション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V37G",
+      "sec": "6648",
+      "name": "株式会社かわでん",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 7.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V4A6",
+      "sec": "5580",
+      "name": "株式会社プロディライト",
+      "filer": "株式会社Ｗｉｚ",
+      "ratio": 9.34,
+      "prev_ratio": 8.04,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

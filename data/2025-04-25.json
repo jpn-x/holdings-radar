@@ -1,0 +1,277 @@
+{
+  "date": "2025-04-25",
+  "new": [
+    {
+      "docId": "S100VNV7",
+      "sec": "351A",
+      "name": "アクシスＩＴパートナーズ株式会社",
+      "filer": "鹿島建設株式会社",
+      "ratio": 10.52,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VO99",
+      "sec": "3053",
+      "name": "株式会社ペッパーフードサービス",
+      "filer": "株式会社フラッグシップアセットマネジメント",
+      "ratio": 1.83,
+      "prev_ratio": 2.1,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VOAK",
+      "sec": "350A",
+      "name": "デジタルグリッド株式会社",
+      "filer": "株式会社　東芝",
+      "ratio": 13.48,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VNZ6",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "みらい再生支援機構合同会社",
+      "ratio": 19.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VNAO",
+      "sec": "7042",
+      "name": "株式会社アクセスグループ・ホールディングス",
+      "filer": "株式会社ＲＲ・ＤＤ",
+      "ratio": 4.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VNKN",
+      "sec": "9221",
+      "name": "フルハシＥＰＯ株式会社",
+      "filer": "清板大亮",
+      "ratio": 5.09,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VNUV",
+      "sec": "3798",
+      "name": "ULSグループ株式会社",
+      "filer": "高橋敬一",
+      "ratio": 5.14,
+      "prev_ratio": 5.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO90",
+      "sec": "6058",
+      "name": "株式会社ベクトル",
+      "filer": "西江　肇司",
+      "ratio": 40.12,
+      "prev_ratio": 40.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V7IJ",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "田邊　勝己",
+      "ratio": 32.84,
+      "prev_ratio": 29.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNG6",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.85,
+      "prev_ratio": 5.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNV4",
+      "sec": "2936",
+      "name": "ベースフード株式会社",
+      "filer": "牧　寛之",
+      "ratio": 33.17,
+      "prev_ratio": 33.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VHNO",
+      "sec": "9435",
+      "name": "株式会社光通信",
+      "filer": "公益財団法人重田教育財団",
+      "ratio": null,
+      "prev_ratio": 10.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNOR",
+      "sec": "9409",
+      "name": "株式会社テレビ朝日ホールディングス",
+      "filer": "東映株式会社",
+      "ratio": 17.07,
+      "prev_ratio": 17.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNZD",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "株式会社Ｂｌｕｅ　Ｌａｇｏｏｎ",
+      "ratio": 51.24,
+      "prev_ratio": 57.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNDQ",
+      "sec": "149A",
+      "name": "株式会社シンカ",
+      "filer": "大和企業投資株式会社",
+      "ratio": 10.43,
+      "prev_ratio": 11.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOCN",
+      "sec": "9377",
+      "name": "株式会社エージーピー",
+      "filer": "日本航空株式会社",
+      "ratio": 30.46,
+      "prev_ratio": 29.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNXU",
+      "sec": "3656",
+      "name": "ＫＬａｂ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 15.33,
+      "prev_ratio": 16.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN62",
+      "sec": "3948",
+      "name": "光ビジネスフォーム株式会社",
+      "filer": "Ｂｅ　Ｂｒａｖｅ株式会社",
+      "ratio": 6.02,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNVX",
+      "sec": "6770",
+      "name": "アルプスアルパイン株式会社",
+      "filer": "株式会社エスグラントコーポレーション",
+      "ratio": 8.1,
+      "prev_ratio": 7.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNWD",
+      "sec": "4881",
+      "name": "株式会社ファンペップ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 3.26,
+      "prev_ratio": 3.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOCQ",
+      "sec": "9377",
+      "name": "株式会社エージーピー",
+      "filer": "ＡＮＡホールディングス株式会社",
+      "ratio": 18.29,
+      "prev_ratio": 18.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNV1",
+      "sec": "9377",
+      "name": "株式会社エージーピー",
+      "filer": "日本空港ビルデング株式会社",
+      "ratio": 24.5,
+      "prev_ratio": 23.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO8T",
+      "sec": "6305",
+      "name": "日立建機株式会社",
+      "filer": "シトラスインベストメント合同会社",
+      "ratio": 6.34,
+      "prev_ratio": 5.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO57",
+      "sec": "6224",
+      "name": "株式会社ＪＲＣ",
+      "filer": "濱口　稔",
+      "ratio": 85.0,
+      "prev_ratio": 1.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VODJ",
+      "sec": "6379",
+      "name": "レイズネクスト株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.49,
+      "prev_ratio": 7.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VND4",
+      "sec": "9428",
+      "name": "株式会社クロップス",
+      "filer": "光通信株式会社",
+      "ratio": 7.54,
+      "prev_ratio": 7.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOD7",
+      "sec": "5027",
+      "name": "AnyMind Group株式会社",
+      "filer": "十河　宏輔",
+      "ratio": 37.55,
+      "prev_ratio": 37.55,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

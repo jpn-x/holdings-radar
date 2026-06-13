@@ -1,0 +1,417 @@
+{
+  "date": "2025-11-06",
+  "new": [
+    {
+      "docId": "S100WYOG",
+      "sec": "3189",
+      "name": "株式会社ANAPホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WYS5",
+      "sec": "7383",
+      "name": "株式会社ネットプロテクションズホールディングス",
+      "filer": "Ｄｒｉｅｈａｕｓ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 5.16,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WXKM",
+      "sec": "442A",
+      "name": "クラシコ株式会社",
+      "filer": "大和　新",
+      "ratio": 34.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WXV8",
+      "sec": "441A",
+      "name": "NE株式会社",
+      "filer": "ＡＯＩ株式会社",
+      "ratio": 32.19,
+      "prev_ratio": 47.54,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WYXT",
+      "sec": "7214",
+      "name": "ＧＭＢ株式会社",
+      "filer": "松岡信夫",
+      "ratio": 18.9,
+      "prev_ratio": 18.9,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WYAJ",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 21.59,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WXRR",
+      "sec": "4027",
+      "name": "テイカ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WZ0E",
+      "sec": "6807",
+      "name": "日本航空電子工業株式会社",
+      "filer": "京セラ株式会社",
+      "ratio": 31.62,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WXVF",
+      "sec": "4917",
+      "name": "株式会社マンダム",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WZ9F",
+      "sec": "9082",
+      "name": "大和自動車交通株式会社",
+      "filer": "国際自動車株式会社",
+      "ratio": 7.14,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WYXS",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 7.000000000000001,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYTH",
+      "sec": "5243",
+      "name": "note株式会社",
+      "filer": "株式会社日本経済新聞社",
+      "ratio": 3.97,
+      "prev_ratio": 6.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ1J",
+      "sec": "5131",
+      "name": "リンカーズ株式会社",
+      "filer": "加福　秀亙",
+      "ratio": 6.05,
+      "prev_ratio": 6.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WV54",
+      "sec": "5010",
+      "name": "日本精蝋株式会社",
+      "filer": "ジャパン・インダストリアル・ソリューションズ株式会社",
+      "ratio": 51.78,
+      "prev_ratio": 63.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WY7D",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "ネットプライス事業再生合同会社",
+      "ratio": 39.54,
+      "prev_ratio": 41.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ3Q",
+      "sec": "290A",
+      "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
+      "filer": "野村證券株式会社",
+      "ratio": 6.92,
+      "prev_ratio": 8.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYHD",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "宇内　章起",
+      "ratio": null,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ3O",
+      "sec": "5185",
+      "name": "株式会社フコク",
+      "filer": "Ｊ河本株式会社",
+      "ratio": 6.63,
+      "prev_ratio": 6.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXUZ",
+      "sec": "4418",
+      "name": "株式会社JDSC",
+      "filer": "淵　高晴",
+      "ratio": 2.97,
+      "prev_ratio": 7.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYWY",
+      "sec": "5801",
+      "name": "古河電気工業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 1.13,
+      "prev_ratio": 37.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYIW",
+      "sec": "7119",
+      "name": "株式会社ハルメクホールディングス",
+      "filer": "山元　雄太",
+      "ratio": 13.8,
+      "prev_ratio": 14.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ6N",
+      "sec": "3655",
+      "name": "株式会社ブレインパッド",
+      "filer": "高橋　隆史",
+      "ratio": 1.2,
+      "prev_ratio": 1.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ77",
+      "sec": "3655",
+      "name": "株式会社ブレインパッド",
+      "filer": "佐藤　清之輔",
+      "ratio": 7.58,
+      "prev_ratio": 7.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ7F",
+      "sec": "3655",
+      "name": "株式会社ブレインパッド",
+      "filer": "佐藤　清之輔",
+      "ratio": 7.59,
+      "prev_ratio": 7.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WY8K",
+      "sec": "6047",
+      "name": "株式会社Gunosy",
+      "filer": "木村　新司",
+      "ratio": 24.17,
+      "prev_ratio": 23.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYB3",
+      "sec": "2681",
+      "name": "株式会社ゲオホールディングス",
+      "filer": "遠藤　結蔵",
+      "ratio": 1.55,
+      "prev_ratio": 1.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYHJ",
+      "sec": "8887",
+      "name": "株式会社シーラホールディングス",
+      "filer": "杉本　宏之",
+      "ratio": 11.01,
+      "prev_ratio": 11.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXW8",
+      "sec": "1826",
+      "name": "佐田建設株式会社",
+      "filer": "重田　光時",
+      "ratio": null,
+      "prev_ratio": 7.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ4O",
+      "sec": "438A",
+      "name": "株式会社インフキュリオン",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 2.58,
+      "prev_ratio": 2.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXIW",
+      "sec": "3526",
+      "name": "芦森工業株式会社",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 9.55,
+      "prev_ratio": 8.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ9X",
+      "sec": "2986",
+      "name": "株式会社LAホールディングス",
+      "filer": "サマーリバー合同会社",
+      "ratio": 5.22,
+      "prev_ratio": 5.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXM4",
+      "sec": "7250",
+      "name": "太平洋工業株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 13.97,
+      "prev_ratio": 12.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYIY",
+      "sec": "7991",
+      "name": "マミヤ・オーピー株式会社",
+      "filer": "丹野　裕介",
+      "ratio": 12.27,
+      "prev_ratio": 11.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WY8O",
+      "sec": "3175",
+      "name": "株式会社エー・ピーホールディングス",
+      "filer": "米山　久",
+      "ratio": 42.38,
+      "prev_ratio": 42.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ9J",
+      "sec": "6807",
+      "name": "日本航空電子工業株式会社",
+      "filer": "日本電気株式会社",
+      "ratio": 49.0,
+      "prev_ratio": 31.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZD0",
+      "sec": "4957",
+      "name": "ヤスハラケミカル株式会社",
+      "filer": "ワイエス興産有限会社",
+      "ratio": 11.41,
+      "prev_ratio": 11.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZD9",
+      "sec": "4957",
+      "name": "ヤスハラケミカル株式会社",
+      "filer": "安原　禎二",
+      "ratio": 10.95,
+      "prev_ratio": 10.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZD3",
+      "sec": "4418",
+      "name": "株式会社JDSC",
+      "filer": "淵　高晴",
+      "ratio": 3.17,
+      "prev_ratio": 7.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZDI",
+      "sec": "4957",
+      "name": "ヤスハラケミカル株式会社",
+      "filer": "沖津　弘之",
+      "ratio": 1.35,
+      "prev_ratio": 1.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZDS",
+      "sec": "4957",
+      "name": "ヤスハラケミカル株式会社",
+      "filer": "有限会社マキ",
+      "ratio": 3.72,
+      "prev_ratio": 3.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYN5",
+      "sec": "9563",
+      "name": "Atlas Technologies株式会社",
+      "filer": "山本　浩司",
+      "ratio": 67.27,
+      "prev_ratio": 67.27,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

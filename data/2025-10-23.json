@@ -1,0 +1,257 @@
+{
+  "date": "2025-10-23",
+  "new": [
+    {
+      "docId": "S100WWJ3",
+      "sec": "431A",
+      "name": "ユーソナー株式会社",
+      "filer": "三井物産企業投資株式会社",
+      "ratio": 9.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WSCG",
+      "sec": "434A",
+      "name": "株式会社ＬＯＯＰＬＡＣＥ",
+      "filer": "飯田　泰敬",
+      "ratio": 29.99,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWLC",
+      "sec": "6859",
+      "name": "エスペック株式会社",
+      "filer": "森川　智",
+      "ratio": 9.52,
+      "prev_ratio": 8.45,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWLO",
+      "sec": "6859",
+      "name": "エスペック株式会社",
+      "filer": "森川　智",
+      "ratio": 7.04,
+      "prev_ratio": 9.52,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WVRD",
+      "sec": "429A",
+      "name": "テクセンドフォトマスク株式会社",
+      "filer": "ＴＯＰＰＡＮホールディングス株式会社",
+      "ratio": 46.57,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WVHX",
+      "sec": "4548",
+      "name": "生化学工業株式会社",
+      "filer": "新業株式会社",
+      "ratio": 13.81,
+      "prev_ratio": 13.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWGD",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.3,
+      "prev_ratio": 24.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWKY",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.34,
+      "prev_ratio": 7.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWFY",
+      "sec": "7552",
+      "name": "株式会社ハピネット",
+      "filer": "三井住友ＤＳアセットマネジメント株式会社",
+      "ratio": 7.45,
+      "prev_ratio": 6.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWLC",
+      "sec": "6859",
+      "name": "エスペック株式会社",
+      "filer": "森川　智",
+      "ratio": 9.52,
+      "prev_ratio": 8.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWLO",
+      "sec": "6859",
+      "name": "エスペック株式会社",
+      "filer": "森川　智",
+      "ratio": 7.04,
+      "prev_ratio": 9.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWO2",
+      "sec": "324A",
+      "name": "株式会社ブッキングリゾート",
+      "filer": "エス・エヌ・ホールディングス有限会社",
+      "ratio": 44.33,
+      "prev_ratio": 45.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU3X",
+      "sec": "415A",
+      "name": "GMO TECHホールディングス株式会社",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 50.25,
+      "prev_ratio": 43.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWN2",
+      "sec": "2315",
+      "name": "株式会社CAICA DIGITAL",
+      "filer": "株式会社ネクスグループ",
+      "ratio": 10.3,
+      "prev_ratio": 55.00000000000001,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWAG",
+      "sec": "8714",
+      "name": "株式会社池田泉州ホールディングス",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 8.61,
+      "prev_ratio": 7.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVQW",
+      "sec": "7991",
+      "name": "マミヤ・オーピー株式会社",
+      "filer": "丹野　裕介",
+      "ratio": 9.53,
+      "prev_ratio": 8.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWFB",
+      "sec": "7601",
+      "name": "株式会社ポプラ",
+      "filer": "株式会社ローソン",
+      "ratio": null,
+      "prev_ratio": 18.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW2S",
+      "sec": "3678",
+      "name": "株式会社メディアドゥ",
+      "filer": "光通信株式会社",
+      "ratio": 7.54,
+      "prev_ratio": 7.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWPE",
+      "sec": "6568",
+      "name": "神戸天然物化学株式会社",
+      "filer": "ＫＮＣ興産株式会社",
+      "ratio": 19.52,
+      "prev_ratio": 20.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWPP",
+      "sec": "6568",
+      "name": "神戸天然物化学株式会社",
+      "filer": "ＫＮＣ興産株式会社",
+      "ratio": 19.43,
+      "prev_ratio": 19.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVZ3",
+      "sec": "7740",
+      "name": "株式会社タムロン",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 13.06,
+      "prev_ratio": 12.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWQ6",
+      "sec": "3136",
+      "name": "株式会社エコノス",
+      "filer": "株式会社ハードオフコーポレーション",
+      "ratio": 99.97,
+      "prev_ratio": 97.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWQB",
+      "sec": "6568",
+      "name": "神戸天然物化学株式会社",
+      "filer": "広瀬　克利",
+      "ratio": 9.3,
+      "prev_ratio": 18.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUQA",
+      "sec": "7514",
+      "name": "株式会社ヒマラヤ",
+      "filer": "小森　裕作",
+      "ratio": 2.96,
+      "prev_ratio": 2.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWN1",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "Ｄａｎ　Ｔａｋａｈａｓｈｉ　ＬＬＣ",
+      "ratio": 60.54,
+      "prev_ratio": 61.63,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

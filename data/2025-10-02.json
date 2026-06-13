@@ -1,0 +1,387 @@
+{
+  "date": "2025-10-02",
+  "new": [
+    {
+      "docId": "S100WSL1",
+      "sec": "409A",
+      "name": "オリオンビール株式会社",
+      "filer": "近鉄グループホールディングス株式会社",
+      "ratio": 10.09,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WQCE",
+      "sec": "406A",
+      "name": "環境のミカタホールディングス株式会社",
+      "filer": "東京中小企業投資育成株式会社",
+      "ratio": 15.71,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WQX8",
+      "sec": "409A",
+      "name": "オリオンビール株式会社",
+      "filer": "野村キャピタル・パートナーズ株式会社",
+      "ratio": 5.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WPLV",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "山田　敏行",
+      "ratio": 9.48,
+      "prev_ratio": 14.26,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WQ2I",
+      "sec": "415A",
+      "name": "GMO TECHホールディングス株式会社",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 43.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WSN0",
+      "sec": "9240",
+      "name": "株式会社デリバリーコンサルティング",
+      "filer": "日鉄ソリューションズ株式会社",
+      "ratio": 11.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WSYH",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 25.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WSS6",
+      "sec": "4840",
+      "name": "株式会社トライアイズ",
+      "filer": "有限会社キャピタル・マネジメント",
+      "ratio": 7.82,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WS7V",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 14.05,
+      "prev_ratio": 11.19,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WSLG",
+      "sec": "7374",
+      "name": "株式会社コンフィデンス・インターワークス",
+      "filer": "株式会社アミューズキャピタル",
+      "ratio": 20.9,
+      "prev_ratio": 21.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSD2",
+      "sec": "5631",
+      "name": "株式会社日本製鋼所",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 1.1,
+      "prev_ratio": 1.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSRC",
+      "sec": "7501",
+      "name": "株式会社ティムコ",
+      "filer": "酒井　貞彦",
+      "ratio": 4.85,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSKD",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 63.92,
+      "prev_ratio": 61.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSLB",
+      "sec": "4564",
+      "name": "オンコセラピー・サイエンス株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 4.01,
+      "prev_ratio": 5.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSTA",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 63.25,
+      "prev_ratio": 63.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSK7",
+      "sec": "3242",
+      "name": "株式会社アーバネットコーポレーション",
+      "filer": "服部　信治",
+      "ratio": 98.0,
+      "prev_ratio": 1.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSSE",
+      "sec": "4042",
+      "name": "東ソー株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 5.98,
+      "prev_ratio": 7.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSUD",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSUC",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSUE",
+      "sec": "",
+      "name": "",
+      "filer": "みずほ証券株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSRH",
+      "sec": "7864",
+      "name": "株式会社フジシールインターナショナル",
+      "filer": "Ｇｌｏｂａｌ　Ａｌｐｈａ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｔｄ．",
+      "ratio": 5.02,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSUF",
+      "sec": "6957",
+      "name": "株式会社芝浦電子",
+      "filer": "野村證券株式会社",
+      "ratio": 3.87,
+      "prev_ratio": 11.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSLP",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 31.24,
+      "prev_ratio": 32.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSP1",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": 25.27,
+      "prev_ratio": 18.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSS7",
+      "sec": "3415",
+      "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
+      "filer": "中水　英紀",
+      "ratio": 3.37,
+      "prev_ratio": 4.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSW1",
+      "sec": "7271",
+      "name": "株式会社安永",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 3.0,
+      "prev_ratio": 11.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSVS",
+      "sec": "9793",
+      "name": "株式会社ダイセキ",
+      "filer": "Ｇｌｏｂａｌ　Ａｌｐｈａ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｔｄ．",
+      "ratio": 4.35,
+      "prev_ratio": 5.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSPL",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": 15.1,
+      "prev_ratio": 25.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WRFU",
+      "sec": "6312",
+      "name": "フロイント産業株式会社",
+      "filer": "牧　寛之",
+      "ratio": 28.07,
+      "prev_ratio": 28.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSYM",
+      "sec": "4576",
+      "name": "株式会社デ・ウエスタン・セラピテクス研究所",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 7.28,
+      "prev_ratio": 11.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSPG",
+      "sec": "4439",
+      "name": "株式会社東名",
+      "filer": "山本　文彦",
+      "ratio": 42.22,
+      "prev_ratio": 42.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSOO",
+      "sec": "3136",
+      "name": "株式会社エコノス",
+      "filer": "ブックオフグループホールディングス株式会社",
+      "ratio": null,
+      "prev_ratio": 6.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSX6",
+      "sec": "7373",
+      "name": "株式会社アイドマ・ホールディングス",
+      "filer": "三浦　陽平",
+      "ratio": 23.56,
+      "prev_ratio": 23.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSZE",
+      "sec": "285A",
+      "name": "キオクシアホールディングス株式会社",
+      "filer": "株式会社　東芝",
+      "ratio": 27.71,
+      "prev_ratio": 28.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOFK",
+      "sec": "8977",
+      "name": "阪急阪神リート投資法人",
+      "filer": "阪急阪神不動産株式会社",
+      "ratio": 9.12,
+      "prev_ratio": 8.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT0C",
+      "sec": "6820",
+      "name": "アイコム株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 4.61,
+      "prev_ratio": 7.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSGH",
+      "sec": "3326",
+      "name": "株式会社ランシステム",
+      "filer": "ＧＡＵＤＩ株式会社",
+      "ratio": 2.27,
+      "prev_ratio": 3.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSWI",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "ＲＩＨＵＡＸＩＮＧ　ＩＮＶＥＳＴＭＥＮＴ　ＬＩＭＩＴＥＤ",
+      "ratio": 5.63,
+      "prev_ratio": 6.46,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

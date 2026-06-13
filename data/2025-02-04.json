@@ -1,0 +1,227 @@
+{
+  "date": "2025-02-04",
+  "new": [
+    {
+      "docId": "S100V62M",
+      "sec": "300A",
+      "name": "ＭＩＣ株式会社",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4VL",
+      "sec": "9305",
+      "name": "株式会社ヤマタネ",
+      "filer": "公益財団法人山種美術財団",
+      "ratio": 8.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V4SE",
+      "sec": "7096",
+      "name": "株式会社ステムセル研究所",
+      "filer": "株式会社日本トリム",
+      "ratio": 72.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V6K1",
+      "sec": "3458",
+      "name": "株式会社シーアールイー",
+      "filer": "ＳＭＦＬみらいパートナーズ株式会社",
+      "ratio": null,
+      "prev_ratio": 41.01,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V67J",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6B5",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 4.85,
+      "prev_ratio": 7.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6BD",
+      "sec": "5253",
+      "name": "カバー株式会社",
+      "filer": "１２　Ｗｅｓｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＰ",
+      "ratio": 6.18,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6EW",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 33.02,
+      "prev_ratio": 34.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6DD",
+      "sec": "7096",
+      "name": "株式会社ステムセル研究所",
+      "filer": "株式会社トリムメディカルホールディングス",
+      "ratio": null,
+      "prev_ratio": 72.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6HQ",
+      "sec": "5255",
+      "name": "株式会社モンスターラボホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 38.5,
+      "prev_ratio": 39.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V680",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 26.53,
+      "prev_ratio": 27.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6IN",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 20.94,
+      "prev_ratio": 22.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6IU",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 25.09,
+      "prev_ratio": 26.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6JW",
+      "sec": "6640",
+      "name": "Ｉ‐ＰＥＸ株式会社",
+      "filer": "ＤＭＣ株式会社",
+      "ratio": 36.43,
+      "prev_ratio": 36.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6GB",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "ＭＭＸＸベンチャーズ・リミテッド",
+      "ratio": 11.09,
+      "prev_ratio": 11.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5OC",
+      "sec": "7342",
+      "name": "ウェルスナビ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 99.95,
+      "prev_ratio": 93.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6IP",
+      "sec": "3458",
+      "name": "株式会社シーアールイー",
+      "filer": "京橋興産株式会社",
+      "ratio": 40.95,
+      "prev_ratio": 41.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V406",
+      "sec": "1730",
+      "name": "麻生フオームクリート株式会社",
+      "filer": "株式会社麻生",
+      "ratio": 41.52,
+      "prev_ratio": 41.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V52W",
+      "sec": "3080",
+      "name": "株式会社ジェーソン",
+      "filer": "太田万三彦",
+      "ratio": 26.47,
+      "prev_ratio": 29.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5MC",
+      "sec": "3529",
+      "name": "アツギ株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 14.61,
+      "prev_ratio": 13.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V61R",
+      "sec": "9517",
+      "name": "イーレックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 76.0,
+      "prev_ratio": 80.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6IB",
+      "sec": "2294",
+      "name": "株式会社柿安本店",
+      "filer": "株式会社赤塚興産",
+      "ratio": 7.25,
+      "prev_ratio": 7.25,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

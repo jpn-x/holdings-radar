@@ -1,0 +1,227 @@
+{
+  "date": "2025-08-13",
+  "new": [
+    {
+      "docId": "S100WFA0",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 39.51,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WIHN",
+      "sec": "398A",
+      "name": "株式会社リアルクオリティ",
+      "filer": "株式会社リアルクオリティ",
+      "ratio": 99.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WHUN",
+      "sec": "9308",
+      "name": "乾汽船株式会社",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WIEW",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "和德投資有限公司",
+      "ratio": 8.22,
+      "prev_ratio": 5.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIPC",
+      "sec": "2936",
+      "name": "ベースフード株式会社",
+      "filer": "橋本　舜",
+      "ratio": 34.62,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIPR",
+      "sec": "2936",
+      "name": "ベースフード株式会社",
+      "filer": "橋本　舜",
+      "ratio": 32.23,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIPX",
+      "sec": "2782",
+      "name": "株式会社セリア",
+      "filer": "株式会社ヒロコーポレーション",
+      "ratio": 16.57,
+      "prev_ratio": 33.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WI0L",
+      "sec": "7575",
+      "name": "日本ライフライン株式会社",
+      "filer": "鈴木　啓介",
+      "ratio": 1.29,
+      "prev_ratio": 2.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WI3O",
+      "sec": "7575",
+      "name": "日本ライフライン株式会社",
+      "filer": "鈴木　啓介",
+      "ratio": 1.29,
+      "prev_ratio": 1.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHTW",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 7.97,
+      "prev_ratio": 8.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIJT",
+      "sec": "8105",
+      "name": "堀田丸正株式会社",
+      "filer": "ＲＩＺＡＰグループ株式会社",
+      "ratio": 25.69,
+      "prev_ratio": 53.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHUI",
+      "sec": "9334",
+      "name": "株式会社アイビスホールディングス",
+      "filer": "株式会社旺司ライフワーク",
+      "ratio": 94.22,
+      "prev_ratio": 98.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHE1",
+      "sec": "9279",
+      "name": "株式会社ギフトホールディングス",
+      "filer": "田川　翔",
+      "ratio": 1.43,
+      "prev_ratio": 2.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WHJW",
+      "sec": "3917",
+      "name": "株式会社アイリッジ",
+      "filer": "小田　健太郎",
+      "ratio": 35.04,
+      "prev_ratio": 33.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIV6",
+      "sec": "3917",
+      "name": "株式会社アイリッジ",
+      "filer": "小田　健太郎",
+      "ratio": 37.05,
+      "prev_ratio": 35.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIVK",
+      "sec": "3917",
+      "name": "株式会社アイリッジ",
+      "filer": "小田　健太郎",
+      "ratio": 34.91,
+      "prev_ratio": 37.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WINC",
+      "sec": "2993",
+      "name": "株式会社長栄",
+      "filer": "ＯＳＡフィールド株式会社",
+      "ratio": 8.16,
+      "prev_ratio": 8.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIVE",
+      "sec": "7003",
+      "name": "株式会社三井E&amp;S",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.6,
+      "prev_ratio": 7.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIRR",
+      "sec": "7127",
+      "name": "株式会社一家ホールディングス",
+      "filer": "武長　太郎",
+      "ratio": 15.16,
+      "prev_ratio": 16.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIMZ",
+      "sec": "387A",
+      "name": "フラー株式会社",
+      "filer": "Ｂ　Ｄａｓｈ　Ｖｅｎｔｕｒｅｓ株式会社",
+      "ratio": 7.62,
+      "prev_ratio": 8.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIWY",
+      "sec": "3540",
+      "name": "株式会社歯愛メディカル",
+      "filer": "清水　清人",
+      "ratio": 46.73,
+      "prev_ratio": 46.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIDL",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 21.26,
+      "prev_ratio": 22.08,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

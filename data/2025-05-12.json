@@ -1,0 +1,267 @@
+{
+  "date": "2025-05-12",
+  "new": [
+    {
+      "docId": "S100VPD2",
+      "sec": "9246",
+      "name": "株式会社プロジェクトホールディングス",
+      "filer": "株式会社キャプスタン・メディカル",
+      "ratio": 14.64,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VQ8S",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.92,
+      "prev_ratio": 20.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPHT",
+      "sec": "186A",
+      "name": "株式会社アストロスケールホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 1.02,
+      "prev_ratio": 1.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPHW",
+      "sec": "3103",
+      "name": "ユニチカ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 1.35,
+      "prev_ratio": 4.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPQ0",
+      "sec": "6323",
+      "name": "ローツェ株式会社",
+      "filer": "崎谷　文雄",
+      "ratio": 35.11,
+      "prev_ratio": 35.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQEU",
+      "sec": "4992",
+      "name": "北興化学工業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 3.25,
+      "prev_ratio": 3.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQEY",
+      "sec": "9254",
+      "name": "株式会社ラバブルマーケティンググループ",
+      "filer": "ＡＩフュージョンキャピタルグループ株式会社",
+      "ratio": 25.91,
+      "prev_ratio": 20.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPYF",
+      "sec": "4820",
+      "name": "株式会社　イーエムシステムズ",
+      "filer": "國光　浩三",
+      "ratio": 28.999999999999996,
+      "prev_ratio": 54.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQFZ",
+      "sec": "5585",
+      "name": "エコナビスタ株式会社",
+      "filer": "渡邉君人",
+      "ratio": null,
+      "prev_ratio": 9.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP82",
+      "sec": "3765",
+      "name": "ガンホー・オンライン・エンターテイメント株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 7.5,
+      "prev_ratio": 7.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQFV",
+      "sec": "5585",
+      "name": "エコナビスタ株式会社",
+      "filer": "株式会社ココアアセット",
+      "ratio": null,
+      "prev_ratio": 31.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ42",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 23.34,
+      "prev_ratio": 23.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ6X",
+      "sec": "260A",
+      "name": "株式会社オルツ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 3.41,
+      "prev_ratio": 3.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPX5",
+      "sec": "9246",
+      "name": "株式会社プロジェクトホールディングス",
+      "filer": "土井　悠之介",
+      "ratio": 29.68,
+      "prev_ratio": 29.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ9Y",
+      "sec": "3242",
+      "name": "株式会社アーバネットコーポレーション",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 10.0,
+      "prev_ratio": 10.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ3W",
+      "sec": "5585",
+      "name": "エコナビスタ株式会社",
+      "filer": "東京瓦斯株式会社",
+      "ratio": null,
+      "prev_ratio": 9.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPBV",
+      "sec": "5252",
+      "name": "日本ナレッジ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.67,
+      "prev_ratio": 7.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ07",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 11.31,
+      "prev_ratio": 10.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPBZ",
+      "sec": "7544",
+      "name": "株式会社スリーエフ",
+      "filer": "光通信株式会社",
+      "ratio": 6.37,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPC0",
+      "sec": "7823",
+      "name": "株式会社アートネイチャー",
+      "filer": "光通信株式会社",
+      "ratio": 7.1,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ8M",
+      "sec": "4891",
+      "name": "株式会社ティムス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 12.23,
+      "prev_ratio": 13.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPNN",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "ＡＮＤＹ　＆　ＰＡＲＴＮＥＲＳ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 27.13,
+      "prev_ratio": 28.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPYP",
+      "sec": "9166",
+      "name": "株式会社 GENDA",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 32.95,
+      "prev_ratio": 38.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPYG",
+      "sec": "7685",
+      "name": "株式会社 BuySell Technologies",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 59.07,
+      "prev_ratio": 59.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ4A",
+      "sec": "2477",
+      "name": "手間いらず株式会社",
+      "filer": "渡邉　哲男",
+      "ratio": 8.94,
+      "prev_ratio": 9.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQ7M",
+      "sec": "5572",
+      "name": "株式会社Ｒｉｄｇｅ－ｉ",
+      "filer": "柳原　尚史",
+      "ratio": 27.77,
+      "prev_ratio": 28.85,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

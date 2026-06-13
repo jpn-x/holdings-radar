@@ -1,0 +1,297 @@
+{
+  "date": "2025-05-01",
+  "new": [
+    {
+      "docId": "S100VOX1",
+      "sec": "353A",
+      "name": "エレベーターコミュニケーションズ株式会社",
+      "filer": "薄田　章博",
+      "ratio": 18.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VOXQ",
+      "sec": "353A",
+      "name": "エレベーターコミュニケーションズ株式会社",
+      "filer": "村石　誠司",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VO7V",
+      "sec": "1515",
+      "name": "日鉄鉱業株式会社",
+      "filer": "Ｃｏｎｔｉｎｅｎｔａｌ　Ｇｅｎｅｒａｌ　Ｉｎｓｕｒａｎｃｅ　Ｃｏｍｐａｎｙ",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VP1D",
+      "sec": "352A",
+      "name": "株式会社LIFE CREATE",
+      "filer": "前川　彩香",
+      "ratio": 38.3,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VOTP",
+      "sec": "5136",
+      "name": "ｔｒｉｐｌａ株式会社",
+      "filer": "Ｗｏｊｃｉｅｃｈ　Ｊａｋｕｂ　Ｐｏｄｏｂａｓ",
+      "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VO4P",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "株式会社グローバルエナジー",
+      "ratio": 6.58,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VO01",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "株式会社ミュージックコーポレーション",
+      "ratio": 8.77,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VOY0",
+      "sec": "2820",
+      "name": "株式会社やまみ",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 5.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VORQ",
+      "sec": "7605",
+      "name": "株式会社　フジ・コーポレーション",
+      "filer": "ＦＭＲ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 10.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNKC",
+      "sec": "3733",
+      "name": "株式会社ソフトウェア・サービス",
+      "filer": "宮﨑　勝",
+      "ratio": 23.69,
+      "prev_ratio": 23.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP18",
+      "sec": "254A",
+      "name": "AIフュージョンキャピタルグループ株式会社",
+      "filer": "上原　俊彦",
+      "ratio": 9.98,
+      "prev_ratio": 8.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOZS",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.59,
+      "prev_ratio": 22.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP3A",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "村井　智建",
+      "ratio": 9.38,
+      "prev_ratio": 12.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VO99",
+      "sec": "3053",
+      "name": "株式会社ペッパーフードサービス",
+      "filer": "株式会社フラッグシップアセットマネジメント",
+      "ratio": 1.83,
+      "prev_ratio": 2.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOXN",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "Ａｐａｍａｎ　Ｎｅｔｗｏｒｋ株式会社",
+      "ratio": 22.71,
+      "prev_ratio": 23.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOLI",
+      "sec": "9254",
+      "name": "株式会社ラバブルマーケティンググループ",
+      "filer": "各務　正人",
+      "ratio": 9.17,
+      "prev_ratio": 8.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP34",
+      "sec": "4441",
+      "name": "トビラシステムズ株式会社",
+      "filer": "明田　篤",
+      "ratio": 44.28,
+      "prev_ratio": 44.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP04",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 4.26,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOY8",
+      "sec": "6265",
+      "name": "コンバム株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.17,
+      "prev_ratio": 7.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP1E",
+      "sec": "2162",
+      "name": "ｎｍｓホールディングス株式会社",
+      "filer": "日本アジア投資株式会社",
+      "ratio": 7.57,
+      "prev_ratio": 7.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP4E",
+      "sec": "4176",
+      "name": "株式会社ココナラ",
+      "filer": "南　章行",
+      "ratio": null,
+      "prev_ratio": 9.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP4T",
+      "sec": "4526",
+      "name": "理研ビタミン株式会社",
+      "filer": "小林　光夫",
+      "ratio": 10.6,
+      "prev_ratio": 9.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP58",
+      "sec": "4173",
+      "name": "株式会社ＷＡＣＵＬ",
+      "filer": "大淵　亮平",
+      "ratio": 19.09,
+      "prev_ratio": 19.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP53",
+      "sec": "4173",
+      "name": "株式会社ＷＡＣＵＬ",
+      "filer": "大淵　亮平",
+      "ratio": 18.33,
+      "prev_ratio": 19.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP59",
+      "sec": "4173",
+      "name": "株式会社ＷＡＣＵＬ",
+      "filer": "垣内　勇威",
+      "ratio": 13.24,
+      "prev_ratio": 13.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VP52",
+      "sec": "4173",
+      "name": "株式会社ＷＡＣＵＬ",
+      "filer": "垣内　勇威",
+      "ratio": 12.45,
+      "prev_ratio": 13.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNDL",
+      "sec": "5337",
+      "name": "ダントーホールディングス株式会社",
+      "filer": "ＶＩＮＴＡＧＥ　ＣＡＶＥ　ＴＯＫＹＯ　株式会社",
+      "ratio": 8.99,
+      "prev_ratio": 7.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOUN",
+      "sec": "4270",
+      "name": "株式会社BeeX",
+      "filer": "株式会社テラスカイ",
+      "ratio": 65.99,
+      "prev_ratio": 67.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOSE",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "ＫＡＹ　ＬＥＯ　ＢＲＯＴＨＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 6.58,
+      "prev_ratio": 21.93,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

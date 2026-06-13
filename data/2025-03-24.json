@@ -1,0 +1,477 @@
+{
+  "date": "2025-03-24",
+  "new": [
+    {
+      "docId": "S100VFQ5",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.8,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VF8U",
+      "sec": "3666",
+      "name": "株式会社テクノスジャパン",
+      "filer": "シー・シックス・エイト株式会社",
+      "ratio": 86.63,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VFV8",
+      "sec": "333A",
+      "name": "株式会社テクノスマイル",
+      "filer": "馬見塚　讓",
+      "ratio": 12.79,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VG8Z",
+      "sec": "8956",
+      "name": "ＮＴＴ都市開発リート投資法人",
+      "filer": "エヌ・ティ・ティ都市開発株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VFY6",
+      "sec": "3458",
+      "name": "株式会社シーアールイー",
+      "filer": "京橋興産株式会社",
+      "ratio": 40.95,
+      "prev_ratio": 40.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEC6",
+      "sec": "9221",
+      "name": "フルハシＥＰＯ株式会社",
+      "filer": "山口　直彦",
+      "ratio": 1.49,
+      "prev_ratio": 1.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFPK",
+      "sec": "4114",
+      "name": "株式会社日本触媒",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 5.74,
+      "prev_ratio": 6.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFNK",
+      "sec": "7422",
+      "name": "東邦レマック株式会社",
+      "filer": "株式会社フロンティアグループ",
+      "ratio": 18.43,
+      "prev_ratio": 18.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFQF",
+      "sec": "4536",
+      "name": "参天製薬株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.13,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFQU",
+      "sec": "4887",
+      "name": "サワイグループホールディングス株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 5.72,
+      "prev_ratio": 6.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFR0",
+      "sec": "6302",
+      "name": "住友重機械工業株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 13.65,
+      "prev_ratio": 13.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFRN",
+      "sec": "5232",
+      "name": "住友大阪セメント株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 21.54,
+      "prev_ratio": 20.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFW7",
+      "sec": "5110",
+      "name": "住友ゴム工業株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 8.82,
+      "prev_ratio": 9.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFWF",
+      "sec": "9987",
+      "name": "株式会社スズケン",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 5.07,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFWP",
+      "sec": "6395",
+      "name": "株式会社タダノ",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 10.01,
+      "prev_ratio": 9.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFWT",
+      "sec": "4042",
+      "name": "東ソー株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.06,
+      "prev_ratio": 7.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFWV",
+      "sec": "7272",
+      "name": "ヤマハ発動機株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.76,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEKB",
+      "sec": "5461",
+      "name": "中部鋼鈑株式会社",
+      "filer": "田島　徹也",
+      "ratio": 8.49,
+      "prev_ratio": 10.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG0H",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.75,
+      "prev_ratio": 13.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFZ9",
+      "sec": "2762",
+      "name": "株式会社SANKO MARKETING FOODS",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.76,
+      "prev_ratio": 21.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG12",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 19.85,
+      "prev_ratio": 21.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF7S",
+      "sec": "5595",
+      "name": "株式会社ＱＰＳ研究所",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 14.38,
+      "prev_ratio": 15.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG28",
+      "sec": "3953",
+      "name": "大村紙業株式会社",
+      "filer": "大村　日出雄",
+      "ratio": 10.55,
+      "prev_ratio": 10.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEZE",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "長澤　誠",
+      "ratio": 27.48,
+      "prev_ratio": 36.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFY9",
+      "sec": "7130",
+      "name": "ヤマエグループホールディングス株式会社",
+      "filer": "堀口　英樹",
+      "ratio": 4.4,
+      "prev_ratio": 5.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFYF",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 40.35,
+      "prev_ratio": 43.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG3H",
+      "sec": "155A",
+      "name": "株式会社情報戦略テクノロジー",
+      "filer": "髙井　淳",
+      "ratio": 37.39,
+      "prev_ratio": 38.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFMG",
+      "sec": "3666",
+      "name": "株式会社テクノスジャパン",
+      "filer": "德平　正憲",
+      "ratio": null,
+      "prev_ratio": 9.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG3Y",
+      "sec": "6967",
+      "name": "新光電気工業株式会社",
+      "filer": "富士通株式会社",
+      "ratio": 50.0,
+      "prev_ratio": 50.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDNT",
+      "sec": "5191",
+      "name": "住友理工株式会社",
+      "filer": "マルヤス工業株式会社",
+      "ratio": 8.8,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFRR",
+      "sec": "7559",
+      "name": "ジーエフシー株式会社",
+      "filer": "有限会社ニシムラ",
+      "ratio": 25.86,
+      "prev_ratio": 25.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG4F",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 13.88,
+      "prev_ratio": 14.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG5R",
+      "sec": "3611",
+      "name": "株式会社マツオカコーポレーション",
+      "filer": "株式会社日本政策投資銀行",
+      "ratio": 7.42,
+      "prev_ratio": 11.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFQE",
+      "sec": "6086",
+      "name": "シンメンテホールディングス株式会社",
+      "filer": "ＡＭＩＲＡＬ　ＧＥＳＴＩＯＮ",
+      "ratio": 7.57,
+      "prev_ratio": 8.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFXM",
+      "sec": "6573",
+      "name": "アジャイルメディア・ネットワーク株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 8.71,
+      "prev_ratio": 10.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VF8G",
+      "sec": "135A",
+      "name": "株式会社ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+      "filer": "南塲　勇佑",
+      "ratio": 28.96,
+      "prev_ratio": 28.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEOW",
+      "sec": "5449",
+      "name": "大阪製鐵株式会社",
+      "filer": "日本製鉄株式会社",
+      "ratio": 60.62,
+      "prev_ratio": 60.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG25",
+      "sec": "6232",
+      "name": "株式会社ＡＣＳＬ",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 13.83,
+      "prev_ratio": 13.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFK1",
+      "sec": "5132",
+      "name": "株式会社ｐｌｕｓｚｅｒｏ",
+      "filer": "小代　義行",
+      "ratio": 25.83,
+      "prev_ratio": 26.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEOA",
+      "sec": "1766",
+      "name": "東建コーポレーション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.38,
+      "prev_ratio": 7.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFYJ",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 21.43,
+      "prev_ratio": 22.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFVU",
+      "sec": "7278",
+      "name": "株式会社エクセディ",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 3.68,
+      "prev_ratio": 4.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG85",
+      "sec": "2461",
+      "name": "株式会社ファンコミュニケーションズ",
+      "filer": "光通信株式会社",
+      "ratio": 8.29,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFGW",
+      "sec": "2162",
+      "name": "ｎｍｓホールディングス株式会社",
+      "filer": "日本アジア投資株式会社",
+      "ratio": 1.4,
+      "prev_ratio": 28.000000000000004,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG6P",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＳＵＮ　ＯＲＧＡＮＩＣ　ＦＡＲＭ株式会社",
+      "ratio": 52.22,
+      "prev_ratio": 55.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VG51",
+      "sec": "6062",
+      "name": "株式会社チャーム・ケア・コーポレーション",
+      "filer": "下村　隆彦",
+      "ratio": 16.21,
+      "prev_ratio": 16.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE92",
+      "sec": "7958",
+      "name": "天馬株式会社",
+      "filer": "ＦＨＬホールディングス株式会社",
+      "ratio": 12.49,
+      "prev_ratio": 11.46,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

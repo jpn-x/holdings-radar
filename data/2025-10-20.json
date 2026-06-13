@@ -1,0 +1,397 @@
+{
+  "date": "2025-10-20",
+  "new": [
+    {
+      "docId": "S100WULP",
+      "sec": "7837",
+      "name": "株式会社アールシーコア",
+      "filer": "旭化成ホームズ株式会社",
+      "ratio": 14.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WTX5",
+      "sec": "433A",
+      "name": "株式会社ＭＪＥ",
+      "filer": "株式会社あやめ家",
+      "ratio": 26.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WTX4",
+      "sec": "433A",
+      "name": "株式会社ＭＪＥ",
+      "filer": "大知　昌幸",
+      "ratio": 26.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WVZ4",
+      "sec": "422A",
+      "name": "ｔａｎｅ ＣＲＥＡＴＩＶＥ株式会社",
+      "filer": "榎　崇斗",
+      "ratio": 66.21,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WW15",
+      "sec": "416A",
+      "name": "富士ユナイトホールディングス株式会社",
+      "filer": "ＥＮＥＯＳホールディングス株式会社",
+      "ratio": 15.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WV56",
+      "sec": "6568",
+      "name": "神戸天然物化学株式会社",
+      "filer": "公益財団法人ＫＮＣ広瀬財団",
+      "ratio": 9.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WVRA",
+      "sec": "5162",
+      "name": "株式会社朝日ラバー",
+      "filer": "晋文金属株式会社",
+      "ratio": 6.54,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WW2G",
+      "sec": "9475",
+      "name": "株式会社昭文社ホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 4.88,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WVR4",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "株式会社ＢＣＪ‐１００",
+      "ratio": 53.67,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WVWF",
+      "sec": "4691",
+      "name": "ワシントンホテル株式会社",
+      "filer": "Ｃａｍｂｒｉｄｇｅ　Ａｓｉａ　ＬＬＣ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WVRL",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 31.35,
+      "prev_ratio": 26.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVZA",
+      "sec": "1420",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "オリックス株式会社",
+      "ratio": 11.63,
+      "prev_ratio": 12.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVZ5",
+      "sec": "324A",
+      "name": "株式会社ブッキングリゾート",
+      "filer": "エス・エヌ・ホールディングス有限会社",
+      "ratio": 45.37,
+      "prev_ratio": 46.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVXZ",
+      "sec": "9206",
+      "name": "株式会社スターフライヤー",
+      "filer": "株式会社ジャパネットホールディングス",
+      "ratio": 13.21,
+      "prev_ratio": 33.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVC9",
+      "sec": "5845",
+      "name": "全保連株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": null,
+      "prev_ratio": 1.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVYE",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 11.57,
+      "prev_ratio": 11.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVZU",
+      "sec": "7837",
+      "name": "株式会社アールシーコア",
+      "filer": "二木　渉",
+      "ratio": 2.03,
+      "prev_ratio": 6.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVZG",
+      "sec": "7837",
+      "name": "株式会社アールシーコア",
+      "filer": "二木　敦士",
+      "ratio": 2.01,
+      "prev_ratio": 6.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVZD",
+      "sec": "7837",
+      "name": "株式会社アールシーコア",
+      "filer": "安田　周世",
+      "ratio": null,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSMU",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "関西電力株式会社",
+      "ratio": null,
+      "prev_ratio": 9.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVY6",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "代永衛",
+      "ratio": 5.6,
+      "prev_ratio": 5.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVUL",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "中村　誠司",
+      "ratio": null,
+      "prev_ratio": 8.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW12",
+      "sec": "6232",
+      "name": "株式会社ＡＣＳＬ",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 8.09,
+      "prev_ratio": 5.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVX4",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "Ｔｅａｍ　Ｅｎｅｒｇｙ　ＧＩ株式会社",
+      "ratio": 47.35,
+      "prev_ratio": 47.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU52",
+      "sec": "7525",
+      "name": "リックス株式会社",
+      "filer": "ＮＯＫ株式会社",
+      "ratio": 10.34,
+      "prev_ratio": 11.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW1K",
+      "sec": "1401",
+      "name": "株式会社エムビーエス",
+      "filer": "鳴本　聡一郎",
+      "ratio": 4.66,
+      "prev_ratio": 4.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVYQ",
+      "sec": "6794",
+      "name": "フォスター電機株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 11.44,
+      "prev_ratio": 10.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVYR",
+      "sec": "6361",
+      "name": "株式会社荏原製作所",
+      "filer": "いちごアセットマネジメント・インタ－ナショナル・ピ－ティ－イ－・リミテッド",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVOI",
+      "sec": "7389",
+      "name": "株式会社あいちフィナンシャルグループ",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 6.19,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVPN",
+      "sec": "6327",
+      "name": "北川精機株式会社",
+      "filer": "ＬＩＭ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 18.24,
+      "prev_ratio": 17.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVR9",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "株式会社ＢＣＪ‐１００",
+      "ratio": 53.67,
+      "prev_ratio": 53.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVV8",
+      "sec": "7279",
+      "name": "株式会社ハイレックスコーポレーション",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 6.29,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUNA",
+      "sec": "176A",
+      "name": "レジル株式会社",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 8.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVDM",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "合同会社ＡＥＧＩＳ",
+      "ratio": 5.16,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVY3",
+      "sec": "9219",
+      "name": "株式会社ギックス",
+      "filer": "田中　耕比古",
+      "ratio": 11.5,
+      "prev_ratio": 12.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW2M",
+      "sec": "285A",
+      "name": "キオクシアホールディングス株式会社",
+      "filer": "株式会社　東芝",
+      "ratio": 23.88,
+      "prev_ratio": 24.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW2O",
+      "sec": "5254",
+      "name": "株式会社Ａｒｅｎｔ",
+      "filer": "梅林　真如",
+      "ratio": 3.46,
+      "prev_ratio": 7.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVI8",
+      "sec": "7520",
+      "name": "株式会社エコス",
+      "filer": "株式会社タイラコーポレーション",
+      "ratio": 16.31,
+      "prev_ratio": 14.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW11",
+      "sec": "418A",
+      "name": "ウリドキ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": null,
+      "prev_ratio": 2.14,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "date": "2025-07-15",
+  "new": [
+    {
+      "docId": "S100WD3D",
+      "sec": "6958",
+      "name": "日本シイエムケイ株式会社",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": 5.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WD5U",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "株式会社Ａｄｏ",
+      "ratio": 21.71,
+      "prev_ratio": 24.03,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WD0X",
+      "sec": "8144",
+      "name": "株式会社デンキョーグループホールディングス",
+      "filer": "山中　千佳",
+      "ratio": 13.04,
+      "prev_ratio": 12.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCLH",
+      "sec": "8203",
+      "name": "株式会社ミスターマックス・ホールディングス",
+      "filer": "株式会社ＷａｉｚＨｏｌｄｉｎｇｓ",
+      "ratio": 27.38,
+      "prev_ratio": 21.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD1C",
+      "sec": "9338",
+      "name": "株式会社ＩＮＦＯＲＩＣＨ",
+      "filer": "秋山　広宣",
+      "ratio": 18.36,
+      "prev_ratio": 18.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCZR",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 21.2,
+      "prev_ratio": 22.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCWG",
+      "sec": "1951",
+      "name": "エクシオグループ株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 4.94,
+      "prev_ratio": 5.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD4B",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 1.0,
+      "prev_ratio": 1.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD4C",
+      "sec": "6963",
+      "name": "ローム株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 3.81,
+      "prev_ratio": 4.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD4F",
+      "sec": "8700",
+      "name": "丸八証券株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.64,
+      "prev_ratio": 3.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VTKT",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "合同会社トリコロール２",
+      "ratio": 59.0,
+      "prev_ratio": 8.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBZ0",
+      "sec": "2997",
+      "name": "株式会社ストレージ王",
+      "filer": "株式会社デベロップ",
+      "ratio": 9.89,
+      "prev_ratio": 33.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD0Q",
+      "sec": "4596",
+      "name": "窪田製薬ホールディングス株式会社",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 14.62,
+      "prev_ratio": 15.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD1L",
+      "sec": "3815",
+      "name": "株式会社メディア工房",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 16.94,
+      "prev_ratio": 17.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD0M",
+      "sec": "5602",
+      "name": "株式会社栗本鐵工所",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 4.6,
+      "prev_ratio": 6.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC1W",
+      "sec": "8818",
+      "name": "京阪神ビルディング株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 7.14,
+      "prev_ratio": 5.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC77",
+      "sec": "3750",
+      "name": "株式会社ＡＤＲ１２０Ｓ",
+      "filer": "植島　幹九郎",
+      "ratio": null,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD5Y",
+      "sec": "9760",
+      "name": "株式会社進学会ホールディングス",
+      "filer": "株式会社学研ホールディングス",
+      "ratio": 7.54,
+      "prev_ratio": 8.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WCEV",
+      "sec": "7823",
+      "name": "株式会社アートネイチャー",
+      "filer": "光通信株式会社",
+      "ratio": 7.1,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD6C",
+      "sec": "4055",
+      "name": "ティアンドエスグループ株式会社",
+      "filer": "武川　義浩",
+      "ratio": 24.37,
+      "prev_ratio": 29.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WC65",
+      "sec": "4387",
+      "name": "株式会社ＺＵＵ",
+      "filer": "株式会社ＡＣＮホールディングス",
+      "ratio": 8.19,
+      "prev_ratio": 7.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD70",
+      "sec": "9684",
+      "name": "株式会社スクウェア・エニックス・ホールディングス",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 13.12,
+      "prev_ratio": 11.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD7N",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "株式会社Ａｄｏ",
+      "ratio": 20.01,
+      "prev_ratio": 21.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD7P",
+      "sec": "153A",
+      "name": "株式会社カウリス",
+      "filer": "島津　敦好",
+      "ratio": 6.95,
+      "prev_ratio": 6.98,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

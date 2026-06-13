@@ -1,0 +1,387 @@
+{
+  "date": "2025-09-04",
+  "new": [
+    {
+      "docId": "S100WN3F",
+      "sec": "209A",
+      "name": "小野谷機工株式会社",
+      "filer": "一般財団法人三村学術福祉財団",
+      "ratio": 27.31,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WN2R",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 5.21,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WN3R",
+      "sec": "6416",
+      "name": "桂川電機株式会社",
+      "filer": "本多　容和",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WMX0",
+      "sec": "8127",
+      "name": "ヤマトインターナショナル株式会社",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 5.73,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WMP0",
+      "sec": "3986",
+      "name": "株式会社ビーブレイクシステムズ",
+      "filer": "光通信株式会社",
+      "ratio": 5.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WLFT",
+      "sec": "8977",
+      "name": "阪急阪神リート投資法人",
+      "filer": "阪急阪神不動産株式会社",
+      "ratio": 8.1,
+      "prev_ratio": 7.07,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WMP1",
+      "sec": "7713",
+      "name": "シグマ光機株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WMPB",
+      "sec": "2154",
+      "name": "株式会社オープンアップグループ",
+      "filer": "株式会社アミューズキャピタル",
+      "ratio": 6.8,
+      "prev_ratio": 6.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN2P",
+      "sec": "3415",
+      "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
+      "filer": "中水　英紀",
+      "ratio": 4.13,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMDB",
+      "sec": "209A",
+      "name": "小野谷機工株式会社",
+      "filer": "三村　健二",
+      "ratio": 40.24,
+      "prev_ratio": 67.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKJY",
+      "sec": "7965",
+      "name": "象印マホービン株式会社",
+      "filer": "市川　典男",
+      "ratio": 7.44,
+      "prev_ratio": 8.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMXR",
+      "sec": "",
+      "name": "",
+      "filer": "みずほ証券株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WKQ2",
+      "sec": "1433",
+      "name": "ベステラ株式会社",
+      "filer": "吉野　炳樹",
+      "ratio": 12.42,
+      "prev_ratio": 13.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMRD",
+      "sec": "9127",
+      "name": "玉井商船　株式会社",
+      "filer": "株式会社　アイエスシー",
+      "ratio": 2.22,
+      "prev_ratio": 2.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMX1",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "ディスリーン・グループ・エルピー",
+      "ratio": 7.16,
+      "prev_ratio": 6.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN16",
+      "sec": "3073",
+      "name": "株式会社ＤＤグループ",
+      "filer": "ＰＣＧＶＩー１株式会社",
+      "ratio": 77.6,
+      "prev_ratio": 77.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN2Z",
+      "sec": "4679",
+      "name": "株式会社田谷",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 5.19,
+      "prev_ratio": 5.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN64",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 2.2,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMSO",
+      "sec": "7042",
+      "name": "株式会社アクセスグループ・ホールディングス",
+      "filer": "木村　春樹",
+      "ratio": 8.88,
+      "prev_ratio": 9.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN21",
+      "sec": "7042",
+      "name": "株式会社アクセスグループ・ホールディングス",
+      "filer": "株式会社プロネクサス",
+      "ratio": 10.98,
+      "prev_ratio": 9.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN4H",
+      "sec": "4591",
+      "name": "株式会社リボミック",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 38.47,
+      "prev_ratio": 38.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMCB",
+      "sec": "6676",
+      "name": "株式会社バッファロー",
+      "filer": "株式会社メルコグループ",
+      "ratio": 32.62,
+      "prev_ratio": 27.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WM2W",
+      "sec": "2492",
+      "name": "株式会社インフォマート",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 22.95,
+      "prev_ratio": 23.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMOX",
+      "sec": "173A",
+      "name": "株式会社ハンモック",
+      "filer": "光通信株式会社",
+      "ratio": 7.28,
+      "prev_ratio": 7.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMOY",
+      "sec": "3079",
+      "name": "ディーブイエックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.16,
+      "prev_ratio": 7.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMOZ",
+      "sec": "3920",
+      "name": "アイビーシー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.13,
+      "prev_ratio": 5.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMT1",
+      "sec": "4676",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "株式会社レノ",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNAE",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 8.0,
+      "prev_ratio": 1.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMP2",
+      "sec": "8876",
+      "name": "株式会社リログループ",
+      "filer": "光通信株式会社",
+      "ratio": 7.94,
+      "prev_ratio": 7.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNAF",
+      "sec": "9684",
+      "name": "株式会社スクウェア・エニックス・ホールディングス",
+      "filer": "福嶋　康博",
+      "ratio": 19.28,
+      "prev_ratio": 19.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN66",
+      "sec": "6044",
+      "name": "株式会社三機サービス",
+      "filer": "シンメンテホールディングス株式会社",
+      "ratio": 8.28,
+      "prev_ratio": 7.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMMS",
+      "sec": "4056",
+      "name": "ニューラルグループ株式会社",
+      "filer": "重松　路威",
+      "ratio": 30.87,
+      "prev_ratio": 31.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMBS",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 13.23,
+      "prev_ratio": 14.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN34",
+      "sec": "4395",
+      "name": "株式会社アクリート",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 5.1,
+      "prev_ratio": 6.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMJD",
+      "sec": "7991",
+      "name": "マミヤ・オーピー株式会社",
+      "filer": "丹野　裕介",
+      "ratio": 7.36,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WN8G",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 30.75,
+      "prev_ratio": 34.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WMD2",
+      "sec": "3549",
+      "name": "株式会社クスリのアオキホールディングス",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 10.7,
+      "prev_ratio": 9.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNB4",
+      "sec": "2667",
+      "name": "株式会社イメージワン",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 28.91,
+      "prev_ratio": 30.75,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

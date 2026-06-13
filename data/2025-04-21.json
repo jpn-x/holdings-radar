@@ -1,0 +1,377 @@
+{
+  "date": "2025-04-21",
+  "new": [
+    {
+      "docId": "S100VN72",
+      "sec": "6319",
+      "name": "株式会社シンニッタン",
+      "filer": "ＡＲＴＳ－３株式会社",
+      "ratio": 61.63,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VNAE",
+      "sec": "6997",
+      "name": "日本ケミコン株式会社",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VN6A",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 41.27,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VN6I",
+      "sec": "254A",
+      "name": "ＡＩフュージョンキャピタルグループ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 15.98,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VMXV",
+      "sec": "4362",
+      "name": "日本精化株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 3.94,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VNB4",
+      "sec": "4316",
+      "name": "株式会社ビーマップ",
+      "filer": "株式会社ＨＡＭＡメディカルサービス",
+      "ratio": 7.34,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VN74",
+      "sec": "6319",
+      "name": "株式会社シンニッタン",
+      "filer": "ＡＲＴＳ－３株式会社",
+      "ratio": 61.63,
+      "prev_ratio": 61.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VFZS",
+      "sec": "7283",
+      "name": "愛三工業株式会社",
+      "filer": "株式会社デンソー",
+      "ratio": null,
+      "prev_ratio": 8.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKR3",
+      "sec": "5022",
+      "name": "株式会社レボインターナショナル",
+      "filer": "小林　季愛（金　季愛）",
+      "ratio": 15.73,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN8P",
+      "sec": "6993",
+      "name": "大黒屋ホールディングス株式会社",
+      "filer": "小川　浩平",
+      "ratio": 36.69,
+      "prev_ratio": 37.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN99",
+      "sec": "3391",
+      "name": "株式会社ツルハホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 6.49,
+      "prev_ratio": 6.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN93",
+      "sec": "293A",
+      "name": "ＢＡＢＹ　ＪＯＢ株式会社",
+      "filer": "金沢　崇",
+      "ratio": 7.97,
+      "prev_ratio": 9.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN9G",
+      "sec": "293A",
+      "name": "ＢＡＢＹ　ＪＯＢ株式会社",
+      "filer": "金沢　崇",
+      "ratio": 5.28,
+      "prev_ratio": 7.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN8K",
+      "sec": "2493",
+      "name": "イーサポートリンク株式会社",
+      "filer": "株式会社ＦＲＡＣＯＲＡ",
+      "ratio": 6.99,
+      "prev_ratio": 6.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN8I",
+      "sec": "3557",
+      "name": "ユナイテッド＆コレクティブ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 8.07,
+      "prev_ratio": 9.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN8B",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.29,
+      "prev_ratio": 23.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN85",
+      "sec": "4019",
+      "name": "株式会社スタメン",
+      "filer": "Ｗｏｊｃｉｅｃｈ　Ｊａｋｕｂ　Ｐｏｄｏｂａｓ",
+      "ratio": 8.03,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN6B",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 6.4,
+      "prev_ratio": 9.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMXN",
+      "sec": "2936",
+      "name": "ベースフード株式会社",
+      "filer": "牧　寛之",
+      "ratio": 33.17,
+      "prev_ratio": 33.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMHP",
+      "sec": "4093",
+      "name": "東邦アセチレン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.43,
+      "prev_ratio": 7.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMHQ",
+      "sec": "5252",
+      "name": "日本ナレッジ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.67,
+      "prev_ratio": 7.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMVG",
+      "sec": "3996",
+      "name": "サインポスト株式会社",
+      "filer": "奥井　裕介",
+      "ratio": 4.61,
+      "prev_ratio": 5.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMHT",
+      "sec": "7360",
+      "name": "株式会社オンデック",
+      "filer": "光通信株式会社",
+      "ratio": 6.87,
+      "prev_ratio": 6.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMHW",
+      "sec": "9419",
+      "name": "株式会社ワイヤレスゲート",
+      "filer": "光通信株式会社",
+      "ratio": 7.48,
+      "prev_ratio": 7.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN86",
+      "sec": "5216",
+      "name": "株式会社倉元製作所",
+      "filer": "渡邉　敏行",
+      "ratio": 13.46,
+      "prev_ratio": 12.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN5Z",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＳＵＮ　ＯＲＧＡＮＩＣ　ＦＡＲＭ株式会社",
+      "ratio": 50.63,
+      "prev_ratio": 50.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN4J",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "ＡＮＤＹ　＆　ＰＡＲＴＮＥＲＳ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 30.64,
+      "prev_ratio": 33.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN60",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＳＵＮ　ＯＲＧＡＮＩＣ　ＦＡＲＭ株式会社",
+      "ratio": 48.45,
+      "prev_ratio": 50.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMTZ",
+      "sec": "254A",
+      "name": "ＡＩフュージョンキャピタルグループ株式会社",
+      "filer": "株式会社ＤＳＧ１",
+      "ratio": 26.94,
+      "prev_ratio": 22.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN5S",
+      "sec": "6305",
+      "name": "日立建機株式会社",
+      "filer": "シトラスインベストメント合同会社",
+      "ratio": 5.25,
+      "prev_ratio": 4.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNDC",
+      "sec": "8956",
+      "name": "NTT都市開発リート投資法人",
+      "filer": "エヌ・ティ・ティ都市開発株式会社",
+      "ratio": 6.06,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VND7",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＳＵＮ　ＯＲＧＡＮＩＣ　ＦＡＲＭ株式会社",
+      "ratio": 47.23,
+      "prev_ratio": 48.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN5H",
+      "sec": "7373",
+      "name": "株式会社アイドマ・ホールディングス",
+      "filer": "三浦　陽平",
+      "ratio": 24.36,
+      "prev_ratio": 25.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMUU",
+      "sec": "3031",
+      "name": "株式会社ラクーンホールディングス",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 17.34,
+      "prev_ratio": 18.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VN8F",
+      "sec": "6048",
+      "name": "株式会社デザインワン・ジャパン",
+      "filer": "ＳＢＩキャピタル株式会社",
+      "ratio": 9.42,
+      "prev_ratio": 9.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNDN",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＳＵＮ　ＯＲＧＡＮＩＣ　ＦＡＲＭ株式会社",
+      "ratio": 45.09,
+      "prev_ratio": 47.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VNDR",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "ＳＵＮ　ＯＲＧＡＮＩＣ　ＦＡＲＭ株式会社",
+      "ratio": 45.27,
+      "prev_ratio": 45.09,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

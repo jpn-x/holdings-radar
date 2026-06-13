@@ -1,0 +1,297 @@
+{
+  "date": "2025-10-21",
+  "new": [
+    {
+      "docId": "S100WW9Z",
+      "sec": "6464",
+      "name": "株式会社ツバキ・ナカシマ",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WW1P",
+      "sec": "7352",
+      "name": "TWOSTONE&amp;Sons",
+      "filer": "倉田将志",
+      "ratio": 5.36,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WW1I",
+      "sec": "6542",
+      "name": "株式会社ＦＣホールディングス",
+      "filer": "ＴＣＢ‐１４株式会社",
+      "ratio": 83.77,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WW0T",
+      "sec": "2338",
+      "name": "クオンタムソリューションズ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 37.09,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWAZ",
+      "sec": "8410",
+      "name": "株式会社セブン銀行",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 16.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WW5W",
+      "sec": "429A",
+      "name": "テクセンドフォトマスク株式会社",
+      "filer": "Ｉｃｅインテグラル１株式会社",
+      "ratio": 91.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WVUS",
+      "sec": "3804",
+      "name": "株式会社システムディ",
+      "filer": "堂山　遼",
+      "ratio": 4.27,
+      "prev_ratio": 3.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW5V",
+      "sec": "3548",
+      "name": "株式会社バロックジャパンリミテッド",
+      "filer": "オリックス株式会社",
+      "ratio": 17.19,
+      "prev_ratio": 18.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVBO",
+      "sec": "8166",
+      "name": "株式会社タカキュー",
+      "filer": "イオン株式会社",
+      "ratio": 14.06,
+      "prev_ratio": 33.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW2K",
+      "sec": "4476",
+      "name": "ＡＩ　ＣＲＯＳＳ株式会社",
+      "filer": "株式会社ＩＢＩサーチ",
+      "ratio": 14.36,
+      "prev_ratio": 15.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVI8",
+      "sec": "7520",
+      "name": "株式会社エコス",
+      "filer": "株式会社タイラコーポレーション",
+      "ratio": 16.31,
+      "prev_ratio": 14.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTNV",
+      "sec": "3034",
+      "name": "クオール株式会社",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 8.69,
+      "prev_ratio": 7.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW1Q",
+      "sec": "6312",
+      "name": "フロイント産業株式会社",
+      "filer": "伏島　靖豊",
+      "ratio": 6.62,
+      "prev_ratio": 6.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVVA",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.87,
+      "prev_ratio": 18.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW7Y",
+      "sec": "9348",
+      "name": "株式会社ispace",
+      "filer": "赤浦　徹",
+      "ratio": 9.25,
+      "prev_ratio": 10.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUPY",
+      "sec": "415A",
+      "name": "GMO TECHホールディングス株式会社",
+      "filer": "鈴木　明人",
+      "ratio": 11.91,
+      "prev_ratio": 10.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVNA",
+      "sec": "7083",
+      "name": "ＡＨＣグループ株式会社",
+      "filer": "荒木　喜貴",
+      "ratio": 21.4,
+      "prev_ratio": 22.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW1R",
+      "sec": "6542",
+      "name": "株式会社ＦＣホールディングス",
+      "filer": "ＴＣＢ‐１４株式会社",
+      "ratio": 83.77,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVY5",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 13.22,
+      "prev_ratio": 14.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVLK",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 19.52,
+      "prev_ratio": 18.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVPL",
+      "sec": "8771",
+      "name": "イー・ギャランティ株式会社",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 8.33,
+      "prev_ratio": 7.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWAY",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 21.01,
+      "prev_ratio": 24.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVJ5",
+      "sec": "3401",
+      "name": "帝人株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 12.12,
+      "prev_ratio": 11.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWB1",
+      "sec": "7725",
+      "name": "株式会社インターアクション",
+      "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
+      "ratio": 12.63,
+      "prev_ratio": 11.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WV8Z",
+      "sec": "9561",
+      "name": "株式会社グラッドキューブ",
+      "filer": "モバイル・インターネットキャピタル株式会社",
+      "ratio": 4.83,
+      "prev_ratio": 5.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVQ8",
+      "sec": "2540",
+      "name": "養命酒製造株式会社",
+      "filer": "湯沢株式会社",
+      "ratio": 27.99,
+      "prev_ratio": 20.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WV53",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 5.13,
+      "prev_ratio": 5.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWBQ",
+      "sec": "7111",
+      "name": "ＩＮＥＳＴ株式会社",
+      "filer": "ＳＢＩキャピタル株式会社",
+      "ratio": 6.17,
+      "prev_ratio": 6.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWB8",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "大垣内　剛",
+      "ratio": 13.07,
+      "prev_ratio": 21.32,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

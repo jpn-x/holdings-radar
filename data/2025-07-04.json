@@ -1,0 +1,287 @@
+{
+  "date": "2025-07-04",
+  "new": [
+    {
+      "docId": "S100WB8V",
+      "sec": "2330",
+      "name": "株式会社フォーサイド",
+      "filer": "株式会社ＯＭＴホールディングス",
+      "ratio": 11.74,
+      "prev_ratio": 13.61,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WBDK",
+      "sec": "3319",
+      "name": "株式会社ゴルフダイジェスト・オンライン",
+      "filer": "株式会社ＴＧＴホールディングス",
+      "ratio": 35.9,
+      "prev_ratio": 17.68,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WAWW",
+      "sec": "3945",
+      "name": "スーパーバッグ　株式会社",
+      "filer": "福田産業株式会社",
+      "ratio": 26.5,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100W8UU",
+      "sec": "3459",
+      "name": "サムティ・レジデンシャル投資法人",
+      "filer": "サムティ株式会社",
+      "ratio": 14.28,
+      "prev_ratio": 13.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB6M",
+      "sec": "3733",
+      "name": "株式会社ソフトウェア・サービス",
+      "filer": "宮﨑　勝",
+      "ratio": 23.69,
+      "prev_ratio": 23.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAXI",
+      "sec": "2150",
+      "name": "株式会社ケアネット",
+      "filer": "Ｔｅｍｐｅｒｅｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｍａｎａｇｅｍｅｎｔ　ＬＴＤ．",
+      "ratio": 9.13,
+      "prev_ratio": 10.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WACN",
+      "sec": "6625",
+      "name": "JALCOホールディングス株式会社",
+      "filer": "カタリスト株式会社",
+      "ratio": 17.4,
+      "prev_ratio": 18.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB7J",
+      "sec": "6993",
+      "name": "大黒屋ホールディングス株式会社",
+      "filer": "小川　浩平",
+      "ratio": 28.78,
+      "prev_ratio": 30.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAPR",
+      "sec": "7476",
+      "name": "アズワン株式会社",
+      "filer": "有限会社井内盛英堂",
+      "ratio": 10.04,
+      "prev_ratio": 10.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAZ1",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 21.4,
+      "prev_ratio": 23.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAMO",
+      "sec": "4406",
+      "name": "新日本理化株式会社",
+      "filer": "株式会社ワイエムシィ",
+      "ratio": 19.1,
+      "prev_ratio": 18.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB9B",
+      "sec": "1994",
+      "name": "高橋カーテンウォール工業株式会社",
+      "filer": "高橋　武治",
+      "ratio": 10.08,
+      "prev_ratio": 15.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAZS",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.69,
+      "prev_ratio": 18.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W546",
+      "sec": "9433",
+      "name": "KDDI株式会社",
+      "filer": "トヨタ自動車株式会社",
+      "ratio": 8.68,
+      "prev_ratio": 9.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAZ9",
+      "sec": "4777",
+      "name": "株式会社ガーラ",
+      "filer": "Ｍｅｇａｚｏｎｅ　Ｃｌｏｕｄ　Ｃｏｒｐｏｒａｔｉｏｎ",
+      "ratio": 32.84,
+      "prev_ratio": 32.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB8R",
+      "sec": "9433",
+      "name": "KDDI株式会社",
+      "filer": "京セラ株式会社",
+      "ratio": 13.42,
+      "prev_ratio": 16.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WA5F",
+      "sec": "3765",
+      "name": "ガンホー・オンライン・エンターテイメント株式会社",
+      "filer": "ＳＯＮ　Ｆｉｎａｎｃｉａｌ合同会社",
+      "ratio": 14.47,
+      "prev_ratio": 11.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB96",
+      "sec": "7111",
+      "name": "ＩＮＥＳＴ株式会社",
+      "filer": "ＳＢＩキャピタル株式会社",
+      "ratio": 6.17,
+      "prev_ratio": 6.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB19",
+      "sec": "9973",
+      "name": "KOZOホールディングス株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 14.17,
+      "prev_ratio": 15.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB42",
+      "sec": "5131",
+      "name": "リンカーズ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 9.2,
+      "prev_ratio": 9.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB28",
+      "sec": "4597",
+      "name": "ソレイジア・ファーマ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 15.12,
+      "prev_ratio": 13.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9UZ",
+      "sec": "6018",
+      "name": "阪神内燃機工業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.4,
+      "prev_ratio": 7.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100W9V1",
+      "sec": "9790",
+      "name": "福井コンピュータホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.64,
+      "prev_ratio": 4.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAM4",
+      "sec": "4676",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "株式会社レノ",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WBD2",
+      "sec": "5255",
+      "name": "株式会社モンスターラボ",
+      "filer": "いな川　宏樹",
+      "ratio": 8.46,
+      "prev_ratio": 10.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAK6",
+      "sec": "9257",
+      "name": "YCPホールディングス（グローバル）リミテッド",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 9.55,
+      "prev_ratio": 9.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAGX",
+      "sec": "3945",
+      "name": "スーパーバッグ　株式会社",
+      "filer": "株式会社福々",
+      "ratio": 26.5,
+      "prev_ratio": 26.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WB4E",
+      "sec": "3945",
+      "name": "スーパーバッグ　株式会社",
+      "filer": "株式会社福々",
+      "ratio": null,
+      "prev_ratio": 26.5,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

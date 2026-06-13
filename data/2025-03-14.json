@@ -1,0 +1,307 @@
+{
+  "date": "2025-03-14",
+  "new": [
+    {
+      "docId": "S100VEF5",
+      "sec": "2994",
+      "name": "株式会社アンサーホールディングス",
+      "filer": "株式会社リログループ",
+      "ratio": 20.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VDZH",
+      "sec": "4464",
+      "name": "株式会社ソフト９９コーポレーション",
+      "filer": "ＫｅｅＰｅｒ技研株式会社",
+      "ratio": 12.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VDK7",
+      "sec": "6955",
+      "name": "FDK株式会社",
+      "filer": "ＳＩＬＩＴＥＣＨ　ＴＥＣＨＮＯＬＯＧＹ　ＣＯＲＰＯＲＡＴＩＯＮ",
+      "ratio": 44.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VE1G",
+      "sec": "6890",
+      "name": "株式会社フェローテックホールディングス",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 6.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VDLF",
+      "sec": "281A",
+      "name": "インフォメティス株式会社",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 6.09,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE38",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズ",
+      "filer": "須田　忠雄",
+      "ratio": 64.63,
+      "prev_ratio": 66.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDRI",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "株式会社エルアイイーエイチ",
+      "ratio": null,
+      "prev_ratio": 21.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEHE",
+      "sec": "7227",
+      "name": "アスカ株式会社",
+      "filer": "株式会社ＣＩＳ",
+      "ratio": 32.97,
+      "prev_ratio": 25.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE47",
+      "sec": "2994",
+      "name": "株式会社アンサーホールディングス",
+      "filer": "三谷　俊介",
+      "ratio": 77.86,
+      "prev_ratio": 98.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE4S",
+      "sec": "5595",
+      "name": "株式会社ＱＰＳ研究所",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 15.49,
+      "prev_ratio": 16.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEBY",
+      "sec": "3672",
+      "name": "株式会社オルトプラス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 5.88,
+      "prev_ratio": 7.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE6M",
+      "sec": "7893",
+      "name": "株式会社プロネクサス",
+      "filer": "上野　守生",
+      "ratio": 13.69,
+      "prev_ratio": 14.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEKF",
+      "sec": "7508",
+      "name": "株式会社Ｇ‐７ホールディングス",
+      "filer": "木下　陽子",
+      "ratio": 47.0,
+      "prev_ratio": 47.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDO6",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 17.18,
+      "prev_ratio": 18.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VC98",
+      "sec": "2436",
+      "name": "共同ピーアール株式会社",
+      "filer": "株式会社新東通信",
+      "ratio": 33.47,
+      "prev_ratio": 35.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDT3",
+      "sec": "7777",
+      "name": "株式会社スリー・ディー・マトリックス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 22.19,
+      "prev_ratio": 23.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEH9",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "日高早斗",
+      "ratio": 22.02,
+      "prev_ratio": 15.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEKX",
+      "sec": "9252",
+      "name": "株式会社ラストワンマイル",
+      "filer": "渡辺　誠",
+      "ratio": 10.24,
+      "prev_ratio": 9.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDRQ",
+      "sec": "4615",
+      "name": "神東塗料株式会社",
+      "filer": "住友化学株式会社",
+      "ratio": null,
+      "prev_ratio": 45.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDAG",
+      "sec": "6333",
+      "name": "株式会社帝国電機製作所",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 18.73,
+      "prev_ratio": 16.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEDA",
+      "sec": "9384",
+      "name": "内外トランスライン株式会社",
+      "filer": "合同会社エーエスティ",
+      "ratio": 19.83,
+      "prev_ratio": 19.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDJR",
+      "sec": "7559",
+      "name": "ジーエフシー株式会社",
+      "filer": "重田　光時",
+      "ratio": 9.57,
+      "prev_ratio": 9.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEM7",
+      "sec": "4443",
+      "name": "Sansan株式会社",
+      "filer": "寺田　親弘",
+      "ratio": 6.69,
+      "prev_ratio": 6.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE3I",
+      "sec": "8929",
+      "name": "株式会社青山財産ネットワークス",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 7.19,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEM6",
+      "sec": "6807",
+      "name": "日本航空電子工業株式会社",
+      "filer": "日本電気株式会社",
+      "ratio": 31.93,
+      "prev_ratio": 24.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEC6",
+      "sec": "9221",
+      "name": "フルハシＥＰＯ株式会社",
+      "filer": "山口　直彦",
+      "ratio": 1.49,
+      "prev_ratio": 1.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBST",
+      "sec": "9221",
+      "name": "フルハシＥＰＯ株式会社",
+      "filer": "山口　直彦",
+      "ratio": 1.49,
+      "prev_ratio": 1.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEMF",
+      "sec": "3458",
+      "name": "株式会社シーアールイー",
+      "filer": "ＳＭＦＬみらいパートナーズ株式会社",
+      "ratio": 35.89,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VEBK",
+      "sec": "6305",
+      "name": "日立建機株式会社",
+      "filer": "シトラスインベストメント合同会社",
+      "ratio": 2.15,
+      "prev_ratio": 1.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE6K",
+      "sec": "4732",
+      "name": "株式会社ユー・エス・エス",
+      "filer": "瀬田　衛",
+      "ratio": 3.58,
+      "prev_ratio": 3.58,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

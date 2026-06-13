@@ -1,0 +1,277 @@
+{
+  "date": "2025-12-11",
+  "new": [
+    {
+      "docId": "S100X5CL",
+      "sec": "4664",
+      "name": "株式会社アール・エス・シー",
+      "filer": "ソフトバンクロボティクス株式会社",
+      "ratio": 5.77,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9K3",
+      "sec": "2743",
+      "name": "ピクセルカンパニーズ株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 66.79,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9SW",
+      "sec": "457A",
+      "name": "株式会社ルリアン",
+      "filer": "藤巻　米隆",
+      "ratio": 29.84,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X5HI",
+      "sec": "7277",
+      "name": "株式会社ＴＢＫ",
+      "filer": "Ｂｒａｋｅｓ　Ｉｎｄｉａ　Ｐｒｉｖａｔｅ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9NQ",
+      "sec": "1783",
+      "name": "株式会社ｆａｎｔａｓｉｓｔａ",
+      "filer": "ＣＯＳＭＯ　ＰＲＩＭＥ　ＰＴＥ　ＬＴＤ",
+      "ratio": 39.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100X9LG",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.94,
+      "prev_ratio": 7.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9KO",
+      "sec": "3562",
+      "name": "株式会社Ｎｏ．１",
+      "filer": "辰已　崇之",
+      "ratio": 15.28,
+      "prev_ratio": 15.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9PI",
+      "sec": "3655",
+      "name": "株式会社ブレインパッド",
+      "filer": "高橋　隆史",
+      "ratio": 1.2,
+      "prev_ratio": 1.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9M1",
+      "sec": "4783",
+      "name": "ＮＣＤ株式会社",
+      "filer": "アセンダー・キャピタル・リミテッド",
+      "ratio": 7.41,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9NE",
+      "sec": "3415",
+      "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
+      "filer": "谷　正人",
+      "ratio": 27.32,
+      "prev_ratio": 27.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9QM",
+      "sec": "7036",
+      "name": "株式会社イーエムネットジャパン",
+      "filer": "株式会社Ｙ’ｓ　ｃｏｒｐｏｒａｔｉｏｎ",
+      "ratio": 6.13,
+      "prev_ratio": 6.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X950",
+      "sec": "5891",
+      "name": "株式会社魁力屋",
+      "filer": "藤田　宗",
+      "ratio": 17.3,
+      "prev_ratio": 18.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9DC",
+      "sec": "9069",
+      "name": "センコーグループホールディングス株式会社",
+      "filer": "旭化成株式会社",
+      "ratio": 4.16,
+      "prev_ratio": 7.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9MF",
+      "sec": "3245",
+      "name": "株式会社ディア・ライフ",
+      "filer": "阿部　幸広",
+      "ratio": 2.06,
+      "prev_ratio": 2.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9JP",
+      "sec": "9878",
+      "name": "株式会社セキド",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 43.16,
+      "prev_ratio": 8.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9G3",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 13.93,
+      "prev_ratio": 15.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X958",
+      "sec": "9069",
+      "name": "センコーグループホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 7.1,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9SH",
+      "sec": "2338",
+      "name": "クオンタムソリューションズ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 36.3,
+      "prev_ratio": 38.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8TK",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "大垣内　剛",
+      "ratio": 11.11,
+      "prev_ratio": 11.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9CW",
+      "sec": "3186",
+      "name": "株式会社ネクステージ",
+      "filer": "ティー・ロウ・プライス・ジャパン株式会社",
+      "ratio": 4.51,
+      "prev_ratio": 4.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9S3",
+      "sec": "7813",
+      "name": "株式会社プラッツ",
+      "filer": "株式会社ＣＡＲＰＥ　ＤＩＥＭ",
+      "ratio": 6.13,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8UY",
+      "sec": "3678",
+      "name": "株式会社メディアドゥ",
+      "filer": "光通信株式会社",
+      "ratio": 7.64,
+      "prev_ratio": 7.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9MN",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "牧　寛之",
+      "ratio": 40.13,
+      "prev_ratio": 39.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X8V1",
+      "sec": "3768",
+      "name": "リスクモンスター株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.3,
+      "prev_ratio": 7.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6G8",
+      "sec": "9037",
+      "name": "株式会社ハマキョウレックス",
+      "filer": "大須賀　正孝",
+      "ratio": 2.63,
+      "prev_ratio": 2.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X93T",
+      "sec": "3753",
+      "name": "株式会社フライトソリューションズ",
+      "filer": "三田証券株式会社",
+      "ratio": 11.14,
+      "prev_ratio": 15.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X823",
+      "sec": "9037",
+      "name": "株式会社ハマキョウレックス",
+      "filer": "大須賀　正孝",
+      "ratio": 2.63,
+      "prev_ratio": 2.63,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

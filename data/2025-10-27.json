@@ -1,0 +1,297 @@
+{
+  "date": "2025-10-27",
+  "new": [
+    {
+      "docId": "S100WWWL",
+      "sec": "2986",
+      "name": "株式会社LAホールディングス",
+      "filer": "サマーリバー合同会社",
+      "ratio": 5.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWH4",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 31.53,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWOW",
+      "sec": "2432",
+      "name": "株式会社ディー・エヌ・エー",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WW3J",
+      "sec": "2164",
+      "name": "株式会社地域新聞社",
+      "filer": "合同会社ＹＮ企画",
+      "ratio": 18.67,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WX0B",
+      "sec": "6957",
+      "name": "株式会社芝浦電子",
+      "filer": "ＹＡＧＥＯ　Ｅｌｅｃｔｒｏｎｉｃｓ　Ｊａｐａｎ合同会社",
+      "ratio": 85.57,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WWZG",
+      "sec": "7615",
+      "name": "株式会社京都きもの友禅ホールディングス",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 36.1,
+      "prev_ratio": 38.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX07",
+      "sec": "9388",
+      "name": "株式会社パパネッツ",
+      "filer": "株式会社花明",
+      "ratio": 30.14,
+      "prev_ratio": 31.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX0A",
+      "sec": "9388",
+      "name": "株式会社パパネッツ",
+      "filer": "株式会社花明",
+      "ratio": 27.07,
+      "prev_ratio": 30.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWVH",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.66,
+      "prev_ratio": 19.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWQO",
+      "sec": "4588",
+      "name": "オンコリスバイオファーマ株式会社",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 9.08,
+      "prev_ratio": 9.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVV8",
+      "sec": "7279",
+      "name": "株式会社ハイレックスコーポレーション",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 6.29,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWYJ",
+      "sec": "3490",
+      "name": "株式会社アズ企画設計",
+      "filer": "松本　俊人",
+      "ratio": 38.59,
+      "prev_ratio": 40.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWNT",
+      "sec": "3490",
+      "name": "株式会社アズ企画設計",
+      "filer": "松本　俊人",
+      "ratio": 35.54,
+      "prev_ratio": 38.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX1K",
+      "sec": "6957",
+      "name": "株式会社芝浦電子",
+      "filer": "野村證券株式会社",
+      "ratio": 3.87,
+      "prev_ratio": 3.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWRV",
+      "sec": "5577",
+      "name": "株式会社アイデミー",
+      "filer": "アクセンチュア株式会社",
+      "ratio": 100.0,
+      "prev_ratio": 94.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX17",
+      "sec": "6871",
+      "name": "株式会社日本マイクロニクス",
+      "filer": "野村證券株式会社",
+      "ratio": 25.0,
+      "prev_ratio": 10.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWN4",
+      "sec": "245A",
+      "name": "株式会社ＩＮＧＳ",
+      "filer": "青柳　誠希",
+      "ratio": 18.35,
+      "prev_ratio": 19.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWRI",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "株式会社Ｔｈｅ　ｃａｐｉｔａｌ",
+      "ratio": 39.88,
+      "prev_ratio": 58.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWRK",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "株式会社Ｔｈｅ　ｃａｐｉｔａｌ",
+      "ratio": 39.88,
+      "prev_ratio": 39.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWRL",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "株式会社Ｔｈｅ　ｃａｐｉｔａｌ",
+      "ratio": 39.88,
+      "prev_ratio": 39.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWRM",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "株式会社Ｔｈｅ　ｃａｐｉｔａｌ",
+      "ratio": 39.88,
+      "prev_ratio": 39.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WW64",
+      "sec": "5331",
+      "name": "ノリタケ株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 8.17,
+      "prev_ratio": 7.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX3I",
+      "sec": "5241",
+      "name": "株式会社日本オーエー研究所",
+      "filer": "光通信株式会社",
+      "ratio": 6.54,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWXJ",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社アベＣ",
+      "ratio": 5.64,
+      "prev_ratio": 10.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX3K",
+      "sec": "338A",
+      "name": "株式会社ＺｅｎｍｕＴｅｃｈ",
+      "filer": "岡積　正夫",
+      "ratio": 6.99,
+      "prev_ratio": 8.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX3H",
+      "sec": "2164",
+      "name": "株式会社地域新聞社",
+      "filer": "ＭＴＭ　Ｃａｐｉｔａｌ株式会社",
+      "ratio": null,
+      "prev_ratio": 15.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX13",
+      "sec": "3903",
+      "name": "株式会社gumi",
+      "filer": "ＳＢＩホールディングス株式会社",
+      "ratio": 33.23,
+      "prev_ratio": 33.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWZL",
+      "sec": "7689",
+      "name": "株式会社コパ・コーポレーション",
+      "filer": "吉村　泰助",
+      "ratio": 38.47,
+      "prev_ratio": 41.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWH0",
+      "sec": "2791",
+      "name": "大黒天物産株式会社",
+      "filer": "大賀　昌彦",
+      "ratio": 4.96,
+      "prev_ratio": 4.96,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

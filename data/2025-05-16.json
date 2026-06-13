@@ -1,0 +1,317 @@
+{
+  "date": "2025-05-16",
+  "new": [
+    {
+      "docId": "S100VQZH",
+      "sec": "8714",
+      "name": "株式会社池田泉州ホールディングス",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 5.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VRUJ",
+      "sec": "4267",
+      "name": "株式会社ライトワークス",
+      "filer": "ＬＷＬホールディングス株式会社",
+      "ratio": 48.57,
+      "prev_ratio": 48.84,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VQGS",
+      "sec": "4429",
+      "name": "リックソフト株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VQGU",
+      "sec": "6224",
+      "name": "株式会社ＪＲＣ",
+      "filer": "光通信株式会社",
+      "ratio": 5.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VQWU",
+      "sec": "6879",
+      "name": "株式会社 IMAGICA GROUP",
+      "filer": "株式会社クレアート",
+      "ratio": 53.96,
+      "prev_ratio": 53.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR0E",
+      "sec": "9908",
+      "name": "日本電計株式会社",
+      "filer": "有限会社高田興産",
+      "ratio": 8.6,
+      "prev_ratio": 9.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRQ9",
+      "sec": "4288",
+      "name": "株式会社アズジェント",
+      "filer": "杉本　隆洋",
+      "ratio": 2.94,
+      "prev_ratio": 2.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRNZ",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.35,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRQG",
+      "sec": "4288",
+      "name": "株式会社アズジェント",
+      "filer": "杉本　隆洋",
+      "ratio": 2.94,
+      "prev_ratio": 2.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRQQ",
+      "sec": "4288",
+      "name": "株式会社アズジェント",
+      "filer": "杉本　隆洋",
+      "ratio": 2.94,
+      "prev_ratio": 2.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRQY",
+      "sec": "4288",
+      "name": "株式会社アズジェント",
+      "filer": "杉本　隆洋",
+      "ratio": 2.94,
+      "prev_ratio": 2.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRMX",
+      "sec": "6199",
+      "name": "株式会社セラク",
+      "filer": "宮﨑　龍己",
+      "ratio": 35.42,
+      "prev_ratio": 35.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRLN",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 11.1,
+      "prev_ratio": 12.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VROI",
+      "sec": "6659",
+      "name": "株式会社メディアリンクス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 35.64,
+      "prev_ratio": 36.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR9I",
+      "sec": "3497",
+      "name": "株式会社LeTech",
+      "filer": "合同会社エメラルド",
+      "ratio": null,
+      "prev_ratio": 68.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VROK",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 7.67,
+      "prev_ratio": 8.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPW5",
+      "sec": "4746",
+      "name": "株式会社　東計電算",
+      "filer": "東京濾器株式会社",
+      "ratio": 12.33,
+      "prev_ratio": 12.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPFA",
+      "sec": "6345",
+      "name": "株式会社アイチコーポレーション",
+      "filer": "株式会社豊田自動織機",
+      "ratio": 18.53,
+      "prev_ratio": 42.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRSK",
+      "sec": "1420",
+      "name": "サンヨーホームズ株式会社",
+      "filer": "オリックス株式会社",
+      "ratio": 12.63,
+      "prev_ratio": 13.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRSL",
+      "sec": "5257",
+      "name": "ノバシステム株式会社",
+      "filer": "芳山　政安",
+      "ratio": 12.0,
+      "prev_ratio": 14.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VPVN",
+      "sec": "7958",
+      "name": "天馬株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": null,
+      "prev_ratio": 16.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRRI",
+      "sec": "4385",
+      "name": "株式会社メルカリ",
+      "filer": "山田　進太郎",
+      "ratio": 22.13,
+      "prev_ratio": 23.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQGV",
+      "sec": "6734",
+      "name": "株式会社ニューテック",
+      "filer": "光通信株式会社",
+      "ratio": 7.23,
+      "prev_ratio": 7.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VQGY",
+      "sec": "9441",
+      "name": "株式会社ベルパーク",
+      "filer": "光通信株式会社",
+      "ratio": 11.25,
+      "prev_ratio": 11.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRLZ",
+      "sec": "3391",
+      "name": "株式会社ツルハホールディングス",
+      "filer": "イオン株式会社",
+      "ratio": 26.65,
+      "prev_ratio": 19.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRUM",
+      "sec": "3053",
+      "name": "株式会社ペッパーフードサービス",
+      "filer": "株式会社フラッグシップアセットマネジメント",
+      "ratio": 1.68,
+      "prev_ratio": 1.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VROR",
+      "sec": "3544",
+      "name": "サツドラホールディングス株式会社",
+      "filer": "株式会社三原色",
+      "ratio": 5.55,
+      "prev_ratio": 4.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRV5",
+      "sec": "6989",
+      "name": "北陸電気工業株式会社",
+      "filer": "株式会社フェローテックホールディングス",
+      "ratio": 7.21,
+      "prev_ratio": 6.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VOL4",
+      "sec": "6521",
+      "name": "株式会社オキサイド",
+      "filer": "古川　保典",
+      "ratio": 12.78,
+      "prev_ratio": 12.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRVH",
+      "sec": "4440",
+      "name": "株式会社ヴィッツ",
+      "filer": "脇田　周爾",
+      "ratio": 2.83,
+      "prev_ratio": 2.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VRO9",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "木下　昭彦",
+      "ratio": 8.5,
+      "prev_ratio": 11.29,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

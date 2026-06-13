@@ -1,0 +1,337 @@
+{
+  "date": "2025-01-09",
+  "new": [
+    {
+      "docId": "S100V22J",
+      "sec": "7445",
+      "name": "株式会社ライトオン",
+      "filer": "株式会社Ｗ＆Ｄインベストメントデザイン",
+      "ratio": 51.85,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V12S",
+      "sec": "3306",
+      "name": "日本製麻株式会社",
+      "filer": "ＬＥＯＭＯ，ｉｎｃ",
+      "ratio": 27.23,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V2BD",
+      "sec": "7320",
+      "name": "Solvvy株式会社",
+      "filer": "西尾　直紀",
+      "ratio": 5.8,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V15B",
+      "sec": "2156",
+      "name": "株式会社セーラー広告",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 14.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V2C0",
+      "sec": "6044",
+      "name": "株式会社三機サービス",
+      "filer": "シンメンテホールディングス株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V1ZD",
+      "sec": "9468",
+      "name": "株式会社KADOKAWA",
+      "filer": "ソニーグループ株式会社",
+      "ratio": 10.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V2E7",
+      "sec": "303A",
+      "name": "株式会社visumo",
+      "filer": "株式会社ソフトクリエイトホールディングス",
+      "ratio": 53.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V1OF",
+      "sec": "7446",
+      "name": "東北化学薬品株式会社",
+      "filer": "株式会社青森みちのく銀行",
+      "ratio": 9.33,
+      "prev_ratio": 4.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1UI",
+      "sec": "8255",
+      "name": "アクシアル リテイリング株式会社",
+      "filer": "植木　威行",
+      "ratio": 1.42,
+      "prev_ratio": 1.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V21R",
+      "sec": "3840",
+      "name": "パス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.22,
+      "prev_ratio": 21.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1O8",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 67.63,
+      "prev_ratio": 68.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V17T",
+      "sec": "7476",
+      "name": "アズワン株式会社",
+      "filer": "有限会社井内盛英堂",
+      "ratio": 9.49,
+      "prev_ratio": 9.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0G3",
+      "sec": "2901",
+      "name": "株式会社ウェルディッシュ",
+      "filer": "トラストアップ株式会社",
+      "ratio": 27.11,
+      "prev_ratio": 15.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1OT",
+      "sec": "7915",
+      "name": "NISSHA株式会社",
+      "filer": "タイヨウ・パシフィック・パートナーズ・エルピー",
+      "ratio": 8.24,
+      "prev_ratio": 9.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V20G",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 22.37,
+      "prev_ratio": 22.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1VB",
+      "sec": "4937",
+      "name": "株式会社Waqoo",
+      "filer": "井上　裕基",
+      "ratio": 11.7,
+      "prev_ratio": 13.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V26M",
+      "sec": "4596",
+      "name": "窪田製薬ホールディングス株式会社",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 19.64,
+      "prev_ratio": 19.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2CU",
+      "sec": "4324",
+      "name": "株式会社電通グループ",
+      "filer": "株式会社時事通信社",
+      "ratio": 6.03,
+      "prev_ratio": 5.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1B7",
+      "sec": "1882",
+      "name": "東亜道路工業株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 15.94,
+      "prev_ratio": 15.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2D3",
+      "sec": "3242",
+      "name": "株式会社アーバネットコーポレーション",
+      "filer": "服部　信治",
+      "ratio": 1.07,
+      "prev_ratio": 1.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V29V",
+      "sec": "2751",
+      "name": "株式会社テンポスホールディングス",
+      "filer": "森下　篤史",
+      "ratio": 12.93,
+      "prev_ratio": 12.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V18O",
+      "sec": "6734",
+      "name": "株式会社ニューテック",
+      "filer": "光通信株式会社",
+      "ratio": 7.23,
+      "prev_ratio": 7.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V18R",
+      "sec": "7039",
+      "name": "ブリッジインターナショナル株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.07,
+      "prev_ratio": 6.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V13K",
+      "sec": "1976",
+      "name": "明星工業株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 5.44,
+      "prev_ratio": 5.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1YJ",
+      "sec": "4295",
+      "name": "株式会社フェイス",
+      "filer": "株式会社Ｇｅｎｅｓｉｓ１",
+      "ratio": 73.97,
+      "prev_ratio": 33.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2EH",
+      "sec": "3766",
+      "name": "システムズ・デザイン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.31,
+      "prev_ratio": 7.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1YU",
+      "sec": "4571",
+      "name": "NANO MRNA株式会社",
+      "filer": "株式会社ウィズ・パートナーズ",
+      "ratio": 16.32,
+      "prev_ratio": 20.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100UZ8L",
+      "sec": "9769",
+      "name": "株式会社学究社",
+      "filer": "河端　真一",
+      "ratio": 1.88,
+      "prev_ratio": 2.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2EP",
+      "sec": "8945",
+      "name": "サンネクスタグループ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.94,
+      "prev_ratio": 6.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100UYBL",
+      "sec": "9257",
+      "name": "ＹＣＰホールディングス（グローバル）リミテッド（YCP Holdings (Global) Limited）",
+      "filer": "粕本　晋吾",
+      "ratio": 6.08,
+      "prev_ratio": 6.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2DW",
+      "sec": "5132",
+      "name": "株式会社ｐｌｕｓｚｅｒｏ",
+      "filer": "永田　基樹",
+      "ratio": 14.43,
+      "prev_ratio": 15.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2FC",
+      "sec": "9341",
+      "name": "株式会社GENOVA",
+      "filer": "平瀬　智樹",
+      "ratio": 31.48,
+      "prev_ratio": 31.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2FE",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 36.08,
+      "prev_ratio": 38.9,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

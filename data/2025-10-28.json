@@ -1,0 +1,247 @@
+{
+  "date": "2025-10-28",
+  "new": [
+    {
+      "docId": "S100WVKR",
+      "sec": "6574",
+      "name": "株式会社コンヴァノ",
+      "filer": "株式会社ディメンショナル",
+      "ratio": 10.12,
+      "prev_ratio": 11.32,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WWZS",
+      "sec": "5951",
+      "name": "ダイニチ工業株式会社",
+      "filer": "Ｒａｎｇｅｌｅｙ　Ｃａｐｉｔａｌ，　ＬＬＣ",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WX6H",
+      "sec": "4124",
+      "name": "大阪油化工業株式会社",
+      "filer": "堀田　麻美",
+      "ratio": 16.49,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WWGF",
+      "sec": "2467",
+      "name": "株式会社VLCセキュリティ",
+      "filer": "ハヤテマネジメント株式会社",
+      "ratio": 11.25,
+      "prev_ratio": 12.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWV2",
+      "sec": "5423",
+      "name": "東京製鐵株式会社",
+      "filer": "池谷　正成",
+      "ratio": null,
+      "prev_ratio": 2.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWSI",
+      "sec": "5423",
+      "name": "東京製鐵株式会社",
+      "filer": "合同会社ＴＯＳ",
+      "ratio": 22.73,
+      "prev_ratio": 11.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWFB",
+      "sec": "7601",
+      "name": "株式会社ポプラ",
+      "filer": "株式会社ローソン",
+      "ratio": null,
+      "prev_ratio": 18.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX06",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.36,
+      "prev_ratio": 7.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVR6",
+      "sec": "",
+      "name": "株式会社CaSy",
+      "filer": "加茂　雄一",
+      "ratio": 17.99,
+      "prev_ratio": 19.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWU0",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 2.91,
+      "prev_ratio": 2.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX49",
+      "sec": "7273",
+      "name": "株式会社イクヨ",
+      "filer": "日東株式会社",
+      "ratio": 42.59,
+      "prev_ratio": 54.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX65",
+      "sec": "7273",
+      "name": "株式会社イクヨ",
+      "filer": "日東株式会社",
+      "ratio": 42.59,
+      "prev_ratio": 42.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX1C",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.27,
+      "prev_ratio": 17.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX2X",
+      "sec": "4833",
+      "name": "株式会社Def consulting",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.45,
+      "prev_ratio": 20.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX1F",
+      "sec": "5958",
+      "name": "三洋工業株式会社",
+      "filer": "株式会社ＴＮＮアドバイザーズ",
+      "ratio": null,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX24",
+      "sec": "3664",
+      "name": "株式会社モブキャストホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 31.01,
+      "prev_ratio": 31.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX4K",
+      "sec": "7689",
+      "name": "株式会社コパ・コーポレーション",
+      "filer": "吉村　泰助",
+      "ratio": 38.47,
+      "prev_ratio": 38.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX1W",
+      "sec": "6458",
+      "name": "新晃工業株式会社",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 6.93,
+      "prev_ratio": 7.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WVKR",
+      "sec": "6574",
+      "name": "株式会社コンヴァノ",
+      "filer": "株式会社ディメンショナル",
+      "ratio": 10.12,
+      "prev_ratio": 11.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX63",
+      "sec": "4124",
+      "name": "大阪油化工業株式会社",
+      "filer": "堀田　哲平",
+      "ratio": 5.68,
+      "prev_ratio": 22.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX9E",
+      "sec": "9348",
+      "name": "株式会社ispace",
+      "filer": "赤浦　徹",
+      "ratio": 6.98,
+      "prev_ratio": 9.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWY7",
+      "sec": "4691",
+      "name": "ワシントンホテル株式会社",
+      "filer": "興和ファシリティズ株式会社",
+      "ratio": 11.78,
+      "prev_ratio": 12.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX2F",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 6.02,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX4O",
+      "sec": "4784",
+      "name": "GMOインターネット株式会社",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 90.44,
+      "prev_ratio": 92.81,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

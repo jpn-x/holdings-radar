@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 12:59",
+  "updated": "2026-06-13 20:38",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -443,7 +443,9 @@
       "kai": 10,
       "kofu": 40200,
       "exercised": 402,
-      "exercised_pct": 7.88
+      "exercised_pct": 7.88,
+      "unexercised": 0,
+      "unexercised_shares": 0
     },
     "1711": {
       "name": "株式会社ＳＤＳホールディングス",
@@ -555,6 +557,8 @@
       "kofu": 187700,
       "exercised": 1877,
       "exercised_pct": 17.06,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 5799657
     },
     "290A": {
@@ -677,7 +681,9 @@
       "kai": 10,
       "kofu": 2787000,
       "exercised": 27870,
-      "exercised_pct": 12.1
+      "exercised_pct": 12.1,
+      "unexercised": 142565,
+      "unexercised_shares": 14256500
     },
     "3753": {
       "name": "株式会社フライトソリューションズ",
@@ -689,6 +695,8 @@
       "kofu": 145800,
       "exercised": 1458,
       "exercised_pct": 4.98,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 14536700
     },
     "3810": {
@@ -785,7 +793,9 @@
       "date": "2026-06-01",
       "pdf": "https://kabutan.jp/disclosures/pdf/20260529/140120260529556036/",
       "kai": 23,
-      "kofu": 1883900
+      "kofu": 1883900,
+      "unexercised": 53206,
+      "unexercised_shares": 5320600
     },
     "4586": {
       "name": "株式会社メドレックス",
@@ -811,7 +821,9 @@
       "kai": 21,
       "kofu": 670500,
       "exercised": 6705,
-      "exercised_pct": 15.49
+      "exercised_pct": 15.49,
+      "unexercised": 0,
+      "unexercised_shares": 0
     },
     "4594": {
       "name": "ブライトパス・バイオ",
@@ -932,7 +944,9 @@
       "date": "2026-06-01",
       "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557233/",
       "kai": 7,
-      "kofu": 448500
+      "kofu": 448500,
+      "unexercised": 65149,
+      "unexercised_shares": 6514900
     },
     "5216": {
       "name": "株式会社倉元製作所",
@@ -986,6 +1000,8 @@
       "kofu": 0,
       "exercised": 0,
       "exercised_pct": 0.0,
+      "unexercised": 4500,
+      "unexercised_shares": 450000,
       "outstanding": 21618800
     },
     "6173": {
@@ -1034,6 +1050,8 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601556874/",
       "kai": 1,
       "kofu": 43500,
+      "unexercised": 17115,
+      "unexercised_shares": 1711500,
       "outstanding": 1812233
     },
     "6521": {
@@ -1043,7 +1061,9 @@
       "date": "2026-05-01",
       "pdf": "https://kabutan.jp/disclosures/pdf/20260501/140120260501515986/",
       "kai": 6,
-      "kofu": 10000
+      "kofu": 10000,
+      "unexercised": 537,
+      "unexercised_shares": 537000
     },
     "6656": {
       "name": "インスペック株式会社",
@@ -1099,6 +1119,8 @@
       "kofu": 0,
       "exercised": 0,
       "exercised_pct": 0.0,
+      "unexercised": 2400,
+      "unexercised_shares": 240000,
       "outstanding": 3223000
     },
     "7593": {
@@ -1115,7 +1137,9 @@
       "date": "2026-06-01",
       "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557332/",
       "kai": 3,
-      "kofu": 13800
+      "kofu": 13800,
+      "unexercised": 38293,
+      "unexercised_shares": 3829300
     },
     "7776": {
       "name": "株式会社セルシード",
@@ -1169,6 +1193,206 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20260501/140120260501515924/",
       "kai": 2,
       "outstanding": 7106900
+    },
+    "1439": {
+      "name": "株式会社安江工務店",
+      "holder": "株式会社サーラコーポレーション",
+      "title": "第７回新株予約権（行使価額修正型新株予約権転換権付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2024-11-13",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20241113/140120241113521877/",
+      "kai": 7,
+      "kofu": 150000,
+      "exercised": 1500,
+      "exercised_pct": 100.0,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 1351560
+    },
+    "166A": {
+      "name": "株式会社タスキホールディングス",
+      "holder": "野村證券株式会社",
+      "title": "行使価額修正条項付新株予約権の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-09-08",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250908/140120250908554573/",
+      "kai": 1,
+      "kofu": 1600000,
+      "exercised": 16000,
+      "exercised_pct": 16.0,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 60036723
+    },
+    "2156": {
+      "name": "株式会社セーラー広告",
+      "holder": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "title": "自己株式を活用した第三者割当による第４回新株予約権（行使価額修正条項付）の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-01-16",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260115/140120260115534684/"
+    },
+    "2404": {
+      "name": "株式会社鉄人化ホールディングス",
+      "holder": "ファースト・パシフィック・キャピタル有限会社",
+      "title": "第14回新株予約権（固定行使価額型）の行使完了に関するお知らせ",
+      "date": "2025-05-09",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250509/140120250509538245/",
+      "kai": 14,
+      "unexercised": 0,
+      "outstanding": 13717362
+    },
+    "3261": {
+      "name": "株式会社グランディーズ",
+      "holder": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "title": "第３回新株予約権（固定行使価額型）の行使完了に関するお知らせ",
+      "date": "2024-11-15",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20241115/140120241115524796/",
+      "kai": 3,
+      "unexercised": 0,
+      "outstanding": 4100874
+    },
+    "3469": {
+      "name": "株式会社デュアルタップ",
+      "holder": "株式会社ＳＢＩ証券",
+      "title": "第４回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-08-05",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250805/140120250805530742/",
+      "kai": 4,
+      "kofu": 18200,
+      "exercised": 182,
+      "exercised_pct": 3.25,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 4200600
+    },
+    "3490": {
+      "name": "株式会社アズ企画設計",
+      "holder": "松本　俊人",
+      "title": "第6回新株予約権（固定行使価額型）の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-10-20",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20251020/140120251020575933/",
+      "kai": 6,
+      "kofu": 90000,
+      "outstanding": 1396000
+    },
+    "3557": {
+      "name": "ユナイテッド＆コレクティブ株式会社",
+      "holder": "Ｅｖｏ　Ｆｕｎｄ",
+      "title": "第三者割当により発行された第10回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "date": "2025-12-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20251201/140120251201512364/",
+      "kai": 10,
+      "kofu": 55000,
+      "exercised": 550,
+      "total": 5000,
+      "exercised_pct": 11.0,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 4899300
+    },
+    "3825": {
+      "name": "株式会社リミックスポイント",
+      "holder": "Ｅｖｏ　Ｆｕｎｄ",
+      "title": "第三者割当による第25回新株予約権（行使価額修正条項付）の取得及び消却の完了並びに月間行使状況に関するお知らせ",
+      "date": "2025-10-31",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20251030/140120251030583509/"
+    },
+    "4057": {
+      "name": "株式会社インターファクトリー",
+      "holder": "蕪木　登",
+      "title": "第６回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "date": "2023-07-03",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20230703/140120230703516383/"
+    },
+    "4584": {
+      "name": "キッズウェル・バイオ株式会社",
+      "holder": "ハイツ・キャピタル・マネジメント・インク",
+      "title": "第三者割当による第４回無担保転換社債型新株予約権付社債及び第23回新株予約権の月間行使状況に関するお知らせ",
+      "date": "2026-06-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557759/",
+      "kai": 23,
+      "kofu": 0,
+      "unexercised": 13746,
+      "unexercised_shares": 1374600
+    },
+    "4597": {
+      "name": "ソレイジア・ファーマ株式会社",
+      "holder": "マッコーリー　バンク　リミテッド",
+      "title": "行使価額修正条項付第15回新株予約権の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-02-25",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260225/140120260225568909/",
+      "kai": 15,
+      "kofu": 3749900,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 269209010
+    },
+    "4918": {
+      "name": "株式会社アイビー化粧品",
+      "holder": "三田証券株式会社",
+      "title": "第三者割当による第５回新株予約権（行使価額修正条項付）の行使完了および月間行使状況に関するお知らせ",
+      "date": "2026-02-18",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260218/140120260218564521/",
+      "kai": 5,
+      "exercised": 720,
+      "exercised_pct": 5.8,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 6342000
+    },
+    "5259": {
+      "name": "BBDイニシアティブ株式会社",
+      "holder": "株式会社ヘッドウォータース",
+      "title": "（訂正）「第三者割当による第２回新株予約権の行使完了に関するお知らせ」 の一部訂正について",
+      "date": "2025-02-19",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250219/140120250219579035/",
+      "kai": 2,
+      "outstanding": 6120221
+    },
+    "5595": {
+      "name": "株式会社ＱＰＳ研究所",
+      "holder": "市來　敏光",
+      "title": "第8回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-04-25",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250415/140120250415516376/"
+    },
+    "7746": {
+      "name": "岡本硝子株式会社",
+      "holder": "岡本　　毅",
+      "title": "第10回新株予約権（行使価額修正条項付）の大量行使、権利行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-09-09",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250909/140120250909555244/",
+      "kai": 10,
+      "kofu": 5066600,
+      "unexercised": 0,
+      "unexercised_shares": 0
+    },
+    "7957": {
+      "name": "フジコピアン株式会社",
+      "holder": "三田証券株式会社",
+      "title": "第三者割当による第２回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-06-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601556451/",
+      "kai": 2,
+      "kofu": 8800,
+      "exercised": 88,
+      "exercised_pct": 2.3,
+      "unexercised": 3702,
+      "unexercised_shares": 370200,
+      "outstanding": 1789487
+    },
+    "9973": {
+      "name": "KOZOホールディングス株式会社",
+      "holder": "マッコーリー　バンク　リミテッド",
+      "title": "第三者割当により発行された第16回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-06-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557774/",
+      "kai": 16,
+      "kofu": 1000000,
+      "exercised": 10000,
+      "total": 50000,
+      "exercised_pct": 20.0,
+      "unexercised": 35000,
+      "unexercised_shares": 3500000,
+      "outstanding": 295121340
     }
   }
 }

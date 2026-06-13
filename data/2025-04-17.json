@@ -1,0 +1,277 @@
+{
+  "date": "2025-04-17",
+  "new": [
+    {
+      "docId": "S100VMU2",
+      "sec": "3497",
+      "name": "株式会社LeTech",
+      "filer": "合同会社エメラルド",
+      "ratio": 68.66,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VK4C",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 20.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VMVO",
+      "sec": "3077",
+      "name": "ホリイフードサービス株式会社",
+      "filer": "株式会社第一ソフト",
+      "ratio": 5.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VJW2",
+      "sec": "7372",
+      "name": "株式会社デコルテ・ホールディングス",
+      "filer": "株式会社ＭＩＸＩ",
+      "ratio": 3.15,
+      "prev_ratio": 27.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMAF",
+      "sec": "3328",
+      "name": "ＢＥＥＮＯＳ株式会社",
+      "filer": "グランサム、マヨ、ヴァン　オッテルロー　アンド　カンパニー　エルエルシー",
+      "ratio": 3.09,
+      "prev_ratio": 6.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMU4",
+      "sec": "4017",
+      "name": "株式会社クリーマ",
+      "filer": "グローバル・ブレイン株式会社",
+      "ratio": 3.25,
+      "prev_ratio": 5.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMU0",
+      "sec": "8886",
+      "name": "株式会社ウッドフレンズ",
+      "filer": "前田　和彦",
+      "ratio": 2.99,
+      "prev_ratio": 2.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMT9",
+      "sec": "4594",
+      "name": "ブライトパス・バイオ株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.19,
+      "prev_ratio": 20.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMV6",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 37.08,
+      "prev_ratio": 37.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMVV",
+      "sec": "2001",
+      "name": "株式会社ニップン",
+      "filer": "野村證券株式会社",
+      "ratio": 11.34,
+      "prev_ratio": 11.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMT7",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 7.01,
+      "prev_ratio": 8.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMT8",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "和德投資有限公司",
+      "ratio": 5.81,
+      "prev_ratio": 6.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMCS",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 9.88,
+      "prev_ratio": 11.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMW3",
+      "sec": "4272",
+      "name": "日本化薬株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 12.02,
+      "prev_ratio": 13.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMYO",
+      "sec": "4274",
+      "name": "細谷火工株式会社",
+      "filer": "一般社団法人日本文化伝承会館",
+      "ratio": 9.87,
+      "prev_ratio": 10.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMC9",
+      "sec": "6772",
+      "name": "東京コスモス電機株式会社",
+      "filer": "Ｓｗｉｓｓ－Ａｓｉａ　Ｆｉｎａｎｃｉａｌ　Ｓｅｒｖｉｃｅｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 22.5,
+      "prev_ratio": 21.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VLU4",
+      "sec": "6161",
+      "name": "株式会社エスティック",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 2.68,
+      "prev_ratio": 2.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VLQI",
+      "sec": "6327",
+      "name": "北川精機株式会社",
+      "filer": "ＬＩＭ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 12.48,
+      "prev_ratio": 11.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VLUX",
+      "sec": "7347",
+      "name": "株式会社マーキュリアホールディングス",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 14.32,
+      "prev_ratio": 15.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMTM",
+      "sec": "3261",
+      "name": "株式会社グランディーズ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 5.8,
+      "prev_ratio": 6.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMI9",
+      "sec": "4881",
+      "name": "株式会社ファンペップ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 3.34,
+      "prev_ratio": 3.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMW4",
+      "sec": "3328",
+      "name": "ＢＥＥＮＯＳ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.16,
+      "prev_ratio": 1.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VML0",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "ＡＮＤＹ　＆　ＰＡＲＴＮＥＲＳ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 33.13,
+      "prev_ratio": 34.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMM2",
+      "sec": "9973",
+      "name": "KOZOホールディングス株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 20.96,
+      "prev_ratio": 21.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJW2",
+      "sec": "7372",
+      "name": "株式会社デコルテ・ホールディングス",
+      "filer": "株式会社ＭＩＸＩ",
+      "ratio": 3.15,
+      "prev_ratio": 27.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMPW",
+      "sec": "7137",
+      "name": "グラントマト株式会社",
+      "filer": "有限会社南條商店",
+      "ratio": 62.13,
+      "prev_ratio": 59.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMZQ",
+      "sec": "4179",
+      "name": "株式会社ジーネクスト",
+      "filer": "横治　祐介",
+      "ratio": 18.75,
+      "prev_ratio": 20.69,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

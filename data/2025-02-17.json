@@ -1,0 +1,167 @@
+{
+  "date": "2025-02-17",
+  "new": [
+    {
+      "docId": "S100V8S0",
+      "sec": "5161",
+      "name": "西川ゴム工業株式会社",
+      "filer": "Ｂｅ　Ｂｒａｖｅ株式会社",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V5Q3",
+      "sec": "5845",
+      "name": "全保連株式会社",
+      "filer": "ＡＺ－Ｓｔａｒ株式会社",
+      "ratio": 24.28,
+      "prev_ratio": 28.5,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V8VN",
+      "sec": "7119",
+      "name": "株式会社ハルメクホールディングス",
+      "filer": "松島　陽介",
+      "ratio": 17.48,
+      "prev_ratio": 18.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V937",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 59.13,
+      "prev_ratio": 59.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V43M",
+      "sec": "5741",
+      "name": "株式会社UACJ",
+      "filer": "古河電気工業株式会社",
+      "ratio": 13.45,
+      "prev_ratio": 19.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V8PT",
+      "sec": "5918",
+      "name": "瀧上工業株式会社",
+      "filer": "瀧上精機工業株式会社",
+      "ratio": 13.32,
+      "prev_ratio": 7.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9AO",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 10.22,
+      "prev_ratio": 11.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9CQ",
+      "sec": "4298",
+      "name": "株式会社プロトコーポレーション",
+      "filer": "エンシャント・アート・エル・ピー",
+      "ratio": 4.51,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9DG",
+      "sec": "4235",
+      "name": "ウルトラファブリクス・ホールディングス株式会社",
+      "filer": "バーバラ　ダニエル　ボエカー　プリマック",
+      "ratio": 6.37,
+      "prev_ratio": 5.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9BQ",
+      "sec": "4478",
+      "name": "フリー株式会社",
+      "filer": "コラ・マネジメント・エルピー",
+      "ratio": 6.25,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100UCH2",
+      "sec": "9271",
+      "name": "株式会社和心",
+      "filer": "森　智宏",
+      "ratio": 25.62,
+      "prev_ratio": 30.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V7NU",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "尹　炯植",
+      "ratio": 7.97,
+      "prev_ratio": 7.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9AU",
+      "sec": "4320",
+      "name": "株式会社CEホールディングス",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 14.64,
+      "prev_ratio": 15.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V7M6",
+      "sec": "1793",
+      "name": "株式会社大本組",
+      "filer": "Ｂｌａｃｋ　Ｃｌｏｖｅｒ　Ｌｉｍｉｔｅｄ",
+      "ratio": null,
+      "prev_ratio": 9.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V87H",
+      "sec": "5337",
+      "name": "ダントーホールディングス株式会社",
+      "filer": "株式会社大建エンタープライズ",
+      "ratio": 28.52,
+      "prev_ratio": 27.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V8A0",
+      "sec": "7192",
+      "name": "日本モーゲージサービス株式会社",
+      "filer": "ベルインベストメンツ株式会社",
+      "ratio": 6.14,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

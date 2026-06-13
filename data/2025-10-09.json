@@ -1,0 +1,257 @@
+{
+  "date": "2025-10-09",
+  "new": [
+    {
+      "docId": "S100WU6L",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "野内　敦",
+      "ratio": 3.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WU75",
+      "sec": "6736",
+      "name": "サン電子株式会社",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WOZ1",
+      "sec": "5337",
+      "name": "ダントーホールディングス株式会社",
+      "filer": "ＴＳＫ　ＣＡＰＩＴＡＬ　ＰＡＲＴＮＥＲＳ　ＬＬＣ",
+      "ratio": 8.11,
+      "prev_ratio": 7.11,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WS1M",
+      "sec": "7831",
+      "name": "株式会社ウイルコホールディングス",
+      "filer": "若林　和芳",
+      "ratio": null,
+      "prev_ratio": 1.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU5X",
+      "sec": "9651",
+      "name": "日本プロセス株式会社",
+      "filer": "大部　仁",
+      "ratio": 6.96,
+      "prev_ratio": 16.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU63",
+      "sec": "9651",
+      "name": "日本プロセス株式会社",
+      "filer": "大部　力",
+      "ratio": 6.69,
+      "prev_ratio": 16.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSP6",
+      "sec": "6416",
+      "name": "桂川電機株式会社",
+      "filer": "株式会社Ｌｅｍｏｎ",
+      "ratio": 98.68,
+      "prev_ratio": 92.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTXD",
+      "sec": "8166",
+      "name": "株式会社タカキュー",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 40.21,
+      "prev_ratio": 40.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU34",
+      "sec": "8166",
+      "name": "株式会社タカキュー",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 38.27,
+      "prev_ratio": 40.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU76",
+      "sec": "8957",
+      "name": "東急リアル・エステート投資法人",
+      "filer": "東急株式会社",
+      "ratio": 15.24,
+      "prev_ratio": 14.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU7B",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "野内　敦",
+      "ratio": 6.67,
+      "prev_ratio": 3.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU7E",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "野内　敦",
+      "ratio": 6.67,
+      "prev_ratio": 6.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU7N",
+      "sec": "2389",
+      "name": "株式会社デジタルホールディングス",
+      "filer": "野内　敦",
+      "ratio": 6.67,
+      "prev_ratio": 6.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU6P",
+      "sec": "3901",
+      "name": "マークラインズ株式会社",
+      "filer": "グランジャー・ピーク・グローバル・アドバイザーズ・エルエルシー",
+      "ratio": 5.14,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU1C",
+      "sec": "9168",
+      "name": "株式会社ライズ・コンサルティング・グループ",
+      "filer": "朝日　竜樹",
+      "ratio": 4.92,
+      "prev_ratio": 50.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU78",
+      "sec": "6958",
+      "name": "日本シイエムケイ株式会社",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": 6.09,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUA8",
+      "sec": "3498",
+      "name": "霞ヶ関キャピタル株式会社",
+      "filer": "小川　潤之",
+      "ratio": 23.22,
+      "prev_ratio": 23.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU69",
+      "sec": "4272",
+      "name": "日本化薬株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 7.82,
+      "prev_ratio": 8.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT60",
+      "sec": "8914",
+      "name": "エリアリンク株式会社",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 7.15,
+      "prev_ratio": 6.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WT5D",
+      "sec": "6516",
+      "name": "山洋電気株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 15.24,
+      "prev_ratio": 14.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTIE",
+      "sec": "8127",
+      "name": "ヤマトインターナショナル株式会社",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 12.79,
+      "prev_ratio": 11.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUBV",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 24.17,
+      "prev_ratio": 25.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WU9X",
+      "sec": "6834",
+      "name": "株式会社精工技研",
+      "filer": "都丸　由美子",
+      "ratio": 3.54,
+      "prev_ratio": 3.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WUA6",
+      "sec": "7523",
+      "name": "アールビバン株式会社",
+      "filer": "牧　寛之",
+      "ratio": 31.12,
+      "prev_ratio": 29.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WTSU",
+      "sec": "4593",
+      "name": "株式会社ヘリオス",
+      "filer": "鍵本　忠尚",
+      "ratio": 28.19,
+      "prev_ratio": 28.2,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

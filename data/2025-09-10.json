@@ -1,0 +1,387 @@
+{
+  "date": "2025-09-10",
+  "new": [
+    {
+      "docId": "S100WNR2",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "ｍｕｓｉｃａ株式会社",
+      "ratio": 8.56,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WO3J",
+      "sec": "6173",
+      "name": "株式会社アクアライン",
+      "filer": "勝俣　篤志",
+      "ratio": 7.16,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WNSF",
+      "sec": "5998",
+      "name": "株式会社アドバネクス",
+      "filer": "加藤雄一",
+      "ratio": 1.4,
+      "prev_ratio": 91.0,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WMUO",
+      "sec": "7831",
+      "name": "株式会社ウイルコホールディングス",
+      "filer": "若林　和芳",
+      "ratio": 1.46,
+      "prev_ratio": 1.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO11",
+      "sec": "6472",
+      "name": "ＮＴＮ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 4.42,
+      "prev_ratio": 4.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNV1",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 13.81,
+      "prev_ratio": 14.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNZ6",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 51.32,
+      "prev_ratio": 51.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO2R",
+      "sec": "6957",
+      "name": "株式会社芝浦電子",
+      "filer": "トリウム・キャピタル・エルエルピー",
+      "ratio": 6.31,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNUF",
+      "sec": "3923",
+      "name": "株式会社ラクス",
+      "filer": "松嶋　祥文",
+      "ratio": 4.15,
+      "prev_ratio": 5.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO1W",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "代永衛",
+      "ratio": 6.62,
+      "prev_ratio": 6.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNU1",
+      "sec": "9554",
+      "name": "株式会社ＡＶｉＣ",
+      "filer": "岩田　匡平",
+      "ratio": 23.01,
+      "prev_ratio": 23.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNU5",
+      "sec": "9554",
+      "name": "株式会社ＡＶｉＣ",
+      "filer": "岩田　匡平",
+      "ratio": 23.01,
+      "prev_ratio": 23.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO3I",
+      "sec": "9554",
+      "name": "株式会社ＡＶｉＣ",
+      "filer": "岩田　匡平",
+      "ratio": 23.01,
+      "prev_ratio": 23.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNUD",
+      "sec": "9554",
+      "name": "株式会社ＡＶｉＣ",
+      "filer": "岩田　匡平",
+      "ratio": 23.01,
+      "prev_ratio": 23.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO3Q",
+      "sec": "6526",
+      "name": "株式会社　ソシオネクスト",
+      "filer": "野村證券株式会社",
+      "ratio": 6.0,
+      "prev_ratio": 1.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WFYB",
+      "sec": "7446",
+      "name": "東北化学薬品株式会社",
+      "filer": "東　康夫",
+      "ratio": 5.6,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WGK4",
+      "sec": "7446",
+      "name": "東北化学薬品株式会社",
+      "filer": "東　康夫",
+      "ratio": 5.02,
+      "prev_ratio": 5.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4F",
+      "sec": "3939",
+      "name": "株式会社カナミックネットワーク",
+      "filer": "山本　拓真",
+      "ratio": 13.9,
+      "prev_ratio": 13.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4C",
+      "sec": "6235",
+      "name": "株式会社オプトラン",
+      "filer": "ＪＳＲ株式会社",
+      "ratio": 5.21,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4K",
+      "sec": "6235",
+      "name": "株式会社オプトラン",
+      "filer": "ＪＳＲ株式会社",
+      "ratio": 1.27,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO1F",
+      "sec": "2585",
+      "name": "株式会社ライフドリンク カンパニー",
+      "filer": "ＣＬＳＡ　Ｓｕｎｒｉｓｅ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ　ＩＩ",
+      "ratio": 1.42,
+      "prev_ratio": 10.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO2D",
+      "sec": "2585",
+      "name": "株式会社ライフドリンク カンパニー",
+      "filer": "ＣＬＳＡ　Ｓｕｎｒｉｓｅ　Ｍａｎａｇｅｍｅｎｔ　（Ｎｏｎ－Ｕ．Ｓ．）　Ｌｉｍｉｔｅｄ　ＩＩ",
+      "ratio": 1.51,
+      "prev_ratio": 11.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNQ6",
+      "sec": "7446",
+      "name": "東北化学薬品株式会社",
+      "filer": "森川　智",
+      "ratio": 7.05,
+      "prev_ratio": 6.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO2M",
+      "sec": "7446",
+      "name": "東北化学薬品株式会社",
+      "filer": "森川　智",
+      "ratio": 8.05,
+      "prev_ratio": 7.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNIG",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "須田　忠雄",
+      "ratio": 55.06,
+      "prev_ratio": 61.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNJ3",
+      "sec": "9441",
+      "name": "株式会社ベルパーク",
+      "filer": "光通信株式会社",
+      "ratio": 2.79,
+      "prev_ratio": 1.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNNO",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 15.51,
+      "prev_ratio": 14.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNZQ",
+      "sec": "4395",
+      "name": "株式会社アクリート",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 4.32,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO31",
+      "sec": "7615",
+      "name": "株式会社京都きもの友禅ホールディングス",
+      "filer": "Ａｔｈｏｓ　Ｃａｐｉｔａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 7.44,
+      "prev_ratio": 9.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNZS",
+      "sec": "7886",
+      "name": "ヤマト モビリティ ＆ Mfg.株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 11.76,
+      "prev_ratio": 13.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNLI",
+      "sec": "3070",
+      "name": "株式会社ジェリービーンズグループ",
+      "filer": "合同会社ＡＥＧＩＳ",
+      "ratio": 15.23,
+      "prev_ratio": 16.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNJ8",
+      "sec": "7278",
+      "name": "株式会社エクセディ",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 4.14,
+      "prev_ratio": 4.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNQT",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 18.2,
+      "prev_ratio": 19.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO5Q",
+      "sec": "8127",
+      "name": "ヤマトインターナショナル株式会社",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.76,
+      "prev_ratio": 5.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO6G",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 16.89,
+      "prev_ratio": 18.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNZE",
+      "sec": "7138",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 11.19,
+      "prev_ratio": 12.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO3G",
+      "sec": "9215",
+      "name": "株式会社CaSy",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 1.96,
+      "prev_ratio": 2.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WNJS",
+      "sec": "5721",
+      "name": "株式会社エス・サイエンス",
+      "filer": "ＫＡＹ　ＬＥＯ　ＢＲＯＴＨＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 16.86,
+      "prev_ratio": 6.58,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

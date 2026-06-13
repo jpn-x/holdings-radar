@@ -1,0 +1,357 @@
+{
+  "date": "2025-07-24",
+  "new": [
+    {
+      "docId": "S100WE0X",
+      "sec": "372A",
+      "name": "株式会社レント",
+      "filer": "ヤンマー建機株式会社",
+      "ratio": 7.44,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VW8W",
+      "sec": "387A",
+      "name": "フラー株式会社",
+      "filer": "渋谷　修太",
+      "ratio": 7.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WCUF",
+      "sec": "5631",
+      "name": "株式会社日本製鋼所",
+      "filer": "ジェイ・オー・ハンブロ・キャピタル・マネージメント・リミテッド",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WEIB",
+      "sec": "3994",
+      "name": "株式会社マネーフォワード",
+      "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WELJ",
+      "sec": "9164",
+      "name": "株式会社トライト",
+      "filer": "ＴＣＧ２５０５株式会社",
+      "ratio": 35.83,
+      "prev_ratio": 60.0,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WDQU",
+      "sec": "3969",
+      "name": "株式会社エイトレッド",
+      "filer": "光通信株式会社",
+      "ratio": 4.6,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WE4L",
+      "sec": "389A",
+      "name": "八光オートメーション株式会社",
+      "filer": "小野　拓雄",
+      "ratio": 41.52,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WE6M",
+      "sec": "389A",
+      "name": "八光オートメーション株式会社",
+      "filer": "小野　和雄",
+      "ratio": 54.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WEIG",
+      "sec": "6574",
+      "name": "株式会社コンヴァノ",
+      "filer": "株式会社ディメンショナル",
+      "ratio": 13.8,
+      "prev_ratio": 5.0,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WEK7",
+      "sec": "6317",
+      "name": "株式会社北川鉄工所",
+      "filer": "能登　伸一",
+      "ratio": 7.59,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WDBG",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "田邊　勝己",
+      "ratio": 31.25,
+      "prev_ratio": 32.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEFH",
+      "sec": "6177",
+      "name": "ＡｐｐＢａｎｋ株式会社",
+      "filer": "村井　智建",
+      "ratio": 5.33,
+      "prev_ratio": 5.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEFT",
+      "sec": "5232",
+      "name": "住友大阪セメント株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 19.43,
+      "prev_ratio": 20.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEG2",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": 18.12,
+      "prev_ratio": 47.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEIP",
+      "sec": "3808",
+      "name": "株式会社オウケイウェイヴ",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 18.97,
+      "prev_ratio": 20.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEB8",
+      "sec": "6577",
+      "name": "株式会社ベストワンドットコム",
+      "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
+      "ratio": 11.56,
+      "prev_ratio": 13.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WD5U",
+      "sec": "2134",
+      "name": "北浜キャピタルパートナーズ株式会社",
+      "filer": "株式会社Ａｄｏ",
+      "ratio": 21.71,
+      "prev_ratio": 24.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WE9H",
+      "sec": "3349",
+      "name": "株式会社コスモス薬品",
+      "filer": "有限会社萬緑",
+      "ratio": 38.29,
+      "prev_ratio": 38.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDX5",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "日高早斗",
+      "ratio": 16.78,
+      "prev_ratio": 17.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WE7X",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "ＯＬＰ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 5.11,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEJP",
+      "sec": "6044",
+      "name": "株式会社三機サービス",
+      "filer": "シンメンテホールディングス株式会社",
+      "ratio": 7.28,
+      "prev_ratio": 6.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WECG",
+      "sec": "3963",
+      "name": "株式会社シンクロ・フード",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 16.28,
+      "prev_ratio": 15.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDQY",
+      "sec": "8085",
+      "name": "ナラサキ産業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.14,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDR0",
+      "sec": "9658",
+      "name": "株式会社ビジネスブレイン太田昭和",
+      "filer": "光通信株式会社",
+      "ratio": 6.01,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEG8",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "田邊　勝己",
+      "ratio": 22.71,
+      "prev_ratio": 31.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WE73",
+      "sec": "1518",
+      "name": "三井松島ホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 7.69,
+      "prev_ratio": 7.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WELV",
+      "sec": "3319",
+      "name": "株式会社ゴルフダイジェスト・オンライン",
+      "filer": "株式会社ＴＧＴホールディングス",
+      "ratio": 35.9,
+      "prev_ratio": 35.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEM2",
+      "sec": "6721",
+      "name": "ウインテスト株式会社",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 9.42,
+      "prev_ratio": 16.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEKC",
+      "sec": "287A",
+      "name": "黒田グループ株式会社",
+      "filer": "ＫＭ２，　Ｌ．Ｐ．",
+      "ratio": 8.31,
+      "prev_ratio": 63.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEN0",
+      "sec": "6721",
+      "name": "ウインテスト株式会社",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 7.13,
+      "prev_ratio": 9.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEM3",
+      "sec": "7273",
+      "name": "株式会社イクヨ",
+      "filer": "酒井　宏修",
+      "ratio": 6.48,
+      "prev_ratio": 7.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEN6",
+      "sec": "6721",
+      "name": "ウインテスト株式会社",
+      "filer": "ＧＦＡ株式会社",
+      "ratio": 3.06,
+      "prev_ratio": 7.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEBS",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 8.53,
+      "prev_ratio": 7.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WEL1",
+      "sec": "5631",
+      "name": "株式会社日本製鋼所",
+      "filer": "ジェイ・オー・ハンブロ・キャピタル・マネージメント・リミテッド",
+      "ratio": 3.86,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDPR",
+      "sec": "6317",
+      "name": "株式会社北川鉄工所",
+      "filer": "唐川　正明",
+      "ratio": null,
+      "prev_ratio": 7.09,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

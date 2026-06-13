@@ -1,0 +1,287 @@
+{
+  "date": "2025-01-07",
+  "new": [
+    {
+      "docId": "S100V0GE",
+      "sec": "4976",
+      "name": "東洋ドライルーブ株式会社",
+      "filer": "飯野　佐保里",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V0I1",
+      "sec": "5935",
+      "name": "元旦ビューティ工業株式会社",
+      "filer": "株式会社Ｓｕｎｎｙ",
+      "ratio": 50.91,
+      "prev_ratio": 25.09,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V1D5",
+      "sec": "4019",
+      "name": "株式会社スタメン",
+      "filer": "Ｗｏｊｃｉｅｃｈ　Ｊａｋｕｂ　Ｐｏｄｏｂａｓ",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V16Y",
+      "sec": "7192",
+      "name": "日本モーゲージサービス株式会社",
+      "filer": "ベルインベストメンツ株式会社",
+      "ratio": 5.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100V0LA",
+      "sec": "4955",
+      "name": "アグロ カネショウ株式会社",
+      "filer": "櫛引　博敬",
+      "ratio": null,
+      "prev_ratio": 3.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1OV",
+      "sec": "6312",
+      "name": "フロイント産業株式会社",
+      "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
+      "ratio": 10.11,
+      "prev_ratio": 9.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1NG",
+      "sec": "4446",
+      "name": "Ｌｉｎｋ-Ｕグループ株式会社",
+      "filer": "山田　剛史",
+      "ratio": 29.3,
+      "prev_ratio": 31.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100UXI5",
+      "sec": "4772",
+      "name": "株式会社ストリームメディアコーポレーション",
+      "filer": "株式会社エスエム・エンタテインメント・ジャパン",
+      "ratio": 66.06,
+      "prev_ratio": 70.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1OP",
+      "sec": "3990",
+      "name": "UUUM株式会社",
+      "filer": "株式会社フリークアウト・ホールディングス",
+      "ratio": 92.0,
+      "prev_ratio": 52.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1OQ",
+      "sec": "6058",
+      "name": "株式会社ベクトル",
+      "filer": "西江　肇司",
+      "ratio": 40.12,
+      "prev_ratio": 39.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1N7",
+      "sec": "6055",
+      "name": "ジャパンマテリアル株式会社",
+      "filer": "田中　久男",
+      "ratio": 10.01,
+      "prev_ratio": 11.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1R3",
+      "sec": "8957",
+      "name": "東急リアル・エステート投資法人",
+      "filer": "東急株式会社",
+      "ratio": 9.14,
+      "prev_ratio": 8.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1RA",
+      "sec": "1994",
+      "name": "高橋カーテンウォール工業株式会社",
+      "filer": "高橋　武治",
+      "ratio": 16.28,
+      "prev_ratio": 10.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0BT",
+      "sec": "6869",
+      "name": "シスメックス株式会社",
+      "filer": "公益財団法人　中谷財団",
+      "ratio": 6.15,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0F6",
+      "sec": "4976",
+      "name": "東洋ドライルーブ株式会社",
+      "filer": "飯野　光俊",
+      "ratio": 7.82,
+      "prev_ratio": 6.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1QH",
+      "sec": "7721",
+      "name": "東京計器㈱",
+      "filer": "酒井　憲一",
+      "ratio": 5.92,
+      "prev_ratio": 7.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0OE",
+      "sec": "5935",
+      "name": "元旦ビューティ工業株式会社",
+      "filer": "株式会社Ｓｕｎｎｙ",
+      "ratio": 50.91,
+      "prev_ratio": 50.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1D2",
+      "sec": "5588",
+      "name": "ファーストアカウンティング株式会社",
+      "filer": "Ｗｏｊｃｉｅｃｈ　Ｊａｋｕｂ　Ｐｏｄｏｂａｓ",
+      "ratio": 6.41,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V19F",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "ＯＬＰ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 8.65,
+      "prev_ratio": 7.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V0MJ",
+      "sec": "6193",
+      "name": "バーチャレクス・ホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.18,
+      "prev_ratio": 6.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1QP",
+      "sec": "5110",
+      "name": "住友ゴム工業株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 11.36,
+      "prev_ratio": 12.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100UZE9",
+      "sec": "4955",
+      "name": "アグロ　カネショウ株式会社",
+      "filer": "株式会社麻生",
+      "ratio": null,
+      "prev_ratio": 16.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1TJ",
+      "sec": "7068",
+      "name": "フィードフォースグループ株式会社",
+      "filer": "塚田　耕司",
+      "ratio": 26.18,
+      "prev_ratio": 27.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1QB",
+      "sec": "4705",
+      "name": "株式会社クリップコーポレーション",
+      "filer": "日本駐車場開発株式会社",
+      "ratio": 8.04,
+      "prev_ratio": 7.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1K8",
+      "sec": "1518",
+      "name": "三井松島ホールディングス株式会社",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 1.86,
+      "prev_ratio": 79.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1FU",
+      "sec": "1821",
+      "name": "三井住友建設株式会社",
+      "filer": "株式会社南青山不動産",
+      "ratio": 7.92,
+      "prev_ratio": 6.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1M7",
+      "sec": "2874",
+      "name": "横浜冷凍株式会社",
+      "filer": "株式会社　松岡",
+      "ratio": 6.03,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1FV",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド",
+      "filer": "レン・イー・ハン",
+      "ratio": 16.48,
+      "prev_ratio": 53.84,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

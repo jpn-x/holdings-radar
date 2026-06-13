@@ -1,0 +1,227 @@
+{
+  "date": "2025-10-29",
+  "new": [
+    {
+      "docId": "S100WWWV",
+      "sec": "6890",
+      "name": "株式会社フェローテック",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WXDR",
+      "sec": "3772",
+      "name": "ウェルス・マネジメント株式会社",
+      "filer": "第一生命ホールディングス株式会社",
+      "ratio": 28.46,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100WXAA",
+      "sec": "6918",
+      "name": "株式会社アバールデータ",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 11.63,
+      "prev_ratio": 12.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWZO",
+      "sec": "5889",
+      "name": "Japan Eyewear Holdings株式会社",
+      "filer": "カメリア・ファンド・ワン・ケイマン・ジーピー・リミテッド",
+      "ratio": 2.64,
+      "prev_ratio": 7.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX1Z",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 54.09,
+      "prev_ratio": 55.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWZV",
+      "sec": "5889",
+      "name": "Japan Eyewear Holdings株式会社",
+      "filer": "ケラスス・ファンド・ワン・ケイマン・ジーピー・リミテッド",
+      "ratio": 2.05,
+      "prev_ratio": 6.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX01",
+      "sec": "5889",
+      "name": "Japan Eyewear Holdings株式会社",
+      "filer": "エヌアイシー・ファンド・ワン・ジャパン・ジーピー・リミテッド",
+      "ratio": 4.88,
+      "prev_ratio": 14.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWWG",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 11.56,
+      "prev_ratio": 11.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXDU",
+      "sec": "6232",
+      "name": "株式会社ＡＣＳＬ",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 7.0,
+      "prev_ratio": 8.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXCJ",
+      "sec": "2586",
+      "name": "株式会社フルッタフルッタ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 16.08,
+      "prev_ratio": 17.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX66",
+      "sec": "3804",
+      "name": "株式会社システム ディ",
+      "filer": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ",
+      "ratio": 23.31,
+      "prev_ratio": 22.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX8T",
+      "sec": "7613",
+      "name": "シークス株式会社",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 2.49,
+      "prev_ratio": 68.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX9T",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 47.71,
+      "prev_ratio": 48.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWZY",
+      "sec": "6558",
+      "name": "クックビズ株式会社",
+      "filer": "山本　新九郎",
+      "ratio": 6.05,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WX0F",
+      "sec": "6558",
+      "name": "クックビズ株式会社",
+      "filer": "山本　新九郎",
+      "ratio": 7.19,
+      "prev_ratio": 6.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXCG",
+      "sec": "9348",
+      "name": "株式会社ｉｓｐａｃｅ",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 9.1,
+      "prev_ratio": 12.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXC1",
+      "sec": "7093",
+      "name": "アディッシュ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 6.55,
+      "prev_ratio": 8.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXB7",
+      "sec": "6794",
+      "name": "フォスター電機株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 12.55,
+      "prev_ratio": 11.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWOM",
+      "sec": "1826",
+      "name": "佐田建設株式会社",
+      "filer": "重田　光時",
+      "ratio": 7.26,
+      "prev_ratio": 7.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WWTF",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "ひびき・パース・アドバイザーズ",
+      "ratio": 7.49,
+      "prev_ratio": 6.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXCR",
+      "sec": "6395",
+      "name": "株式会社タダノ",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 8.94,
+      "prev_ratio": 10.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WXGN",
+      "sec": "7093",
+      "name": "アディッシュ株式会社",
+      "filer": "株式会社ガイアックス",
+      "ratio": 9.67,
+      "prev_ratio": 10.72,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}

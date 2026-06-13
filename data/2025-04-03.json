@@ -1,0 +1,377 @@
+{
+  "date": "2025-04-03",
+  "new": [
+    {
+      "docId": "S100VK0T",
+      "sec": "1777",
+      "name": "川崎設備工業株式会社",
+      "filer": "秋山　龍作",
+      "ratio": 17.85,
+      "prev_ratio": 18.96,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VGRY",
+      "sec": "1840",
+      "name": "株式会社土屋ホールディングス",
+      "filer": "積水ハウス株式会社",
+      "ratio": 6.15,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VK2T",
+      "sec": "3944",
+      "name": "古林紙工株式会社",
+      "filer": "株式会社アダチメディカルレンタルリース",
+      "ratio": 5.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VK7G",
+      "sec": "342A",
+      "name": "株式会社光貴",
+      "filer": "大阪中小企業投資育成株式会社",
+      "ratio": 8.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VJX0",
+      "sec": "3843",
+      "name": "フリービット株式会社",
+      "filer": "ソフトバンク株式会社",
+      "ratio": 6.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VK80",
+      "sec": "336A",
+      "name": "ダイナミックマッププラットフォーム株式会社",
+      "filer": "株式会社ＩＮＣＪ",
+      "ratio": 31.92,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VJYW",
+      "sec": "4676",
+      "name": "株式会社フジ・メディア・ホールディングス",
+      "filer": "株式会社レノ",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VJS3",
+      "sec": "339A",
+      "name": "プログレス・テクノロジーズ グループ株式会社",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 51.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VKA3",
+      "sec": "338A",
+      "name": "株式会社ＺｅｎｍｕＴｅｃｈ",
+      "filer": "田口　善一",
+      "ratio": 6.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VKAB",
+      "sec": "338A",
+      "name": "株式会社ＺｅｎｍｕＴｅｃｈ",
+      "filer": "岡積　正夫",
+      "ratio": 8.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100VJL6",
+      "sec": "2291",
+      "name": "福留ハム株式会社",
+      "filer": "株式会社福留興産",
+      "ratio": 22.08,
+      "prev_ratio": 22.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJ4T",
+      "sec": "247A",
+      "name": "Aiロボティクス株式会社",
+      "filer": "株式会社幻冬舎",
+      "ratio": null,
+      "prev_ratio": 5.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJWW",
+      "sec": "5016",
+      "name": "ＪＸ金属株式会社",
+      "filer": "ＥＮＥＯＳホールディングス株式会社",
+      "ratio": 42.38,
+      "prev_ratio": 49.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJRV",
+      "sec": "6055",
+      "name": "ジャパンマテリアル株式会社",
+      "filer": "田中　智和",
+      "ratio": 8.37,
+      "prev_ratio": 8.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK48",
+      "sec": "3497",
+      "name": "株式会社LeTech",
+      "filer": "株式会社エルティー",
+      "ratio": 68.67,
+      "prev_ratio": 31.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJYL",
+      "sec": "9564",
+      "name": "株式会社ＦＣＥ",
+      "filer": "株式会社デュケレ",
+      "ratio": 34.23,
+      "prev_ratio": 39.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VHLM",
+      "sec": "9220",
+      "name": "エフビー介護サービス株式会社",
+      "filer": "栁澤　考輝",
+      "ratio": null,
+      "prev_ratio": 6.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK4Y",
+      "sec": "6971",
+      "name": "京セラ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 13.0,
+      "prev_ratio": 11.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJJV",
+      "sec": "8783",
+      "name": "GFA株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 19.53,
+      "prev_ratio": 20.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK56",
+      "sec": "254A",
+      "name": "AIフュージョンキャピタルグループ株式会社",
+      "filer": "上原　俊彦",
+      "ratio": 7.67,
+      "prev_ratio": 6.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK60",
+      "sec": "3067",
+      "name": "株式会社東京一番フーズ",
+      "filer": "株式会社なにわ",
+      "ratio": 21.14,
+      "prev_ratio": 23.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK2C",
+      "sec": "4616",
+      "name": "川上塗料株式会社",
+      "filer": "三井物産株式会社",
+      "ratio": null,
+      "prev_ratio": 6.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJVY",
+      "sec": "2162",
+      "name": "ｎｍｓホールディングス株式会社",
+      "filer": "日本アジア投資株式会社",
+      "ratio": 7.57,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK4I",
+      "sec": "4616",
+      "name": "川上塗料株式会社",
+      "filer": "株式会社サイブリッジ",
+      "ratio": 15.55,
+      "prev_ratio": 15.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK34",
+      "sec": "7359",
+      "name": "株式会社東京通信グループ",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 17.99,
+      "prev_ratio": 19.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VHYJ",
+      "sec": "4333",
+      "name": "株式会社東邦システムサイエンス",
+      "filer": "光通信株式会社",
+      "ratio": 2.57,
+      "prev_ratio": 7.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK2F",
+      "sec": "247A",
+      "name": "Ａｉロボティクス株式会社",
+      "filer": "ＳＢＩインキュベーション株式会社",
+      "ratio": 7.08,
+      "prev_ratio": 7.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJDH",
+      "sec": "4494",
+      "name": "バリオセキュア株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.67,
+      "prev_ratio": 6.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJDI",
+      "sec": "5252",
+      "name": "日本ナレッジ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.05,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK6Y",
+      "sec": "5592",
+      "name": "株式会社くすりの窓口",
+      "filer": "ＳＢＩキャピタル株式会社",
+      "ratio": 16.41,
+      "prev_ratio": 16.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK8N",
+      "sec": "4896",
+      "name": "株式会社ケイファーマ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 1.98,
+      "prev_ratio": 4.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK2W",
+      "sec": "4388",
+      "name": "株式会社エーアイ",
+      "filer": "吉田　大介",
+      "ratio": 6.19,
+      "prev_ratio": 7.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VK8V",
+      "sec": "9704",
+      "name": "株式会社アゴーラ・ホスピタリティー・グループ",
+      "filer": "キング・テラス・リミテッド",
+      "ratio": 4.22,
+      "prev_ratio": 5.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKA9",
+      "sec": "6715",
+      "name": "株式会社ナカヨ",
+      "filer": "あいホールディングス株式会社",
+      "ratio": 85.74,
+      "prev_ratio": 7.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJEG",
+      "sec": "9385",
+      "name": "株式会社ショーエイコーポレーション",
+      "filer": "芝原　英司",
+      "ratio": 24.31,
+      "prev_ratio": 24.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJJQ",
+      "sec": "6706",
+      "name": "電気興業株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 9.63,
+      "prev_ratio": 7.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VKAU",
+      "sec": "166A",
+      "name": "株式会社タスキホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 13.61,
+      "prev_ratio": 14.28,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
