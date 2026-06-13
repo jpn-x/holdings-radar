@@ -26,7 +26,8 @@ HOLDER_KEYWORDS = [
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 
 # 行使報告系タイトル（発行決議や払込完了は除外）
-TITLE_RE = re.compile(r"新株予約権.{0,30}?(大量行使|月間行使状況|行使状況|行使完了)")
+TITLE_RE = re.compile(
+    r"新株予約権.{0,40}?(大量行使|月間行使状況|行使状況|行使完了|行使による資金調達)")
 
 
 def collect_watch_codes() -> dict:
@@ -48,7 +49,7 @@ def collect_watch_codes() -> dict:
 
 def fetch_news_yanoshin(code: str) -> list:
     """Yanoshin TDnet Web API（非公式・無料）から開示一覧を取得（新しい順）"""
-    url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{code}.json?limit=30"
+    url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{code}.json?limit=50"
     r = requests.get(url, headers=UA, timeout=30)
     if r.status_code != 200:
         raise RuntimeError(f"yanoshin HTTP {r.status_code}")
@@ -167,12 +168,23 @@ def parse_pdf(pdf_url: str) -> dict:
         out["unexercised"] = int(m.group(1).replace(",", ""))
         if m.group(2):
             out["unexercised_shares"] = int(m.group(2).replace(",", ""))
-    # 株数が無い場合: 交付株数÷行使個数 から1個あたり株数を逆算
+    # 1個あたり株数（「1個につき100株」表形式）
+    if "per_right" not in out:
+        m = re.search(r"[1１]個につき([\d,]+)株", t)
+        if m:
+            out["per_right"] = int(m.group(1).replace(",", ""))
+    # 行使価額（「行使価額1株につき209円」表形式）
+    if "exercise_price" not in out:
+        m = re.search(r"行使価額(?:は)?(?:[1１]株につき)?([\d,]+)円", t)
+        if m:
+            out["exercise_price"] = int(m.group(1).replace(",", ""))
+    # 株数が無い場合: 1個あたり株数、なければ交付株数÷行使個数 から逆算
     if "unexercised" in out and "unexercised_shares" not in out:
-        if out.get("kofu") and out.get("exercised"):
+        per = out.get("per_right")
+        if not per and out.get("kofu") and out.get("exercised"):
             per = out["kofu"] // out["exercised"]
-            if per > 0:
-                out["unexercised_shares"] = out["unexercised"] * per
+        if per and per > 0:
+            out["unexercised_shares"] = out["unexercised"] * per
     # 発行済株式数（希薄化率の分母）
     m = re.search(r"発行済株式(?:総)?数(?:[::]|は)?([\d,]+)\(?株", t)
     if m:
@@ -213,9 +225,32 @@ def main():
         with open(OUT_PATH, encoding="utf-8") as f:
             results = json.load(f).get("items", {})
 
+    # チェックポイント（中断→続きから再開用）
+    ckpt_path = os.path.join(DATA_DIR, ".audit_checkpoint.json")
+    checked = set()
+    if arg == "--all" and os.path.exists(ckpt_path):
+        with open(ckpt_path, encoding="utf-8") as f:
+            checked = set(json.load(f).get("checked", []))
+        if checked:
+            print(f"チェックポイント検出: {len(checked)} 銘柄は処理済み → スキップ")
+
+    def flush():
+        payload = {"updated": datetime.now(JST).strftime("%Y-%m-%d %H:%M"), "items": results}
+        with open(OUT_PATH, "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+        if arg == "--all":
+            with open(ckpt_path, "w", encoding="utf-8") as f:
+                json.dump({"checked": sorted(checked)}, f)
+
     ok_count = 0
     for i, (code, info) in enumerate(sorted(codes.items())):
+        if code in checked:
+            continue
         print(f"[{i+1}/{len(codes)}] {code} {info['name'][:20]}")
+        checked.add(code)
+        if i % 50 == 0 and i > 0:
+            flush()
+            print(f"  --- 途中保存 ({i}/{len(codes)}, {len(results)}銘柄) ---")
         try:
             news = fetch_news(code)
             ok_count += 1
@@ -254,17 +289,15 @@ def main():
         else:
             print(f"    → 数値抽出できず（タイトルのみ保存）")
 
-    if ok_count == 0:
+    if ok_count == 0 and not checked:
         print("\n全銘柄アクセス失敗（ブロックの可能性）— warrants.json は更新しません")
         sys.exit(1)
 
-    payload = {
-        "updated": datetime.now(JST).strftime("%Y-%m-%d %H:%M"),
-        "items": results,
-    }
-    with open(OUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f"\nSaved {OUT_PATH}: {len(results)} 銘柄")
+    flush()
+    # 全銘柄を完走したらチェックポイントを削除
+    if arg == "--all" and os.path.exists(ckpt_path):
+        os.remove(ckpt_path)
+    print(f"\nSaved {OUT_PATH}: {len(results)} 銘柄（完走）")
 
 
 if __name__ == "__main__":
