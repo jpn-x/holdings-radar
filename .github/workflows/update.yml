@@ -38,8 +38,12 @@ jobs:
       - name: Install dependencies
         run: pip install requests pypdf
 
-      # MSワラント行使ウォッチは株探がActionsのIPをブロック(405)するためローカル実行のみ
-      # (run_daily.bat / タスクスケジューラから更新し、warrants.json をコミットする)
+      # MSワラント行使ウォッチ（Yanoshin TDnet API + TDnet PDF直取得）
+      # 失敗時は warrants.json を更新せず既存データを保持する設計
+      - name: Warrant watch
+        continue-on-error: true
+        run: python scripts/warrant_watch.py
+
       - name: Run fetch
         env:
           TARGET_DATE: ${{ github.event.inputs.target_date }}

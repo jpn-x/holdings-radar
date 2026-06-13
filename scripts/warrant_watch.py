@@ -46,9 +46,30 @@ def collect_watch_codes() -> dict:
     return codes
 
 
-def fetch_kabutan_news(code: str) -> list:
-    """株探の開示一覧から (日時, タイトル, PDF URL) リストを返す（新しい順）
-    アクセスブロック等のHTTPエラー時は例外を投げる（既存データ保持のため）"""
+def fetch_news_yanoshin(code: str) -> list:
+    """Yanoshin TDnet Web API（非公式・無料）から開示一覧を取得（新しい順）"""
+    url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{code}.json?limit=30"
+    r = requests.get(url, headers=UA, timeout=30)
+    if r.status_code != 200:
+        raise RuntimeError(f"yanoshin HTTP {r.status_code}")
+    rows = []
+    for it in r.json().get("items", []):
+        td = it.get("Tdnet", it)
+        doc_url = td.get("document_url") or ""
+        # rd.php リダイレクタを剥がして TDnet 直リンクに
+        m = re.search(r"(https://www\.release\.tdnet\.info/\S+\.pdf)", doc_url)
+        pdf = m.group(1) if m else doc_url
+        rows.append({
+            "datetime": td.get("pubdate", ""),
+            "title": (td.get("title") or "").strip(),
+            "pdf": pdf,
+            "viewer": pdf,
+        })
+    return rows
+
+
+def fetch_news_kabutan(code: str) -> list:
+    """株探の開示一覧（フォールバック・ローカルIP専用）"""
     url = f"https://kabutan.jp/stock/news?code={code}&nmode=4"
     r = requests.get(url, headers=UA, timeout=30)
     if r.status_code != 200:
@@ -67,6 +88,15 @@ def fetch_kabutan_news(code: str) -> list:
             "viewer": f"https://kabutan.jp/disclosures/pdf/{ymd}/{docid}/",
         })
     return rows
+
+
+def fetch_news(code: str) -> list:
+    """Yanoshin優先、ダメなら株探フォールバック"""
+    try:
+        return fetch_news_yanoshin(code)
+    except Exception as e:
+        print(f"    yanoshin fail ({e}) → kabutan fallback")
+        return fetch_news_kabutan(code)
 
 
 def parse_pdf(pdf_url: str) -> dict:
@@ -140,7 +170,7 @@ def main():
     for i, (code, info) in enumerate(sorted(codes.items())):
         print(f"[{i+1}/{len(codes)}] {code} {info['name'][:20]}")
         try:
-            news = fetch_kabutan_news(code)
+            news = fetch_news(code)
             ok_count += 1
         except Exception as e:
             print(f"    list error: {e} — 既存データ保持")
