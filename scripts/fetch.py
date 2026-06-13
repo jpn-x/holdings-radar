@@ -330,7 +330,13 @@ def warrant_row(sec):
             if w.get("unexercised_shares") and w.get("outstanding"):
                 dil = w["unexercised_shares"] / w["outstanding"] * 100
                 parts.append(f"希薄化 {dil:.1f}%")
-    detail = " ｜ ".join(parts) if parts else '<span class="w-warn">⚠ 数値不明・PDF確認</span>'
+    if parts:
+        detail = " ｜ ".join(parts)
+    elif "行使完了" in (w.get("title") or ""):
+        # 行使完了報告＝定義上、未行使ゼロ（弾切れ・安全）
+        detail = '<span class="w-done">☑ 行使完了・残ゼロ</span>'
+    else:
+        detail = '<span class="w-warn">⚠ 数値不明・PDF確認</span>'
     return (
         f'<tr class="warrant-row"><td colspan="6">'
         f'💣 <a href="{w["pdf"]}" target="_blank">{kai}新株予約権 行使状況 ({w["date"]})</a>'
@@ -576,7 +582,10 @@ function warrantRow(sec) {{
         parts.push(`希薄化 ${{(w.unexercised_shares / w.outstanding * 100).toFixed(1)}}%`);
     }}
   }}
-  const detail = parts.length ? parts.join(' ｜ ') : '<span class="w-warn">⚠ 数値不明・PDF確認</span>';
+  let detail;
+  if (parts.length) detail = parts.join(' ｜ ');
+  else if ((w.title || '').includes('行使完了')) detail = '<span class="w-done">☑ 行使完了・残ゼロ</span>';
+  else detail = '<span class="w-warn">⚠ 数値不明・PDF確認</span>';
   return `<tr class="warrant-row"><td colspan="6">💣 <a href="${{w.pdf}}" target="_blank">${{kai}}新株予約権 行使状況 (${{w.date}})</a><span class="w-detail"> ｜ ${{detail}}</span></td></tr>`;
 }}
 

@@ -38,11 +38,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests pypdf
 
-      # MSワラント行使ウォッチ（Yanoshin TDnet API + TDnet PDF直取得）
+      # MSワラント行使ウォッチ（全銘柄監査 / Yanoshin TDnet API + TDnet PDF直取得）
       # 失敗時は warrants.json を更新せず既存データを保持する設計
+      # 古いPDFのkabutanフォールバックはActions IPがブロックされるが、
+      # 既に取得済みの数値は「前回値維持」ロジックで保持される
       - name: Warrant watch
         continue-on-error: true
-        run: python scripts/warrant_watch.py
+        run: python scripts/warrant_watch.py --all
 
       - name: Run fetch
         env:

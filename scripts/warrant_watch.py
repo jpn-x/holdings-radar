@@ -59,11 +59,18 @@ def fetch_news_yanoshin(code: str) -> list:
         # rd.php リダイレクタを剥がして TDnet 直リンクに
         m = re.search(r"(https://www\.release\.tdnet\.info/\S+\.pdf)", doc_url)
         pdf = m.group(1) if m else doc_url
+        # サイト表示用リンクは kabutan ビューア（長期アーカイブ）を優先
+        mm = re.search(r"release\.tdnet\.info/inbs/(\d{8})(\w+)\.pdf", pdf)
+        if mm:
+            docid = mm.group(1) + mm.group(2)
+            viewer = f"https://kabutan.jp/disclosures/pdf/{docid[4:12]}/{docid}/"
+        else:
+            viewer = pdf
         rows.append({
             "datetime": td.get("pubdate", ""),
             "title": (td.get("title") or "").strip(),
             "pdf": pdf,
-            "viewer": pdf,
+            "viewer": viewer,
         })
     return rows
 
@@ -99,13 +106,30 @@ def fetch_news(code: str) -> list:
         return fetch_news_kabutan(code)
 
 
+def _download_pdf(pdf_url: str) -> bytes | None:
+    """PDFを取得。TDnetが404（30日経過で削除）ならkabutanアーカイブにフォールバック"""
+    r = requests.get(pdf_url, headers={**UA, "Referer": "https://kabutan.jp/"}, timeout=60)
+    if r.status_code == 200 and "pdf" in (r.headers.get("content-type") or ""):
+        return r.content
+    # TDnet URL から kabutan アーカイブURLを導出して再試行
+    m = re.search(r"release\.tdnet\.info/inbs/(\d{8})(\w+)\.pdf", pdf_url)
+    if m:
+        docid = m.group(1) + m.group(2)
+        ymd = docid[4:12]  # 1401YYYYMMDD... の YYYYMMDD
+        kab = f"https://tdnet-pdf.kabutan.jp/{ymd}/{docid}.pdf"
+        r2 = requests.get(kab, headers={**UA, "Referer": "https://kabutan.jp/"}, timeout=60)
+        if r2.status_code == 200 and "pdf" in (r2.headers.get("content-type") or ""):
+            return r2.content
+    return None
+
+
 def parse_pdf(pdf_url: str) -> dict:
     """行使状況PDFから数値を抽出"""
-    r = requests.get(pdf_url, headers={**UA, "Referer": "https://kabutan.jp/"}, timeout=60)
-    if r.status_code != 200 or "pdf" not in (r.headers.get("content-type") or ""):
+    content = _download_pdf(pdf_url)
+    if not content:
         return {}
     try:
-        txt = "".join(p.extract_text() or "" for p in PdfReader(io.BytesIO(r.content)).pages)
+        txt = "".join(p.extract_text() or "" for p in PdfReader(io.BytesIO(content)).pages)
     except Exception as e:
         print(f"    pdf parse error: {e}")
         return {}
@@ -131,11 +155,14 @@ def parse_pdf(pdf_url: str) -> dict:
             out["total"] = int(m.group(2).replace(",", ""))
         out["exercised_pct"] = float(m.group(3))
     # 未行使（現時点/月末時点を優先、なければ前月末等の一般形）
-    m = re.search(r"現時点における未行使(?:の)?新株予約権(?:の)?数(?:[::])?([\d,]+)個(?:\(([\d,]+)株\))?", t)
+    # 表記ゆれ対応:「数(株数)」「残存個数(株式数)」「：」区切り
+    UNEX = (r"未行使(?:の)?(?:新株予約権(?:の)?数|残存個数)"
+            r"(?:\(株[式数]*\))?(?:[::])?([\d,]+)個(?:\(([\d,]+)株\))?")
+    m = re.search(r"現時点における" + UNEX, t)
     if not m:
-        m = re.search(r"(?:対象月の)?(?<!前)月末時点における未行使(?:の)?新株予約権(?:の)?数(?:[::])?([\d,]+)個(?:\(([\d,]+)株\))?", t)
+        m = re.search(r"(?<!前)月末時点における" + UNEX, t)
     if not m:
-        m = re.search(r"未行使(?:の)?新株予約権(?:の)?数(?:[::])?([\d,]+)個(?:\(([\d,]+)株\))?", t)
+        m = re.search(UNEX, t)
     if m:
         out["unexercised"] = int(m.group(1).replace(",", ""))
         if m.group(2):
@@ -153,11 +180,31 @@ def parse_pdf(pdf_url: str) -> dict:
     return out
 
 
+def collect_all_codes() -> dict:
+    """holdings データに登場する全銘柄コードを対象にする（全件監査用）"""
+    codes = {}
+    for f in glob.glob(os.path.join(DATA_DIR, "2???-??-??.json")):
+        with open(f, encoding="utf-8") as fp:
+            d = json.load(fp)
+        for lst in (d.get("new", []), d.get("chg", [])):
+            for e in lst:
+                if e.get("sec"):
+                    codes[e["sec"]] = {
+                        "name": e.get("name", ""),
+                        "holder": e.get("filer", ""),
+                    }
+    return codes
+
+
 def main():
-    only = sys.argv[1].split(",") if len(sys.argv) > 1 else None
-    codes = collect_watch_codes()
-    if only:
-        codes = {c: v for c, v in codes.items() if c in only}
+    arg = sys.argv[1] if len(sys.argv) > 1 else None
+    if arg == "--all":
+        codes = collect_all_codes()
+        print("モード: 全銘柄監査")
+    else:
+        codes = collect_watch_codes()
+        if arg:
+            codes = {c: v for c, v in codes.items() if c in arg.split(",")}
     print(f"監視対象: {len(codes)} 銘柄")
 
     # 既存結果を読み込み（増分更新）
@@ -185,6 +232,14 @@ def main():
         print(f"    {hit['datetime'][:10]} {hit['title'][:50]}")
         data = parse_pdf(hit["pdf"])
         time.sleep(1.5)
+        # 同じ報告（同日）を既に解析済みで数値が取れていれば、今回PDF取得失敗でも維持
+        prev = results.get(code)
+        if not data and prev and prev.get("date") == hit["datetime"][:10]:
+            num_keys = ("unexercised", "unexercised_shares", "exercised",
+                        "total", "exercised_pct", "kofu", "kai", "outstanding")
+            data = {k: prev[k] for k in num_keys if k in prev}
+            if data:
+                print(f"    PDF取得失敗 → 前回値を維持")
         entry = {
             "name": info["name"],
             "holder": info["holder"],
