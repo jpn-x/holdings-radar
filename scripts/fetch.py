@@ -37,13 +37,14 @@ NEW_CODES = {"340", "341"}
 CHG_CODES = {"350", "351"}
 
 def is_target_doc(doc):
-    """大量保有・変更報告書を判定。特例対象株券等（投信ETF用）は除外。"""
+    """大量保有・変更報告書を判定。
+    特例対象株券等（機関投資家特例：フィデリティ・野村・BlackRock等）も含める。
+    投信ETF自体の有価証券報告書等（[030][040][120][160]等）は対象外。
+    """
     code = doc.get("docTypeCode", "")
     desc = doc.get("docDescription") or ""
-    # 訂正・特例は除外
+    # 訂正報告書（大量保有・変更）は除外（過去報告の restate のため）
     if "訂正" in desc:
-        return False
-    if "特例対象" in desc:
         return False
     if code in NEW_CODES or code in CHG_CODES:
         return True
@@ -55,6 +56,9 @@ def doc_category(doc):
     """新規か変更かを判定"""
     code = doc.get("docTypeCode", "")
     desc = doc.get("docDescription") or ""
+    # 「変更報告書」を先に判定（「大量保有報告書・変更報告書」等の複合表記対策）
+    if "変更報告書" in desc:
+        return "change"
     if code in NEW_CODES or "大量保有報告書" in desc:
         return "new"
     return "change"
@@ -136,6 +140,14 @@ def _ixval(txt, elem_name):
     return m.group(1).strip() if m else None
 
 
+def _ixvals(txt, elem_name):
+    """Extract ALL values of an inline XBRL element (共同保有の内訳など複数インスタンス対応)."""
+    return [m.strip() for m in re.findall(
+        rf'<ix:non(?:Numeric|Fraction)[^>]+name="[^"]*:{re.escape(elem_name)}"[^>]*>\s*([^<]+?)\s*</ix:non',
+        txt
+    ) if m.strip()]
+
+
 def xbrl_parse(doc_id):
     """Download XBRL zip and return (ratio_pct, issuer_name, issuer_code).
 
@@ -186,16 +198,30 @@ def xbrl_parse(doc_id):
                 except ValueError:
                     return None
 
-            ratio = _to_pct(
-                _ixval(txt, "HoldingRatioOfShareCertificatesEtc") or
-                _ixval(txt, "HoldingRatioOfVotingRights") or
-                _ixval(txt, "HoldingRatio")
-            )
-            prev_ratio = _to_pct(
-                _ixval(txt, "HoldingRatioOfShareCertificatesEtcPerLastReport") or
-                _ixval(txt, "HoldingRatioOfVotingRightsPerLastReport") or
-                _ixval(txt, "HoldingRatioPerLastReport")
-            )
+            def _max_ratio(*elems):
+                """インライン XBRL は既に%表記。共同保有で複数インスタンスある場合は
+                合計（=最大値）が全体の保有割合なので max を採用する。"""
+                vals = []
+                for el in elems:
+                    for raw in _ixvals(txt, el):
+                        try:
+                            v = float(raw.replace(",", ""))
+                        except ValueError:
+                            continue
+                        if 0 < v <= 100:
+                            vals.append(v)
+                    if vals:
+                        break  # 最初に見つかったタクソノミで確定
+                return max(vals) if vals else None
+
+            ratio = _max_ratio(
+                "HoldingRatioOfShareCertificatesEtc",
+                "HoldingRatioOfVotingRights",
+                "HoldingRatio")
+            prev_ratio = _max_ratio(
+                "HoldingRatioOfShareCertificatesEtcPerLastReport",
+                "HoldingRatioOfVotingRightsPerLastReport",
+                "HoldingRatioPerLastReport")
 
             return ratio, issuer_name, issuer_code, prev_ratio
     except Exception as e:
