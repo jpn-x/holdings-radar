@@ -46,7 +46,7 @@
       "sec": "6454",
       "name": "マックス株式会社",
       "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
-      "ratio": null,
+      "ratio": 7.31,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -56,7 +56,7 @@
       "sec": "9564",
       "name": "株式会社ＦＣＥ",
       "filer": "鷲見　貴彦",
-      "ratio": 43.0,
+      "ratio": 5.03,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -96,7 +96,7 @@
       "sec": "4834",
       "name": "キャリアバンク株式会社",
       "filer": "佐藤　舞",
-      "ratio": 11.72,
+      "ratio": 25.89,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -125,7 +125,7 @@
     },
     {
       "docId": "S100XPX4",
-      "sec": "5268",
+      "sec": "5262",
       "name": "日本ヒューム株式会社",
       "filer": "旭コンクリート工業株式会社",
       "ratio": 5.0,
@@ -135,7 +135,7 @@
     },
     {
       "docId": "S100XPOG",
-      "sec": "3069",
+      "sec": "9973",
       "name": "KOZOホールディングス株式会社",
       "filer": "株式会社　ＪＦＬＡホールディングス",
       "ratio": 5.46,
@@ -148,8 +148,8 @@
       "sec": "6560",
       "name": "株式会社エル・ティー・エス",
       "filer": "李　成一",
-      "ratio": 4.33,
-      "prev_ratio": 4.91,
+      "ratio": 7.5,
+      "prev_ratio": 7.75,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +158,8 @@
       "sec": "7271",
       "name": "株式会社安永",
       "filer": "有限会社ＹＡＳＮＡＧ",
-      "ratio": 8.9,
-      "prev_ratio": 8.9,
+      "ratio": 11.71,
+      "prev_ratio": 11.71,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +188,8 @@
       "sec": "3174",
       "name": "株式会社ハピネス・アンド・ディ",
       "filer": "田　泰夫",
-      "ratio": 20.64,
-      "prev_ratio": 23.22,
+      "ratio": 23.14,
+      "prev_ratio": 25.93,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +228,8 @@
       "sec": "3032",
       "name": "株式会社ゴルフ・ドゥ",
       "filer": "松田　芳久",
-      "ratio": 30.77,
-      "prev_ratio": 33.41,
+      "ratio": 33.11,
+      "prev_ratio": 36.21,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +258,8 @@
       "sec": "6286",
       "name": "靜甲株式会社",
       "filer": "鈴木　惠子",
-      "ratio": 6.59,
-      "prev_ratio": 6.59,
+      "ratio": 15.39,
+      "prev_ratio": 15.39,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +278,8 @@
       "sec": "5075",
       "name": "アップコン株式会社",
       "filer": "アクアプレコン株式会社",
-      "ratio": 15.34,
-      "prev_ratio": 10.62,
+      "ratio": 65.7,
+      "prev_ratio": 65.7,
       "direction": "変更",
       "isNew": false
     },
@@ -295,7 +295,7 @@
     },
     {
       "docId": "S100XQGL",
-      "sec": "7938",
+      "sec": "7932",
       "name": "株式会社ニッピ",
       "filer": "株式会社リーガルコーポレーション",
       "ratio": 12.31,
@@ -308,8 +308,8 @@
       "sec": "2304",
       "name": "株式会社ＣＳＳホールディングス",
       "filer": "野口　緑",
-      "ratio": 11.6,
-      "prev_ratio": 11.43,
+      "ratio": 37.11,
+      "prev_ratio": 36.72,
       "direction": "変更",
       "isNew": false
     },
@@ -358,8 +358,8 @@
       "sec": "220A",
       "name": "株式会社Faber Company",
       "filer": "光通信株式会社",
-      "ratio": 6.5,
-      "prev_ratio": 5.63,
+      "ratio": 7.76,
+      "prev_ratio": 6.71,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +368,8 @@
       "sec": "7531",
       "name": "清和中央ホールディングス株式会社",
       "filer": "株式会社ワイエムピー",
-      "ratio": 18.04,
-      "prev_ratio": 16.79,
+      "ratio": 32.21,
+      "prev_ratio": 31.31,
       "direction": "変更",
       "isNew": false
     },
@@ -398,8 +398,8 @@
       "sec": "4686",
       "name": "株式会社ジャストシステム",
       "filer": "光通信株式会社",
-      "ratio": 3.98,
-      "prev_ratio": 3.8,
+      "ratio": 13.73,
+      "prev_ratio": 12.69,
       "direction": "変更",
       "isNew": false
     },
@@ -428,8 +428,8 @@
       "sec": "6855",
       "name": "日本電子材料株式会社",
       "filer": "有限会社　大久保興産",
-      "ratio": 3.37,
-      "prev_ratio": 3.69,
+      "ratio": 9.81,
+      "prev_ratio": 6.0,
       "direction": "変更",
       "isNew": false
     },
@@ -438,8 +438,8 @@
       "sec": "4019",
       "name": "株式会社スタメン",
       "filer": "株式会社スターフロンツ",
-      "ratio": 2.34,
-      "prev_ratio": 3.46,
+      "ratio": 20.56,
+      "prev_ratio": 21.68,
       "direction": "変更",
       "isNew": false
     },
@@ -468,8 +468,8 @@
       "sec": "6330",
       "name": "東洋エンジニアリング株式会社",
       "filer": "インテグラルＴｅａｍ株式会社",
-      "ratio": 17.48,
-      "prev_ratio": 19.19,
+      "ratio": 20.16,
+      "prev_ratio": 22.13,
       "direction": "変更",
       "isNew": false
     },
@@ -478,8 +478,8 @@
       "sec": "6524",
       "name": "湖北工業株式会社",
       "filer": "石井　太",
-      "ratio": 42.61,
-      "prev_ratio": 41.02,
+      "ratio": 61.79,
+      "prev_ratio": 59.49,
       "direction": "変更",
       "isNew": false
     },
@@ -488,8 +488,8 @@
       "sec": "6524",
       "name": "湖北工業株式会社",
       "filer": "石井　太",
-      "ratio": 42.61,
-      "prev_ratio": 42.61,
+      "ratio": 60.65,
+      "prev_ratio": 61.79,
       "direction": "変更",
       "isNew": false
     }

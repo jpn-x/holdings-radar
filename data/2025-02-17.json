@@ -12,6 +12,16 @@
       "isNew": true
     },
     {
+      "docId": "S100V9CT",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "楽天証券株式会社",
+      "ratio": 5.15,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100V5Q3",
       "sec": "5845",
       "name": "全保連株式会社",
@@ -64,6 +74,26 @@
       "isNew": false
     },
     {
+      "docId": "S100V8IN",
+      "sec": "6058",
+      "name": "株式会社ベクトル",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 5.29,
+      "prev_ratio": 6.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V9CU",
+      "sec": "4165",
+      "name": "株式会社プレイド",
+      "filer": "楽天証券株式会社",
+      "ratio": 7.07,
+      "prev_ratio": 6.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100V9AO",
       "sec": "4582",
       "name": "シンバイオ製薬株式会社",
@@ -88,8 +118,8 @@
       "sec": "4235",
       "name": "ウルトラファブリクス・ホールディングス株式会社",
       "filer": "バーバラ　ダニエル　ボエカー　プリマック",
-      "ratio": 6.37,
-      "prev_ratio": 5.74,
+      "ratio": 6.76,
+      "prev_ratio": 6.1,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +138,8 @@
       "sec": "9271",
       "name": "株式会社和心",
       "filer": "森　智宏",
-      "ratio": 25.62,
-      "prev_ratio": 30.48,
+      "ratio": 41.33,
+      "prev_ratio": 45.51,
       "direction": "変更",
       "isNew": false
     },

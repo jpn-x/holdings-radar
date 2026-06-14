@@ -2,6 +2,26 @@
   "date": "2026-01-19",
   "new": [
     {
+      "docId": "S100XFNP",
+      "sec": "3292",
+      "name": "イオンリート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.27,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XFNW",
+      "sec": "5310",
+      "name": "東洋炭素株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XGDP",
       "sec": "6721",
       "name": "ウインテスト株式会社",
@@ -26,8 +46,8 @@
       "sec": "3491",
       "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
       "filer": "樋口　龍",
-      "ratio": 25.82,
-      "prev_ratio": 25.82,
+      "ratio": 37.08,
+      "prev_ratio": 37.08,
       "direction": "新規",
       "isNew": true
     },
@@ -36,7 +56,7 @@
       "sec": "5025",
       "name": "株式会社マーキュリー",
       "filer": "光通信株式会社",
-      "ratio": 4.76,
+      "ratio": 5.03,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -46,7 +66,7 @@
       "sec": "6342",
       "name": "株式会社太平製作所",
       "filer": "光通信株式会社",
-      "ratio": 4.86,
+      "ratio": 5.01,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -98,8 +118,8 @@
       "sec": "3733",
       "name": "株式会社ソフトウェア・サービス",
       "filer": "宮﨑　勝",
-      "ratio": 23.69,
-      "prev_ratio": 23.69,
+      "ratio": 25.51,
+      "prev_ratio": 25.51,
       "direction": "変更",
       "isNew": false
     },
@@ -109,7 +129,27 @@
       "name": "住友理工株式会社",
       "filer": "住友電気工業株式会社",
       "ratio": 99.79,
-      "prev_ratio": 91.17,
+      "prev_ratio": 91.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFNN",
+      "sec": "3197",
+      "name": "株式会社すかいらーくホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.47,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFNO",
+      "sec": "3249",
+      "name": "産業ファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 7.07,
+      "prev_ratio": 6.12,
       "direction": "変更",
       "isNew": false
     },
@@ -120,6 +160,86 @@
       "filer": "河田　憲二",
       "ratio": 55.98,
       "prev_ratio": 58.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFNQ",
+      "sec": "3471",
+      "name": "三井不動産ロジスティクスパーク投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.55,
+      "prev_ratio": 5.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFNS",
+      "sec": "4025",
+      "name": "多木化学株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.33,
+      "prev_ratio": 7.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFNT",
+      "sec": "5301",
+      "name": "東海カーボン株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 9.21,
+      "prev_ratio": 8.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFNX",
+      "sec": "5957",
+      "name": "日東精工株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.71,
+      "prev_ratio": 6.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XG9K",
+      "sec": "6578",
+      "name": "株式会社コレックホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.94,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XG9H",
+      "sec": "8029",
+      "name": "株式会社ルックホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 2.73,
+      "prev_ratio": 5.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFO0",
+      "sec": "8052",
+      "name": "椿本興業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.09,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XFO1",
+      "sec": "9248",
+      "name": "人・夢・技術グループ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.02,
+      "prev_ratio": 5.02,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +258,8 @@
       "sec": "4369",
       "name": "株式会社　トリケミカル研究所",
       "filer": "野村證券株式会社",
-      "ratio": 17.0,
-      "prev_ratio": 19.0,
+      "ratio": 10.73,
+      "prev_ratio": 11.57,
       "direction": "変更",
       "isNew": false
     },
@@ -174,12 +294,42 @@
       "isNew": false
     },
     {
+      "docId": "S100XGE9",
+      "sec": "6465",
+      "name": "ホシザキ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 4.44,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XGDV",
       "sec": "6103",
       "name": "オークマ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 1.0,
-      "prev_ratio": 38.0,
+      "ratio": 10.54,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGE5",
+      "sec": "5885",
+      "name": "株式会社ジーデップ・アドバンス",
+      "filer": "野村證券株式会社",
+      "ratio": 4.59,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGE6",
+      "sec": "6395",
+      "name": "株式会社タダノ",
+      "filer": "野村證券株式会社",
+      "ratio": 7.39,
+      "prev_ratio": 6.39,
       "direction": "変更",
       "isNew": false
     },
@@ -188,7 +338,7 @@
       "sec": "3549",
       "name": "株式会社クスリのアオキホールディングス",
       "filer": "イオン株式会社",
-      "ratio": 10.17,
+      "ratio": 15.25,
       "prev_ratio": 9.98,
       "direction": "変更",
       "isNew": false
@@ -228,8 +378,8 @@
       "sec": "4776",
       "name": "サイボウズ株式会社",
       "filer": "西端　慶久",
-      "ratio": 1.65,
-      "prev_ratio": 1.6,
+      "ratio": 17.01,
+      "prev_ratio": 16.93,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +408,8 @@
       "sec": "7769",
       "name": "リズム株式会社",
       "filer": "株式会社ＤＯＥ５パーセント",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 7.02,
+      "prev_ratio": 8.05,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +418,8 @@
       "sec": "2341",
       "name": "株式会社アルバイトタイムス",
       "filer": "光通信株式会社",
-      "ratio": 6.66,
-      "prev_ratio": 6.43,
+      "ratio": 14.63,
+      "prev_ratio": 13.59,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +448,8 @@
       "sec": "2183",
       "name": "株式会社リニカル",
       "filer": "坂本　勲勇",
-      "ratio": 1.87,
-      "prev_ratio": 2.91,
+      "ratio": 5.14,
+      "prev_ratio": 6.14,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +458,8 @@
       "sec": "8303",
       "name": "株式会社SBI新生銀行",
       "filer": "ＳＢＩホールディングス株式会社",
-      "ratio": 15.82,
-      "prev_ratio": 19.54,
+      "ratio": 70.54,
+      "prev_ratio": 74.26,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +468,8 @@
       "sec": "4434",
       "name": "株式会社サーバーワークス",
       "filer": "株式会社ＮＴＴデータ",
-      "ratio": null,
-      "prev_ratio": 3.3,
+      "ratio": 3.29,
+      "prev_ratio": 6.6,
       "direction": "変更",
       "isNew": false
     }

@@ -28,8 +28,8 @@
       "sec": "6141",
       "name": "ＤＭＧ森精機株式会社",
       "filer": "三井住友信託銀行株式会社",
-      "ratio": 2.46,
-      "prev_ratio": 2.46,
+      "ratio": 10.57,
+      "prev_ratio": 10.6,
       "direction": "変更",
       "isNew": false
     },
@@ -40,6 +40,16 @@
       "filer": "Ｍ＆Ｇインベストメント・マネジメント・リミテッド",
       "ratio": 9.26,
       "prev_ratio": 10.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYRO",
+      "sec": "325A",
+      "name": "株式会社ＴＥＮＴＩＡＬ",
+      "filer": "ベルインベストメンツ株式会社",
+      "ratio": 7.08,
+      "prev_ratio": 5.36,
       "direction": "変更",
       "isNew": false
     },
@@ -98,7 +108,7 @@
       "sec": "7361",
       "name": "株式会社ヒューマンクリエイションホールディングス",
       "filer": "光通信株式会社",
-      "ratio": 6.63,
+      "ratio": 7.49,
       "prev_ratio": 6.39,
       "direction": "変更",
       "isNew": false
@@ -108,8 +118,8 @@
       "sec": "8617",
       "name": "光世証券株式会社",
       "filer": "株式会社巽也蔵",
-      "ratio": 20.39,
-      "prev_ratio": 20.38,
+      "ratio": 43.09,
+      "prev_ratio": 46.35,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +128,8 @@
       "sec": "9338",
       "name": "株式会社ＩＮＦＯＲＩＣＨ",
       "filer": "秋山　広宣",
-      "ratio": 18.18,
-      "prev_ratio": 18.19,
+      "ratio": 18.43,
+      "prev_ratio": 18.45,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +138,8 @@
       "sec": "5990",
       "name": "株式会社スーパーツール",
       "filer": "ＧＬＯＢＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＡＲＴＮＥＲＳ　ＬＩＭＩＴＥＤ",
-      "ratio": 16.57,
-      "prev_ratio": 15.54,
+      "ratio": 17.86,
+      "prev_ratio": 16.82,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +148,8 @@
       "sec": "438A",
       "name": "株式会社インフキュリオン",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 2.58,
-      "prev_ratio": 2.58,
+      "ratio": 6.14,
+      "prev_ratio": 10.98,
       "direction": "変更",
       "isNew": false
     },

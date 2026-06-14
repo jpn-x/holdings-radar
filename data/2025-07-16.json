@@ -26,7 +26,7 @@
       "sec": "7163",
       "name": "住信ＳＢＩネット銀行株式会社",
       "filer": "株式会社ＮＴＴドコモ",
-      "ratio": 24.72,
+      "ratio": 93.09,
       "prev_ratio": 34.19,
       "direction": "新規",
       "isNew": true
@@ -38,8 +38,8 @@
       "sec": "9127",
       "name": "玉井商船　株式会社",
       "filer": "株式会社　アイエスシー",
-      "ratio": 3.32,
-      "prev_ratio": 2.75,
+      "ratio": 7.17,
+      "prev_ratio": 6.16,
       "direction": "変更",
       "isNew": false
     },
@@ -48,8 +48,8 @@
       "sec": "7163",
       "name": "住信ＳＢＩネット銀行株式会社",
       "filer": "三井住友信託銀行株式会社",
-      "ratio": 34.19,
-      "prev_ratio": 34.19,
+      "ratio": 93.09,
+      "prev_ratio": 68.37,
       "direction": "変更",
       "isNew": false
     },
@@ -88,8 +88,8 @@
       "sec": "6973",
       "name": "協栄産業株式会社",
       "filer": "三菱電機株式会社",
-      "ratio": 17.5,
-      "prev_ratio": 17.5,
+      "ratio": 69.45,
+      "prev_ratio": 26.38,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +98,8 @@
       "sec": "7997",
       "name": "株式会社くろがね工作所",
       "filer": "神足　尚孝",
-      "ratio": 2.71,
-      "prev_ratio": 3.29,
+      "ratio": 10.68,
+      "prev_ratio": 11.63,
       "direction": "変更",
       "isNew": false
     },
@@ -134,6 +134,16 @@
       "isNew": false
     },
     {
+      "docId": "S100WDG4",
+      "sec": "7818",
+      "name": "株式会社トランザクション",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 6.71,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WD25",
       "sec": "9878",
       "name": "株式会社セキド",
@@ -154,6 +164,16 @@
       "isNew": false
     },
     {
+      "docId": "S100WDH2",
+      "sec": "8360",
+      "name": "株式会社山梨中央銀行",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 7.33,
+      "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WDAV",
       "sec": "4586",
       "name": "株式会社メドレックス",
@@ -168,8 +188,8 @@
       "sec": "5131",
       "name": "リンカーズ株式会社",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 9.2,
-      "prev_ratio": 9.2,
+      "ratio": 10.65,
+      "prev_ratio": 10.53,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +198,8 @@
       "sec": "5992",
       "name": "中央発條株式会社",
       "filer": "株式会社ＤＯＥ５パーセント",
-      "ratio": null,
-      "prev_ratio": 1.53,
+      "ratio": 8.66,
+      "prev_ratio": 8.35,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +218,8 @@
       "sec": "166A",
       "name": "株式会社タスキホールディングス",
       "filer": "野村證券株式会社",
-      "ratio": 11.14,
-      "prev_ratio": 11.57,
+      "ratio": 11.18,
+      "prev_ratio": 11.63,
       "direction": "変更",
       "isNew": false
     },

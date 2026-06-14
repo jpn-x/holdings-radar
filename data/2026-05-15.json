@@ -16,7 +16,7 @@
       "sec": "7259",
       "name": "株式会社アイシン",
       "filer": "株式会社豊田自動織機",
-      "ratio": 3.06,
+      "ratio": 5.57,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -36,7 +36,7 @@
       "sec": "6929",
       "name": "日本セラミック株式会社",
       "filer": "谷口　真一",
-      "ratio": 1.67,
+      "ratio": 20.93,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -68,7 +68,7 @@
       "sec": "6902",
       "name": "株式会社デンソー",
       "filer": "株式会社豊田自動織機",
-      "ratio": 6.35,
+      "ratio": 10.93,
       "prev_ratio": 6.35,
       "direction": "変更",
       "isNew": false
@@ -78,8 +78,8 @@
       "sec": "6141",
       "name": "ＤＭＧ森精機株式会社",
       "filer": "三井住友信託銀行株式会社",
-      "ratio": 2.46,
-      "prev_ratio": 2.46,
+      "ratio": 11.01,
+      "prev_ratio": 9.92,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "2751",
       "name": "株式会社テンポスホールディングス",
       "filer": "森下　篤史",
-      "ratio": 12.93,
-      "prev_ratio": 12.93,
+      "ratio": 30.39,
+      "prev_ratio": 30.75,
       "direction": "変更",
       "isNew": false
     },
@@ -148,7 +148,7 @@
       "sec": "3189",
       "name": "株式会社ＡＮＡＰホールディングス",
       "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
-      "ratio": 5.2,
+      "ratio": 11.45,
       "prev_ratio": 11.45,
       "direction": "変更",
       "isNew": false
@@ -178,8 +178,8 @@
       "sec": "2751",
       "name": "株式会社テンポスホールディングス",
       "filer": "有限会社あさしお",
-      "ratio": 14.54,
-      "prev_ratio": 14.87,
+      "ratio": 30.39,
+      "prev_ratio": 30.75,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +198,8 @@
       "sec": "9273",
       "name": "コーア商事ホールディングス株式会社",
       "filer": "株式会社土師",
-      "ratio": 45.0,
-      "prev_ratio": 45.0,
+      "ratio": 50.39,
+      "prev_ratio": 50.39,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +208,8 @@
       "sec": "9166",
       "name": "株式会社ＧＥＮＤＡ",
       "filer": "片岡　尚",
-      "ratio": 12.54,
-      "prev_ratio": 12.9,
+      "ratio": 13.63,
+      "prev_ratio": 14.01,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +228,8 @@
       "sec": "6239",
       "name": "株式会社ナガオカ",
       "filer": "株式会社フラクタル・ビジネス",
-      "ratio": 1.89,
-      "prev_ratio": 1.6,
+      "ratio": 7.12,
+      "prev_ratio": 6.08,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +268,8 @@
       "sec": "4055",
       "name": "ティアンドエスグループ株式会社",
       "filer": "渡辺　照男",
-      "ratio": 5.85,
-      "prev_ratio": 6.9,
+      "ratio": 6.43,
+      "prev_ratio": 7.48,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +278,8 @@
       "sec": "4212",
       "name": "積水樹脂株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 5.34,
-      "prev_ratio": 4.77,
+      "ratio": 7.09,
+      "prev_ratio": 6.05,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +288,8 @@
       "sec": "3512",
       "name": "日本フエルト株式会社",
       "filer": "株式会社ＤＯＥ５パーセント",
-      "ratio": 31.0,
-      "prev_ratio": 31.0,
+      "ratio": 6.03,
+      "prev_ratio": 5.01,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +318,8 @@
       "sec": "9564",
       "name": "株式会社ＦＣＥ",
       "filer": "鷲見　貴彦",
-      "ratio": 43.0,
-      "prev_ratio": 43.0,
+      "ratio": 7.36,
+      "prev_ratio": 4.07,
       "direction": "変更",
       "isNew": false
     }

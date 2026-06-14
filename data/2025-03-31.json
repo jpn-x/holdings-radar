@@ -6,7 +6,7 @@
       "sec": "341A",
       "name": "株式会社トヨコー",
       "filer": "白井　元",
-      "ratio": 4.06,
+      "ratio": 5.58,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -16,7 +16,7 @@
       "sec": "341A",
       "name": "株式会社トヨコー",
       "filer": "豊澤　一晃",
-      "ratio": 4.16,
+      "ratio": 35.16,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -42,6 +42,86 @@
       "isNew": true
     },
     {
+      "docId": "S100VH0Z",
+      "sec": "2730",
+      "name": "株式会社エディオン",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VH13",
+      "sec": "4452",
+      "name": "花王株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.18,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VH1C",
+      "sec": "6151",
+      "name": "日東工器株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VH1H",
+      "sec": "6458",
+      "name": "新晃工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.11,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VH1N",
+      "sec": "6817",
+      "name": "スミダコーポレーション株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.82,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VH1P",
+      "sec": "6962",
+      "name": "株式会社大真空",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VH1T",
+      "sec": "9048",
+      "name": "名古屋鉄道株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VIQ4",
+      "sec": "8986",
+      "name": "大和証券リビング投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100VJ8Y",
       "sec": "2162",
       "name": "nmsホールディングス株式会社",
@@ -56,8 +136,8 @@
       "sec": "3905",
       "name": "データセクション株式会社",
       "filer": "杉原　行洋",
-      "ratio": 8.44,
-      "prev_ratio": 7.18,
+      "ratio": 26.37,
+      "prev_ratio": 25.66,
       "direction": "新規",
       "isNew": true
     },
@@ -78,8 +158,8 @@
       "sec": "5386",
       "name": "株式会社鶴弥",
       "filer": "鶴見　哲",
-      "ratio": 19.97,
-      "prev_ratio": 19.97,
+      "ratio": 29.34,
+      "prev_ratio": 29.34,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +178,8 @@
       "sec": "4351",
       "name": "株式会社山田再生系債権回収総合事務所",
       "filer": "山田晃久",
-      "ratio": 35.02,
-      "prev_ratio": 35.02,
+      "ratio": 59.53,
+      "prev_ratio": 59.53,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +188,8 @@
       "sec": "7516",
       "name": "コーナン商事株式会社",
       "filer": "疋田耕造",
-      "ratio": 5.21,
-      "prev_ratio": 5.21,
+      "ratio": 6.63,
+      "prev_ratio": 6.63,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +208,8 @@
       "sec": "9749",
       "name": "富士ソフト株式会社",
       "filer": "野澤　宏",
-      "ratio": 5.25,
-      "prev_ratio": 5.25,
+      "ratio": 68.54,
+      "prev_ratio": 53.57,
       "direction": "変更",
       "isNew": false
     },
@@ -148,7 +228,7 @@
       "sec": "9749",
       "name": "富士ソフト株式会社",
       "filer": "ＦＫ株式会社",
-      "ratio": 53.57,
+      "ratio": 62.46,
       "prev_ratio": 53.57,
       "direction": "変更",
       "isNew": false
@@ -158,8 +238,8 @@
       "sec": "6676",
       "name": "株式会社メルコホールディングス",
       "filer": "牧　寛之",
-      "ratio": 15.78,
-      "prev_ratio": 13.31,
+      "ratio": 16.06,
+      "prev_ratio": 13.56,
       "direction": "変更",
       "isNew": false
     },
@@ -170,6 +250,76 @@
       "filer": "株式会社舞花",
       "ratio": 32.62,
       "prev_ratio": 32.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH0X",
+      "sec": "1921",
+      "name": "株式会社巴コーポレーション",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.31,
+      "prev_ratio": 5.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH12",
+      "sec": "2784",
+      "name": "アルフレッサ　ホールディングス株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.11,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH14",
+      "sec": "4704",
+      "name": "トレンドマイクロ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.8,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH18",
+      "sec": "5976",
+      "name": "高周波熱錬株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 9.01,
+      "prev_ratio": 7.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH1D",
+      "sec": "6209",
+      "name": "リケンＮＰＲ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.13,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH1M",
+      "sec": "6586",
+      "name": "株式会社マキタ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.15,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VH1R",
+      "sec": "7670",
+      "name": "オーウエル株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.0,
+      "prev_ratio": 5.9,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +418,8 @@
       "sec": "1446",
       "name": "株式会社キャンディル",
       "filer": "林　晃生",
-      "ratio": 18.51,
-      "prev_ratio": 18.44,
+      "ratio": 21.41,
+      "prev_ratio": 21.33,
       "direction": "変更",
       "isNew": false
     },
@@ -388,8 +538,8 @@
       "sec": "7071",
       "name": "株式会社アンビスホールディングス",
       "filer": "柴原　慶一",
-      "ratio": 8.29,
-      "prev_ratio": 7.28,
+      "ratio": 60.94,
+      "prev_ratio": 59.93,
       "direction": "変更",
       "isNew": false
     },
@@ -408,8 +558,8 @@
       "sec": "6539",
       "name": "株式会社ＭＳ－Ｊａｐａｎ",
       "filer": "有本　隆浩",
-      "ratio": 21.89,
-      "prev_ratio": 24.83,
+      "ratio": 58.59,
+      "prev_ratio": 59.54,
       "direction": "変更",
       "isNew": false
     },
@@ -418,8 +568,8 @@
       "sec": "2376",
       "name": "株式会社サイネックス",
       "filer": "光通信株式会社",
-      "ratio": 6.51,
-      "prev_ratio": 6.51,
+      "ratio": 8.13,
+      "prev_ratio": 7.12,
       "direction": "変更",
       "isNew": false
     },
@@ -448,8 +598,8 @@
       "sec": "4428",
       "name": "株式会社シノプス",
       "filer": "合同会社南谷ホールディングス",
-      "ratio": 33.63,
-      "prev_ratio": 33.63,
+      "ratio": 38.12,
+      "prev_ratio": 38.12,
       "direction": "変更",
       "isNew": false
     },
@@ -468,8 +618,8 @@
       "sec": "4166",
       "name": "かっこ株式会社",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 1.48,
-      "prev_ratio": 3.05,
+      "ratio": 3.79,
+      "prev_ratio": 5.0,
       "direction": "変更",
       "isNew": false
     }

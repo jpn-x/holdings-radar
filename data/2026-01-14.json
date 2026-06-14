@@ -16,7 +16,7 @@
       "sec": "6664",
       "name": "株式会社オプトエレクトロニクス",
       "filer": "日本エイサー株式会社",
-      "ratio": 38.81,
+      "ratio": 58.81,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -26,7 +26,7 @@
       "sec": "4530",
       "name": "久光製薬株式会社",
       "filer": "タイヨー興産株式会社",
-      "ratio": 2.36,
+      "ratio": 8.13,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -38,8 +38,8 @@
       "sec": "6898",
       "name": "トミタ電機株式会社",
       "filer": "神谷　陽一郎",
-      "ratio": null,
-      "prev_ratio": 8.91,
+      "ratio": 9.76,
+      "prev_ratio": 9.33,
       "direction": "変更",
       "isNew": false
     },
@@ -68,8 +68,8 @@
       "sec": "278A",
       "name": "Terra Drone株式会社",
       "filer": "德重　徹",
-      "ratio": 18.07,
-      "prev_ratio": 18.8,
+      "ratio": 55.7,
+      "prev_ratio": 57.95,
       "direction": "変更",
       "isNew": false
     },
@@ -135,7 +135,7 @@
     },
     {
       "docId": "S100XER8",
-      "sec": "761",
+      "sec": "7138",
       "name": "株式会社ＴＯＲＩＣＯ",
       "filer": "株式会社テイツー",
       "ratio": 9.3,
@@ -145,7 +145,7 @@
     },
     {
       "docId": "S100XFHG",
-      "sec": "761",
+      "sec": "7138",
       "name": "株式会社ＴＯＲＩＣＯ",
       "filer": "株式会社テイツー",
       "ratio": 5.52,
@@ -218,8 +218,8 @@
       "sec": "3903",
       "name": "株式会社gumi",
       "filer": "ＳＢＩホールディングス株式会社",
-      "ratio": 30.85,
-      "prev_ratio": 31.31,
+      "ratio": 38.76,
+      "prev_ratio": 40.07,
       "direction": "変更",
       "isNew": false
     },
@@ -228,7 +228,7 @@
       "sec": "5721",
       "name": "株式会社エス・サイエンス",
       "filer": "ＫＡＹ　ＬＥＯ　ＢＲＯＴＨＥＲＳ　ＬＩＭＩＴＥＤ",
-      "ratio": 9.08,
+      "ratio": 13.92,
       "prev_ratio": 16.86,
       "direction": "変更",
       "isNew": false
@@ -238,8 +238,8 @@
       "sec": "3961",
       "name": "シルバーエッグ・テクノロジー株式会社",
       "filer": "トーマス・アクイナス・フォーリー",
-      "ratio": 26.97,
-      "prev_ratio": 53.94,
+      "ratio": 89.6,
+      "prev_ratio": 58.64,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +248,8 @@
       "sec": "4062",
       "name": "イビデン株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 1.36,
-      "prev_ratio": 1.38,
+      "ratio": 11.61,
+      "prev_ratio": 11.49,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +268,8 @@
       "sec": "5250",
       "name": "プライム・ストラテジー株式会社",
       "filer": "中村　けん牛",
-      "ratio": 8.18,
-      "prev_ratio": 8.18,
+      "ratio": 8.88,
+      "prev_ratio": 8.88,
       "direction": "変更",
       "isNew": false
     },

@@ -28,8 +28,8 @@
       "sec": "7516",
       "name": "コーナン商事株式会社",
       "filer": "疋田耕造",
-      "ratio": 5.21,
-      "prev_ratio": 5.21,
+      "ratio": 6.63,
+      "prev_ratio": 6.63,
       "direction": "変更",
       "isNew": false
     },
@@ -68,8 +68,8 @@
       "sec": "9404",
       "name": "日本テレビホールディングス株式会社",
       "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
-      "ratio": 8.01,
-      "prev_ratio": 7.02,
+      "ratio": 10.39,
+      "prev_ratio": 9.34,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +108,8 @@
       "sec": "4374",
       "name": "株式会社ROBOT PAYMENT",
       "filer": "清久　健也",
-      "ratio": 10.5,
-      "prev_ratio": 10.5,
+      "ratio": 51.77,
+      "prev_ratio": 51.77,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +128,8 @@
       "sec": "5036",
       "name": "日本ビジネスシステムズ株式会社",
       "filer": "株式会社三菱総合研究所",
-      "ratio": 14.5,
-      "prev_ratio": 14.5,
+      "ratio": 18.56,
+      "prev_ratio": 18.56,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +148,8 @@
       "sec": "3675",
       "name": "株式会社クロス・マーケティンググループ",
       "filer": "五十嵐　幹",
-      "ratio": 32.69,
-      "prev_ratio": 32.69,
+      "ratio": 44.18,
+      "prev_ratio": 44.18,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +178,8 @@
       "sec": "4549",
       "name": "栄研化学株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 8.38,
-      "prev_ratio": 8.3,
+      "ratio": 26.78,
+      "prev_ratio": 25.77,
       "direction": "変更",
       "isNew": false
     },
@@ -204,6 +204,16 @@
       "isNew": false
     },
     {
+      "docId": "S100VVFF",
+      "sec": "6222",
+      "name": "株式会社島精機製作所",
+      "filer": "テンプルトン・インベストメント・カウンセル・エルエルシー",
+      "ratio": 2.19,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VVJ3",
       "sec": "9302",
       "name": "三井倉庫ホールディングス株式会社",
@@ -218,8 +228,8 @@
       "sec": "6973",
       "name": "協栄産業株式会社",
       "filer": "加賀電子株式会社",
-      "ratio": 8.88,
-      "prev_ratio": 8.09,
+      "ratio": 26.38,
+      "prev_ratio": 26.32,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +238,8 @@
       "sec": "3905",
       "name": "データセクション株式会社",
       "filer": "杉原　行洋",
-      "ratio": 8.32,
-      "prev_ratio": 8.44,
+      "ratio": 24.36,
+      "prev_ratio": 25.36,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +248,8 @@
       "sec": "3486",
       "name": "株式会社グローバル・リンク・マネジメント",
       "filer": "金　大仲",
-      "ratio": 15.02,
-      "prev_ratio": 22.61,
+      "ratio": 48.69,
+      "prev_ratio": 56.34,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +258,8 @@
       "sec": "1766",
       "name": "東建コーポレーション株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.38,
-      "prev_ratio": 7.38,
+      "ratio": 19.51,
+      "prev_ratio": 18.5,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +268,8 @@
       "sec": "6855",
       "name": "日本電子材料株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 2.3,
-      "prev_ratio": 1.0,
+      "ratio": 12.94,
+      "prev_ratio": 10.92,
       "direction": "変更",
       "isNew": false
     },

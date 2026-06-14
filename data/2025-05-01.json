@@ -6,7 +6,7 @@
       "sec": "353A",
       "name": "エレベーターコミュニケーションズ株式会社",
       "filer": "薄田　章博",
-      "ratio": 18.72,
+      "ratio": 66.7,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -16,7 +16,7 @@
       "sec": "353A",
       "name": "エレベーターコミュニケーションズ株式会社",
       "filer": "村石　誠司",
-      "ratio": 5.03,
+      "ratio": 8.42,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -36,7 +36,17 @@
       "sec": "352A",
       "name": "株式会社LIFE CREATE",
       "filer": "前川　彩香",
-      "ratio": 38.3,
+      "ratio": 63.73,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VP30",
+      "sec": "8360",
+      "name": "株式会社山梨中央銀行",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 6.29,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -98,8 +108,8 @@
       "sec": "3733",
       "name": "株式会社ソフトウェア・サービス",
       "filer": "宮﨑　勝",
-      "ratio": 23.69,
-      "prev_ratio": 23.69,
+      "ratio": 25.51,
+      "prev_ratio": 25.51,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +148,8 @@
       "sec": "3053",
       "name": "株式会社ペッパーフードサービス",
       "filer": "株式会社フラッグシップアセットマネジメント",
-      "ratio": 1.83,
-      "prev_ratio": 2.1,
+      "ratio": 10.44,
+      "prev_ratio": 11.56,
       "direction": "変更",
       "isNew": false
     },
@@ -188,7 +198,7 @@
       "sec": "6265",
       "name": "コンバム株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.17,
+      "ratio": 8.17,
       "prev_ratio": 7.17,
       "direction": "変更",
       "isNew": false
@@ -198,8 +208,8 @@
       "sec": "2162",
       "name": "ｎｍｓホールディングス株式会社",
       "filer": "日本アジア投資株式会社",
-      "ratio": 7.57,
-      "prev_ratio": 7.57,
+      "ratio": 21.71,
+      "prev_ratio": 19.66,
       "direction": "変更",
       "isNew": false
     },

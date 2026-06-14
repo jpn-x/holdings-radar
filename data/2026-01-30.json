@@ -38,8 +38,8 @@
       "sec": "2531",
       "name": "宝ホールディングス株式会社",
       "filer": "ＶａｌｕｅＡｃｔ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　Ｌ．Ｐ．",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 14.8,
+      "prev_ratio": 12.44,
       "direction": "変更",
       "isNew": false
     },
@@ -48,8 +48,8 @@
       "sec": "5034",
       "name": "株式会社unerry",
       "filer": "内山　英俊",
-      "ratio": 28.23,
-      "prev_ratio": 29.41,
+      "ratio": 42.24,
+      "prev_ratio": 43.58,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +108,8 @@
       "sec": "4193",
       "name": "株式会社ファブリカホールディングス",
       "filer": "谷口　政人",
-      "ratio": 6.84,
-      "prev_ratio": 7.76,
+      "ratio": 19.26,
+      "prev_ratio": 20.13,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +118,8 @@
       "sec": "3496",
       "name": "株式会社アズーム",
       "filer": "菅田　洋司",
-      "ratio": 14.08,
-      "prev_ratio": 14.2,
+      "ratio": 47.98,
+      "prev_ratio": 48.38,
       "direction": "変更",
       "isNew": false
     },
@@ -144,12 +144,22 @@
       "isNew": false
     },
     {
+      "docId": "S100XI50",
+      "sec": "6619",
+      "name": "ダブル・スコープ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 2.72,
+      "prev_ratio": 5.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XHFQ",
       "sec": "9419",
       "name": "株式会社ワイヤレスゲート",
       "filer": "光通信株式会社",
-      "ratio": 7.48,
-      "prev_ratio": 7.48,
+      "ratio": 15.21,
+      "prev_ratio": 14.17,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +168,8 @@
       "sec": "7138",
       "name": "株式会社ＴＯＲＩＣＯ",
       "filer": "安藤　拓郎",
-      "ratio": 16.09,
-      "prev_ratio": 16.09,
+      "ratio": 17.37,
+      "prev_ratio": 17.37,
       "direction": "変更",
       "isNew": false
     },
@@ -188,14 +198,14 @@
       "sec": "141A",
       "name": "株式会社トライアルホールディングス",
       "filer": "株式会社Ｈｅｒｏｉｃ　ｉｎｖｅｓｔｍｅｎｔ",
-      "ratio": 7.65,
-      "prev_ratio": 7.66,
+      "ratio": 61.55,
+      "prev_ratio": 61.62,
       "direction": "変更",
       "isNew": false
     },
     {
       "docId": "S100XHZK",
-      "sec": "2433",
+      "sec": "2389",
       "name": "株式会社デジタルホールディングス",
       "filer": "株式会社博報堂ＤＹホールディングス",
       "ratio": 58.7,
@@ -208,7 +218,7 @@
       "sec": "7250",
       "name": "太平洋工業株式会社",
       "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
-      "ratio": 17.13,
+      "ratio": 69.22,
       "prev_ratio": 17.13,
       "direction": "変更",
       "isNew": false

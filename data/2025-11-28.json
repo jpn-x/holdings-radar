@@ -68,8 +68,8 @@
       "sec": "9221",
       "name": "フルハシＥＰＯ株式会社",
       "filer": "山口　直彦",
-      "ratio": 1.55,
-      "prev_ratio": 1.49,
+      "ratio": 40.26,
+      "prev_ratio": 42.75,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +98,8 @@
       "sec": "265A",
       "name": "Ｈｍｃｏｍｍ株式会社",
       "filer": "三本　幸司",
-      "ratio": 30.44,
-      "prev_ratio": 31.51,
+      "ratio": 34.31,
+      "prev_ratio": 35.55,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +108,8 @@
       "sec": "4592",
       "name": "サンバイオ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 5.82,
-      "prev_ratio": 6.3,
+      "ratio": 11.28,
+      "prev_ratio": 11.75,
       "direction": "変更",
       "isNew": false
     },
@@ -118,7 +118,7 @@
       "sec": "5536",
       "name": "株式会社京橋アートレジデンス",
       "filer": "西谷　明久",
-      "ratio": 63.9,
+      "ratio": 99.9,
       "prev_ratio": 99.9,
       "direction": "変更",
       "isNew": false
@@ -158,8 +158,8 @@
       "sec": "3895",
       "name": "ハビックス株式会社",
       "filer": "各務　正人",
-      "ratio": 1.59,
-      "prev_ratio": 3.73,
+      "ratio": 2.2,
+      "prev_ratio": 5.19,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +168,8 @@
       "sec": "8705",
       "name": "日産証券グループ株式会社",
       "filer": "株式会社ＮＳＨＤ",
-      "ratio": 38.17,
-      "prev_ratio": 39.27,
+      "ratio": 43.99,
+      "prev_ratio": 44.12,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +178,8 @@
       "sec": "3034",
       "name": "クオール株式会社",
       "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
-      "ratio": 10.77,
-      "prev_ratio": 9.76,
+      "ratio": 11.22,
+      "prev_ratio": 10.21,
       "direction": "変更",
       "isNew": false
     },
@@ -234,12 +234,22 @@
       "isNew": false
     },
     {
+      "docId": "S100X742",
+      "sec": "4597",
+      "name": "ソレイジア・ファーマ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 7.38,
+      "prev_ratio": 8.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100X7AH",
       "sec": "5527",
       "name": "株式会社property technologies",
       "filer": "濱中　雄大",
-      "ratio": 32.12,
-      "prev_ratio": 33.12,
+      "ratio": 68.38,
+      "prev_ratio": 69.38,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +268,8 @@
       "sec": "4385",
       "name": "株式会社メルカリ",
       "filer": "山田　進太郎",
-      "ratio": 21.47,
-      "prev_ratio": 22.13,
+      "ratio": 27.75,
+      "prev_ratio": 27.82,
       "direction": "変更",
       "isNew": false
     },

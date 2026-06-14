@@ -16,7 +16,7 @@
       "sec": "4450",
       "name": "株式会社パワーソリューションズ",
       "filer": "株式会社フラクタル・ビジネス",
-      "ratio": 3.3,
+      "ratio": 5.02,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -27,6 +27,16 @@
       "name": "株式会社Birdman",
       "filer": "ＫＡＮＤＢ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
       "ratio": 28.75,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VWZ1",
+      "sec": "6849",
+      "name": "日本光電工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.18,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -194,6 +204,16 @@
       "isNew": false
     },
     {
+      "docId": "S100VWYX",
+      "sec": "3279",
+      "name": "アクティビア・プロパティーズ投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.85,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VY30",
       "sec": "6548",
       "name": "株式会社旅工房",
@@ -204,12 +224,42 @@
       "isNew": false
     },
     {
+      "docId": "S100VWYY",
+      "sec": "5801",
+      "name": "古河電気工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.96,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWZC",
+      "sec": "8979",
+      "name": "スターツプロシード投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.91,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VY1K",
       "sec": "9878",
       "name": "株式会社セキド",
       "filer": "Ｅｖｏ　Ｆｕｎｄ",
       "ratio": 37.4,
       "prev_ratio": 9.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VWZ5",
+      "sec": "8113",
+      "name": "ユニ・チャーム株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.56,
+      "prev_ratio": 5.85,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +278,8 @@
       "sec": "2001",
       "name": "株式会社ニップン",
       "filer": "野村證券株式会社",
-      "ratio": null,
-      "prev_ratio": 1.58,
+      "ratio": 5.36,
+      "prev_ratio": 11.08,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +298,8 @@
       "sec": "3053",
       "name": "株式会社ペッパーフードサービス",
       "filer": "株式会社フラッグシップアセットマネジメント",
-      "ratio": 1.55,
-      "prev_ratio": 1.68,
+      "ratio": 8.73,
+      "prev_ratio": 9.49,
       "direction": "変更",
       "isNew": false
     },
@@ -338,8 +388,8 @@
       "sec": "3539",
       "name": "株式会社ＪＭホールディングス",
       "filer": "藤原　克朗",
-      "ratio": 1.52,
-      "prev_ratio": 2.01,
+      "ratio": 4.72,
+      "prev_ratio": 6.01,
       "direction": "変更",
       "isNew": false
     },

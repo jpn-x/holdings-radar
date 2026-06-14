@@ -2,6 +2,16 @@
   "date": "2025-01-07",
   "new": [
     {
+      "docId": "S100V1RR",
+      "sec": "6363",
+      "name": "株式会社酉島製作所",
+      "filer": "いちよしアセットマネジメント株式会社",
+      "ratio": 5.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100V0GE",
       "sec": "4976",
       "name": "東洋ドライルーブ株式会社",
@@ -16,8 +26,8 @@
       "sec": "5935",
       "name": "元旦ビューティ工業株式会社",
       "filer": "株式会社Ｓｕｎｎｙ",
-      "ratio": 50.91,
-      "prev_ratio": 25.09,
+      "ratio": 92.92,
+      "prev_ratio": 42.01,
       "direction": "新規",
       "isNew": true
     },
@@ -32,11 +42,31 @@
       "isNew": true
     },
     {
+      "docId": "S100V1GC",
+      "sec": "3436",
+      "name": "株式会社ＳＵＭＣＯ",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100V16Y",
       "sec": "7192",
       "name": "日本モーゲージサービス株式会社",
       "filer": "ベルインベストメンツ株式会社",
       "ratio": 5.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V1LC",
+      "sec": "4263",
+      "name": "サスメド株式会社",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 5.16,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -49,7 +79,7 @@
       "name": "アグロ カネショウ株式会社",
       "filer": "櫛引　博敬",
       "ratio": null,
-      "prev_ratio": 3.02,
+      "prev_ratio": 8.98,
       "direction": "変更",
       "isNew": false
     },
@@ -60,6 +90,86 @@
       "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
       "ratio": 10.11,
       "prev_ratio": 9.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LM",
+      "sec": "3349",
+      "name": "株式会社コスモス薬品",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 5.16,
+      "prev_ratio": 5.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LO",
+      "sec": "5838",
+      "name": "楽天銀行株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 8.34,
+      "prev_ratio": 8.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LN",
+      "sec": "7003",
+      "name": "株式会社三井E&amp;S",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.52,
+      "prev_ratio": 7.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LP",
+      "sec": "4887",
+      "name": "サワイグループホールディングス株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 4.26,
+      "prev_ratio": 6.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LW",
+      "sec": "6315",
+      "name": "TOWA株式会社",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 4.13,
+      "prev_ratio": 5.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LT",
+      "sec": "4598",
+      "name": "Ｄｅｌｔａ－Ｆｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 3.0,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LU",
+      "sec": "3659",
+      "name": "株式会社ネクソン",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 4.96,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1LV",
+      "sec": "4004",
+      "name": "株式会社レゾナック・ホールディングス",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 5.34,
+      "prev_ratio": 5.35,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +218,8 @@
       "sec": "6055",
       "name": "ジャパンマテリアル株式会社",
       "filer": "田中　久男",
-      "ratio": 10.01,
-      "prev_ratio": 11.9,
+      "ratio": 16.95,
+      "prev_ratio": 16.94,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +278,8 @@
       "sec": "5935",
       "name": "元旦ビューティ工業株式会社",
       "filer": "株式会社Ｓｕｎｎｙ",
-      "ratio": 50.91,
-      "prev_ratio": 50.91,
+      "ratio": 92.92,
+      "prev_ratio": 92.92,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +338,8 @@
       "sec": "7068",
       "name": "フィードフォースグループ株式会社",
       "filer": "塚田　耕司",
-      "ratio": 26.18,
-      "prev_ratio": 27.21,
+      "ratio": 57.23,
+      "prev_ratio": 57.61,
       "direction": "変更",
       "isNew": false
     },
@@ -244,12 +354,72 @@
       "isNew": false
     },
     {
+      "docId": "S100V1GH",
+      "sec": "8803",
+      "name": "平和不動産株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 3.97,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GD",
+      "sec": "4507",
+      "name": "塩野義製薬株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.23,
+      "prev_ratio": 6.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100V1K8",
       "sec": "1518",
       "name": "三井松島ホールディングス株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": 1.86,
-      "prev_ratio": 79.0,
+      "ratio": 28.63,
+      "prev_ratio": 27.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1G9",
+      "sec": "1878",
+      "name": "大東建託株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.35,
+      "prev_ratio": 6.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GB",
+      "sec": "3197",
+      "name": "株式会社すかいらーくホールディングス",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.12,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GE",
+      "sec": "7518",
+      "name": "ネットワンシステムズ株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 0.89,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GK",
+      "sec": "8987",
+      "name": "ジャパンエクセレント投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.12,
+      "prev_ratio": 7.2,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +428,48 @@
       "sec": "1821",
       "name": "三井住友建設株式会社",
       "filer": "株式会社南青山不動産",
-      "ratio": 7.92,
-      "prev_ratio": 6.91,
+      "ratio": 25.95,
+      "prev_ratio": 24.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GG",
+      "sec": "8802",
+      "name": "三菱地所株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.49,
+      "prev_ratio": 9.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GF",
+      "sec": "7733",
+      "name": "オリンパス株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.25,
+      "prev_ratio": 6.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GI",
+      "sec": "8957",
+      "name": "東急リアル・エステート投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.69,
+      "prev_ratio": 7.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V1GJ",
+      "sec": "8968",
+      "name": "福岡リート投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.29,
+      "prev_ratio": 7.46,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +488,8 @@
       "sec": "9399",
       "name": "ビート・ホールディングス・リミテッド",
       "filer": "レン・イー・ハン",
-      "ratio": 16.48,
-      "prev_ratio": 53.84,
+      "ratio": 49.44,
+      "prev_ratio": 86.8,
       "direction": "変更",
       "isNew": false
     }

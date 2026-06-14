@@ -12,6 +12,46 @@
       "isNew": true
     },
     {
+      "docId": "S100XQU4",
+      "sec": "1921",
+      "name": "株式会社巴コーポレーション",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XQ35",
+      "sec": "8088",
+      "name": "岩谷産業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XQ37",
+      "sec": "8103",
+      "name": "明和産業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XR2J",
+      "sec": "6745",
+      "name": "ホーチキ株式会社",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 5.56,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XQ6P",
       "sec": "7686",
       "name": "株式会社ひとまいる",
@@ -36,7 +76,7 @@
       "sec": "4027",
       "name": "テイカ株式会社",
       "filer": "植島　幹九郎",
-      "ratio": 3.8,
+      "ratio": 5.03,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -46,7 +86,7 @@
       "sec": "202A",
       "name": "株式会社豆蔵",
       "filer": "Ｒｏｏｄｈａｌｓｇａｎｓ　１株式会社",
-      "ratio": 29.22,
+      "ratio": 95.15,
       "prev_ratio": 67.99,
       "direction": "新規",
       "isNew": true
@@ -56,7 +96,7 @@
       "sec": "4881",
       "name": "株式会社ファンペップ",
       "filer": "グロース・キャピタル株式会社",
-      "ratio": 21.37,
+      "ratio": 22.07,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -66,7 +106,7 @@
       "sec": "511A",
       "name": "株式会社ヴァンガードスミス",
       "filer": "田中　慶太",
-      "ratio": 30.69,
+      "ratio": 80.15,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -75,7 +115,7 @@
   "chg": [
     {
       "docId": "S100XQS1",
-      "sec": "689",
+      "sec": "6989",
       "name": "北陸電気工業株式会社",
       "filer": "株式会社フェローテック",
       "ratio": 11.83,
@@ -94,12 +134,62 @@
       "isNew": false
     },
     {
+      "docId": "S100XQ2M",
+      "sec": "1860",
+      "name": "戸田建設株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.49,
+      "prev_ratio": 6.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XR1X",
       "sec": "6232",
       "name": "株式会社ＡＣＳＬ",
       "filer": "野村證券株式会社",
-      "ratio": 1.83,
-      "prev_ratio": 1.63,
+      "ratio": 11.59,
+      "prev_ratio": 9.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ2W",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.09,
+      "prev_ratio": 6.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ2Y",
+      "sec": "3420",
+      "name": "株式会社ケー・エフ・シー",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.16,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ31",
+      "sec": "7011",
+      "name": "三菱重工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.13,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ33",
+      "sec": "7846",
+      "name": "株式会社パイロットコーポレーション",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.49,
+      "prev_ratio": 8.25,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +198,48 @@
       "sec": "3034",
       "name": "クオール株式会社",
       "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
-      "ratio": 17.15,
-      "prev_ratio": 16.06,
+      "ratio": 17.61,
+      "prev_ratio": 16.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ34",
+      "sec": "7974",
+      "name": "任天堂株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.69,
+      "prev_ratio": 6.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ3A",
+      "sec": "8127",
+      "name": "ヤマトインターナショナル株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.31,
+      "prev_ratio": 5.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ3C",
+      "sec": "8963",
+      "name": "インヴィンシブル投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.07,
+      "prev_ratio": 5.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ3F",
+      "sec": "8985",
+      "name": "ジャパン・ホテル・リート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.48,
+      "prev_ratio": 6.28,
       "direction": "変更",
       "isNew": false
     },
@@ -120,6 +250,16 @@
       "filer": "ＬＩＭ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
       "ratio": 8.71,
       "prev_ratio": 10.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XQ3I",
+      "sec": "9319",
+      "name": "株式会社中央倉庫",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.75,
+      "prev_ratio": 5.89,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +288,8 @@
       "sec": "4720",
       "name": "株式会社城南進学研究社",
       "filer": "下村　勝己",
-      "ratio": 6.52,
-      "prev_ratio": 6.59,
+      "ratio": 45.1,
+      "prev_ratio": 45.16,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +318,8 @@
       "sec": "6357",
       "name": "三精テクノロジーズ株式会社",
       "filer": "ＳＭＢＣ日興証券株式会社",
-      "ratio": 35.0,
-      "prev_ratio": 1.35,
+      "ratio": 9.73,
+      "prev_ratio": 10.75,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +378,8 @@
       "sec": "9162",
       "name": "株式会社ブリーチ",
       "filer": "大平　啓介",
-      "ratio": 18.4,
-      "prev_ratio": 18.45,
+      "ratio": 71.43,
+      "prev_ratio": 71.62,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +388,8 @@
       "sec": "8291",
       "name": "日産東京販売ホールディングス株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 4.01,
-      "prev_ratio": 3.77,
+      "ratio": 6.7,
+      "prev_ratio": 6.49,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +398,8 @@
       "sec": "5310",
       "name": "東洋炭素株式会社",
       "filer": "近藤ホールディングス株式会社",
-      "ratio": 5.55,
-      "prev_ratio": 5.61,
+      "ratio": 6.37,
+      "prev_ratio": 6.45,
       "direction": "変更",
       "isNew": false
     },

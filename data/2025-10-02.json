@@ -36,8 +36,8 @@
       "sec": "3771",
       "name": "株式会社システムリサーチ",
       "filer": "山田　敏行",
-      "ratio": 9.48,
-      "prev_ratio": 14.26,
+      "ratio": 10.86,
+      "prev_ratio": 15.64,
       "direction": "新規",
       "isNew": true
     },
@@ -86,8 +86,8 @@
       "sec": "3905",
       "name": "データセクション株式会社",
       "filer": "杉原　行洋",
-      "ratio": 14.05,
-      "prev_ratio": 11.19,
+      "ratio": 19.99,
+      "prev_ratio": 16.98,
       "direction": "新規",
       "isNew": true
     }
@@ -98,8 +98,8 @@
       "sec": "7374",
       "name": "株式会社コンフィデンス・インターワークス",
       "filer": "株式会社アミューズキャピタル",
-      "ratio": 20.9,
-      "prev_ratio": 21.08,
+      "ratio": 45.0,
+      "prev_ratio": 46.01,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +108,8 @@
       "sec": "5631",
       "name": "株式会社日本製鋼所",
       "filer": "三井住友信託銀行株式会社",
-      "ratio": 1.1,
-      "prev_ratio": 1.1,
+      "ratio": 9.12,
+      "prev_ratio": 10.11,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +118,8 @@
       "sec": "7501",
       "name": "株式会社ティムコ",
       "filer": "酒井　貞彦",
-      "ratio": 4.85,
-      "prev_ratio": 5.18,
+      "ratio": 7.69,
+      "prev_ratio": 8.02,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +158,8 @@
       "sec": "3242",
       "name": "株式会社アーバネットコーポレーション",
       "filer": "服部　信治",
-      "ratio": 98.0,
-      "prev_ratio": 1.03,
+      "ratio": 15.22,
+      "prev_ratio": 16.01,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +218,8 @@
       "sec": "6957",
       "name": "株式会社芝浦電子",
       "filer": "野村證券株式会社",
-      "ratio": 3.87,
-      "prev_ratio": 11.89,
+      "ratio": 12.47,
+      "prev_ratio": 12.54,
       "direction": "変更",
       "isNew": false
     },
@@ -244,12 +244,52 @@
       "isNew": false
     },
     {
+      "docId": "S100WSVP",
+      "sec": "5070",
+      "name": "株式会社ドラフト",
+      "filer": "楽天証券株式会社",
+      "ratio": 0.13,
+      "prev_ratio": 6.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSVT",
+      "sec": "5577",
+      "name": "株式会社アイデミー",
+      "filer": "楽天証券株式会社",
+      "ratio": 0.08,
+      "prev_ratio": 7.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSVV",
+      "sec": "7089",
+      "name": "フォースタートアップス株式会社",
+      "filer": "楽天証券株式会社",
+      "ratio": 1.55,
+      "prev_ratio": 5.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WSW2",
+      "sec": "7356",
+      "name": "Ｒｅｔｔｙ株式会社",
+      "filer": "楽天証券株式会社",
+      "ratio": 2.17,
+      "prev_ratio": 5.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WSS7",
       "sec": "3415",
       "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
       "filer": "中水　英紀",
-      "ratio": 3.37,
-      "prev_ratio": 4.13,
+      "ratio": 4.45,
+      "prev_ratio": 5.47,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +298,8 @@
       "sec": "7271",
       "name": "株式会社安永",
       "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
-      "ratio": 3.0,
-      "prev_ratio": 11.55,
+      "ratio": 0.15,
+      "prev_ratio": 11.56,
       "direction": "変更",
       "isNew": false
     },
@@ -294,6 +334,16 @@
       "isNew": false
     },
     {
+      "docId": "S100WSNJ",
+      "sec": "6332",
+      "name": "月島ホールディングス株式会社",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 3.67,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WSYM",
       "sec": "4576",
       "name": "株式会社デ・ウエスタン・セラピテクス研究所",
@@ -308,8 +358,8 @@
       "sec": "4439",
       "name": "株式会社東名",
       "filer": "山本　文彦",
-      "ratio": 42.22,
-      "prev_ratio": 42.33,
+      "ratio": 49.51,
+      "prev_ratio": 49.63,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +378,8 @@
       "sec": "7373",
       "name": "株式会社アイドマ・ホールディングス",
       "filer": "三浦　陽平",
-      "ratio": 23.56,
-      "prev_ratio": 23.56,
+      "ratio": 62.74,
+      "prev_ratio": 62.74,
       "direction": "変更",
       "isNew": false
     },
@@ -358,8 +408,8 @@
       "sec": "6820",
       "name": "アイコム株式会社",
       "filer": "光通信株式会社",
-      "ratio": 4.61,
-      "prev_ratio": 7.98,
+      "ratio": 13.14,
+      "prev_ratio": 17.27,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +418,8 @@
       "sec": "3326",
       "name": "株式会社ランシステム",
       "filer": "ＧＡＵＤＩ株式会社",
-      "ratio": 2.27,
-      "prev_ratio": 3.18,
+      "ratio": 9.77,
+      "prev_ratio": 11.42,
       "direction": "変更",
       "isNew": false
     },

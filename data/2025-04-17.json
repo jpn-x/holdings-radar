@@ -6,7 +6,7 @@
       "sec": "3497",
       "name": "株式会社LeTech",
       "filer": "合同会社エメラルド",
-      "ratio": 68.66,
+      "ratio": 83.42,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -27,6 +27,16 @@
       "name": "ホリイフードサービス株式会社",
       "filer": "株式会社第一ソフト",
       "ratio": 5.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VMQ8",
+      "sec": "5621",
+      "name": "株式会社ヒューマンテクノロジーズ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 5.11,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -68,8 +78,8 @@
       "sec": "8886",
       "name": "株式会社ウッドフレンズ",
       "filer": "前田　和彦",
-      "ratio": 2.99,
-      "prev_ratio": 2.99,
+      "ratio": 47.61,
+      "prev_ratio": 47.61,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +108,8 @@
       "sec": "2001",
       "name": "株式会社ニップン",
       "filer": "野村證券株式会社",
-      "ratio": 11.34,
-      "prev_ratio": 11.34,
+      "ratio": 13.1,
+      "prev_ratio": 13.35,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +178,8 @@
       "sec": "6161",
       "name": "株式会社エスティック",
       "filer": "株式会社フラクタル・ビジネス",
-      "ratio": 2.68,
-      "prev_ratio": 2.0,
+      "ratio": 6.02,
+      "prev_ratio": 5.01,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +218,8 @@
       "sec": "4881",
       "name": "株式会社ファンペップ",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 3.34,
-      "prev_ratio": 3.4,
+      "ratio": 15.82,
+      "prev_ratio": 16.89,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +228,8 @@
       "sec": "3328",
       "name": "ＢＥＥＮＯＳ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 2.16,
-      "prev_ratio": 1.89,
+      "ratio": 14.0,
+      "prev_ratio": 12.79,
       "direction": "変更",
       "isNew": false
     },
@@ -254,12 +264,52 @@
       "isNew": false
     },
     {
+      "docId": "S100VMQ5",
+      "sec": "9339",
+      "name": "株式会社コーチ・エィ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 3.59,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VMPW",
       "sec": "7137",
       "name": "グラントマト株式会社",
       "filer": "有限会社南條商店",
       "ratio": 62.13,
       "prev_ratio": 59.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMSL",
+      "sec": "7309",
+      "name": "株式会社シマノ",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.06,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMSK",
+      "sec": "4502",
+      "name": "武田薬品工業株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.43,
+      "prev_ratio": 7.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VMSJ",
+      "sec": "3309",
+      "name": "積水ハウス・リート投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.85,
+      "prev_ratio": 7.76,
       "direction": "変更",
       "isNew": false
     },

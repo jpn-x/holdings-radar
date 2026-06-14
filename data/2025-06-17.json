@@ -22,6 +22,16 @@
       "isNew": true
     },
     {
+      "docId": "S100VYEX",
+      "sec": "7956",
+      "name": "ピジョン株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100VX1X",
       "sec": "9941",
       "name": "太洋物産株式会社",
@@ -168,8 +178,8 @@
       "sec": "2980",
       "name": "ＳＲＥホールディングス株式会社",
       "filer": "三井住友トラスト・アセットマネジメント株式会社",
-      "ratio": 6.95,
-      "prev_ratio": 9.2,
+      "ratio": 7.79,
+      "prev_ratio": 10.04,
       "direction": "変更",
       "isNew": false
     },
@@ -304,6 +314,16 @@
       "isNew": false
     },
     {
+      "docId": "S100VYQB",
+      "sec": "9514",
+      "name": "株式会社エフオン",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 4.09,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VYKW",
       "sec": "2156",
       "name": "株式会社セーラー広告",
@@ -318,8 +338,8 @@
       "sec": "8194",
       "name": "株式会社 ライフコーポレーション",
       "filer": "三菱商事株式会社",
-      "ratio": 23.34,
-      "prev_ratio": 21.36,
+      "ratio": 24.46,
+      "prev_ratio": 22.37,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +348,8 @@
       "sec": "5930",
       "name": "文化シヤッター株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 3.46,
-      "prev_ratio": 3.46,
+      "ratio": 19.69,
+      "prev_ratio": 18.66,
       "direction": "変更",
       "isNew": false
     },
@@ -358,8 +378,8 @@
       "sec": "4389",
       "name": "プロパティデータバンク株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.42,
-      "prev_ratio": 7.42,
+      "ratio": 12.84,
+      "prev_ratio": 11.83,
       "direction": "変更",
       "isNew": false
     },
@@ -454,6 +474,36 @@
       "isNew": false
     },
     {
+      "docId": "S100VYEY",
+      "sec": "8977",
+      "name": "阪急阪神リート投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.25,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYEZ",
+      "sec": "9735",
+      "name": "セコム株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.45,
+      "prev_ratio": 7.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VYEW",
+      "sec": "6857",
+      "name": "株式会社アドバンテスト",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 9.01,
+      "prev_ratio": 7.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VYYU",
       "sec": "7605",
       "name": "株式会社フジ・コーポレーション",
@@ -519,7 +569,7 @@
       "name": "株式会社ライズ・コンサルティング・グループ",
       "filer": "朝日　竜樹",
       "ratio": 4.92,
-      "prev_ratio": 17.0,
+      "prev_ratio": 0.17,
       "direction": "変更",
       "isNew": false
     },
@@ -548,7 +598,7 @@
       "sec": "4937",
       "name": "株式会社Waqoo",
       "filer": "株式会社ＢＰＭＨ",
-      "ratio": 50.0,
+      "ratio": 0.5,
       "prev_ratio": 5.49,
       "direction": "変更",
       "isNew": false
@@ -558,8 +608,8 @@
       "sec": "3905",
       "name": "データセクション株式会社",
       "filer": "杉原　行洋",
-      "ratio": 7.99,
-      "prev_ratio": 7.66,
+      "ratio": 17.1,
+      "prev_ratio": 17.94,
       "direction": "変更",
       "isNew": false
     }

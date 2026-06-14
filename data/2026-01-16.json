@@ -3,7 +3,7 @@
   "new": [
     {
       "docId": "S100XFEN",
-      "sec": "863",
+      "sec": "6184",
       "name": "株式会社鎌倉新書",
       "filer": "ＳＯＭＰＯホールディングス株式会社",
       "ratio": 10.0,
@@ -46,7 +46,7 @@
       "sec": "484A",
       "name": "株式会社ニューズドテック",
       "filer": "あすかホールディングス株式会社",
-      "ratio": 7.43,
+      "ratio": 19.59,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -118,8 +118,8 @@
       "sec": "6871",
       "name": "株式会社日本マイクロニクス",
       "filer": "野村證券株式会社",
-      "ratio": 19.0,
-      "prev_ratio": 33.0,
+      "ratio": 12.76,
+      "prev_ratio": 12.69,
       "direction": "変更",
       "isNew": false
     },
@@ -155,7 +155,7 @@
     },
     {
       "docId": "S100XE9T",
-      "sec": "3863",
+      "sec": "5942",
       "name": "日本フイルコン株式会社",
       "filer": "日本製紙株式会社",
       "ratio": 4.29,
@@ -248,8 +248,8 @@
       "sec": "2936",
       "name": "ベースフード株式会社",
       "filer": "牧　寛之",
-      "ratio": 32.93,
-      "prev_ratio": 32.93,
+      "ratio": 39.67,
+      "prev_ratio": 39.67,
       "direction": "変更",
       "isNew": false
     },
@@ -260,6 +260,16 @@
       "filer": "アセット・バリュー・インベスターズ・リミテッド",
       "ratio": 22.84,
       "prev_ratio": 21.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XG60",
+      "sec": "4597",
+      "name": "ソレイジア・ファーマ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 4.45,
+      "prev_ratio": 6.12,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +288,8 @@
       "sec": "8141",
       "name": "新光商事株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 12.06,
+      "prev_ratio": 11.0,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +318,8 @@
       "sec": "3659",
       "name": "株式会社ネクソン",
       "filer": "ＮＸＣ　Ｃｏｒｐｏｒａｔｉｏｎ",
-      "ratio": 30.1,
-      "prev_ratio": 30.19,
+      "ratio": 49.28,
+      "prev_ratio": 49.31,
       "direction": "変更",
       "isNew": false
     },

@@ -12,11 +12,21 @@
       "isNew": true
     },
     {
+      "docId": "S100XIR9",
+      "sec": "373A",
+      "name": "株式会社リップス",
+      "filer": "ＧＭＯクリック証券株式会社",
+      "ratio": 5.94,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XHS2",
       "sec": "7250",
       "name": "太平洋工業株式会社",
       "filer": "株式会社ＣＯＲＥ",
-      "ratio": 52.09,
+      "ratio": 73.48,
       "prev_ratio": 17.13,
       "direction": "新規",
       "isNew": true
@@ -45,7 +55,7 @@
     },
     {
       "docId": "S100XIB3",
-      "sec": "5714",
+      "sec": "9722",
       "name": "藤田観光株式会社",
       "filer": "ＤＯＷＡホールディングス株式会社",
       "ratio": 31.25,
@@ -55,7 +65,7 @@
     },
     {
       "docId": "S100XI66",
-      "sec": "5714",
+      "sec": "9722",
       "name": "藤田観光株式会社",
       "filer": "ＤＯＷＡホールディングス株式会社",
       "ratio": 31.25,
@@ -68,8 +78,8 @@
       "sec": "7013",
       "name": "株式会社ＩＨＩ",
       "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
-      "ratio": 9.82,
-      "prev_ratio": 8.48,
+      "ratio": 10.18,
+      "prev_ratio": 8.79,
       "direction": "変更",
       "isNew": false
     },
@@ -78,8 +88,8 @@
       "sec": "3733",
       "name": "株式会社ソフトウェア・サービス",
       "filer": "宮﨑　勝",
-      "ratio": 23.69,
-      "prev_ratio": 23.69,
+      "ratio": 25.51,
+      "prev_ratio": 25.51,
       "direction": "変更",
       "isNew": false
     },
@@ -104,12 +114,72 @@
       "isNew": false
     },
     {
+      "docId": "S100XHV0",
+      "sec": "2871",
+      "name": "株式会社ニチレイ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.32,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHV2",
+      "sec": "5269",
+      "name": "日本コンクリート工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.81,
+      "prev_ratio": 5.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHV5",
+      "sec": "7250",
+      "name": "太平洋工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 0.49,
+      "prev_ratio": 6.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHV6",
+      "sec": "8963",
+      "name": "インヴィンシブル投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.01,
+      "prev_ratio": 5.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHV8",
+      "sec": "9041",
+      "name": "近鉄グループホールディングス株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.0,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XHV9",
+      "sec": "9532",
+      "name": "大阪瓦斯株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.13,
+      "prev_ratio": 6.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XIMG",
       "sec": "6161",
       "name": "株式会社エスティック",
       "filer": "株式会社フラクタル・ビジネス",
-      "ratio": 4.38,
-      "prev_ratio": 3.87,
+      "ratio": 10.12,
+      "prev_ratio": 9.11,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +208,8 @@
       "sec": "9759",
       "name": "株式会社ＮＳＤ",
       "filer": "ＩＰＣ株式会社",
-      "ratio": 3.0,
-      "prev_ratio": 5.93,
+      "ratio": 3.34,
+      "prev_ratio": 6.27,
       "direction": "変更",
       "isNew": false
     },
@@ -165,7 +235,7 @@
     },
     {
       "docId": "S100XI1O",
-      "sec": "8508",
+      "sec": "4712",
       "name": "株式会社ＫｅｙＨｏｌｄｅｒ",
       "filer": "Ｊトラスト株式会社",
       "ratio": 29.82,
@@ -178,8 +248,8 @@
       "sec": "7674",
       "name": "株式会社ＮＡＴＴＹ　ＳＷＡＮＫＹホールディングス",
       "filer": "田中　竜也",
-      "ratio": 14.44,
-      "prev_ratio": 15.46,
+      "ratio": 23.55,
+      "prev_ratio": 24.57,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +268,8 @@
       "sec": "3927",
       "name": "株式会社フーバーブレイン",
       "filer": "いずみキャピタル株式会社",
-      "ratio": 1.01,
-      "prev_ratio": 3.83,
+      "ratio": 5.67,
+      "prev_ratio": 7.86,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +318,8 @@
       "sec": "7250",
       "name": "太平洋工業株式会社",
       "filer": "株式会社ＣＯＲＥ",
-      "ratio": 52.09,
-      "prev_ratio": 52.09,
+      "ratio": 73.48,
+      "prev_ratio": 73.48,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +348,8 @@
       "sec": "5241",
       "name": "株式会社日本オーエー研究所",
       "filer": "光通信株式会社",
-      "ratio": 7.56,
-      "prev_ratio": 7.56,
+      "ratio": 10.34,
+      "prev_ratio": 9.32,
       "direction": "変更",
       "isNew": false
     },

@@ -26,7 +26,7 @@
       "sec": "549A",
       "name": "ヒトトヒトホールディングス株式会社",
       "filer": "株式会社トリプルトレジャーズ",
-      "ratio": 7.5,
+      "ratio": 10.0,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -46,8 +46,8 @@
       "sec": "2317",
       "name": "株式会社システナ",
       "filer": "ＳＭＳホールディングス有限会社",
-      "ratio": 24.48,
-      "prev_ratio": 24.48,
+      "ratio": 28.74,
+      "prev_ratio": 25.91,
       "direction": "新規",
       "isNew": true
     },
@@ -63,7 +63,7 @@
     },
     {
       "docId": "S100XRAW",
-      "sec": "6088",
+      "sec": "4371",
       "name": "株式会社コアコンセプト・テクノロジー",
       "filer": "株式会社シグマクシス・ホールディングス",
       "ratio": 5.02,
@@ -73,7 +73,7 @@
     },
     {
       "docId": "S100XXTP",
-      "sec": "9468",
+      "sec": "5243",
       "name": "ｎｏｔｅ株式会社",
       "filer": "株式会社ＫＡＤＯＫＡＷＡ",
       "ratio": 5.18,
@@ -95,11 +95,11 @@
     },
     {
       "docId": "S100XY80",
-      "sec": "9042",
+      "sec": "9046",
       "name": "神戸電鉄株式会社",
       "filer": "阪急阪神ホールディングス株式会社",
       "ratio": 26.8,
-      "prev_ratio": 27.23,
+      "prev_ratio": 28.19,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "4659",
       "name": "株式会社エイジス",
       "filer": "有限会社斉藤ホールディングス",
-      "ratio": 63.76,
-      "prev_ratio": 17.48,
+      "ratio": 73.19,
+      "prev_ratio": 26.91,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +148,8 @@
       "sec": "4659",
       "name": "株式会社エイジス",
       "filer": "有限会社斉藤ホールディングス",
-      "ratio": 63.76,
-      "prev_ratio": 63.76,
+      "ratio": 73.19,
+      "prev_ratio": 73.19,
       "direction": "変更",
       "isNew": false
     },
@@ -175,7 +175,7 @@
     },
     {
       "docId": "S100XYAN",
-      "sec": "2497",
+      "sec": "3929",
       "name": "ソーシャルワイヤー株式会社",
       "filer": "ユナイテッド株式会社",
       "ratio": 2.66,
@@ -198,8 +198,8 @@
       "sec": "7119",
       "name": "株式会社ハルメクホールディングス",
       "filer": "宮澤　孝夫",
-      "ratio": 14.67,
-      "prev_ratio": 14.81,
+      "ratio": 25.53,
+      "prev_ratio": 25.83,
       "direction": "変更",
       "isNew": false
     },
@@ -209,7 +209,7 @@
       "name": "株式会社エイジス",
       "filer": "光通信株式会社",
       "ratio": null,
-      "prev_ratio": 5.83,
+      "prev_ratio": 17.56,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +218,8 @@
       "sec": "7373",
       "name": "株式会社アイドマ・ホールディングス",
       "filer": "三浦　陽平",
-      "ratio": 22.61,
-      "prev_ratio": 22.61,
+      "ratio": 61.79,
+      "prev_ratio": 61.79,
       "direction": "変更",
       "isNew": false
     },
@@ -239,7 +239,7 @@
       "name": "株式会社ＴＨＥグローバル社",
       "filer": "ＳＢＩホールディングス株式会社",
       "ratio": 51.95,
-      "prev_ratio": 51.95,
+      "prev_ratio": 52.52,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +248,8 @@
       "sec": "6573",
       "name": "CRAVIA株式会社",
       "filer": "ＳＡＭＵＲＡＩ　ＪＡＰＡＮ　ＩＮＶＥＳＴＭＥＮＴＳ　ＰＴＥ．ＬＴＤ．",
-      "ratio": 38.26,
-      "prev_ratio": 41.53,
+      "ratio": 51.95,
+      "prev_ratio": 56.02,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +258,8 @@
       "sec": "6573",
       "name": "CRAVIA株式会社",
       "filer": "ＳＡＭＵＲＡＩ　ＪＡＰＡＮ　ＩＮＶＥＳＴＭＥＮＴＳ　ＰＴＥ．ＬＴＤ．",
-      "ratio": 37.6,
-      "prev_ratio": 38.26,
+      "ratio": 47.04,
+      "prev_ratio": 51.95,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +268,8 @@
       "sec": "6573",
       "name": "CRAVIA株式会社",
       "filer": "ＳＡＭＵＲＡＩ　ＪＡＰＡＮ　ＩＮＶＥＳＴＭＥＮＴＳ　ＰＴＥ．ＬＴＤ．",
-      "ratio": 26.27,
-      "prev_ratio": 37.6,
+      "ratio": 68.47,
+      "prev_ratio": 47.04,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +318,8 @@
       "sec": "9556",
       "name": "ＩＮＴＬＯＯＰ株式会社",
       "filer": "林　博文",
-      "ratio": 49.39,
-      "prev_ratio": 49.39,
+      "ratio": 70.85,
+      "prev_ratio": 70.85,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +328,8 @@
       "sec": "5273",
       "name": "三谷セキサン株式会社",
       "filer": "三谷　宏治",
-      "ratio": null,
-      "prev_ratio": 2.47,
+      "ratio": 4.13,
+      "prev_ratio": 5.62,
       "direction": "変更",
       "isNew": false
     },

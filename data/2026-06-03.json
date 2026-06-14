@@ -12,6 +12,16 @@
       "isNew": true
     },
     {
+      "docId": "S100Y8AY",
+      "sec": "8136",
+      "name": "株式会社サンリオ",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100Y856",
       "sec": "9257",
       "name": "ＹＣＰホールディングス（グローバル）リミテッド",
@@ -26,8 +36,18 @@
       "sec": "4056",
       "name": "ニューラルグループ株式会社",
       "filer": "重松　路威",
-      "ratio": 27.61,
-      "prev_ratio": 31.35,
+      "ratio": 50.41,
+      "prev_ratio": 56.37,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Y8DP",
+      "sec": "9008",
+      "name": "京王電鉄株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 5.08,
+      "prev_ratio": null,
       "direction": "新規",
       "isNew": true
     },
@@ -78,8 +98,68 @@
       "sec": "3562",
       "name": "株式会社Ｎｏ．１",
       "filer": "グロースパートナーズ株式会社",
-      "ratio": 2.36,
-      "prev_ratio": 2.74,
+      "ratio": 4.66,
+      "prev_ratio": 5.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8AW",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 6.36,
+      "prev_ratio": 7.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8AT",
+      "sec": "5444",
+      "name": "大和工業株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 5.23,
+      "prev_ratio": 5.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8AU",
+      "sec": "6016",
+      "name": "株式会社ジャパンエンジンコーポレーション",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.67,
+      "prev_ratio": 7.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8AX",
+      "sec": "7936",
+      "name": "株式会社アシックス",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 4.44,
+      "prev_ratio": 5.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8AV",
+      "sec": "6269",
+      "name": "三井海洋開発株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.89,
+      "prev_ratio": 7.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8AO",
+      "sec": "6890",
+      "name": "株式会社フェローテック",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 2.35,
+      "prev_ratio": 6.09,
       "direction": "変更",
       "isNew": false
     },
@@ -89,7 +169,7 @@
       "name": "株式会社ＣＣＩグループ",
       "filer": "三井住友ＤＳアセットマネジメント株式会社",
       "ratio": 9.78,
-      "prev_ratio": 10.7,
+      "prev_ratio": 10.79,
       "direction": "変更",
       "isNew": false
     },
@@ -124,8 +204,58 @@
       "isNew": false
     },
     {
+      "docId": "S100Y8DV",
+      "sec": "9627",
+      "name": "株式会社アインホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 5.08,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8DO",
+      "sec": "8986",
+      "name": "大和証券リビング投資法人　投資証券",
+      "filer": "野村證券株式会社",
+      "ratio": 6.06,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8DA",
+      "sec": "8395",
+      "name": "株式会社佐賀銀行",
+      "filer": "野村證券株式会社",
+      "ratio": 4.76,
+      "prev_ratio": 5.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8DS",
+      "sec": "9104",
+      "name": "株式会社商船三井",
+      "filer": "野村證券株式会社",
+      "ratio": 5.33,
+      "prev_ratio": 6.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8DQ",
+      "sec": "9072",
+      "name": "ニッコンホールディングス株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 8.91,
+      "prev_ratio": 8.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100Y7R2",
-      "sec": "6762",
+      "sec": "5343",
       "name": "ニッコー株式会社",
       "filer": "ＴＤＫ株式会社",
       "ratio": 5.86,
@@ -138,8 +268,8 @@
       "sec": "8289",
       "name": "株式会社Olympicグループ",
       "filer": "株式会社カネヨシ",
-      "ratio": 27.38,
-      "prev_ratio": 27.38,
+      "ratio": 29.42,
+      "prev_ratio": 30.42,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +278,8 @@
       "sec": "5121",
       "name": "藤倉コンポジット株式会社",
       "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
-      "ratio": 9.23,
-      "prev_ratio": 9.23,
+      "ratio": 10.76,
+      "prev_ratio": 9.74,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +308,8 @@
       "sec": "4212",
       "name": "積水樹脂株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 5.95,
-      "prev_ratio": 5.34,
+      "ratio": 8.17,
+      "prev_ratio": 7.09,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +318,8 @@
       "sec": "6083",
       "name": "ＥＲＩホールディングス株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.58,
-      "prev_ratio": 7.58,
+      "ratio": 23.15,
+      "prev_ratio": 22.03,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +348,8 @@
       "sec": "9417",
       "name": "株式会社スマートバリュー",
       "filer": "渋谷　順",
-      "ratio": 11.32,
-      "prev_ratio": 11.32,
+      "ratio": 14.93,
+      "prev_ratio": 16.71,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +358,8 @@
       "sec": "3659",
       "name": "株式会社ネクソン",
       "filer": "ＮＸＣ　Ｃｏｒｐｏｒａｔｉｏｎ",
-      "ratio": 31.35,
-      "prev_ratio": 30.1,
+      "ratio": 51.29,
+      "prev_ratio": 49.28,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +368,8 @@
       "sec": "3659",
       "name": "株式会社ネクソン",
       "filer": "ＮＸＣ　Ｃｏｒｐｏｒａｔｉｏｎ",
-      "ratio": 31.35,
-      "prev_ratio": 31.35,
+      "ratio": 48.02,
+      "prev_ratio": 51.29,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +388,8 @@
       "sec": "3863",
       "name": "日本製紙株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 6.44,
+      "prev_ratio": 5.11,
       "direction": "変更",
       "isNew": false
     },
@@ -269,7 +399,7 @@
       "name": "新光商事株式会社",
       "filer": "株式会社シティインデックスファースト",
       "ratio": 4.53,
-      "prev_ratio": 6.4,
+      "prev_ratio": 8.24,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +418,8 @@
       "sec": "4992",
       "name": "北興化学工業株式会社",
       "filer": "野村ホールディングス株式会社",
-      "ratio": 1.0,
-      "prev_ratio": 3.43,
+      "ratio": 9.45,
+      "prev_ratio": 9.82,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +428,8 @@
       "sec": "5644",
       "name": "株式会社メタルアート",
       "filer": "株式会社ＭＩ２",
-      "ratio": 8.8,
-      "prev_ratio": 8.8,
+      "ratio": 11.49,
+      "prev_ratio": 9.91,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +438,8 @@
       "sec": "3491",
       "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
       "filer": "樋口　龍",
-      "ratio": 25.82,
-      "prev_ratio": 25.82,
+      "ratio": 36.71,
+      "prev_ratio": 36.71,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +448,8 @@
       "sec": "1332",
       "name": "株式会社ニッスイ",
       "filer": "野村證券株式会社",
-      "ratio": 1.0,
-      "prev_ratio": 10.0,
+      "ratio": 10.84,
+      "prev_ratio": 9.78,
       "direction": "変更",
       "isNew": false
     }

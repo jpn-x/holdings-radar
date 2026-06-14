@@ -36,7 +36,7 @@
       "sec": "3458",
       "name": "株式会社シーアールイー",
       "filer": "ＳＭＦＬみらいパートナーズ株式会社",
-      "ratio": null,
+      "ratio": 56.2,
       "prev_ratio": 41.01,
       "direction": "新規",
       "isNew": true
@@ -138,8 +138,8 @@
       "sec": "6640",
       "name": "Ｉ‐ＰＥＸ株式会社",
       "filer": "ＤＭＣ株式会社",
-      "ratio": 36.43,
-      "prev_ratio": 36.43,
+      "ratio": 90.29,
+      "prev_ratio": 90.29,
       "direction": "変更",
       "isNew": false
     },
@@ -150,6 +150,16 @@
       "filer": "ＭＭＸＸベンチャーズ・リミテッド",
       "ratio": 11.09,
       "prev_ratio": 11.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6HL",
+      "sec": "9743",
+      "name": "株式会社丹青社",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 3.75,
+      "prev_ratio": 5.25,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +178,8 @@
       "sec": "3458",
       "name": "株式会社シーアールイー",
       "filer": "京橋興産株式会社",
-      "ratio": 40.95,
-      "prev_ratio": 41.01,
+      "ratio": 42.34,
+      "prev_ratio": 42.41,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +188,8 @@
       "sec": "1730",
       "name": "麻生フオームクリート株式会社",
       "filer": "株式会社麻生",
-      "ratio": 41.52,
-      "prev_ratio": 41.52,
+      "ratio": 92.11,
+      "prev_ratio": 64.33,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +198,8 @@
       "sec": "3080",
       "name": "株式会社ジェーソン",
       "filer": "太田万三彦",
-      "ratio": 26.47,
-      "prev_ratio": 29.75,
+      "ratio": 66.12,
+      "prev_ratio": 69.41,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +218,8 @@
       "sec": "9517",
       "name": "イーレックス株式会社",
       "filer": "光通信株式会社",
-      "ratio": 76.0,
-      "prev_ratio": 80.0,
+      "ratio": 17.81,
+      "prev_ratio": 17.33,
       "direction": "変更",
       "isNew": false
     },

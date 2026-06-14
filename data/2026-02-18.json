@@ -2,6 +2,56 @@
   "date": "2026-02-18",
   "new": [
     {
+      "docId": "S100XM23",
+      "sec": "5726",
+      "name": "株式会社大阪チタニウムテクノロジーズ",
+      "filer": "マラソン・アセット・マネジメント・リミテッド",
+      "ratio": 7.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XLX4",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 5.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XLWW",
+      "sec": "5857",
+      "name": "ＡＲＥホールディングス株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 6.84,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XLS7",
+      "sec": "4446",
+      "name": "Ｌｉｎｋ－Ｕグループ株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XM4R",
+      "sec": "4849",
+      "name": "エン株式会社",
+      "filer": "ＳＯＭＰＯアセットマネジメント株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XLQL",
       "sec": "6545",
       "name": "株式会社インターネットインフィニティー",
@@ -25,7 +75,7 @@
     },
     {
       "docId": "S100XLRK",
-      "sec": "7938",
+      "sec": "7932",
       "name": "株式会社ニッピ",
       "filer": "株式会社リーガルコーポレーション",
       "ratio": 12.38,
@@ -58,8 +108,8 @@
       "sec": "7013",
       "name": "株式会社ＩＨＩ",
       "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
-      "ratio": 10.72,
-      "prev_ratio": 9.82,
+      "ratio": 11.32,
+      "prev_ratio": 10.18,
       "direction": "変更",
       "isNew": false
     },
@@ -88,8 +138,8 @@
       "sec": "3916",
       "name": "デジタル・インフォメーション・テクノロジー株式会社",
       "filer": "市川　聡",
-      "ratio": 7.06,
-      "prev_ratio": 7.05,
+      "ratio": 32.54,
+      "prev_ratio": 32.54,
       "direction": "変更",
       "isNew": false
     },
@@ -124,6 +174,56 @@
       "isNew": false
     },
     {
+      "docId": "S100XLWU",
+      "sec": "8697",
+      "name": "株式会社日本取引所グループ",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 6.22,
+      "prev_ratio": 7.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLWS",
+      "sec": "7013",
+      "name": "株式会社 ＩＨＩ",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 5.03,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLWT",
+      "sec": "6016",
+      "name": "株式会社ジャパンエンジンコーポレーション",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 6.54,
+      "prev_ratio": 6.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLWV",
+      "sec": "7003",
+      "name": "株式会社三井E&amp;S",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.93,
+      "prev_ratio": 7.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLWX",
+      "sec": "6269",
+      "name": "三井海洋開発株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.24,
+      "prev_ratio": 6.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XM0O",
       "sec": "3672",
       "name": "株式会社オルトプラス",
@@ -138,8 +238,8 @@
       "sec": "6033",
       "name": "株式会社エクストリーム",
       "filer": "佐藤　昌平",
-      "ratio": 39.81,
-      "prev_ratio": 42.26,
+      "ratio": 45.42,
+      "prev_ratio": 45.42,
       "direction": "変更",
       "isNew": false
     },
@@ -149,7 +249,7 @@
       "name": "株式会社網屋",
       "filer": "伊藤　整一",
       "ratio": 3.43,
-      "prev_ratio": 3.54,
+      "prev_ratio": 30.75,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +258,8 @@
       "sec": "146A",
       "name": "コロンビア・ワークス株式会社",
       "filer": "中内　準",
-      "ratio": 14.91,
-      "prev_ratio": 27.68,
+      "ratio": 58.61,
+      "prev_ratio": 65.12,
       "direction": "変更",
       "isNew": false
     },
@@ -190,6 +290,66 @@
       "filer": "Ｅｖｏ　Ｆｕｎｄ",
       "ratio": 28.28,
       "prev_ratio": 29.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XM4P",
+      "sec": "6961",
+      "name": "株式会社エンプラス",
+      "filer": "野村證券株式会社",
+      "ratio": 2.64,
+      "prev_ratio": 5.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XM4S",
+      "sec": "6963",
+      "name": "ローム株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 8.85,
+      "prev_ratio": 9.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLRM",
+      "sec": "8522",
+      "name": "株式会社名古屋銀行",
+      "filer": "ウエリントン・マネージメント・カンパニー・エルエルピー",
+      "ratio": 7.32,
+      "prev_ratio": 8.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLSS",
+      "sec": "7167",
+      "name": "株式会社めぶきフィナンシャルグループ",
+      "filer": "ウエリントン・マネージメント・カンパニー・エルエルピー",
+      "ratio": 3.98,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLRH",
+      "sec": "2685",
+      "name": "株式会社アンドエスティHD",
+      "filer": "ウエリントン・マネージメント・カンパニー・エルエルピー",
+      "ratio": 7.04,
+      "prev_ratio": 5.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XL0L",
+      "sec": "8714",
+      "name": "株式会社池田泉州ホールディングス",
+      "filer": "銀行等保有株式取得機構",
+      "ratio": 5.32,
+      "prev_ratio": 6.34,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +428,8 @@
       "sec": "3237",
       "name": "株式会社イントランス",
       "filer": "合同会社インバウンドインベストメント",
-      "ratio": 6.4,
-      "prev_ratio": 7.57,
+      "ratio": 35.9,
+      "prev_ratio": 31.52,
       "direction": "変更",
       "isNew": false
     },
@@ -308,14 +468,34 @@
       "sec": "6342",
       "name": "株式会社太平製作所",
       "filer": "光通信株式会社",
-      "ratio": 5.92,
-      "prev_ratio": 4.86,
+      "ratio": 6.07,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLOZ",
+      "sec": "7366",
+      "name": "株式会社ＬＩＴＡＬＩＣＯ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 6.76,
+      "prev_ratio": 5.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLOQ",
+      "sec": "4343",
+      "name": "株式会社イオンファンタジー",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 4.1,
+      "prev_ratio": 5.15,
       "direction": "変更",
       "isNew": false
     },
     {
       "docId": "S100XKLZ",
-      "sec": "4689",
+      "sec": "4193",
       "name": "株式会社ファブリカホールディングス",
       "filer": "ＬＩＮＥヤフー株式会社",
       "ratio": 11.34,
@@ -330,6 +510,66 @@
       "filer": "青木　正之",
       "ratio": 40.12,
       "prev_ratio": 40.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLS9",
+      "sec": "5985",
+      "name": "サンコール株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 3.15,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLS8",
+      "sec": "5857",
+      "name": "ＡＲＥホールディングス株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.64,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLSY",
+      "sec": "475A",
+      "name": "株式会社ギミック",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 4.08,
+      "prev_ratio": 6.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLSA",
+      "sec": "6141",
+      "name": "ＤＭＧ森精機株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.15,
+      "prev_ratio": 6.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLSB",
+      "sec": "8953",
+      "name": "日本都市ファンド投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.98,
+      "prev_ratio": 6.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLS6",
+      "sec": "3471",
+      "name": "三井不動産ロジスティクスパーク投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.91,
+      "prev_ratio": 9.48,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +608,8 @@
       "sec": "7358",
       "name": "株式会社ポピンズ",
       "filer": "光通信株式会社",
-      "ratio": 7.2,
-      "prev_ratio": 6.33,
+      "ratio": 7.47,
+      "prev_ratio": 6.44,
       "direction": "変更",
       "isNew": false
     }

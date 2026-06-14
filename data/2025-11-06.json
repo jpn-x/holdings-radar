@@ -2,6 +2,16 @@
   "date": "2025-11-06",
   "new": [
     {
+      "docId": "S100WYYZ",
+      "sec": "6779",
+      "name": "日本電波工業株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 5.71,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100WYOG",
       "sec": "3189",
       "name": "株式会社ANAPホールディングス",
@@ -32,11 +42,21 @@
       "isNew": true
     },
     {
+      "docId": "S100WZ2A",
+      "sec": "6920",
+      "name": "レーザーテック株式会社",
+      "filer": "アローストリート・キャピタル・リミテッド・パートナーシップ",
+      "ratio": 5.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100WXV8",
       "sec": "441A",
       "name": "NE株式会社",
       "filer": "ＡＯＩ株式会社",
-      "ratio": 32.19,
+      "ratio": 47.54,
       "prev_ratio": 47.54,
       "direction": "新規",
       "isNew": true
@@ -66,7 +86,7 @@
       "sec": "4027",
       "name": "テイカ株式会社",
       "filer": "光通信株式会社",
-      "ratio": 4.22,
+      "ratio": 5.02,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -104,12 +124,82 @@
   ],
   "chg": [
     {
+      "docId": "S100WY9K",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "シュローダー・インベストメント・マネジメント株式会社",
+      "ratio": 8.3,
+      "prev_ratio": 9.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WY9X",
+      "sec": "6277",
+      "name": "ホソカワミクロン(株)",
+      "filer": "シュローダー・インベストメント・マネージメント・リミテッド",
+      "ratio": 5.39,
+      "prev_ratio": 6.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYXW",
+      "sec": "6961",
+      "name": "株式会社エンプラス",
+      "filer": "野村證券株式会社",
+      "ratio": 9.08,
+      "prev_ratio": 8.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WYXS",
       "sec": "6526",
       "name": "株式会社　ソシオネクスト",
       "filer": "野村證券株式会社",
-      "ratio": 7.000000000000001,
-      "prev_ratio": 8.0,
+      "ratio": 10.35,
+      "prev_ratio": 9.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYY3",
+      "sec": "6877",
+      "name": "ＯＢＡＲＡ　ＧＲＯＵＰ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 7.89,
+      "prev_ratio": 8.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYXY",
+      "sec": "6920",
+      "name": "レーザーテック株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 7.23,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYY6",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 9.44,
+      "prev_ratio": 7.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYYV",
+      "sec": "6841",
+      "name": "横河電機株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 7.35,
+      "prev_ratio": 6.44,
       "direction": "変更",
       "isNew": false
     },
@@ -120,6 +210,16 @@
       "filer": "株式会社日本経済新聞社",
       "ratio": 3.97,
       "prev_ratio": 6.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WYBF",
+      "sec": "6268",
+      "name": "ナブテスコ株式会社",
+      "filer": "イーストスプリング・インベストメンツ（シンガポール）リミテッド",
+      "ratio": 3.87,
+      "prev_ratio": 5.19,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +258,8 @@
       "sec": "290A",
       "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
       "filer": "野村證券株式会社",
-      "ratio": 6.92,
-      "prev_ratio": 8.96,
+      "ratio": 9.57,
+      "prev_ratio": 11.73,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +298,8 @@
       "sec": "5801",
       "name": "古河電気工業株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 1.13,
-      "prev_ratio": 37.0,
+      "ratio": 11.62,
+      "prev_ratio": 11.33,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +318,8 @@
       "sec": "3655",
       "name": "株式会社ブレインパッド",
       "filer": "高橋　隆史",
-      "ratio": 1.2,
-      "prev_ratio": 1.19,
+      "ratio": 11.75,
+      "prev_ratio": 11.74,
       "direction": "変更",
       "isNew": false
     },
@@ -244,6 +344,26 @@
       "isNew": false
     },
     {
+      "docId": "S100WZ2G",
+      "sec": "7261",
+      "name": "マツダ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 7.18,
+      "prev_ratio": 7.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WZ56",
+      "sec": "7014",
+      "name": "株式会社名村造船所",
+      "filer": "野村證券株式会社",
+      "ratio": 6.04,
+      "prev_ratio": 7.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WY8K",
       "sec": "6047",
       "name": "株式会社Gunosy",
@@ -258,8 +378,8 @@
       "sec": "2681",
       "name": "株式会社ゲオホールディングス",
       "filer": "遠藤　結蔵",
-      "ratio": 1.55,
-      "prev_ratio": 1.55,
+      "ratio": 46.38,
+      "prev_ratio": 45.34,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +388,8 @@
       "sec": "8887",
       "name": "株式会社シーラホールディングス",
       "filer": "杉本　宏之",
-      "ratio": 11.01,
-      "prev_ratio": 11.64,
+      "ratio": 39.63,
+      "prev_ratio": 40.39,
       "direction": "変更",
       "isNew": false
     },
@@ -278,7 +398,7 @@
       "sec": "1826",
       "name": "佐田建設株式会社",
       "filer": "重田　光時",
-      "ratio": null,
+      "ratio": 7.26,
       "prev_ratio": 7.26,
       "direction": "変更",
       "isNew": false
@@ -288,8 +408,8 @@
       "sec": "438A",
       "name": "株式会社インフキュリオン",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 2.58,
-      "prev_ratio": 2.58,
+      "ratio": 10.98,
+      "prev_ratio": 9.77,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +418,8 @@
       "sec": "3526",
       "name": "芦森工業株式会社",
       "filer": "株式会社ＭＩ２",
-      "ratio": 9.55,
-      "prev_ratio": 8.43,
+      "ratio": 20.87,
+      "prev_ratio": 19.73,
       "direction": "変更",
       "isNew": false
     },
@@ -338,8 +458,8 @@
       "sec": "3175",
       "name": "株式会社エー・ピーホールディングス",
       "filer": "米山　久",
-      "ratio": 42.38,
-      "prev_ratio": 42.38,
+      "ratio": 47.62,
+      "prev_ratio": 47.62,
       "direction": "変更",
       "isNew": false
     },
@@ -348,7 +468,7 @@
       "sec": "6807",
       "name": "日本航空電子工業株式会社",
       "filer": "日本電気株式会社",
-      "ratio": 49.0,
+      "ratio": 0.49,
       "prev_ratio": 31.93,
       "direction": "変更",
       "isNew": false
@@ -388,8 +508,8 @@
       "sec": "4957",
       "name": "ヤスハラケミカル株式会社",
       "filer": "沖津　弘之",
-      "ratio": 1.35,
-      "prev_ratio": 1.45,
+      "ratio": 7.3,
+      "prev_ratio": 7.0,
       "direction": "変更",
       "isNew": false
     },
@@ -398,8 +518,8 @@
       "sec": "4957",
       "name": "ヤスハラケミカル株式会社",
       "filer": "有限会社マキ",
-      "ratio": 3.72,
-      "prev_ratio": 3.72,
+      "ratio": 5.37,
+      "prev_ratio": 5.37,
       "direction": "変更",
       "isNew": false
     },

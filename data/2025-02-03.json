@@ -2,6 +2,56 @@
   "date": "2025-02-03",
   "new": [
     {
+      "docId": "S100V5FM",
+      "sec": "3269",
+      "name": "アドバンス・レジデンス投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V5FT",
+      "sec": "6279",
+      "name": "株式会社瑞光",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.82,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V5G0",
+      "sec": "7294",
+      "name": "株式会社ヨロズ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V5G2",
+      "sec": "8015",
+      "name": "豊田通商株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100V5GG",
+      "sec": "9793",
+      "name": "株式会社ダイセキ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100V64F",
       "sec": "4679",
       "name": "株式会社田谷",
@@ -16,7 +66,7 @@
       "sec": "4493",
       "name": "株式会社サイバーセキュリティクラウド",
       "filer": "野村證券株式会社",
-      "ratio": 8.6,
+      "ratio": 10.8,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -78,8 +128,18 @@
       "sec": "3733",
       "name": "株式会社ソフトウェア・サービス",
       "filer": "宮﨑　勝",
-      "ratio": 23.69,
-      "prev_ratio": 23.69,
+      "ratio": 25.51,
+      "prev_ratio": 25.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5FG",
+      "sec": "1491",
+      "name": "中外鉱業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 0.02,
+      "prev_ratio": 7.82,
       "direction": "変更",
       "isNew": false
     },
@@ -94,12 +154,52 @@
       "isNew": false
     },
     {
+      "docId": "S100V5FR",
+      "sec": "5821",
+      "name": "平河ヒューテック株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.25,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100V5KO",
       "sec": "218A",
       "name": "株式会社Ｌｉｂｅｒａｗａｒｅ",
       "filer": "東日本旅客鉄道株式会社",
       "ratio": 11.77,
-      "prev_ratio": 10.0,
+      "prev_ratio": 11.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5FV",
+      "sec": "6800",
+      "name": "株式会社ヨコオ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 9.68,
+      "prev_ratio": 9.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5FX",
+      "sec": "6958",
+      "name": "日本シイエムケイ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 7.11,
+      "prev_ratio": 6.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5FZ",
+      "sec": "6971",
+      "name": "京セラ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.29,
+      "prev_ratio": 5.63,
       "direction": "変更",
       "isNew": false
     },
@@ -110,6 +210,36 @@
       "filer": "ゴーディアン・キャピタル・シンガポール・プライベート・リミテッド",
       "ratio": 7.05,
       "prev_ratio": 6.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5G3",
+      "sec": "8595",
+      "name": "ジャフコ　グループ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.98,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5G7",
+      "sec": "9301",
+      "name": "三菱倉庫株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.72,
+      "prev_ratio": 6.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5GC",
+      "sec": "9743",
+      "name": "株式会社丹青社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.39,
+      "prev_ratio": 6.33,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +298,8 @@
       "sec": "2653",
       "name": "イオン九州株式会社",
       "filer": "イオン株式会社",
-      "ratio": 71.41,
-      "prev_ratio": 73.9,
+      "ratio": 74.49,
+      "prev_ratio": 76.98,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +328,8 @@
       "sec": "151A",
       "name": "株式会社ダイブ",
       "filer": "庄子　潔",
-      "ratio": 40.66,
-      "prev_ratio": 40.83,
+      "ratio": 65.97,
+      "prev_ratio": 66.23,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +378,8 @@
       "sec": "3682",
       "name": "エンカレッジ・テクノロジ株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.48,
-      "prev_ratio": 7.48,
+      "ratio": 19.78,
+      "prev_ratio": 18.72,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +388,38 @@
       "sec": "4389",
       "name": "プロパティデータバンク株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.42,
-      "prev_ratio": 7.42,
+      "ratio": 10.24,
+      "prev_ratio": 9.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6A7",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "楽天証券株式会社",
+      "ratio": 4.17,
+      "prev_ratio": 8.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6A5",
+      "sec": "3624",
+      "name": "アクセルマーク株式会社",
+      "filer": "楽天証券株式会社",
+      "ratio": 2.43,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V6A8",
+      "sec": "7273",
+      "name": "株式会社イクヨ",
+      "filer": "楽天証券株式会社",
+      "ratio": 5.16,
+      "prev_ratio": 5.14,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +428,8 @@
       "sec": "3491",
       "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
       "filer": "樋口　龍",
-      "ratio": 28.7,
-      "prev_ratio": 28.7,
+      "ratio": 41.78,
+      "prev_ratio": 41.78,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +438,8 @@
       "sec": "3491",
       "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
       "filer": "樋口　龍",
-      "ratio": 28.7,
-      "prev_ratio": 28.7,
+      "ratio": 41.2,
+      "prev_ratio": 41.78,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +448,8 @@
       "sec": "173A",
       "name": "株式会社ハンモック",
       "filer": "若山　大典",
-      "ratio": 34.19,
-      "prev_ratio": 34.19,
+      "ratio": 36.9,
+      "prev_ratio": 36.9,
       "direction": "変更",
       "isNew": false
     }

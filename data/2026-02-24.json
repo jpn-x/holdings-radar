@@ -3,7 +3,7 @@
   "new": [
     {
       "docId": "S100X10Q",
-      "sec": "8705",
+      "sec": "8742",
       "name": "株式会社小林洋行",
       "filer": "日産証券グループ株式会社",
       "ratio": 5.01,
@@ -36,7 +36,7 @@
       "sec": "7105",
       "name": "三菱ロジスネクスト株式会社",
       "filer": "ＬＶＪホールディングス２合同会社",
-      "ratio": 16.9,
+      "ratio": 81.28,
       "prev_ratio": 64.5,
       "direction": "新規",
       "isNew": true
@@ -75,7 +75,7 @@
   "chg": [
     {
       "docId": "S100XM93",
-      "sec": "4376",
+      "sec": "3926",
       "name": "株式会社オープンドア",
       "filer": "株式会社くふうカンパニーホールディングス",
       "ratio": 6.22,
@@ -98,8 +98,8 @@
       "sec": "5974",
       "name": "中国工業株式会社",
       "filer": "日本鉱泉株式会社",
-      "ratio": 4.16,
-      "prev_ratio": 3.16,
+      "ratio": 7.08,
+      "prev_ratio": 6.08,
       "direction": "変更",
       "isNew": false
     },
@@ -118,7 +118,7 @@
       "sec": "6580",
       "name": "株式会社ライトアップ",
       "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
-      "ratio": 5.01,
+      "ratio": 6.1,
       "prev_ratio": 5.01,
       "direction": "変更",
       "isNew": false
@@ -128,8 +128,8 @@
       "sec": "1942",
       "name": "株式会社関電工",
       "filer": "東京電力パワーグリッド株式会社",
-      "ratio": 34.73,
-      "prev_ratio": 43.63,
+      "ratio": 35.56,
+      "prev_ratio": 44.45,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +158,8 @@
       "sec": "8167",
       "name": "株式会社リテールパートナーズ",
       "filer": "池田興産有限会社",
-      "ratio": 6.0,
-      "prev_ratio": 4.84,
+      "ratio": 7.14,
+      "prev_ratio": 7.14,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +168,8 @@
       "sec": "4344",
       "name": "ソースネクスト株式会社",
       "filer": "松田　憲幸",
-      "ratio": 25.56,
-      "prev_ratio": 26.18,
+      "ratio": 28.37,
+      "prev_ratio": 29.39,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +228,8 @@
       "sec": "1994",
       "name": "高橋カーテンウォール工業株式会社",
       "filer": "高橋　敏男",
-      "ratio": 8.45,
-      "prev_ratio": 9.46,
+      "ratio": 9.35,
+      "prev_ratio": 10.59,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +258,8 @@
       "sec": "4690",
       "name": "日本パレットプール株式会社",
       "filer": "日本貨物鉄道株式会社",
-      "ratio": 11.99,
-      "prev_ratio": 11.99,
+      "ratio": 12.48,
+      "prev_ratio": 12.48,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +278,8 @@
       "sec": "3237",
       "name": "株式会社イントランス",
       "filer": "合同会社インバウンドインベストメント",
-      "ratio": 5.26,
-      "prev_ratio": 6.4,
+      "ratio": 35.13,
+      "prev_ratio": 36.71,
       "direction": "変更",
       "isNew": false
     },
@@ -338,8 +338,8 @@
       "sec": "8085",
       "name": "ナラサキ産業株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.14,
-      "prev_ratio": 7.14,
+      "ratio": 17.68,
+      "prev_ratio": 16.67,
       "direction": "変更",
       "isNew": false
     },
@@ -348,8 +348,8 @@
       "sec": "7105",
       "name": "三菱ロジスネクスト株式会社",
       "filer": "ＬＶＪホールディングス２株式会社",
-      "ratio": 16.9,
-      "prev_ratio": 64.37,
+      "ratio": 81.28,
+      "prev_ratio": 81.28,
       "direction": "変更",
       "isNew": false
     },
@@ -358,8 +358,8 @@
       "sec": "5704",
       "name": "株式会社ＪＭＣ",
       "filer": "渡邊　大知",
-      "ratio": 22.67,
-      "prev_ratio": 22.59,
+      "ratio": 27.16,
+      "prev_ratio": 25.88,
       "direction": "変更",
       "isNew": false
     },
@@ -418,8 +418,8 @@
       "sec": "7550",
       "name": "株式会社　ゼンショーホールディングス",
       "filer": "株式会社日本クリエイト",
-      "ratio": 35.32,
-      "prev_ratio": 37.52,
+      "ratio": 36.2,
+      "prev_ratio": 38.45,
       "direction": "変更",
       "isNew": false
     },
@@ -448,8 +448,8 @@
       "sec": "8945",
       "name": "サンネクスタグループ株式会社",
       "filer": "光通信株式会社",
-      "ratio": 6.91,
-      "prev_ratio": 6.93,
+      "ratio": 26.95,
+      "prev_ratio": 25.95,
       "direction": "変更",
       "isNew": false
     }

@@ -16,7 +16,7 @@
       "sec": "9067",
       "name": "株式会社丸運",
       "filer": "センコーグループホールディングス株式会社",
-      "ratio": 79.0,
+      "ratio": 38.91,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -58,8 +58,8 @@
       "sec": "4062",
       "name": "イビデン株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 1.38,
-      "prev_ratio": 1.37,
+      "ratio": 11.71,
+      "prev_ratio": 11.62,
       "direction": "変更",
       "isNew": false
     },
@@ -78,7 +78,7 @@
       "sec": "1841",
       "name": "サンユー建設株式会社",
       "filer": "公益財団法人ホース未来福祉財団",
-      "ratio": 10.0,
+      "ratio": 12.5,
       "prev_ratio": 10.0,
       "direction": "変更",
       "isNew": false
@@ -108,8 +108,8 @@
       "sec": "1841",
       "name": "サンユー建設株式会社",
       "filer": "株式会社カバロ企画",
-      "ratio": 2.5,
-      "prev_ratio": 2.5,
+      "ratio": 30.03,
+      "prev_ratio": 10.0,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +128,8 @@
       "sec": "5631",
       "name": "株式会社日本製鋼所",
       "filer": "野村アセットマネジメント株式会社",
-      "ratio": 2.0,
-      "prev_ratio": 40.0,
+      "ratio": 12.27,
+      "prev_ratio": 11.24,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "8518",
       "name": "日本アジア投資株式会社",
       "filer": "ガバナンス・パートナーズ株式会社",
-      "ratio": 40.9,
-      "prev_ratio": 36.09,
+      "ratio": 41.5,
+      "prev_ratio": 36.77,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +208,8 @@
       "sec": "7044",
       "name": "株式会社ピアラ",
       "filer": "飛鳥　貴雄",
-      "ratio": 10.42,
-      "prev_ratio": 10.42,
+      "ratio": 32.13,
+      "prev_ratio": 32.68,
       "direction": "変更",
       "isNew": false
     },
@@ -248,7 +248,7 @@
       "sec": "9067",
       "name": "株式会社丸運",
       "filer": "ＪＸ金属株式会社",
-      "ratio": 38.12,
+      "ratio": 38.91,
       "prev_ratio": 38.12,
       "direction": "変更",
       "isNew": false
@@ -278,8 +278,8 @@
       "sec": "4362",
       "name": "日本精化株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 2.72,
-      "prev_ratio": 3.94,
+      "ratio": 3.81,
+      "prev_ratio": 5.01,
       "direction": "変更",
       "isNew": false
     },
@@ -294,12 +294,32 @@
       "isNew": false
     },
     {
+      "docId": "S100X3NP",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 5.72,
+      "prev_ratio": 9.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X3PH",
+      "sec": "3656",
+      "name": "ＫＬａｂ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 3.69,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100X4TB",
       "sec": "7081",
       "name": "コーユーレンティア株式会社",
       "filer": "ワイドフレンズ株式会社",
-      "ratio": 68.67,
-      "prev_ratio": 70.21,
+      "ratio": 71.41,
+      "prev_ratio": 72.99,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +348,8 @@
       "sec": "8803",
       "name": "平和不動産株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": 8.0,
-      "prev_ratio": 8.0,
+      "ratio": 9.38,
+      "prev_ratio": 10.39,
       "direction": "変更",
       "isNew": false
     },
@@ -338,8 +358,8 @@
       "sec": "5527",
       "name": "株式会社property technologies",
       "filer": "濱中　雄大",
-      "ratio": 33.12,
-      "prev_ratio": 34.26,
+      "ratio": 69.38,
+      "prev_ratio": 70.68,
       "direction": "変更",
       "isNew": false
     },
@@ -348,8 +368,8 @@
       "sec": "7940",
       "name": "ウェーブロックホールディングス株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 20.98,
+      "prev_ratio": 18.57,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +388,8 @@
       "sec": "2374",
       "name": "セントケア・ホールディング株式会社",
       "filer": "村上　美晴",
-      "ratio": 11.78,
-      "prev_ratio": 11.72,
+      "ratio": 47.54,
+      "prev_ratio": 47.49,
       "direction": "変更",
       "isNew": false
     },
@@ -388,8 +408,8 @@
       "sec": "1841",
       "name": "サンユー建設株式会社",
       "filer": "馬場邦明",
-      "ratio": 2.78,
-      "prev_ratio": 2.78,
+      "ratio": 10.63,
+      "prev_ratio": 5.28,
       "direction": "変更",
       "isNew": false
     },
@@ -408,7 +428,7 @@
       "sec": "9776",
       "name": "札幌臨床検査センタ－株式会社",
       "filer": "伊達アセットマネ－ジメント合同会社",
-      "ratio": 28.13,
+      "ratio": 32.75,
       "prev_ratio": 28.13,
       "direction": "変更",
       "isNew": false

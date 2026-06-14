@@ -10,6 +10,16 @@
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
+    },
+    {
+      "docId": "S100XZGP",
+      "sec": "4004",
+      "name": "株式会社レゾナック・ホールディングス",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.86,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
     }
   ],
   "chg": [
@@ -78,8 +88,8 @@
       "sec": "9561",
       "name": "株式会社グラッドキューブ",
       "filer": "金島弘樹",
-      "ratio": 25.08,
-      "prev_ratio": 17.89,
+      "ratio": 71.3,
+      "prev_ratio": 65.35,
       "direction": "変更",
       "isNew": false
     },
@@ -88,8 +98,8 @@
       "sec": "8934",
       "name": "サンフロンティア不動産株式会社",
       "filer": "伊藤忠商事株式会社",
-      "ratio": 9.58,
-      "prev_ratio": 9.58,
+      "ratio": 21.18,
+      "prev_ratio": 21.18,
       "direction": "変更",
       "isNew": false
     },
@@ -104,12 +114,22 @@
       "isNew": false
     },
     {
+      "docId": "S100XZL8",
+      "sec": "7839",
+      "name": "株式会社ＳＨＯＥＩ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 9.94,
+      "prev_ratio": 8.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XZGG",
       "sec": "4620",
       "name": "藤倉化成株式会社",
       "filer": "株式会社ＤＯＥ５パーセント",
-      "ratio": 74.0,
-      "prev_ratio": 63.0,
+      "ratio": 8.62,
+      "prev_ratio": 7.51,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +148,8 @@
       "sec": "4691",
       "name": "ワシントンホテル株式会社",
       "filer": "アパホールディングス株式会社",
-      "ratio": 3.37,
-      "prev_ratio": 2.21,
+      "ratio": 6.24,
+      "prev_ratio": 5.08,
       "direction": "変更",
       "isNew": false
     },
@@ -144,12 +164,82 @@
       "isNew": false
     },
     {
+      "docId": "S100XZH3",
+      "sec": "9042",
+      "name": "阪急阪神ホールディングス株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.97,
+      "prev_ratio": 8.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZGR",
+      "sec": "5857",
+      "name": "ＡＲＥホールディングス株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.2,
+      "prev_ratio": 5.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZGQ",
+      "sec": "4180",
+      "name": "Ａｐｐｉｅｒ　Ｇｒｏｕｐ株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.28,
+      "prev_ratio": 5.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZH2",
+      "sec": "6988",
+      "name": "日東電工株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 9.35,
+      "prev_ratio": 8.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZGS",
+      "sec": "6920",
+      "name": "レーザーテック株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.93,
+      "prev_ratio": 6.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZGO",
+      "sec": "3309",
+      "name": "積水ハウス・リート投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.72,
+      "prev_ratio": 7.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XZBP",
       "sec": "285A",
       "name": "キオクシアホールディングス株式会社",
       "filer": "ＢＣＰＥ　Ｐａｎｇｅａ　Ｃａｙｍａｎ，　Ｌ．Ｐ．",
-      "ratio": 1.38,
-      "prev_ratio": 1.38,
+      "ratio": 25.25,
+      "prev_ratio": 27.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XZGN",
+      "sec": "7057",
+      "name": "株式会社エ ヌ・シ ー・エ ヌ",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": null,
+      "prev_ratio": 8.66,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +258,8 @@
       "sec": "4676",
       "name": "株式会社フジ・メディア・ホールディングス",
       "filer": "ＳＢＩホールディングス株式会社",
-      "ratio": 2.37,
-      "prev_ratio": 1.19,
+      "ratio": 7.1,
+      "prev_ratio": 6.2,
       "direction": "変更",
       "isNew": false
     }

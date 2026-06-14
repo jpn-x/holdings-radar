@@ -2,6 +2,146 @@
   "date": "2026-01-21",
   "new": [
     {
+      "docId": "S100XGRE",
+      "sec": "7089",
+      "name": "フォースタートアップス株式会社",
+      "filer": "楽天証券株式会社",
+      "ratio": 6.41,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGRI",
+      "sec": "7356",
+      "name": "Ｒｅｔｔｙ株式会社",
+      "filer": "楽天証券株式会社",
+      "ratio": 6.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGIF",
+      "sec": "3697",
+      "name": "株式会社ＳＨＩＦＴ",
+      "filer": "野村證券株式会社",
+      "ratio": 6.09,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGDI",
+      "sec": "4680",
+      "name": "株式会社ラウンドワン",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGIH",
+      "sec": "3891",
+      "name": "ニッポン高度紙工業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 5.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGI5",
+      "sec": "3472",
+      "name": "日本ホテル＆レジデンシャル投資法人　投資証券",
+      "filer": "野村證券株式会社",
+      "ratio": 5.09,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGIM",
+      "sec": "475A",
+      "name": "株式会社ギミック",
+      "filer": "野村證券株式会社",
+      "ratio": 7.68,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGI9",
+      "sec": "368A",
+      "name": "株式会社北里コーポレーション",
+      "filer": "野村證券株式会社",
+      "ratio": 5.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGIU",
+      "sec": "3902",
+      "name": "メディカル・データ・ビジョン株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 5.31,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGJX",
+      "sec": "7246",
+      "name": "プレス工業株式会社",
+      "filer": "大和アセットマネジメント株式会社",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGSB",
+      "sec": "5726",
+      "name": "株式会社大阪チタニウムテクノロジーズ",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 5.27,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGTG",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 5.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGTO",
+      "sec": "6590",
+      "name": "芝浦メカトロニクス株式会社",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 5.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGIO",
+      "sec": "7047",
+      "name": "ポート株式会社",
+      "filer": "三井住友ＤＳアセットマネジメント株式会社",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XGMY",
       "sec": "4594",
       "name": "ブライトパス・バイオ",
@@ -22,6 +162,26 @@
       "isNew": true
     },
     {
+      "docId": "S100XGUT",
+      "sec": "3034",
+      "name": "クオールホールディングス株式会社",
+      "filer": "モルガン・スタンレー・アンド・カンパニー・インターナショナル・ピーエルシー",
+      "ratio": 7.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XGVG",
+      "sec": "8746",
+      "name": "ｕｎｂａｎｋｅｄ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 5.16,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XGAJ",
       "sec": "2175",
       "name": "株式会社エス・エム・エス",
@@ -34,12 +194,332 @@
   ],
   "chg": [
     {
+      "docId": "S100XGIG",
+      "sec": "4324",
+      "name": "株式会社 電通グループ",
+      "filer": "野村證券株式会社",
+      "ratio": 6.83,
+      "prev_ratio": 5.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGI1",
+      "sec": "2501",
+      "name": "サッポロホールディングス株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 5.94,
+      "prev_ratio": 6.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XFCU",
       "sec": "2293",
       "name": "滝沢ハム株式会社",
       "filer": "小堺裕一郎",
       "ratio": null,
       "prev_ratio": 8.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGD6",
+      "sec": "6081",
+      "name": "アライドアーキテクツ株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": null,
+      "prev_ratio": 5.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGD9",
+      "sec": "9006",
+      "name": "京浜急行電鉄株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 4.59,
+      "prev_ratio": 5.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGD7",
+      "sec": "6302",
+      "name": "住友重機械工業株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 7.72,
+      "prev_ratio": 7.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGD3",
+      "sec": "2871",
+      "name": "株式会社ニチレイ",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 4.8,
+      "prev_ratio": 5.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGD5",
+      "sec": "5310",
+      "name": "東洋炭素株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 8.31,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDA",
+      "sec": "7735",
+      "name": "株式会社ＳＣＲＥＥＮホールディングス",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 5.61,
+      "prev_ratio": 6.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGD8",
+      "sec": "7272",
+      "name": "ヤマハ発動機株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 6.24,
+      "prev_ratio": 6.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGD4",
+      "sec": "4062",
+      "name": "イビデン株式会社",
+      "filer": "三井住友信託銀行株式会社",
+      "ratio": 9.63,
+      "prev_ratio": 9.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDG",
+      "sec": "4324",
+      "name": "株式会社電通グループ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 5.12,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDH",
+      "sec": "4385",
+      "name": "株式会社メルカリ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 5.97,
+      "prev_ratio": 6.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDD",
+      "sec": "2130",
+      "name": "株式会社メンバーズ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 5.22,
+      "prev_ratio": 6.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDJ",
+      "sec": "4704",
+      "name": "トレンドマイクロ株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 6.92,
+      "prev_ratio": 7.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDF",
+      "sec": "3436",
+      "name": "株式会社ＳＵＭＣＯ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 6.66,
+      "prev_ratio": 6.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDE",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 8.05,
+      "prev_ratio": 9.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDK",
+      "sec": "4911",
+      "name": "株式会社資生堂",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 5.32,
+      "prev_ratio": 5.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDL",
+      "sec": "7972",
+      "name": "株式会社イトーキ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 4.96,
+      "prev_ratio": 5.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDM",
+      "sec": "9616",
+      "name": "株式会社共立メンテナンス",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 5.07,
+      "prev_ratio": 5.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGDQ",
+      "sec": "5242",
+      "name": "株式会社アイズ",
+      "filer": "アモーヴァ・アセットマネジメント株式会社",
+      "ratio": 5.42,
+      "prev_ratio": 6.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIL",
+      "sec": "3901",
+      "name": "マークラインズ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 5.59,
+      "prev_ratio": 6.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGII",
+      "sec": "462A",
+      "name": "株式会社FUNDINNO",
+      "filer": "野村證券株式会社",
+      "ratio": 5.77,
+      "prev_ratio": 8.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGE7",
+      "sec": "2971",
+      "name": "エスコンジャパンリート投資法人",
+      "filer": "大和アセットマネジメント株式会社",
+      "ratio": 3.81,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGI4",
+      "sec": "3463",
+      "name": "いちごホテルリート投資法人　投資証券",
+      "filer": "野村證券株式会社",
+      "ratio": 4.35,
+      "prev_ratio": 5.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGI8",
+      "sec": "3563",
+      "name": "株式会社ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳ",
+      "filer": "野村證券株式会社",
+      "ratio": 5.1,
+      "prev_ratio": 5.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIN",
+      "sec": "5715",
+      "name": "古河機械金属株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 4.03,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIR",
+      "sec": "5805",
+      "name": "ＳＷＣＣ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 4.64,
+      "prev_ratio": 6.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGI3",
+      "sec": "3436",
+      "name": "株式会社ＳＵＭＣＯ",
+      "filer": "野村證券株式会社",
+      "ratio": 6.08,
+      "prev_ratio": 5.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIV",
+      "sec": "4112",
+      "name": "保土谷化学工業株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 6.66,
+      "prev_ratio": 6.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIY",
+      "sec": "5310",
+      "name": "東洋炭素株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 6.22,
+      "prev_ratio": 7.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGRP",
+      "sec": "4588",
+      "name": "オンコリスバイオファーマ株式会社",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 5.56,
+      "prev_ratio": 5.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGS0",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 4.12,
+      "prev_ratio": 5.12,
       "direction": "変更",
       "isNew": false
     },
@@ -54,12 +534,22 @@
       "isNew": false
     },
     {
+      "docId": "S100XGTW",
+      "sec": "9552",
+      "name": "株式会社クオンツ総研ホールディングス",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 5.75,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XGPU",
       "sec": "438A",
       "name": "株式会社インフキュリオン",
       "filer": "三井住友ＤＳアセットマネジメント株式会社",
-      "ratio": 1.03,
-      "prev_ratio": 14.67,
+      "ratio": 30.31,
+      "prev_ratio": 29.34,
       "direction": "変更",
       "isNew": false
     },
@@ -68,8 +558,18 @@
       "sec": "6855",
       "name": "日本電子材料株式会社",
       "filer": "野村アセットマネジメント株式会社",
-      "ratio": 1.0,
-      "prev_ratio": 1.0,
+      "ratio": 10.89,
+      "prev_ratio": 10.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGH7",
+      "sec": "5946",
+      "name": "株式会社長府製作所",
+      "filer": "ファースト・イーグル・インベストメント・マネジメント・エルエルシー",
+      "ratio": 7.94,
+      "prev_ratio": 9.13,
       "direction": "変更",
       "isNew": false
     },
@@ -80,6 +580,16 @@
       "filer": "Ｅｖｏ　Ｆｕｎｄ",
       "ratio": 51.46,
       "prev_ratio": 52.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGV4",
+      "sec": "8136",
+      "name": "株式会社サンリオ",
+      "filer": "モルガン・スタンレー・アンド・カンパニー・インターナショナル・ピーエルシー",
+      "ratio": 5.5,
+      "prev_ratio": 6.39,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +608,8 @@
       "sec": "3593",
       "name": "株式会社ホギメディカル",
       "filer": "野村證券株式会社",
-      "ratio": 64.0,
-      "prev_ratio": 64.0,
+      "ratio": 9.86,
+      "prev_ratio": 10.91,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +618,18 @@
       "sec": "3193",
       "name": "株式会社エターナルホスピタリティグループ",
       "filer": "大倉　忠司",
-      "ratio": 22.44,
-      "prev_ratio": 22.41,
+      "ratio": 32.34,
+      "prev_ratio": 32.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGKB",
+      "sec": "7095",
+      "name": "株式会社Ｍａｃｂｅｅ　Ｐｌａｎｅｔ",
+      "filer": "野村證券株式会社",
+      "ratio": 5.61,
+      "prev_ratio": 5.21,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +638,38 @@
       "sec": "4062",
       "name": "イビデン株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 1.37,
-      "prev_ratio": 1.36,
+      "ratio": 12.14,
+      "prev_ratio": 11.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGVI",
+      "sec": "9984",
+      "name": "ソフトバンクグループ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 7.74,
+      "prev_ratio": 7.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGVD",
+      "sec": "8233",
+      "name": "株式会社高島屋",
+      "filer": "野村證券株式会社",
+      "ratio": 9.1,
+      "prev_ratio": 9.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGVB",
+      "sec": "8226",
+      "name": "株式会社　理経",
+      "filer": "野村證券株式会社",
+      "ratio": 4.26,
+      "prev_ratio": 5.2,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +678,8 @@
       "sec": "483A",
       "name": "テラテクノロジー株式会社",
       "filer": "宮本　一成",
-      "ratio": 6.36,
-      "prev_ratio": 11.1,
+      "ratio": 54.11,
+      "prev_ratio": 58.86,
       "direction": "変更",
       "isNew": false
     },
@@ -148,14 +698,14 @@
       "sec": "2668",
       "name": "タビオ株式会社",
       "filer": "越智　勝寛",
-      "ratio": 27.0,
-      "prev_ratio": 8.0,
+      "ratio": 14.88,
+      "prev_ratio": 15.87,
       "direction": "変更",
       "isNew": false
     },
     {
       "docId": "S100XGBD",
-      "sec": "9882",
+      "sec": "5870",
       "name": "株式会社ナルネットコミュニケーションズ",
       "filer": "株式会社イエローハット",
       "ratio": 20.02,
@@ -169,7 +719,7 @@
       "name": "株式会社ＣＩＪ",
       "filer": "光通信株式会社",
       "ratio": 5.72,
-      "prev_ratio": 6.72,
+      "prev_ratio": 6.76,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +738,8 @@
       "sec": "6361",
       "name": "株式会社荏原製作所",
       "filer": "いちごアセットマネジメント・インタ－ナショナル・ピ－ティ－イ－・リミテッド",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 4.76,
+      "prev_ratio": 5.79,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +748,8 @@
       "sec": "9983",
       "name": "株式会社ファーストリテイリング",
       "filer": "柳井　正",
-      "ratio": 16.19,
-      "prev_ratio": 17.19,
+      "ratio": 40.28,
+      "prev_ratio": 41.28,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +768,58 @@
       "sec": "9603",
       "name": "株式会社エイチ・アイ・エス",
       "filer": "澤田　秀雄",
-      "ratio": 22.49,
-      "prev_ratio": 22.49,
+      "ratio": 28.51,
+      "prev_ratio": 28.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIA",
+      "sec": "1491",
+      "name": "中外鉱業株式会社",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 7.95,
+      "prev_ratio": 7.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGID",
+      "sec": "3935",
+      "name": "株式会社エディア",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 4.85,
+      "prev_ratio": 5.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIZ",
+      "sec": "7345",
+      "name": "株式会社アイ・パートナーズフィナンシャル",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 4.51,
+      "prev_ratio": 5.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIQ",
+      "sec": "4813",
+      "name": "株式会社ＡＣＣＥＳＳ",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 6.96,
+      "prev_ratio": 6.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XGIW",
+      "sec": "5138",
+      "name": "株式会社Rebase",
+      "filer": "株式会社ＳＢＩ証券",
+      "ratio": 6.95,
+      "prev_ratio": 5.73,
       "direction": "変更",
       "isNew": false
     },

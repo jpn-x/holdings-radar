@@ -2,6 +2,16 @@
   "date": "2025-05-19",
   "new": [
     {
+      "docId": "S100VR25",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100VS14",
       "sec": "6095",
       "name": "メドピア株式会社",
@@ -104,12 +114,52 @@
       "isNew": false
     },
     {
+      "docId": "S100VR26",
+      "sec": "2975",
+      "name": "スター・マイカ・ホールディングス株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.1,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR27",
+      "sec": "3290",
+      "name": "Ｏｎｅリート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.63,
+      "prev_ratio": 5.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR2A",
+      "sec": "8952",
+      "name": "ジャパンリアルエステイト投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.88,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VR2B",
+      "sec": "9402",
+      "name": "中部日本放送株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.93,
+      "prev_ratio": 6.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VS1I",
       "sec": "6855",
       "name": "日本電子材料株式会社",
       "filer": "野村證券株式会社",
-      "ratio": null,
-      "prev_ratio": 2.35,
+      "ratio": 10.8,
+      "prev_ratio": 12.86,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +218,8 @@
       "sec": "4686",
       "name": "株式会社ジャストシステム",
       "filer": "光通信株式会社",
-      "ratio": 3.8,
-      "prev_ratio": 3.73,
+      "ratio": 10.45,
+      "prev_ratio": 9.44,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +278,8 @@
       "sec": "7127",
       "name": "株式会社一家ホールディングス",
       "filer": "武長　太郎",
-      "ratio": 13.72,
-      "prev_ratio": 13.71,
+      "ratio": 36.15,
+      "prev_ratio": 36.19,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +298,8 @@
       "sec": "9127",
       "name": "玉井商船　株式会社",
       "filer": "株式会社　アイエスシー",
-      "ratio": 2.75,
-      "prev_ratio": 2.64,
+      "ratio": 6.16,
+      "prev_ratio": 5.09,
       "direction": "変更",
       "isNew": false
     }

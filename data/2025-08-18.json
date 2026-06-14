@@ -44,6 +44,56 @@
       "isNew": false
     },
     {
+      "docId": "S100WIUK",
+      "sec": "3269",
+      "name": "アドバンス・レジデンス投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.18,
+      "prev_ratio": 6.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIUM",
+      "sec": "3466",
+      "name": "ラサールロジポート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.19,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIUR",
+      "sec": "4548",
+      "name": "生化学工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.35,
+      "prev_ratio": 5.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIUT",
+      "sec": "8154",
+      "name": "加賀電子株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.12,
+      "prev_ratio": 7.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WIUW",
+      "sec": "8967",
+      "name": "日本ロジスティクスファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.43,
+      "prev_ratio": 6.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WI6Y",
       "sec": "2491",
       "name": "バリューコマース株式会社",
@@ -98,8 +148,8 @@
       "sec": "7042",
       "name": "株式会社アクセスグループ・ホールディングス",
       "filer": "木村　春樹",
-      "ratio": 9.38,
-      "prev_ratio": 10.42,
+      "ratio": 12.46,
+      "prev_ratio": 13.88,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +158,8 @@
       "sec": "2286",
       "name": "林兼産業株式会社",
       "filer": "中部　哲二",
-      "ratio": 2.85,
-      "prev_ratio": 1.84,
+      "ratio": 7.98,
+      "prev_ratio": 6.97,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +258,8 @@
       "sec": "1835",
       "name": "東鉄工業株式会社",
       "filer": "東日本旅客鉄道株式会社",
-      "ratio": 21.16,
-      "prev_ratio": 18.56,
+      "ratio": 21.58,
+      "prev_ratio": 18.98,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +338,8 @@
       "sec": "1518",
       "name": "三井松島ホールディングス株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": 7.69,
+      "ratio": 13.25,
+      "prev_ratio": 38.18,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +358,8 @@
       "sec": "9419",
       "name": "株式会社ワイヤレスゲート",
       "filer": "光通信株式会社",
-      "ratio": 7.48,
-      "prev_ratio": 7.48,
+      "ratio": 12.65,
+      "prev_ratio": 11.61,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +368,8 @@
       "sec": "4892",
       "name": "株式会社サイフューズ",
       "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
-      "ratio": 5.16,
-      "prev_ratio": 5.22,
+      "ratio": 17.41,
+      "prev_ratio": 18.57,
       "direction": "変更",
       "isNew": false
     },

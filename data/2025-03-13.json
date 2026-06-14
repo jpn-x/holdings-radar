@@ -26,7 +26,7 @@
       "sec": "8291",
       "name": "日産東京販売ホールディングス株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 3.33,
+      "ratio": 5.02,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -36,7 +36,7 @@
       "sec": "2162",
       "name": "ｎｍｓホールディングス株式会社",
       "filer": "日本アジア投資株式会社",
-      "ratio": 28.000000000000004,
+      "ratio": 5.05,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -88,8 +88,8 @@
       "sec": "9990",
       "name": "株式会社サックスバー　ホールディングス",
       "filer": "ＳＭＢＣ日興証券株式会社",
-      "ratio": 2.88,
-      "prev_ratio": 1.72,
+      "ratio": 12.21,
+      "prev_ratio": 11.08,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +128,8 @@
       "sec": "2268",
       "name": "Ｂ－Ｒ　サーティワン　アイスクリーム株式会社",
       "filer": "株式会社不二家",
-      "ratio": 37.98,
-      "prev_ratio": 39.23,
+      "ratio": 75.96,
+      "prev_ratio": 78.46,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "7623",
       "name": "株式会社サンオータス",
       "filer": "太田興産株式会社",
-      "ratio": 25.63,
-      "prev_ratio": 25.63,
+      "ratio": 42.86,
+      "prev_ratio": 42.55,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +158,8 @@
       "sec": "7623",
       "name": "株式会社サンオータス",
       "filer": "太田興産株式会社",
-      "ratio": 25.63,
-      "prev_ratio": 25.63,
+      "ratio": 42.86,
+      "prev_ratio": 42.86,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +168,8 @@
       "sec": "7623",
       "name": "株式会社サンオータス",
       "filer": "太田興産株式会社",
-      "ratio": 25.63,
-      "prev_ratio": 25.63,
+      "ratio": 43.02,
+      "prev_ratio": 42.86,
       "direction": "変更",
       "isNew": false
     },
@@ -194,6 +194,46 @@
       "isNew": false
     },
     {
+      "docId": "S100VDUI",
+      "sec": "8715",
+      "name": "アニコム ホールディングス株式会社",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 5.94,
+      "prev_ratio": 7.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDUR",
+      "sec": "6194",
+      "name": "株式会社アトラエ",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 6.56,
+      "prev_ratio": 7.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE1E",
+      "sec": "3661",
+      "name": "株式会社エムアップホールディングス",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 6.74,
+      "prev_ratio": 8.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VE1H",
+      "sec": "6200",
+      "name": "株式会社インソース",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 4.81,
+      "prev_ratio": 6.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VE6J",
       "sec": "9310",
       "name": "日本トランスシティ株式会社",
@@ -204,12 +244,32 @@
       "isNew": false
     },
     {
+      "docId": "S100VDUM",
+      "sec": "3762",
+      "name": "テクマトリックス株式会社",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 4.23,
+      "prev_ratio": 5.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VDUT",
+      "sec": "6118",
+      "name": "アイダエンジニアリング株式会社",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 5.32,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VE6W",
       "sec": "6855",
       "name": "日本電子材料株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 87.0,
-      "prev_ratio": 33.0,
+      "ratio": 11.28,
+      "prev_ratio": 10.84,
       "direction": "変更",
       "isNew": false
     },
@@ -248,7 +308,7 @@
       "sec": "3905",
       "name": "データセクション株式会社",
       "filer": "杉原　行洋",
-      "ratio": 7.18,
+      "ratio": 25.66,
       "prev_ratio": 6.69,
       "direction": "変更",
       "isNew": false
@@ -268,8 +328,8 @@
       "sec": "4892",
       "name": "株式会社サイフューズ",
       "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
-      "ratio": 5.76,
-      "prev_ratio": 5.99,
+      "ratio": 9.99,
+      "prev_ratio": 10.37,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +338,8 @@
       "sec": "2268",
       "name": "Ｂ－Ｒ サーティワン アイスクリーム株式会社",
       "filer": "ダンキン　ブランズ　インターナショナル　ホールディングス　リミテッド",
-      "ratio": 37.98,
-      "prev_ratio": 39.23,
+      "ratio": 75.96,
+      "prev_ratio": 78.46,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +348,8 @@
       "sec": "6048",
       "name": "株式会社デザインワン・ジャパン",
       "filer": "ＳＢＩキャピタル株式会社",
-      "ratio": 9.42,
-      "prev_ratio": 9.42,
+      "ratio": 10.31,
+      "prev_ratio": 15.13,
       "direction": "変更",
       "isNew": false
     },

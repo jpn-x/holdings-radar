@@ -36,7 +36,7 @@
       "sec": "7071",
       "name": "株式会社アンビスホールディングス",
       "filer": "Ｐａｎｔｈｅｕｍ　Ｐａｒｔｎｅｒｓ　Ｌｉｍｉｔｅｄ",
-      "ratio": null,
+      "ratio": 5.05,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -46,7 +46,7 @@
       "sec": "3416",
       "name": "ピクスタ株式会社",
       "filer": "光通信株式会社",
-      "ratio": 4.77,
+      "ratio": 5.08,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -55,7 +55,7 @@
   "chg": [
     {
       "docId": "S100XLPV",
-      "sec": "4194",
+      "sec": "7353",
       "name": "ＫＩＹＯラーニング株式会社",
       "filer": "ビジョナル株式会社",
       "ratio": 6.09,
@@ -88,8 +88,8 @@
       "sec": "2585",
       "name": "株式会社ライフドリンク　カンパニー",
       "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
-      "ratio": 8.4,
-      "prev_ratio": 8.4,
+      "ratio": 10.15,
+      "prev_ratio": 9.66,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "4369",
       "name": "株式会社　トリケミカル研究所",
       "filer": "野村證券株式会社",
-      "ratio": 19.0,
-      "prev_ratio": 1.07,
+      "ratio": 10.4,
+      "prev_ratio": 10.85,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +168,8 @@
       "sec": "1718",
       "name": "美樹工業株式会社",
       "filer": "三木　佳美",
-      "ratio": 11.78,
-      "prev_ratio": 15.35,
+      "ratio": 17.91,
+      "prev_ratio": 21.48,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +258,8 @@
       "sec": "7361",
       "name": "株式会社ヒューマンクリエイションホールディングス",
       "filer": "光通信株式会社",
-      "ratio": 6.63,
-      "prev_ratio": 6.63,
+      "ratio": 8.56,
+      "prev_ratio": 7.49,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +268,8 @@
       "sec": "9343",
       "name": "株式会社アイビス",
       "filer": "神谷　栄治",
-      "ratio": 40.98,
-      "prev_ratio": 42.81,
+      "ratio": 46.2,
+      "prev_ratio": 48.06,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +278,8 @@
       "sec": "8233",
       "name": "株式会社髙島屋",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": 2.62,
-      "prev_ratio": 8.0,
+      "ratio": 7.1,
+      "prev_ratio": 8.22,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +288,8 @@
       "sec": "1822",
       "name": "大豊建設株式会社",
       "filer": "株式会社南青山不動産",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 14.5,
+      "prev_ratio": 15.58,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +318,8 @@
       "sec": "285A",
       "name": "キオクシアホールディングス株式会社",
       "filer": "ＢＣＰＥ　Ｐａｎｇｅａ　Ｃａｙｍａｎ，　Ｌ．Ｐ．",
-      "ratio": 15.02,
-      "prev_ratio": 15.31,
+      "ratio": 43.84,
+      "prev_ratio": 44.33,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +328,8 @@
       "sec": "285A",
       "name": "キオクシアホールディングス株式会社",
       "filer": "ＢＣＰＥ　Ｐａｎｇｅａ　Ｃａｙｍａｎ，　Ｌ．Ｐ．",
-      "ratio": 8.05,
-      "prev_ratio": 15.02,
+      "ratio": 36.86,
+      "prev_ratio": 43.84,
       "direction": "変更",
       "isNew": false
     },

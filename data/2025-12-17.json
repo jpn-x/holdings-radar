@@ -86,8 +86,8 @@
       "sec": "4957",
       "name": "ヤスハラケミカル株式会社",
       "filer": "ＹＡＨＯ株式会社",
-      "ratio": 48.06,
-      "prev_ratio": 10.95,
+      "ratio": 77.35,
+      "prev_ratio": 11.41,
       "direction": "新規",
       "isNew": true
     },
@@ -218,8 +218,8 @@
       "sec": "6637",
       "name": "寺崎電気産業株式会社",
       "filer": "テラサキトラスト株式会社",
-      "ratio": 78.0,
-      "prev_ratio": 6.65,
+      "ratio": 17.67,
+      "prev_ratio": 23.53,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +248,8 @@
       "sec": "5254",
       "name": "株式会社Arent",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 5.88,
-      "prev_ratio": 5.88,
+      "ratio": 9.14,
+      "prev_ratio": 10.52,
       "direction": "変更",
       "isNew": false
     },
@@ -264,12 +264,62 @@
       "isNew": false
     },
     {
+      "docId": "S100XB4N",
+      "sec": "3409",
+      "name": "株式会社北紡",
+      "filer": "松井証券株式会社",
+      "ratio": 4.0,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XB52",
       "sec": "5132",
       "name": "株式会社ｐｌｕｓｚｅｒｏ",
       "filer": "小代　義行",
-      "ratio": 25.56,
-      "prev_ratio": 25.77,
+      "ratio": 30.62,
+      "prev_ratio": 30.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB5S",
+      "sec": "1878",
+      "name": "大東建託株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 3.84,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB5Z",
+      "sec": "2001",
+      "name": "株式会社ニップン",
+      "filer": "野村證券株式会社",
+      "ratio": 4.17,
+      "prev_ratio": 5.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB5X",
+      "sec": "1949",
+      "name": "住友電設株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 4.97,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XB61",
+      "sec": "2374",
+      "name": "セントケア・ホールディング株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 6.19,
+      "prev_ratio": 5.77,
       "direction": "変更",
       "isNew": false
     },
@@ -308,7 +358,7 @@
       "sec": "2389",
       "name": "株式会社デジタルホールディングス",
       "filer": "株式会社博報堂ＤＹホールディングス",
-      "ratio": 31.14,
+      "ratio": 58.53,
       "prev_ratio": 31.14,
       "direction": "変更",
       "isNew": false
@@ -338,8 +388,8 @@
       "sec": "4439",
       "name": "株式会社東名",
       "filer": "光通信株式会社",
-      "ratio": 7.31,
-      "prev_ratio": 7.31,
+      "ratio": 32.16,
+      "prev_ratio": 31.8,
       "direction": "変更",
       "isNew": false
     },
@@ -348,8 +398,8 @@
       "sec": "4771",
       "name": "株式会社エフアンドエム",
       "filer": "光通信株式会社",
-      "ratio": 4.49,
-      "prev_ratio": 3.97,
+      "ratio": 12.59,
+      "prev_ratio": 11.53,
       "direction": "変更",
       "isNew": false
     },
@@ -358,8 +408,8 @@
       "sec": "4441",
       "name": "トビラシステムズ株式会社",
       "filer": "Ｓｍｏａｋ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　ＬＬＣ",
-      "ratio": 6.12,
-      "prev_ratio": 4.81,
+      "ratio": 6.33,
+      "prev_ratio": 5.02,
       "direction": "変更",
       "isNew": false
     },

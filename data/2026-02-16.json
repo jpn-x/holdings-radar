@@ -2,11 +2,21 @@
   "date": "2026-02-16",
   "new": [
     {
+      "docId": "S100XLKJ",
+      "sec": "446A",
+      "name": "株式会社ノースサンド",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XKC4",
       "sec": "9476",
       "name": "株式会社中央経済社ホールディングス",
       "filer": "株式会社トラストハブ",
-      "ratio": 4.55,
+      "ratio": 5.03,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -45,7 +55,7 @@
     },
     {
       "docId": "S100XLBG",
-      "sec": "9678",
+      "sec": "6734",
       "name": "株式会社ニューテック",
       "filer": "株式会社カナモト",
       "ratio": null,
@@ -68,8 +78,8 @@
       "sec": "3326",
       "name": "株式会社ランシステム",
       "filer": "ＧＡＵＤＩ株式会社",
-      "ratio": 53.0,
-      "prev_ratio": 73.0,
+      "ratio": 5.32,
+      "prev_ratio": 6.35,
       "direction": "変更",
       "isNew": false
     },
@@ -78,8 +88,8 @@
       "sec": "4397",
       "name": "株式会社チームスピリット",
       "filer": "荻島　浩司",
-      "ratio": 16.34,
-      "prev_ratio": 16.34,
+      "ratio": 21.97,
+      "prev_ratio": 21.97,
       "direction": "変更",
       "isNew": false
     },
@@ -88,8 +98,8 @@
       "sec": "6239",
       "name": "株式会社ナガオカ",
       "filer": "株式会社フラクタル・ビジネス",
-      "ratio": 1.6,
-      "prev_ratio": 1.6,
+      "ratio": 6.08,
+      "prev_ratio": 5.07,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +108,8 @@
       "sec": "3495",
       "name": "香陵住販株式会社",
       "filer": "株式会社フラクタル・ビジネス",
-      "ratio": 5.66,
-      "prev_ratio": 5.7,
+      "ratio": 7.15,
+      "prev_ratio": 6.06,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +238,8 @@
       "sec": "6072",
       "name": "地盤ネットホールディングス株式会社",
       "filer": "山本　強",
-      "ratio": 2.96,
-      "prev_ratio": 12.43,
+      "ratio": 23.7,
+      "prev_ratio": 33.17,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +248,8 @@
       "sec": "3682",
       "name": "エンカレッジ・テクノロジ株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.48,
-      "prev_ratio": 7.48,
+      "ratio": 23.95,
+      "prev_ratio": 22.94,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +258,8 @@
       "sec": "6857",
       "name": "株式会社アドバンテスト",
       "filer": "ブラックロック・ジャパン株式会社",
-      "ratio": 2.62,
-      "prev_ratio": 2.83,
+      "ratio": 10.41,
+      "prev_ratio": 9.01,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +268,8 @@
       "sec": "3763",
       "name": "株式会社プロシップ",
       "filer": "光通信株式会社",
-      "ratio": 6.09,
-      "prev_ratio": 5.9,
+      "ratio": 13.75,
+      "prev_ratio": 12.74,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +278,8 @@
       "sec": "4475",
       "name": "HENNGE株式会社",
       "filer": "宮本　和明",
-      "ratio": 10.01,
-      "prev_ratio": 11.57,
+      "ratio": 12.08,
+      "prev_ratio": 12.64,
       "direction": "変更",
       "isNew": false
     },
@@ -280,6 +290,16 @@
       "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
       "ratio": 9.91,
       "prev_ratio": 6.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XLO0",
+      "sec": "373A",
+      "name": "株式会社リップス",
+      "filer": "ＧＭＯクリック証券株式会社",
+      "ratio": 4.09,
+      "prev_ratio": 5.94,
       "direction": "変更",
       "isNew": false
     },
@@ -298,14 +318,14 @@
       "sec": "5342",
       "name": "ジャニス工業株式会社",
       "filer": "株式会社ニッソウ",
-      "ratio": 8.39,
-      "prev_ratio": 7.35,
+      "ratio": 8.4,
+      "prev_ratio": 7.36,
       "direction": "変更",
       "isNew": false
     },
     {
       "docId": "S100XK33",
-      "sec": "6902",
+      "sec": "6901",
       "name": "澤藤電機株式会社",
       "filer": "株式会社デンソー",
       "ratio": null,

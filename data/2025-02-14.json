@@ -38,8 +38,8 @@
       "sec": "9336",
       "name": "大栄環境株式会社",
       "filer": "ウイングトワ株式会社",
-      "ratio": 61.47,
-      "prev_ratio": 64.58,
+      "ratio": 61.52,
+      "prev_ratio": 64.63,
       "direction": "変更",
       "isNew": false
     },
@@ -58,8 +58,8 @@
       "sec": "165A",
       "name": "SBIレオスひふみ株式会社",
       "filer": "遠藤　昭二",
-      "ratio": 7.57,
-      "prev_ratio": 9.11,
+      "ratio": 8.1,
+      "prev_ratio": 9.64,
       "direction": "変更",
       "isNew": false
     },
@@ -78,8 +78,8 @@
       "sec": "4368",
       "name": "扶桑化学工業株式会社",
       "filer": "株式会社薫風舎",
-      "ratio": 7.09,
-      "prev_ratio": 5.87,
+      "ratio": 7.16,
+      "prev_ratio": 5.94,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +158,8 @@
       "sec": "2175",
       "name": "株式会社エス・エム・エス",
       "filer": "ＭＯＲＯ合同会社",
-      "ratio": 17.56,
-      "prev_ratio": 17.56,
+      "ratio": 18.82,
+      "prev_ratio": 18.82,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +178,8 @@
       "sec": "7217",
       "name": "株式会社テイン",
       "filer": "市野　諮",
-      "ratio": 13.73,
-      "prev_ratio": 13.21,
+      "ratio": 52.8,
+      "prev_ratio": 49.39,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +188,8 @@
       "sec": "3763",
       "name": "株式会社プロシップ",
       "filer": "光通信株式会社",
-      "ratio": 5.65,
-      "prev_ratio": 4.79,
+      "ratio": 6.08,
+      "prev_ratio": 5.02,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +218,18 @@
       "sec": "5131",
       "name": "リンカーズ株式会社",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 9.2,
-      "prev_ratio": 9.2,
+      "ratio": 11.24,
+      "prev_ratio": 10.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V930",
+      "sec": "7325",
+      "name": "株式会社アイリックコーポレーション",
+      "filer": "ネオファースト生命保険株式会社",
+      "ratio": null,
+      "prev_ratio": 6.64,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +258,8 @@
       "sec": "9229",
       "name": "株式会社サンウェルズ",
       "filer": "苗代　亮達",
-      "ratio": 11.09,
-      "prev_ratio": 11.09,
+      "ratio": 49.42,
+      "prev_ratio": 49.42,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +268,8 @@
       "sec": "9434",
       "name": "ソフトバンク株式会社",
       "filer": "ソフトバンクグループジャパン株式会社",
-      "ratio": 20.01,
-      "prev_ratio": 21.13,
+      "ratio": 40.1,
+      "prev_ratio": 40.11,
       "direction": "変更",
       "isNew": false
     }

@@ -56,7 +56,7 @@
       "sec": "4556",
       "name": "株式会社カイノス",
       "filer": "Ｆｌｏｗｅｒｓ株式会社",
-      "ratio": 70.72,
+      "ratio": 91.34,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -66,7 +66,7 @@
       "sec": "4691",
       "name": "ワシントンホテル株式会社",
       "filer": "アパホールディングス株式会社",
-      "ratio": 2.21,
+      "ratio": 5.08,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -86,7 +86,7 @@
       "sec": "524A",
       "name": "株式会社田村ビルズグループ",
       "filer": "株式会社ＴＭＲ",
-      "ratio": 35.0,
+      "ratio": 99.98,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -118,8 +118,8 @@
       "sec": "7516",
       "name": "コーナン商事株式会社",
       "filer": "疋田耕造",
-      "ratio": 5.21,
-      "prev_ratio": 5.21,
+      "ratio": 6.63,
+      "prev_ratio": 6.63,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +158,8 @@
       "sec": "3224",
       "name": "株式会社ゼネラル・オイスター",
       "filer": "小林　敏雄",
-      "ratio": 4.3,
-      "prev_ratio": 20.31,
+      "ratio": 4.79,
+      "prev_ratio": 22.09,
       "direction": "変更",
       "isNew": false
     },
@@ -175,7 +175,7 @@
     },
     {
       "docId": "S100XVQQ",
-      "sec": "4631",
+      "sec": "4626",
       "name": "太陽ホールディングス株式会社",
       "filer": "ＤＩＣ株式会社",
       "ratio": 19.23,
@@ -188,8 +188,8 @@
       "sec": "4881",
       "name": "株式会社ファンペップ",
       "filer": "グロース・キャピタル株式会社",
-      "ratio": 16.53,
-      "prev_ratio": 18.42,
+      "ratio": 17.23,
+      "prev_ratio": 19.12,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +198,8 @@
       "sec": "471A",
       "name": "NSグループ株式会社",
       "filer": "大谷　彰宏",
-      "ratio": 4.0,
-      "prev_ratio": 4.0,
+      "ratio": 52.13,
+      "prev_ratio": 51.11,
       "direction": "変更",
       "isNew": false
     },
@@ -210,6 +210,16 @@
       "filer": "Ｅｖｏ　Ｆｕｎｄ",
       "ratio": 49.02,
       "prev_ratio": 50.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XW6I",
+      "sec": "7979",
+      "name": "株式会社松風",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 5.64,
+      "prev_ratio": 6.26,
       "direction": "変更",
       "isNew": false
     },
@@ -235,7 +245,7 @@
     },
     {
       "docId": "S100XS0K",
-      "sec": "9603",
+      "sec": "231A",
       "name": "Cross Ｅホールディングス株式会社",
       "filer": "株式会社エイチ・アイ・エス",
       "ratio": 70.36,
@@ -318,8 +328,8 @@
       "sec": "5134",
       "name": "株式会社ＰＯＰＥＲ",
       "filer": "光通信株式会社",
-      "ratio": 7.48,
-      "prev_ratio": 7.48,
+      "ratio": 9.99,
+      "prev_ratio": 8.95,
       "direction": "変更",
       "isNew": false
     },
@@ -329,7 +339,7 @@
       "name": "株式会社カイノス",
       "filer": "光通信株式会社",
       "ratio": null,
-      "prev_ratio": 7.18,
+      "prev_ratio": 21.48,
       "direction": "変更",
       "isNew": false
     },
@@ -358,7 +368,7 @@
       "sec": "8260",
       "name": "株式会社井筒屋",
       "filer": "ガバナンス・パートナーズ株式会社",
-      "ratio": 10.65,
+      "ratio": 12.47,
       "prev_ratio": 10.65,
       "direction": "変更",
       "isNew": false

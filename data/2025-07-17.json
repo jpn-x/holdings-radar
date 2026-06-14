@@ -6,8 +6,18 @@
       "sec": "3426",
       "name": "アトムリビンテック株式会社",
       "filer": "櫻井金属工業株式会社",
-      "ratio": 3.95,
+      "ratio": 5.49,
       "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WDPI",
+      "sec": "8012",
+      "name": "長瀬産業株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 5.08,
+      "prev_ratio": 5.09,
       "direction": "新規",
       "isNew": true
     },
@@ -17,6 +27,16 @@
       "name": "ノリタケ株式会社",
       "filer": "株式会社ストラテジックキャピタル",
       "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WD9Y",
+      "sec": "7839",
+      "name": "株式会社ＳＨＯＥＩ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 5.33,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -84,6 +104,16 @@
       "isNew": false
     },
     {
+      "docId": "S100WDP3",
+      "sec": "7272",
+      "name": "ヤマハ発動機株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 6.83,
+      "prev_ratio": 7.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WD0N",
       "sec": "4480",
       "name": "株式会社メドレー",
@@ -94,12 +124,62 @@
       "isNew": false
     },
     {
+      "docId": "S100WDP8",
+      "sec": "7721",
+      "name": "東京計器株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 5.16,
+      "prev_ratio": 6.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDPD",
+      "sec": "7383",
+      "name": "株式会社ネットプロテクションズホールディングス",
+      "filer": "野村證券株式会社",
+      "ratio": 3.64,
+      "prev_ratio": 5.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDPE",
+      "sec": "7451",
+      "name": "三菱食品株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.24,
+      "prev_ratio": 5.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDPF",
+      "sec": "7731",
+      "name": "株式会社ニコン",
+      "filer": "野村證券株式会社",
+      "ratio": 5.82,
+      "prev_ratio": 6.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WDPL",
+      "sec": "8804",
+      "name": "東京建物株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 6.74,
+      "prev_ratio": 7.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WD2E",
       "sec": "3660",
       "name": "株式会社アイスタイル",
       "filer": "吉松　徹郎",
-      "ratio": 9.84,
-      "prev_ratio": 11.9,
+      "ratio": 21.61,
+      "prev_ratio": 24.92,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +198,8 @@
       "sec": "4549",
       "name": "栄研化学株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 8.4,
-      "prev_ratio": 8.38,
+      "ratio": 27.83,
+      "prev_ratio": 26.78,
       "direction": "変更",
       "isNew": false
     },
@@ -128,7 +208,7 @@
       "sec": "2206",
       "name": "江崎グリコ株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 11.0,
+      "ratio": 9.23,
       "prev_ratio": 8.17,
       "direction": "変更",
       "isNew": false
@@ -218,8 +298,8 @@
       "sec": "7163",
       "name": "住信ＳＢＩネット銀行株式会社",
       "filer": "ＳＢＩホールディングス株式会社",
-      "ratio": 34.19,
-      "prev_ratio": 34.19,
+      "ratio": 93.09,
+      "prev_ratio": 68.37,
       "direction": "変更",
       "isNew": false
     }

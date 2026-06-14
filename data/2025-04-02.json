@@ -6,7 +6,7 @@
       "sec": "6173",
       "name": "株式会社アクアライン",
       "filer": "株式会社Ｔ・Ｋホールディングス",
-      "ratio": 3.58,
+      "ratio": 8.3,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -26,7 +26,7 @@
       "sec": "6824",
       "name": "新コスモス電機株式会社",
       "filer": "笠原　浩",
-      "ratio": 4.03,
+      "ratio": 8.58,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -46,7 +46,7 @@
       "sec": "5821",
       "name": "平河ヒューテック株式会社",
       "filer": "隅田　和夫",
-      "ratio": 3.12,
+      "ratio": 5.11,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -78,7 +78,7 @@
       "sec": "4475",
       "name": "HENNGE株式会社",
       "filer": "小椋　一宏",
-      "ratio": 23.91,
+      "ratio": 24.83,
       "prev_ratio": 24.41,
       "direction": "変更",
       "isNew": false
@@ -88,8 +88,8 @@
       "sec": "3830",
       "name": "株式会社ギガプライズ",
       "filer": "フリービット株式会社",
-      "ratio": 54.51,
-      "prev_ratio": 51.36,
+      "ratio": 84.35,
+      "prev_ratio": 81.2,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +108,8 @@
       "sec": "6525",
       "name": "株式会社ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ",
       "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
-      "ratio": 6.85,
-      "prev_ratio": 9.16,
+      "ratio": 7.67,
+      "prev_ratio": 10.01,
       "direction": "変更",
       "isNew": false
     },
@@ -120,6 +120,16 @@
       "filer": "株式会社みずほ銀行",
       "ratio": null,
       "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJS1",
+      "sec": "8366",
+      "name": "株式会社滋賀銀行",
+      "filer": "ウエリントン・マネージメント・カンパニー・エルエルピー",
+      "ratio": 6.22,
+      "prev_ratio": 5.1,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +158,8 @@
       "sec": "5991",
       "name": "日本発条株式会社",
       "filer": "大同特殊鋼株式会社",
-      "ratio": 9.17,
-      "prev_ratio": 10.64,
+      "ratio": 10.1,
+      "prev_ratio": 11.57,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +178,8 @@
       "sec": "3497",
       "name": "株式会社LeTech",
       "filer": "株式会社エルティー",
-      "ratio": 31.79,
-      "prev_ratio": 31.99,
+      "ratio": 63.94,
+      "prev_ratio": 63.98,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +188,8 @@
       "sec": "6971",
       "name": "京セラ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 11.0,
-      "prev_ratio": 14.000000000000002,
+      "ratio": 10.04,
+      "prev_ratio": 8.47,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +198,8 @@
       "sec": "3934",
       "name": "株式会社ベネフィットジャパン",
       "filer": "佐久間　寛",
-      "ratio": 22.22,
-      "prev_ratio": 22.25,
+      "ratio": 44.55,
+      "prev_ratio": 44.61,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +278,8 @@
       "sec": "2162",
       "name": "ｎｍｓホールディングス株式会社",
       "filer": "日本アジア投資株式会社",
-      "ratio": 7.1,
-      "prev_ratio": 5.81,
+      "ratio": 13.66,
+      "prev_ratio": 12.05,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +298,8 @@
       "sec": "6083",
       "name": "ＥＲＩホールディングス株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.58,
-      "prev_ratio": 7.58,
+      "ratio": 21.07,
+      "prev_ratio": 20.07,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +328,18 @@
       "sec": "4896",
       "name": "株式会社ケイファーマ",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 4.05,
-      "prev_ratio": 5.6,
+      "ratio": 19.14,
+      "prev_ratio": 20.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VJI2",
+      "sec": "9247",
+      "name": "ＴＲＥホールディングス株式会社",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 3.62,
+      "prev_ratio": 5.04,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +348,8 @@
       "sec": "2984",
       "name": "ヤマイチ・ユニハイムエステート株式会社",
       "filer": "ウィル・アセット株式会社",
-      "ratio": 5.85,
-      "prev_ratio": 6.96,
+      "ratio": 9.36,
+      "prev_ratio": 11.13,
       "direction": "変更",
       "isNew": false
     }

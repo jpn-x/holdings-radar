@@ -6,7 +6,7 @@
       "sec": "3941",
       "name": "レンゴー株式会社",
       "filer": "株式会社南青山不動産",
-      "ratio": 9.0,
+      "ratio": 5.04,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -26,8 +26,8 @@
       "sec": "9235",
       "name": "売れるネット広告社グループ株式会社",
       "filer": "加藤　公一レオ",
-      "ratio": 30.39,
-      "prev_ratio": 32.49,
+      "ratio": 57.92,
+      "prev_ratio": 62.11,
       "direction": "新規",
       "isNew": true
     }
@@ -35,7 +35,7 @@
   "chg": [
     {
       "docId": "S100XIW8",
-      "sec": "7172",
+      "sec": "3747",
       "name": "株式会社インタートレード",
       "filer": "株式会社ジャパンインベストメントアドバイザー",
       "ratio": 13.12,
@@ -98,8 +98,8 @@
       "sec": "5801",
       "name": "古河電気工業株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 2.0,
-      "prev_ratio": 2.0,
+      "ratio": 11.46,
+      "prev_ratio": 12.52,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +118,8 @@
       "sec": "7800",
       "name": "株式会社アミファ",
       "filer": "藤井　愉三",
-      "ratio": 88.0,
-      "prev_ratio": 88.0,
+      "ratio": 31.48,
+      "prev_ratio": 31.48,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "6855",
       "name": "日本電子材料株式会社",
       "filer": "野村アセットマネジメント株式会社",
-      "ratio": 39.0,
-      "prev_ratio": 1.5,
+      "ratio": 9.74,
+      "prev_ratio": 10.89,
       "direction": "変更",
       "isNew": false
     },
@@ -158,7 +158,7 @@
       "sec": "7366",
       "name": "株式会社LITALICO",
       "filer": "Ｐａｎｔｈｅｕｍ　Ｐａｒｔｎｅｒｓ　Ｌｉｍｉｔｅｄ",
-      "ratio": null,
+      "ratio": 6.26,
       "prev_ratio": 5.04,
       "direction": "変更",
       "isNew": false
@@ -168,7 +168,7 @@
       "sec": "5342",
       "name": "ジャニス工業株式会社",
       "filer": "株式会社ニッソウ",
-      "ratio": 7.35,
+      "ratio": 7.36,
       "prev_ratio": 6.3,
       "direction": "変更",
       "isNew": false
@@ -218,8 +218,18 @@
       "sec": "6890",
       "name": "株式会社フェローテック",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 4.41,
+      "prev_ratio": 5.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XITL",
+      "sec": "7839",
+      "name": "株式会社ＳＨＯＥＩ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 7.7,
+      "prev_ratio": 6.7,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +238,28 @@
       "sec": "6379",
       "name": "レイズネクスト株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.49,
-      "prev_ratio": 7.49,
+      "ratio": 21.85,
+      "prev_ratio": 22.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XITS",
+      "sec": "9168",
+      "name": "株式会社ライズ・コンサルティング・グループ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 5.31,
+      "prev_ratio": 8.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ24",
+      "sec": "5288",
+      "name": "アジアパイルホールディングス株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 6.02,
+      "prev_ratio": 6.92,
       "direction": "変更",
       "isNew": false
     },
@@ -254,12 +284,92 @@
       "isNew": false
     },
     {
+      "docId": "S100XIW6",
+      "sec": "4528",
+      "name": "小野薬品工業株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.65,
+      "prev_ratio": 5.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIW5",
+      "sec": "4005",
+      "name": "住友化学株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.91,
+      "prev_ratio": 7.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIW7",
+      "sec": "9022",
+      "name": "東海旅客鉄道株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.45,
+      "prev_ratio": 5.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XIW4",
+      "sec": "1928",
+      "name": "積水ハウス株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.43,
+      "prev_ratio": 8.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XJ2M",
       "sec": "5801",
       "name": "古河電気工業株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 8.0,
-      "prev_ratio": 2.0,
+      "ratio": 11.2,
+      "prev_ratio": 11.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ2B",
+      "sec": "5076",
+      "name": "インフロニア・ホールディングス株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 6.3,
+      "prev_ratio": 6.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ29",
+      "sec": "475A",
+      "name": "株式会社ギミック",
+      "filer": "野村證券株式会社",
+      "ratio": 0.6,
+      "prev_ratio": 7.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ2E",
+      "sec": "5411",
+      "name": "ＪＦＥホールディングス株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 6.76,
+      "prev_ratio": 6.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XJ2D",
+      "sec": "5344",
+      "name": "株式会社ＭＡＲＵＷＡ",
+      "filer": "野村證券株式会社",
+      "ratio": 6.08,
+      "prev_ratio": 5.22,
       "direction": "変更",
       "isNew": false
     },

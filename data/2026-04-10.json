@@ -3,7 +3,7 @@
   "new": [
     {
       "docId": "S100XW26",
-      "sec": "4432",
+      "sec": "548A",
       "name": "株式会社システムエグゼ",
       "filer": "ウイングアーク１ｓｔ株式会社",
       "ratio": 6.11,
@@ -63,7 +63,7 @@
     },
     {
       "docId": "S100XLPU",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 5.09,
@@ -76,7 +76,7 @@
       "sec": "6147",
       "name": "株式会社ヤマザキ",
       "filer": "共通物産株式会社",
-      "ratio": 3.95,
+      "ratio": 5.16,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -118,8 +118,8 @@
       "sec": "7242",
       "name": "カヤバ株式会社",
       "filer": "トヨタ自動車株式会社",
-      "ratio": null,
-      "prev_ratio": 5.82,
+      "ratio": 0.5,
+      "prev_ratio": 6.33,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "9927",
       "name": "株式会社ワットマン",
       "filer": "ＩＡＰＦ３株式会社",
-      "ratio": 68.81,
-      "prev_ratio": 68.81,
+      "ratio": 92.03,
+      "prev_ratio": 92.03,
       "direction": "変更",
       "isNew": false
     },
@@ -205,7 +205,7 @@
     },
     {
       "docId": "S100XL9L",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 7.19,
@@ -215,7 +215,7 @@
     },
     {
       "docId": "S100XLOE",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 5.98,
@@ -225,7 +225,7 @@
     },
     {
       "docId": "S100XLPN",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 4.78,
@@ -235,7 +235,7 @@
     },
     {
       "docId": "S100XLQ2",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 6.32,
@@ -245,7 +245,7 @@
     },
     {
       "docId": "S100XLQ8",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 7.48,
@@ -255,7 +255,7 @@
     },
     {
       "docId": "S100XLWZ",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 8.53,
@@ -265,7 +265,7 @@
     },
     {
       "docId": "S100XQXM",
-      "sec": "3156",
+      "sec": "3652",
       "name": "株式会社ディジタルメディアプロフェッショナル",
       "filer": "株式会社レスター",
       "ratio": 7.49,
@@ -278,8 +278,8 @@
       "sec": "6147",
       "name": "株式会社ヤマザキ",
       "filer": "共通物産株式会社",
-      "ratio": 5.04,
-      "prev_ratio": 3.95,
+      "ratio": 6.57,
+      "prev_ratio": 5.16,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +318,8 @@
       "sec": "3905",
       "name": "データセクション株式会社",
       "filer": "杉原　行洋",
-      "ratio": 9.75,
-      "prev_ratio": 10.44,
+      "ratio": 13.28,
+      "prev_ratio": 14.41,
       "direction": "変更",
       "isNew": false
     },
@@ -338,8 +338,8 @@
       "sec": "9927",
       "name": "株式会社ワットマン",
       "filer": "川畑　泰史",
-      "ratio": 23.22,
-      "prev_ratio": 19.7,
+      "ratio": 92.03,
+      "prev_ratio": 92.03,
       "direction": "変更",
       "isNew": false
     },
@@ -348,8 +348,8 @@
       "sec": "9450",
       "name": "株式会社ファイバーゲート",
       "filer": "光通信株式会社",
-      "ratio": 2.36,
-      "prev_ratio": 1.35,
+      "ratio": 7.11,
+      "prev_ratio": 6.1,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +368,8 @@
       "sec": "3465",
       "name": "ケイアイスター不動産株式会社",
       "filer": "塙　圭二",
-      "ratio": 4.81,
-      "prev_ratio": 3.19,
+      "ratio": 42.78,
+      "prev_ratio": 41.8,
       "direction": "変更",
       "isNew": false
     },
@@ -378,8 +378,8 @@
       "sec": "3465",
       "name": "ケイアイスター不動産株式会社",
       "filer": "塙　圭二",
-      "ratio": 4.81,
-      "prev_ratio": 4.81,
+      "ratio": 42.77,
+      "prev_ratio": 42.78,
       "direction": "変更",
       "isNew": false
     },
@@ -388,8 +388,8 @@
       "sec": "3672",
       "name": "株式会社オルトプラス",
       "filer": "トラストアップ株式会社",
-      "ratio": 58.82,
-      "prev_ratio": 58.82,
+      "ratio": 70.47,
+      "prev_ratio": 70.47,
       "direction": "変更",
       "isNew": false
     },
@@ -398,8 +398,8 @@
       "sec": "2928",
       "name": "ＲＩＺＡＰグループ株式会社",
       "filer": "瀬戸　健",
-      "ratio": 36.96,
-      "prev_ratio": 36.67,
+      "ratio": 65.17,
+      "prev_ratio": 64.89,
       "direction": "変更",
       "isNew": false
     }

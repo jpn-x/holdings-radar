@@ -12,6 +12,16 @@
       "isNew": true
     },
     {
+      "docId": "S100Y3IV",
+      "sec": "6135",
+      "name": "株式会社牧野フライス製作所",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.4,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100Y3RK",
       "sec": "6402",
       "name": "兼松エンジニアリング株式会社",
@@ -26,7 +36,7 @@
       "sec": "6197",
       "name": "株式会社ソラスト",
       "filer": "ＭＰ‐２６０５株式会社",
-      "ratio": 51.06,
+      "ratio": 87.18,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -43,7 +53,7 @@
     },
     {
       "docId": "S100Y4OK",
-      "sec": "2331",
+      "sec": "1909",
       "name": "日本ドライケミカル株式会社",
       "filer": "ＡＬＳＯＫ株式会社",
       "ratio": 15.32,
@@ -66,7 +76,7 @@
       "sec": "4088",
       "name": "エア・ウォーター株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
+      "ratio": 5.86,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -76,7 +86,7 @@
       "sec": "6380",
       "name": "オリエンタルチエン工業株式会社",
       "filer": "山下　卓宏",
-      "ratio": 3.12,
+      "ratio": 6.24,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -88,8 +98,8 @@
       "sec": "9537",
       "name": "北陸瓦斯株式会社",
       "filer": "敦井産業株式会社",
-      "ratio": 12.65,
-      "prev_ratio": 11.06,
+      "ratio": 24.27,
+      "prev_ratio": 22.68,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +118,28 @@
       "sec": "6197",
       "name": "株式会社ソラスト",
       "filer": "大東建託株式会社",
-      "ratio": 33.57,
+      "ratio": 84.63,
       "prev_ratio": 33.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3JD",
+      "sec": "6794",
+      "name": "フォスター電機株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.97,
+      "prev_ratio": 7.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y3JH",
+      "sec": "8972",
+      "name": "ＫＤＸ不動産投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.46,
+      "prev_ratio": 6.92,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +178,8 @@
       "sec": "6877",
       "name": "ＯＢＡＲＡ　ＧＲＯＵＰ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 6.77,
-      "prev_ratio": 6.69,
+      "ratio": 11.06,
+      "prev_ratio": 10.66,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +198,8 @@
       "sec": "9990",
       "name": "株式会社サックスバー　ホールディングス",
       "filer": "ＳＭＢＣ日興証券株式会社",
-      "ratio": 4.0,
-      "prev_ratio": 1.68,
+      "ratio": 8.54,
+      "prev_ratio": 10.48,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +268,8 @@
       "sec": "8291",
       "name": "日産東京販売ホールディングス株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 4.8,
-      "prev_ratio": 4.17,
+      "ratio": 7.65,
+      "prev_ratio": 6.59,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +278,8 @@
       "sec": "3766",
       "name": "システムズ・デザイン株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.31,
-      "prev_ratio": 7.31,
+      "ratio": 16.95,
+      "prev_ratio": 15.93,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +288,8 @@
       "sec": "5254",
       "name": "株式会社Ａｒｅｎｔ",
       "filer": "光通信株式会社",
-      "ratio": 8.46,
-      "prev_ratio": 7.85,
+      "ratio": 9.21,
+      "prev_ratio": 8.18,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +328,8 @@
       "sec": "3471",
       "name": "三井不動産ロジスティクスパーク投資法人",
       "filer": "ブラックロック・ジャパン株式会社",
-      "ratio": 2.43,
-      "prev_ratio": 2.45,
+      "ratio": 10.07,
+      "prev_ratio": 11.1,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +348,8 @@
       "sec": "9362",
       "name": "兵機海運株式会社",
       "filer": "堂島汽船株式会社",
-      "ratio": 9.78,
-      "prev_ratio": 9.78,
+      "ratio": 15.23,
+      "prev_ratio": 14.18,
       "direction": "変更",
       "isNew": false
     },
@@ -335,7 +365,7 @@
     },
     {
       "docId": "S100Y4OK",
-      "sec": "2331",
+      "sec": "1909",
       "name": "日本ドライケミカル株式会社",
       "filer": "ＡＬＳＯＫ株式会社",
       "ratio": 15.32,

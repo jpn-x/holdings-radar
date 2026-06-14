@@ -58,8 +58,8 @@
       "sec": "8958",
       "name": "グローバル・ワン不動産投資法人",
       "filer": "三井住友トラスト・アセットマネジメント株式会社",
-      "ratio": 7.16,
-      "prev_ratio": 8.17,
+      "ratio": 10.16,
+      "prev_ratio": 11.18,
       "direction": "変更",
       "isNew": false
     },
@@ -99,7 +99,7 @@
       "name": "株式会社ライトオン",
       "filer": "藤原政博",
       "ratio": null,
-      "prev_ratio": 14.73,
+      "prev_ratio": 51.85,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +128,8 @@
       "sec": "7116",
       "name": "ダイワ通信株式会社",
       "filer": "岩本　秀成",
-      "ratio": 19.88,
-      "prev_ratio": 20.91,
+      "ratio": 69.75,
+      "prev_ratio": 70.78,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +188,8 @@
       "sec": "2667",
       "name": "株式会社イメージワン",
       "filer": "株式会社ジェンス",
-      "ratio": 3.41,
-      "prev_ratio": 3.41,
+      "ratio": 17.72,
+      "prev_ratio": 16.42,
       "direction": "変更",
       "isNew": false
     },
@@ -200,6 +200,16 @@
       "filer": "ツナグ・インベストメンツ・ピーティーイー・エルティーディー",
       "ratio": 9.66,
       "prev_ratio": 10.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V2Y5",
+      "sec": "6370",
+      "name": "栗田工業株式会社",
+      "filer": "ＫＢＩ　Ｇｌｏｂａｌ　Ｉｎｖｅｓｔｏｒｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 6.78,
+      "prev_ratio": 5.76,
       "direction": "変更",
       "isNew": false
     },
@@ -239,7 +249,7 @@
       "name": "株式会社ライトオン",
       "filer": "藤原政博",
       "ratio": null,
-      "prev_ratio": 14.73,
+      "prev_ratio": 51.85,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +268,8 @@
       "sec": "4771",
       "name": "株式会社エフアンドエム",
       "filer": "光通信株式会社",
-      "ratio": 3.97,
-      "prev_ratio": 3.17,
+      "ratio": 9.15,
+      "prev_ratio": 7.83,
       "direction": "変更",
       "isNew": false
     },
@@ -269,7 +279,7 @@
       "name": "トレンダーズ株式会社",
       "filer": "光通信株式会社",
       "ratio": 6.45,
-      "prev_ratio": 6.75,
+      "prev_ratio": 7.68,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +288,8 @@
       "sec": "1518",
       "name": "三井松島ホールディングス株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": 5.55,
-      "prev_ratio": 4.08,
+      "ratio": 32.99,
+      "prev_ratio": 30.84,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +308,8 @@
       "sec": "3010",
       "name": "ポラリス・ホールディングス株式会社",
       "filer": "ＳＡＯ　ＩＩＩ　ＧＰ　Ｌｔｄ．",
-      "ratio": 38.25,
-      "prev_ratio": 38.25,
+      "ratio": 85.36,
+      "prev_ratio": 85.6,
       "direction": "変更",
       "isNew": false
     },

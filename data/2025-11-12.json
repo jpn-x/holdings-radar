@@ -46,7 +46,7 @@
       "sec": "7940",
       "name": "ウェーブロックホールディングス株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
+      "ratio": 14.93,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -78,8 +78,8 @@
       "sec": "6674",
       "name": "株式会社ジーエス・ユアサ　コーポレーション",
       "filer": "三井住友信託銀行株式会社",
-      "ratio": 1.46,
-      "prev_ratio": 1.46,
+      "ratio": 9.11,
+      "prev_ratio": 10.13,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +98,8 @@
       "sec": "4369",
       "name": "株式会社　トリケミカル研究所",
       "filer": "野村アセットマネジメント株式会社",
-      "ratio": null,
-      "prev_ratio": 79.0,
+      "ratio": 11.0,
+      "prev_ratio": 10.23,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +148,8 @@
       "sec": "6472",
       "name": "ＮＴＮ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 3.61,
-      "prev_ratio": 3.93,
+      "ratio": 8.91,
+      "prev_ratio": 10.1,
       "direction": "変更",
       "isNew": false
     },
@@ -208,7 +208,7 @@
       "sec": "3920",
       "name": "アイビーシー株式会社",
       "filer": "光通信株式会社",
-      "ratio": 6.9,
+      "ratio": 7.29,
       "prev_ratio": 6.18,
       "direction": "変更",
       "isNew": false
@@ -218,8 +218,8 @@
       "sec": "8141",
       "name": "新光商事株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 11.0,
+      "prev_ratio": 9.87,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +228,8 @@
       "sec": "6770",
       "name": "アルプスアルパイン株式会社",
       "filer": "株式会社エスグラントコーポレーション",
-      "ratio": 8.28,
-      "prev_ratio": 7.86,
+      "ratio": 13.22,
+      "prev_ratio": 14.42,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +238,8 @@
       "sec": "9625",
       "name": "株式会社セレスポ",
       "filer": "光通信株式会社",
-      "ratio": 6.28,
-      "prev_ratio": 5.26,
+      "ratio": 6.45,
+      "prev_ratio": 5.42,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +288,8 @@
       "sec": "9929",
       "name": "平和紙業株式会社",
       "filer": "王子エフテックス株式会社",
-      "ratio": 5.3,
-      "prev_ratio": 7.27,
+      "ratio": 5.65,
+      "prev_ratio": 7.61,
       "direction": "変更",
       "isNew": false
     }

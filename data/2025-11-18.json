@@ -16,7 +16,7 @@
       "sec": "4592",
       "name": "サンバイオ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 6.3,
+      "ratio": 11.75,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -32,11 +32,51 @@
       "isNew": true
     },
     {
+      "docId": "S100X54X",
+      "sec": "4062",
+      "name": "イビデン株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X54U",
+      "sec": "1719",
+      "name": "株式会社安藤・間",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.23,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X54Z",
+      "sec": "7532",
+      "name": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X54Y",
+      "sec": "6754",
+      "name": "アンリツ株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100X5DO",
       "sec": "9691",
       "name": "株式会社両毛システムズ",
       "filer": "光通信株式会社",
-      "ratio": 1.68,
+      "ratio": 5.01,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -58,8 +98,8 @@
       "sec": "2334",
       "name": "株式会社イオレ",
       "filer": "吉田　直人",
-      "ratio": 17.89,
-      "prev_ratio": 23.72,
+      "ratio": 23.19,
+      "prev_ratio": 30.02,
       "direction": "変更",
       "isNew": false
     },
@@ -68,8 +108,8 @@
       "sec": "7915",
       "name": "ＮＩＳＳＨＡ株式会社",
       "filer": "三井住友トラスト・アセットマネジメント株式会社",
-      "ratio": 2.17,
-      "prev_ratio": 2.06,
+      "ratio": 11.98,
+      "prev_ratio": 10.59,
       "direction": "変更",
       "isNew": false
     },
@@ -129,7 +169,7 @@
       "name": "イオン九州株式会社",
       "filer": "イオン株式会社",
       "ratio": 70.56,
-      "prev_ratio": 71.41,
+      "prev_ratio": 74.49,
       "direction": "変更",
       "isNew": false
     },
@@ -154,12 +194,62 @@
       "isNew": false
     },
     {
+      "docId": "S100X4ZC",
+      "sec": "3916",
+      "name": "デジタル・インフォメーション・テクノロジー株式会社",
+      "filer": "ＧＷ＆Ｋ　ＩＮＶＥＳＴＭＥＮＴ　ＭＡＮＡＧＥＭＥＮＴ，ＬＬＣ",
+      "ratio": 7.03,
+      "prev_ratio": 8.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5B4",
+      "sec": "6062",
+      "name": "株式会社チャーム・ケア・コーポレーション",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 5.43,
+      "prev_ratio": 5.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5B7",
+      "sec": "5892",
+      "name": "株式会社ｙｕｔｏｒｉ",
+      "filer": "野村證券株式会社",
+      "ratio": 5.84,
+      "prev_ratio": 6.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5B9",
+      "sec": "6941",
+      "name": "山一電機株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 4.6,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X5B8",
+      "sec": "6472",
+      "name": "ＮＴＮ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 9.63,
+      "prev_ratio": 8.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100X2PJ",
       "sec": "6033",
       "name": "株式会社エクストリーム",
       "filer": "佐藤　昌平",
-      "ratio": 42.26,
-      "prev_ratio": 44.96,
+      "ratio": 45.42,
+      "prev_ratio": 45.65,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +258,8 @@
       "sec": "7806",
       "name": "株式会社ＭＴＧ",
       "filer": "松下　剛",
-      "ratio": 26.61,
-      "prev_ratio": 28.68,
+      "ratio": 62.59,
+      "prev_ratio": 64.68,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +268,8 @@
       "sec": "7695",
       "name": "株式会社交換できるくん",
       "filer": "栗原　将",
-      "ratio": 16.11,
-      "prev_ratio": 16.93,
+      "ratio": 57.96,
+      "prev_ratio": 60.9,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +308,8 @@
       "sec": "3526",
       "name": "芦森工業株式会社",
       "filer": "株式会社ＭＩ２",
-      "ratio": 9.89,
-      "prev_ratio": 9.89,
+      "ratio": 23.18,
+      "prev_ratio": 22.07,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +318,8 @@
       "sec": "1976",
       "name": "明星工業株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 7.43,
-      "prev_ratio": 7.38,
+      "ratio": 11.38,
+      "prev_ratio": 10.36,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +388,38 @@
       "sec": "8617",
       "name": "光世証券株式会社",
       "filer": "巽　大介",
-      "ratio": 5.7,
-      "prev_ratio": 5.54,
+      "ratio": 8.85,
+      "prev_ratio": 6.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X54V",
+      "sec": "3249",
+      "name": "産業ファンド投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.5,
+      "prev_ratio": 6.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X54W",
+      "sec": "3309",
+      "name": "積水ハウス・リート投資法人",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.58,
+      "prev_ratio": 7.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X550",
+      "sec": "9020",
+      "name": "東日本旅客鉄道株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.22,
+      "prev_ratio": 6.15,
       "direction": "変更",
       "isNew": false
     },
@@ -308,7 +428,7 @@
       "sec": "6445",
       "name": "株式会社ジャノメ",
       "filer": "ＭＭ　Ｉｎｖｅｓｔｍｅｎｔｓ株式会社",
-      "ratio": 9.34,
+      "ratio": 10.34,
       "prev_ratio": 9.34,
       "direction": "変更",
       "isNew": false
@@ -328,8 +448,8 @@
       "sec": "2432",
       "name": "株式会社ディー・エヌ・エー",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 4.25,
+      "prev_ratio": 6.31,
       "direction": "変更",
       "isNew": false
     },
@@ -348,8 +468,8 @@
       "sec": "7940",
       "name": "ウェーブロックホールディングス株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 24.06,
+      "prev_ratio": 22.24,
       "direction": "変更",
       "isNew": false
     },
@@ -358,8 +478,8 @@
       "sec": "6770",
       "name": "アルプスアルパイン株式会社",
       "filer": "株式会社エスグラントコーポレーション",
-      "ratio": 8.28,
-      "prev_ratio": 8.28,
+      "ratio": 12.03,
+      "prev_ratio": 13.22,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +488,8 @@
       "sec": "3386",
       "name": "コスモ・バイオ株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.21,
-      "prev_ratio": 7.21,
+      "ratio": 16.22,
+      "prev_ratio": 15.17,
       "direction": "変更",
       "isNew": false
     },
@@ -378,8 +498,8 @@
       "sec": "5368",
       "name": "日本インシュレーション株式会社",
       "filer": "光通信株式会社",
-      "ratio": 5.1,
-      "prev_ratio": 6.15,
+      "ratio": 5.13,
+      "prev_ratio": 6.18,
       "direction": "変更",
       "isNew": false
     },
@@ -398,8 +518,8 @@
       "sec": "6788",
       "name": "株式会社日本トリム",
       "filer": "光通信株式会社",
-      "ratio": 81.0,
-      "prev_ratio": 81.0,
+      "ratio": 12.6,
+      "prev_ratio": 11.59,
       "direction": "変更",
       "isNew": false
     },
@@ -408,8 +528,8 @@
       "sec": "7438",
       "name": "コンドーテック株式会社",
       "filer": "有限会社藤和興産",
-      "ratio": 10.3,
-      "prev_ratio": 11.44,
+      "ratio": 14.71,
+      "prev_ratio": 14.65,
       "direction": "変更",
       "isNew": false
     },
@@ -418,8 +538,8 @@
       "sec": "429A",
       "name": "テクセンドフォトマスク株式会社",
       "filer": "Ｉｃｅインテグラル１株式会社",
-      "ratio": 91.0,
-      "prev_ratio": 91.0,
+      "ratio": 3.56,
+      "prev_ratio": 9.51,
       "direction": "変更",
       "isNew": false
     },

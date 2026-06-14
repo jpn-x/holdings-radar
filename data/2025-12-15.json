@@ -2,6 +2,36 @@
   "date": "2025-12-15",
   "new": [
     {
+      "docId": "S100X9HC",
+      "sec": "5851",
+      "name": "リョービ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.48,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9HH",
+      "sec": "6920",
+      "name": "レーザーテック株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X9HK",
+      "sec": "8233",
+      "name": "株式会社高島屋",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.15,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XA53",
       "sec": "5341",
       "name": "ASAHI EITOホールディングス株式会社",
@@ -12,11 +42,21 @@
       "isNew": true
     },
     {
+      "docId": "S100X9HN",
+      "sec": "8961",
+      "name": "森トラストリート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.12,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XA09",
       "sec": "5974",
       "name": "中国工業株式会社",
       "filer": "日本鉱泉株式会社",
-      "ratio": 2.11,
+      "ratio": 5.03,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -74,6 +114,16 @@
       "isNew": false
     },
     {
+      "docId": "S100X9H4",
+      "sec": "2264",
+      "name": "森永乳業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.93,
+      "prev_ratio": 6.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XA29",
       "sec": "",
       "name": "",
@@ -84,12 +134,112 @@
       "isNew": false
     },
     {
+      "docId": "S100X9H6",
+      "sec": "3249",
+      "name": "産業ファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.12,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9H7",
+      "sec": "3279",
+      "name": "アクティビア・プロパティーズ投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.21,
+      "prev_ratio": 6.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9H8",
+      "sec": "3309",
+      "name": "積水ハウス・リート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.11,
+      "prev_ratio": 5.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HA",
+      "sec": "3472",
+      "name": "日本ホテル＆レジデンシャル投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.19,
+      "prev_ratio": 6.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100X9I2",
       "sec": "6663",
       "name": "太洋テクノレックス株式会社",
       "filer": "細江　美則",
-      "ratio": 1.67,
-      "prev_ratio": 1.67,
+      "ratio": 34.21,
+      "prev_ratio": 35.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HG",
+      "sec": "5959",
+      "name": "岡部株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.15,
+      "prev_ratio": 7.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HJ",
+      "sec": "7226",
+      "name": "極東開発工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.12,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HL",
+      "sec": "8252",
+      "name": "株式会社丸井グループ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.54,
+      "prev_ratio": 5.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HM",
+      "sec": "8955",
+      "name": "日本プライムリアルティ投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.81,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HO",
+      "sec": "8963",
+      "name": "インヴィンシブル投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.57,
+      "prev_ratio": 5.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9HP",
+      "sec": "8967",
+      "name": "日本ロジスティクスファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.76,
+      "prev_ratio": 5.43,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +288,8 @@
       "sec": "146A",
       "name": "コロンビア・ワークス株式会社",
       "filer": "中内　準",
-      "ratio": 27.66,
-      "prev_ratio": 28.81,
+      "ratio": 65.11,
+      "prev_ratio": 67.8,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +298,8 @@
       "sec": "146A",
       "name": "コロンビア・ワークス株式会社",
       "filer": "中内　準",
-      "ratio": 27.68,
-      "prev_ratio": 27.66,
+      "ratio": 65.12,
+      "prev_ratio": 65.11,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +348,8 @@
       "sec": "3659",
       "name": "株式会社ネクソン",
       "filer": "ＮＸＣ　Ｃｏｒｐｏｒａｔｉｏｎ",
-      "ratio": 30.1,
-      "prev_ratio": 30.19,
+      "ratio": 49.31,
+      "prev_ratio": 49.79,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +358,8 @@
       "sec": "4055",
       "name": "ティアンドエスグループ株式会社",
       "filer": "武川　義浩",
-      "ratio": 24.37,
-      "prev_ratio": 24.37,
+      "ratio": 29.37,
+      "prev_ratio": 29.37,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +408,8 @@
       "sec": "4826",
       "name": "株式会社ＣＩＪ",
       "filer": "光通信株式会社",
-      "ratio": 6.72,
-      "prev_ratio": 6.72,
+      "ratio": 8.87,
+      "prev_ratio": 10.16,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +448,8 @@
       "sec": "219A",
       "name": "Ｈｅａｒｔｓｅｅｄ株式会社",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 1.37,
-      "prev_ratio": 2.03,
+      "ratio": 12.05,
+      "prev_ratio": 12.79,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +478,8 @@
       "sec": "5254",
       "name": "株式会社Arent",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 5.88,
-      "prev_ratio": 5.88,
+      "ratio": 10.52,
+      "prev_ratio": 11.52,
       "direction": "変更",
       "isNew": false
     },

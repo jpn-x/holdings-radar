@@ -48,8 +48,8 @@
       "sec": "3104",
       "name": "富士紡ホールディングス株式会社",
       "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
-      "ratio": 4.27,
-      "prev_ratio": 4.27,
+      "ratio": 12.74,
+      "prev_ratio": 11.69,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "8996",
       "name": "株式会社ハウスフリーダム",
       "filer": "小島　賢二",
-      "ratio": 4.96,
-      "prev_ratio": 4.98,
+      "ratio": 24.14,
+      "prev_ratio": 24.05,
       "direction": "変更",
       "isNew": false
     },
@@ -178,7 +178,7 @@
       "sec": "3224",
       "name": "株式会社ゼネラル・オイスター",
       "filer": "株式会社ネクスタ",
-      "ratio": 45.44,
+      "ratio": 45.74,
       "prev_ratio": 45.18,
       "direction": "変更",
       "isNew": false
@@ -190,6 +190,16 @@
       "filer": "株式会社ストラテジックキャピタル",
       "ratio": 7.29,
       "prev_ratio": 6.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100V5I6",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 6.79,
+      "prev_ratio": 5.33,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +228,8 @@
       "sec": "5482",
       "name": "愛知製鋼株式会社",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 7.48,
+      "prev_ratio": 6.16,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +238,8 @@
       "sec": "5990",
       "name": "株式会社スーパーツール",
       "filer": "ホライズン株式会社",
-      "ratio": 16.72,
-      "prev_ratio": 15.7,
+      "ratio": 17.07,
+      "prev_ratio": 16.06,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +248,8 @@
       "sec": "2341",
       "name": "株式会社アルバイトタイムス",
       "filer": "光通信株式会社",
-      "ratio": 6.28,
-      "prev_ratio": 6.28,
+      "ratio": 9.49,
+      "prev_ratio": 8.49,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +268,8 @@
       "sec": "3491",
       "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
       "filer": "樋口　龍",
-      "ratio": 28.7,
-      "prev_ratio": 29.05,
+      "ratio": 41.78,
+      "prev_ratio": 42.14,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +278,8 @@
       "sec": "3491",
       "name": "株式会社ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
       "filer": "樋口　龍",
-      "ratio": 28.41,
-      "prev_ratio": 28.7,
+      "ratio": 41.78,
+      "prev_ratio": 41.78,
       "direction": "変更",
       "isNew": false
     }

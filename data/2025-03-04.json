@@ -20,6 +20,16 @@
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
+    },
+    {
+      "docId": "S100VBZB",
+      "sec": "9254",
+      "name": "株式会社ラバブルマーケティンググループ",
+      "filer": "楽天証券株式会社",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
     }
   ],
   "chg": [
@@ -38,8 +48,8 @@
       "sec": "3738",
       "name": "株式会社ティーガイア",
       "filer": "株式会社ＢＣＪ‐８２‐１",
-      "ratio": 20.9,
-      "prev_ratio": 20.9,
+      "ratio": 48.98,
+      "prev_ratio": 77.72,
       "direction": "変更",
       "isNew": false
     },
@@ -58,8 +68,8 @@
       "sec": "9257",
       "name": "ＹＣＰホールディングス（グローバル）リミテッド",
       "filer": "植島　幹九郎",
-      "ratio": 6.83,
-      "prev_ratio": 8.1,
+      "ratio": 16.3,
+      "prev_ratio": 16.3,
       "direction": "変更",
       "isNew": false
     },
@@ -68,8 +78,8 @@
       "sec": "9254",
       "name": "株式会社ラバブルマーケティンググループ",
       "filer": "合同会社みやびマネージメント",
-      "ratio": 12.75,
-      "prev_ratio": 23.67,
+      "ratio": 21.53,
+      "prev_ratio": 31.95,
       "direction": "変更",
       "isNew": false
     },
@@ -78,8 +88,8 @@
       "sec": "4415",
       "name": "株式会社ブロードエンタープライズ",
       "filer": "中西　良祐",
-      "ratio": 17.07,
-      "prev_ratio": 17.21,
+      "ratio": 72.2,
+      "prev_ratio": 72.8,
       "direction": "変更",
       "isNew": false
     },
@@ -114,6 +124,16 @@
       "isNew": false
     },
     {
+      "docId": "S100VC4J",
+      "sec": "3004",
+      "name": "神栄株式会社",
+      "filer": "あいおいニッセイ同和損害保険株式会社",
+      "ratio": 2.9,
+      "prev_ratio": 6.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VC0U",
       "sec": "149A",
       "name": "株式会社シンカ",
@@ -139,7 +159,7 @@
       "name": "株式会社菱友システムズ",
       "filer": "光通信株式会社",
       "ratio": 7.15,
-      "prev_ratio": 7.44,
+      "prev_ratio": 8.17,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +178,8 @@
       "sec": "4848",
       "name": "株式会社フルキャストホールディングス",
       "filer": "光通信株式会社",
-      "ratio": 7.86,
-      "prev_ratio": 7.3,
+      "ratio": 17.94,
+      "prev_ratio": 16.0,
       "direction": "変更",
       "isNew": false
     },
@@ -168,8 +188,8 @@
       "sec": "1870",
       "name": "矢作建設工業株式会社",
       "filer": "名古屋鉄道株式会社",
-      "ratio": 18.57,
-      "prev_ratio": 18.57,
+      "ratio": 18.8,
+      "prev_ratio": 18.69,
       "direction": "変更",
       "isNew": false
     },
@@ -178,8 +198,8 @@
       "sec": "3738",
       "name": "株式会社ティーガイア",
       "filer": "光通信株式会社",
-      "ratio": null,
-      "prev_ratio": 8.44,
+      "ratio": 20.9,
+      "prev_ratio": 49.64,
       "direction": "変更",
       "isNew": false
     },
@@ -188,8 +208,8 @@
       "sec": "9466",
       "name": "株式会社アイドママーケティングコミュニケーション",
       "filer": "蛯谷　貴",
-      "ratio": 19.61,
-      "prev_ratio": 21.09,
+      "ratio": 59.92,
+      "prev_ratio": 61.97,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +218,8 @@
       "sec": "5988",
       "name": "株式会社パイオラックス",
       "filer": "株式会社シティインデックスイレブンス",
-      "ratio": 4.92,
-      "prev_ratio": 4.92,
+      "ratio": 11.06,
+      "prev_ratio": 9.68,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +228,38 @@
       "sec": "6976",
       "name": "太陽誘電株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 2.53,
-      "prev_ratio": 2.51,
+      "ratio": 17.75,
+      "prev_ratio": 17.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBZE",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "楽天証券株式会社",
+      "ratio": 5.24,
+      "prev_ratio": 5.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBZF",
+      "sec": "4165",
+      "name": "株式会社プレイド",
+      "filer": "楽天証券株式会社",
+      "ratio": 7.18,
+      "prev_ratio": 7.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VBZG",
+      "sec": "7273",
+      "name": "株式会社イクヨ",
+      "filer": "楽天証券株式会社",
+      "ratio": 1.28,
+      "prev_ratio": 5.16,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +278,8 @@
       "sec": "6524",
       "name": "湖北工業株式会社",
       "filer": "石井　太",
-      "ratio": 41.01,
-      "prev_ratio": 45.08,
+      "ratio": 59.48,
+      "prev_ratio": 63.56,
       "direction": "変更",
       "isNew": false
     }

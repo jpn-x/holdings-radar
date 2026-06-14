@@ -26,14 +26,14 @@
       "sec": "3326",
       "name": "株式会社ランシステム",
       "filer": "ＧＡＵＤＩ株式会社",
-      "ratio": 13.0,
-      "prev_ratio": 53.0,
+      "ratio": 4.24,
+      "prev_ratio": 5.32,
       "direction": "新規",
       "isNew": true
     },
     {
       "docId": "S100Y6E2",
-      "sec": "8804",
+      "sec": "2975",
       "name": "スター・マイカ・ホールディングス株式会社",
       "filer": "東京建物株式会社",
       "ratio": 13.74,
@@ -43,7 +43,7 @@
     },
     {
       "docId": "S100Y7T8",
-      "sec": "547A",
+      "sec": "8585",
       "name": "株式会社オリエントコーポレーション",
       "filer": "ムニノバホールディングス株式会社",
       "ratio": 14.96,
@@ -65,7 +65,7 @@
   "chg": [
     {
       "docId": "S100Y70L",
-      "sec": "1332",
+      "sec": "7538",
       "name": "株式会社大水",
       "filer": "株式会社ニッスイ",
       "ratio": 23.98,
@@ -78,8 +78,8 @@
       "sec": "4754",
       "name": "株式会社トスネット",
       "filer": "株式会社トスネット",
-      "ratio": 2.73,
-      "prev_ratio": 3.03,
+      "ratio": 40.7,
+      "prev_ratio": 45.49,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +108,8 @@
       "sec": "6976",
       "name": "太陽誘電株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 1.21,
-      "prev_ratio": 1.35,
+      "ratio": 18.11,
+      "prev_ratio": 19.82,
       "direction": "変更",
       "isNew": false
     },
@@ -158,8 +158,8 @@
       "sec": "6380",
       "name": "オリエンタルチエン工業株式会社",
       "filer": "山下　卓宏",
-      "ratio": 1.85,
-      "prev_ratio": 2.76,
+      "ratio": 4.38,
+      "prev_ratio": 5.52,
       "direction": "変更",
       "isNew": false
     },
@@ -198,7 +198,7 @@
       "sec": "9890",
       "name": "株式会社マキヤ",
       "filer": "株式会社マキリ",
-      "ratio": 41.21,
+      "ratio": 41.93,
       "prev_ratio": 41.21,
       "direction": "変更",
       "isNew": false
@@ -208,8 +208,8 @@
       "sec": "9890",
       "name": "株式会社マキヤ",
       "filer": "株式会社マキリ",
-      "ratio": 41.21,
-      "prev_ratio": 41.21,
+      "ratio": 41.93,
+      "prev_ratio": 41.93,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +238,8 @@
       "sec": "6315",
       "name": "ＴＯＷＡ株式会社",
       "filer": "蒲生　徳子",
-      "ratio": 6.0,
-      "prev_ratio": 6.0,
+      "ratio": 5.16,
+      "prev_ratio": 5.23,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +258,8 @@
       "sec": "3294",
       "name": "株式会社イーグランド",
       "filer": "株式会社西武不動産",
-      "ratio": 95.72,
-      "prev_ratio": 87.12,
+      "ratio": 95.78,
+      "prev_ratio": 87.18,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +278,8 @@
       "sec": "4973",
       "name": "日本高純度化学株式会社",
       "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
-      "ratio": 12.66,
-      "prev_ratio": 12.66,
+      "ratio": 16.23,
+      "prev_ratio": 17.36,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +328,8 @@
       "sec": "8141",
       "name": "新光商事株式会社",
       "filer": "株式会社シティインデックスファースト",
-      "ratio": 6.4,
-      "prev_ratio": 6.4,
+      "ratio": 8.24,
+      "prev_ratio": 9.94,
       "direction": "変更",
       "isNew": false
     },
@@ -348,8 +348,8 @@
       "sec": "280A",
       "name": "株式会社ＴＭＨ",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 3.95,
-      "prev_ratio": 5.43,
+      "ratio": 4.28,
+      "prev_ratio": 5.77,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +368,8 @@
       "sec": "4450",
       "name": "株式会社パワーソリューションズ",
       "filer": "兼子　浩之",
-      "ratio": 2.58,
-      "prev_ratio": 2.62,
+      "ratio": 19.07,
+      "prev_ratio": 20.95,
       "direction": "変更",
       "isNew": false
     },
@@ -388,8 +388,8 @@
       "sec": "4450",
       "name": "株式会社パワーソリューションズ",
       "filer": "佐藤　成信",
-      "ratio": 5.6,
-      "prev_ratio": 5.68,
+      "ratio": 20.59,
+      "prev_ratio": 22.5,
       "direction": "変更",
       "isNew": false
     }

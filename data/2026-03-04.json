@@ -2,6 +2,16 @@
   "date": "2026-03-04",
   "new": [
     {
+      "docId": "S100XOC0",
+      "sec": "2181",
+      "name": "パーソルホールディングス株式会社",
+      "filer": "ウエリントン・マネージメント・カンパニー・エルエルピー",
+      "ratio": 5.11,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XOJK",
       "sec": "2186",
       "name": "ソーバル株式会社",
@@ -22,6 +32,16 @@
       "isNew": true
     },
     {
+      "docId": "S100XOPE",
+      "sec": "8011",
+      "name": "株式会社三陽商会",
+      "filer": "野村證券株式会社",
+      "ratio": 5.46,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100XO1Y",
       "sec": "5974",
       "name": "中国工業株式会社",
@@ -36,7 +56,37 @@
       "sec": "5254",
       "name": "株式会社Ａｒｅｎｔ",
       "filer": "光通信株式会社",
-      "ratio": 4.81,
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XOEA",
+      "sec": "475A",
+      "name": "株式会社ギミック",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XOR4",
+      "sec": "9338",
+      "name": "株式会社ＩＮＦＯＲＩＣＨ",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 6.13,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100XOR5",
+      "sec": "7999",
+      "name": "MUTOHホールディングス株式会社",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 6.84,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -56,7 +106,7 @@
       "sec": "4917",
       "name": "株式会社マンダム",
       "filer": "カロンホールディングス株式会社",
-      "ratio": 67.04,
+      "ratio": 76.91,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -84,12 +134,32 @@
       "isNew": false
     },
     {
+      "docId": "S100XONP",
+      "sec": "5726",
+      "name": "株式会社大阪チタニウムテクノロジーズ",
+      "filer": "マラソン・アセット・マネジメント・リミテッド",
+      "ratio": 8.7,
+      "prev_ratio": 7.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XOM0",
       "sec": "2809",
       "name": "キユーピー株式会社",
       "filer": "株式会社中島董商店",
-      "ratio": 8.09,
-      "prev_ratio": 7.98,
+      "ratio": 15.95,
+      "prev_ratio": 15.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOP0",
+      "sec": "4544",
+      "name": "H.U.グループホールディングス株式会社",
+      "filer": "ブランデス・インベストメント・パートナーズ・エル・ピー",
+      "ratio": 8.45,
+      "prev_ratio": 7.24,
       "direction": "変更",
       "isNew": false
     },
@@ -108,18 +178,18 @@
       "sec": "9270",
       "name": "バリュエンスホールディングス株式会社",
       "filer": "ＳＦプロパティマネジメント株式会社",
-      "ratio": 52.91,
-      "prev_ratio": 53.61,
+      "ratio": 57.34,
+      "prev_ratio": 57.69,
       "direction": "変更",
       "isNew": false
     },
     {
       "docId": "S100XOQS",
-      "sec": "4834",
+      "sec": "3802",
       "name": "株式会社エコミック",
       "filer": "キャリアバンク株式会社",
-      "ratio": null,
-      "prev_ratio": 2.57,
+      "ratio": 5.52,
+      "prev_ratio": 8.1,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +198,8 @@
       "sec": "3237",
       "name": "株式会社イントランス",
       "filer": "合同会社インバウンドインベストメント",
-      "ratio": 4.1,
-      "prev_ratio": 5.26,
+      "ratio": 34.33,
+      "prev_ratio": 35.13,
       "direction": "変更",
       "isNew": false
     },
@@ -158,7 +228,7 @@
       "sec": "9278",
       "name": "ブックオフホールディングス株式会社",
       "filer": "株式会社小学館",
-      "ratio": 2.62,
+      "ratio": 5.25,
       "prev_ratio": null,
       "direction": "変更",
       "isNew": false
@@ -188,8 +258,8 @@
       "sec": "7014",
       "name": "株式会社名村造船所",
       "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
-      "ratio": 7.72,
-      "prev_ratio": 7.79,
+      "ratio": 10.46,
+      "prev_ratio": 10.51,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +328,8 @@
       "sec": "1945",
       "name": "株式会社東京エネシス",
       "filer": "光通信株式会社",
-      "ratio": 7.32,
-      "prev_ratio": 7.32,
+      "ratio": 9.35,
+      "prev_ratio": 10.56,
       "direction": "変更",
       "isNew": false
     },
@@ -288,8 +358,8 @@
       "sec": "5210",
       "name": "日本山村硝子株式会社",
       "filer": "株式会社ＭＩ２",
-      "ratio": 73.0,
-      "prev_ratio": 73.0,
+      "ratio": 6.97,
+      "prev_ratio": 8.05,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +378,8 @@
       "sec": "4093",
       "name": "東邦アセチレン株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.43,
-      "prev_ratio": 7.43,
+      "ratio": 19.34,
+      "prev_ratio": 18.32,
       "direction": "変更",
       "isNew": false
     },
@@ -318,8 +388,8 @@
       "sec": "6788",
       "name": "株式会社日本トリム",
       "filer": "光通信株式会社",
-      "ratio": 81.0,
-      "prev_ratio": 81.0,
+      "ratio": 15.65,
+      "prev_ratio": 14.63,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +398,8 @@
       "sec": "9790",
       "name": "福井コンピュータホールディングス株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.4,
-      "prev_ratio": 6.38,
+      "ratio": 7.97,
+      "prev_ratio": 6.95,
       "direction": "変更",
       "isNew": false
     },
@@ -340,6 +410,166 @@
       "filer": "畑中　千弘",
       "ratio": 16.83,
       "prev_ratio": 18.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOQX",
+      "sec": "7013",
+      "name": "株式会社 ＩＨＩ",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 4.93,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOQZ",
+      "sec": "5857",
+      "name": "ＡＲＥホールディングス株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 8.43,
+      "prev_ratio": 6.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOQW",
+      "sec": "6269",
+      "name": "三井海洋開発株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 6.43,
+      "prev_ratio": 7.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOR1",
+      "sec": "5444",
+      "name": "大和工業株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 6.38,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOQY",
+      "sec": "8050",
+      "name": "セイコーグループ株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 6.08,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOR0",
+      "sec": "5838",
+      "name": "楽天銀行株式会社",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 5.3,
+      "prev_ratio": 6.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOQV",
+      "sec": "7003",
+      "name": "株式会社三井E&amp;S",
+      "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
+      "ratio": 7.31,
+      "prev_ratio": 7.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHQ",
+      "sec": "1803",
+      "name": "清水建設株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.22,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHV",
+      "sec": "6501",
+      "name": "株式会社日立製作所",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.33,
+      "prev_ratio": 7.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHX",
+      "sec": "7011",
+      "name": "三菱重工業株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.06,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHS",
+      "sec": "4062",
+      "name": "イビデン株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.69,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHY",
+      "sec": "8035",
+      "name": "東京エレクトロン株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.37,
+      "prev_ratio": 7.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHW",
+      "sec": "6841",
+      "name": "横河電機株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 8.16,
+      "prev_ratio": 7.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHT",
+      "sec": "4704",
+      "name": "トレンドマイクロ株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 6.39,
+      "prev_ratio": 8.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHU",
+      "sec": "5020",
+      "name": "ＥＮＥＯＳホールディングス株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 9.78,
+      "prev_ratio": 8.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOHR",
+      "sec": "1928",
+      "name": "積水ハウス株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 7.38,
+      "prev_ratio": 7.43,
       "direction": "変更",
       "isNew": false
     },
@@ -379,7 +609,17 @@
       "name": "株式会社マンダム",
       "filer": "株式会社シティインデックスイレブンス",
       "ratio": null,
-      "prev_ratio": null,
+      "prev_ratio": 20.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOIP",
+      "sec": "5946",
+      "name": "株式会社長府製作所",
+      "filer": "ファースト・イーグル・インベストメント・マネジメント・エルエルシー",
+      "ratio": 6.55,
+      "prev_ratio": 7.94,
       "direction": "変更",
       "isNew": false
     },
@@ -390,6 +630,16 @@
       "filer": "アセット・バリュー・インベスターズ・リミテッド",
       "ratio": 27.09,
       "prev_ratio": 26.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XOR6",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "ＪＰモルガン証券株式会社",
+      "ratio": 5.41,
+      "prev_ratio": 5.96,
       "direction": "変更",
       "isNew": false
     },
@@ -414,8 +664,18 @@
       "isNew": false
     },
     {
+      "docId": "S100XOSC",
+      "sec": "9837",
+      "name": "モリト株式会社",
+      "filer": "明治安田生命保険相互会社",
+      "ratio": 8.32,
+      "prev_ratio": 7.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100XNG5",
-      "sec": "9501",
+      "sec": "1945",
       "name": "株式会社東京エネシス",
       "filer": "東京電力ホールディングス株式会社",
       "ratio": 18.21,
@@ -438,8 +698,8 @@
       "sec": "4917",
       "name": "株式会社マンダム",
       "filer": "カロンホールディングス株式会社",
-      "ratio": 67.04,
-      "prev_ratio": 67.04,
+      "ratio": 76.91,
+      "prev_ratio": 76.91,
       "direction": "変更",
       "isNew": false
     },
@@ -448,8 +708,8 @@
       "sec": "4917",
       "name": "株式会社マンダム",
       "filer": "公益財団法人西村奨学財団",
-      "ratio": 7.46,
-      "prev_ratio": 7.46,
+      "ratio": 76.91,
+      "prev_ratio": 11.82,
       "direction": "変更",
       "isNew": false
     },
@@ -458,8 +718,8 @@
       "sec": "4019",
       "name": "株式会社スタメン",
       "filer": "株式会社スターフロンツ",
-      "ratio": 3.46,
-      "prev_ratio": 3.59,
+      "ratio": 21.68,
+      "prev_ratio": 21.81,
       "direction": "変更",
       "isNew": false
     },
@@ -468,8 +728,18 @@
       "sec": "3803",
       "name": "イメージ情報開発株式会社",
       "filer": "株式会社ＮＢＩ",
-      "ratio": 5.91,
-      "prev_ratio": 9.62,
+      "ratio": 7.49,
+      "prev_ratio": 12.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100XO2F",
+      "sec": "6676",
+      "name": "株式会社バッファロー",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 9.28,
+      "prev_ratio": 7.9,
       "direction": "変更",
       "isNew": false
     }

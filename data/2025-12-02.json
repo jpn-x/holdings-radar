@@ -22,11 +22,21 @@
       "isNew": true
     },
     {
+      "docId": "S100X833",
+      "sec": "3053",
+      "name": "株式会社ペッパーフードサービス",
+      "filer": "楽天証券株式会社",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100X7UQ",
       "sec": "4441",
       "name": "トビラシステムズ株式会社",
       "filer": "Ｓｍｏａｋ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ，　ＬＬＣ",
-      "ratio": 4.81,
+      "ratio": 5.02,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -46,7 +56,7 @@
       "sec": "247A",
       "name": "Ａｉロボティクス株式会社",
       "filer": "ＳＢＩインキュベーション株式会社",
-      "ratio": 3.34,
+      "ratio": 5.74,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -68,8 +78,8 @@
       "sec": "3513",
       "name": "イチカワ株式会社",
       "filer": "日本製紙株式会社",
-      "ratio": 4.02,
-      "prev_ratio": 6.7,
+      "ratio": 4.21,
+      "prev_ratio": 6.85,
       "direction": "変更",
       "isNew": false
     },
@@ -88,8 +98,8 @@
       "sec": "5998",
       "name": "株式会社　アドバネクス",
       "filer": "ＡＡＡ株式会社",
-      "ratio": 10.74,
-      "prev_ratio": 10.74,
+      "ratio": 47.37,
+      "prev_ratio": 46.27,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +108,8 @@
       "sec": "3184",
       "name": "ICDAホールディングス株式会社",
       "filer": "株式会社フラクタル・ビジネス",
-      "ratio": 5.68,
-      "prev_ratio": 5.66,
+      "ratio": 8.48,
+      "prev_ratio": 7.43,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +118,8 @@
       "sec": "7014",
       "name": "株式会社名村造船所",
       "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
-      "ratio": 7.94,
-      "prev_ratio": 7.61,
+      "ratio": 10.21,
+      "prev_ratio": 11.51,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +138,8 @@
       "sec": "7091",
       "name": "株式会社リビングプラットフォーム",
       "filer": "金子　洋文",
-      "ratio": 20.58,
-      "prev_ratio": 19.94,
+      "ratio": 75.1,
+      "prev_ratio": 74.0,
       "direction": "変更",
       "isNew": false
     },
@@ -144,12 +154,72 @@
       "isNew": false
     },
     {
+      "docId": "S100X836",
+      "sec": "4578",
+      "name": "大塚ホールディングス株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 4.82,
+      "prev_ratio": 5.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X832",
+      "sec": "4452",
+      "name": "花王株式会社",
+      "filer": "野村アセットマネジメント株式会社",
+      "ratio": 6.09,
+      "prev_ratio": 5.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X839",
+      "sec": "9254",
+      "name": "株式会社ラバブルマーケティンググループ",
+      "filer": "楽天証券株式会社",
+      "ratio": 3.93,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X83D",
+      "sec": "431A",
+      "name": "ユーソナー株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 2.69,
+      "prev_ratio": 5.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X83L",
+      "sec": "4385",
+      "name": "株式会社メルカリ",
+      "filer": "野村證券株式会社",
+      "ratio": 8.38,
+      "prev_ratio": 8.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X83F",
+      "sec": "4324",
+      "name": "株式会社 電通グループ",
+      "filer": "野村證券株式会社",
+      "ratio": 5.67,
+      "prev_ratio": 7.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100X76C",
       "sec": "7744",
       "name": "ノーリツ鋼機株式会社",
       "filer": "西本興産株式会社",
-      "ratio": 41.87,
-      "prev_ratio": 42.21,
+      "ratio": 47.46,
+      "prev_ratio": 47.74,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +268,8 @@
       "sec": "5801",
       "name": "古河電気工業株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 74.0,
-      "prev_ratio": 1.0,
+      "ratio": 12.04,
+      "prev_ratio": 11.39,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +278,8 @@
       "sec": "3245",
       "name": "株式会社ディア・ライフ",
       "filer": "阿部　幸広",
-      "ratio": 2.34,
-      "prev_ratio": 2.29,
+      "ratio": 38.67,
+      "prev_ratio": 38.0,
       "direction": "変更",
       "isNew": false
     }

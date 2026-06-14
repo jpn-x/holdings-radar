@@ -42,11 +42,61 @@
       "isNew": true
     },
     {
+      "docId": "S100X7R2",
+      "sec": "368A",
+      "name": "株式会社北里コーポレーション",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 5.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X6RE",
+      "sec": "1928",
+      "name": "積水ハウス株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X6RI",
+      "sec": "3197",
+      "name": "株式会社すかいらーくホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.11,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X6S5",
+      "sec": "7239",
+      "name": "株式会社タチエス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100X6S9",
+      "sec": "8029",
+      "name": "株式会社ルックホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.22,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100X6AG",
       "sec": "446A",
       "name": "株式会社ノースサンド",
       "filer": "前田　知紘",
-      "ratio": 6.09,
+      "ratio": 49.57,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -56,7 +106,7 @@
       "sec": "446A",
       "name": "株式会社ノースサンド",
       "filer": "佐々木　耕平",
-      "ratio": 3.72,
+      "ratio": 7.2,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -66,7 +116,7 @@
       "sec": "446A",
       "name": "株式会社ノースサンド",
       "filer": "加藤　博己",
-      "ratio": 3.72,
+      "ratio": 7.2,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -76,7 +126,7 @@
       "sec": "446A",
       "name": "株式会社ノースサンド",
       "filer": "小松　亮太",
-      "ratio": 3.72,
+      "ratio": 7.2,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -116,7 +166,7 @@
       "sec": "445A",
       "name": "株式会社東洋コーポレーション",
       "filer": "木田　志郎",
-      "ratio": 88.88,
+      "ratio": 99.99,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -198,8 +248,8 @@
       "sec": "5250",
       "name": "プライム・ストラテジー株式会社",
       "filer": "中村　けん牛",
-      "ratio": 40.76,
-      "prev_ratio": 40.85,
+      "ratio": 58.96,
+      "prev_ratio": 59.08,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +288,8 @@
       "sec": "7516",
       "name": "コーナン商事株式会社",
       "filer": "疋田耕造",
-      "ratio": 5.21,
-      "prev_ratio": 5.21,
+      "ratio": 6.63,
+      "prev_ratio": 6.63,
       "direction": "変更",
       "isNew": false
     },
@@ -254,12 +304,22 @@
       "isNew": false
     },
     {
+      "docId": "S100X7QB",
+      "sec": "8360",
+      "name": "株式会社山梨中央銀行",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 8.38,
+      "prev_ratio": 7.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100X7QZ",
       "sec": "9562",
       "name": "ビジネスコーチ株式会社",
       "filer": "細川　馨",
-      "ratio": 2.12,
-      "prev_ratio": 2.71,
+      "ratio": 30.59,
+      "prev_ratio": 39.08,
       "direction": "変更",
       "isNew": false
     },
@@ -274,12 +334,112 @@
       "isNew": false
     },
     {
+      "docId": "S100X6RK",
+      "sec": "3279",
+      "name": "アクティビア・プロパティーズ投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.23,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6RW",
+      "sec": "3472",
+      "name": "日本ホテル＆レジデンシャル投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.47,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6RX",
+      "sec": "4025",
+      "name": "多木化学株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 7.94,
+      "prev_ratio": 7.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6RZ",
+      "sec": "6151",
+      "name": "日東工器株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 1.99,
+      "prev_ratio": 5.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6S1",
+      "sec": "6381",
+      "name": "アネスト岩田株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.85,
+      "prev_ratio": 6.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6S2",
+      "sec": "6455",
+      "name": "株式会社モリタホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.58,
+      "prev_ratio": 5.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6S7",
+      "sec": "7730",
+      "name": "マニー株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.2,
+      "prev_ratio": 5.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6TT",
+      "sec": "8984",
+      "name": "大和ハウスリート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.03,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6SN",
+      "sec": "8985",
+      "name": "ジャパン・ホテル・リート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.28,
+      "prev_ratio": 5.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X6SO",
+      "sec": "9729",
+      "name": "株式会社トーカイ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.92,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100X7R3",
       "sec": "6103",
       "name": "オークマ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": null,
-      "prev_ratio": 3.0,
+      "ratio": 9.76,
+      "prev_ratio": 10.71,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +468,18 @@
       "sec": "148A",
       "name": "株式会社ハッチ・ワーク",
       "filer": "大竹　弘",
-      "ratio": 8.18,
-      "prev_ratio": 8.61,
+      "ratio": 34.05,
+      "prev_ratio": 35.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X7QV",
+      "sec": "7105",
+      "name": "三菱ロジスネクスト株式会社",
+      "filer": "シンプレクス・アセット・マネジメント株式会社",
+      "ratio": 6.85,
+      "prev_ratio": 5.57,
       "direction": "変更",
       "isNew": false
     },
@@ -348,8 +518,8 @@
       "sec": "2588",
       "name": "株式会社プレミアムウォーターホールディングス",
       "filer": "株式会社光通信",
-      "ratio": 30.18,
-      "prev_ratio": 32.33,
+      "ratio": 69.56,
+      "prev_ratio": 70.3,
       "direction": "変更",
       "isNew": false
     },
@@ -378,8 +548,8 @@
       "sec": "3673",
       "name": "株式会社ブロードリーフ",
       "filer": "光通信株式会社",
-      "ratio": 6.78,
-      "prev_ratio": 6.78,
+      "ratio": 31.37,
+      "prev_ratio": 30.34,
       "direction": "変更",
       "isNew": false
     },
@@ -438,8 +608,8 @@
       "sec": "9928",
       "name": "株式会社ミロク情報サービス",
       "filer": "是枝　伸彦",
-      "ratio": 5.31,
-      "prev_ratio": 4.91,
+      "ratio": 16.43,
+      "prev_ratio": 33.55,
       "direction": "変更",
       "isNew": false
     },
@@ -448,8 +618,8 @@
       "sec": "361A",
       "name": "株式会社リビングハウス",
       "filer": "北村　甲介",
-      "ratio": 41.6,
-      "prev_ratio": 43.24,
+      "ratio": 80.13,
+      "prev_ratio": 81.77,
       "direction": "変更",
       "isNew": false
     },
@@ -478,8 +648,8 @@
       "sec": "9556",
       "name": "ＩＮＴＬＯＯＰ株式会社",
       "filer": "林　博文",
-      "ratio": 49.66,
-      "prev_ratio": 49.66,
+      "ratio": 71.23,
+      "prev_ratio": 71.23,
       "direction": "変更",
       "isNew": false
     },

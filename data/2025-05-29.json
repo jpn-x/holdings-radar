@@ -66,7 +66,7 @@
       "sec": "357A",
       "name": "株式会社エフアンドエフ",
       "filer": "藤川　欣洋",
-      "ratio": 7.24,
+      "ratio": 50.72,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -98,8 +98,8 @@
       "sec": "3010",
       "name": "ポラリス・ホールディングス株式会社",
       "filer": "ＳＡＯ　ＩＩＩ　ＧＰ　Ｌｔｄ．",
-      "ratio": 29.5,
-      "prev_ratio": 38.25,
+      "ratio": 76.86,
+      "prev_ratio": 85.36,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +108,8 @@
       "sec": "7352",
       "name": "株式会社TWOSTONE&amp;Sons",
       "filer": "髙原　克弥",
-      "ratio": 34.95,
-      "prev_ratio": 34.96,
+      "ratio": 35.59,
+      "prev_ratio": 35.6,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +118,8 @@
       "sec": "7352",
       "name": "株式会社TWOSTONE&amp;Sons",
       "filer": "河端　保志",
-      "ratio": 35.12,
-      "prev_ratio": 35.18,
+      "ratio": 35.8,
+      "prev_ratio": 35.86,
       "direction": "変更",
       "isNew": false
     },
@@ -130,6 +130,26 @@
       "filer": "Ｅｖｏ　Ｆｕｎｄ",
       "ratio": 4.95,
       "prev_ratio": 6.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU5L",
+      "sec": "6194",
+      "name": "株式会社アトラエ",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 4.41,
+      "prev_ratio": 6.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VU6C",
+      "sec": "6118",
+      "name": "アイダエンジニアリング株式会社",
+      "filer": "ニュートン・インベストメント・マネジメント・ジャパン株式会社",
+      "ratio": 4.07,
+      "prev_ratio": 5.32,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +168,8 @@
       "sec": "7919",
       "name": "野崎印刷紙業株式会社",
       "filer": "野﨑　隆男",
-      "ratio": 7.65,
-      "prev_ratio": 6.93,
+      "ratio": 11.25,
+      "prev_ratio": 11.82,
       "direction": "変更",
       "isNew": false
     },
@@ -228,8 +248,8 @@
       "sec": "8876",
       "name": "株式会社リログループ",
       "filer": "光通信株式会社",
-      "ratio": 7.7,
-      "prev_ratio": 7.61,
+      "ratio": 10.19,
+      "prev_ratio": 9.19,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +258,8 @@
       "sec": "4014",
       "name": "株式会社カラダノート",
       "filer": "佐藤　竜也",
-      "ratio": 50.82,
-      "prev_ratio": 50.95,
+      "ratio": 52.39,
+      "prev_ratio": 52.52,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +268,8 @@
       "sec": "9446",
       "name": "株式会社サカイホールディングス",
       "filer": "光通信株式会社",
-      "ratio": 3.37,
-      "prev_ratio": 3.37,
+      "ratio": 11.09,
+      "prev_ratio": 11.09,
       "direction": "変更",
       "isNew": false
     },

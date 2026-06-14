@@ -26,7 +26,17 @@
       "sec": "6846",
       "name": "株式会社　中央製作所",
       "filer": "後藤　邦之",
-      "ratio": 10.66,
+      "ratio": 11.43,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WAN1",
+      "sec": "9127",
+      "name": "玉井商船株式会社",
+      "filer": "楽天証券株式会社",
+      "ratio": 6.9,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -36,7 +46,7 @@
       "sec": "368A",
       "name": "株式会社北里コーポレーション",
       "filer": "井上　太",
-      "ratio": 5.5,
+      "ratio": 64.0,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -46,7 +56,7 @@
       "sec": "2997",
       "name": "株式会社ストレージ王",
       "filer": "株式会社ケイ・エル・アイ",
-      "ratio": 24.08,
+      "ratio": 26.19,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -56,7 +66,7 @@
       "sec": "3426",
       "name": "アトムリビンテック株式会社",
       "filer": "磯川　武志",
-      "ratio": 15.0,
+      "ratio": 5.52,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -78,8 +88,8 @@
       "sec": "6855",
       "name": "日本電子材料株式会社",
       "filer": "野村證券株式会社",
-      "ratio": null,
-      "prev_ratio": 1.52,
+      "ratio": 10.53,
+      "prev_ratio": 12.09,
       "direction": "変更",
       "isNew": false
     },
@@ -108,8 +118,8 @@
       "sec": "9441",
       "name": "株式会社ベルパーク",
       "filer": "西川　猛",
-      "ratio": 15.7,
-      "prev_ratio": 15.7,
+      "ratio": 28.06,
+      "prev_ratio": 47.51,
       "direction": "変更",
       "isNew": false
     },
@@ -128,8 +138,8 @@
       "sec": "2667",
       "name": "株式会社イメージワン",
       "filer": "株式会社ジェンス",
-      "ratio": 3.41,
-      "prev_ratio": 3.41,
+      "ratio": 11.45,
+      "prev_ratio": 14.74,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +248,8 @@
       "sec": "9257",
       "name": "ＹＣＰホールディングス（グローバル）リミテッド",
       "filer": "植島　幹九郎",
-      "ratio": 6.06,
-      "prev_ratio": 6.06,
+      "ratio": 19.12,
+      "prev_ratio": 18.07,
       "direction": "変更",
       "isNew": false
     },
@@ -248,7 +258,7 @@
       "sec": "166A",
       "name": "株式会社タスキホールディングス",
       "filer": "野村證券株式会社",
-      "ratio": 11.57,
+      "ratio": 11.63,
       "prev_ratio": 12.83,
       "direction": "変更",
       "isNew": false
@@ -258,8 +268,8 @@
       "sec": "4676",
       "name": "株式会社フジ・メディア・ホールディングス",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 1.07,
-      "prev_ratio": 1.07,
+      "ratio": 7.51,
+      "prev_ratio": 7.51,
       "direction": "変更",
       "isNew": false
     },
@@ -278,8 +288,8 @@
       "sec": "1905",
       "name": "株式会社テノックス",
       "filer": "光通信株式会社",
-      "ratio": 7.0,
-      "prev_ratio": 7.0,
+      "ratio": 14.3,
+      "prev_ratio": 13.29,
       "direction": "変更",
       "isNew": false
     },
@@ -298,8 +308,8 @@
       "sec": "4676",
       "name": "株式会社フジ・メディア・ホールディングス",
       "filer": "株式会社レノ",
-      "ratio": null,
-      "prev_ratio": null,
+      "ratio": 13.32,
+      "prev_ratio": 11.81,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +318,8 @@
       "sec": "3673",
       "name": "株式会社ブロードリーフ",
       "filer": "光通信株式会社",
-      "ratio": 6.78,
-      "prev_ratio": 6.78,
+      "ratio": 28.86,
+      "prev_ratio": 28.46,
       "direction": "変更",
       "isNew": false
     },
@@ -328,8 +338,18 @@
       "sec": "6734",
       "name": "株式会社ニューテック",
       "filer": "光通信株式会社",
-      "ratio": 7.23,
-      "prev_ratio": 7.23,
+      "ratio": 11.31,
+      "prev_ratio": 10.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WAN5",
+      "sec": "3825",
+      "name": "株式会社リミックスポイント",
+      "filer": "楽天証券株式会社",
+      "ratio": 4.98,
+      "prev_ratio": 5.74,
       "direction": "変更",
       "isNew": false
     },
@@ -338,8 +358,8 @@
       "sec": "5131",
       "name": "リンカーズ株式会社",
       "filer": "ＳＢＩインベストメント株式会社",
-      "ratio": 9.2,
-      "prev_ratio": 9.2,
+      "ratio": 10.82,
+      "prev_ratio": 11.24,
       "direction": "変更",
       "isNew": false
     },
@@ -358,7 +378,7 @@
       "sec": "2315",
       "name": "株式会社CAICA DIGITAL",
       "filer": "株式会社ネクスグループ",
-      "ratio": 55.00000000000001,
+      "ratio": 5.44,
       "prev_ratio": 3.96,
       "direction": "変更",
       "isNew": false
@@ -378,8 +398,8 @@
       "sec": "9115",
       "name": "明海グループ株式会社",
       "filer": "明海興産株式会社",
-      "ratio": 4.27,
-      "prev_ratio": 4.27,
+      "ratio": 38.08,
+      "prev_ratio": 37.07,
       "direction": "変更",
       "isNew": false
     },
@@ -408,8 +428,8 @@
       "sec": "9235",
       "name": "売れるネット広告社グループ株式会社",
       "filer": "加藤　公一レオ",
-      "ratio": 34.27,
-      "prev_ratio": 34.89,
+      "ratio": 65.58,
+      "prev_ratio": 66.72,
       "direction": "変更",
       "isNew": false
     }

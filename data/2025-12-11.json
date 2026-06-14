@@ -26,7 +26,7 @@
       "sec": "457A",
       "name": "株式会社ルリアン",
       "filer": "藤巻　米隆",
-      "ratio": 29.84,
+      "ratio": 91.31,
       "prev_ratio": null,
       "direction": "新規",
       "isNew": true
@@ -58,8 +58,8 @@
       "sec": "7014",
       "name": "株式会社名村造船所",
       "filer": "ＪＰモルガン・アセット・マネジメント株式会社",
-      "ratio": 7.94,
-      "prev_ratio": 7.94,
+      "ratio": 12.82,
+      "prev_ratio": 11.71,
       "direction": "変更",
       "isNew": false
     },
@@ -78,8 +78,8 @@
       "sec": "3655",
       "name": "株式会社ブレインパッド",
       "filer": "高橋　隆史",
-      "ratio": 1.2,
-      "prev_ratio": 1.2,
+      "ratio": 11.75,
+      "prev_ratio": 11.75,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +98,8 @@
       "sec": "3415",
       "name": "株式会社ＴＯＫＹＯ　ＢＡＳＥ",
       "filer": "谷　正人",
-      "ratio": 27.32,
-      "prev_ratio": 27.56,
+      "ratio": 36.37,
+      "prev_ratio": 36.7,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +118,8 @@
       "sec": "5891",
       "name": "株式会社魁力屋",
       "filer": "藤田　宗",
-      "ratio": 17.3,
-      "prev_ratio": 18.09,
+      "ratio": 65.83,
+      "prev_ratio": 65.83,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +138,8 @@
       "sec": "3245",
       "name": "株式会社ディア・ライフ",
       "filer": "阿部　幸広",
-      "ratio": 2.06,
-      "prev_ratio": 2.34,
+      "ratio": 36.29,
+      "prev_ratio": 38.67,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +198,8 @@
       "sec": "3186",
       "name": "株式会社ネクステージ",
       "filer": "ティー・ロウ・プライス・ジャパン株式会社",
-      "ratio": 4.51,
-      "prev_ratio": 4.51,
+      "ratio": 16.39,
+      "prev_ratio": 16.45,
       "direction": "変更",
       "isNew": false
     },
@@ -218,8 +218,8 @@
       "sec": "3678",
       "name": "株式会社メディアドゥ",
       "filer": "光通信株式会社",
-      "ratio": 7.64,
-      "prev_ratio": 7.54,
+      "ratio": 19.51,
+      "prev_ratio": 18.48,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +238,18 @@
       "sec": "3768",
       "name": "リスクモンスター株式会社",
       "filer": "光通信株式会社",
-      "ratio": 7.3,
-      "prev_ratio": 7.3,
+      "ratio": 15.1,
+      "prev_ratio": 14.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100X9NT",
+      "sec": "9305",
+      "name": "株式会社ヤマタネ",
+      "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
+      "ratio": 5.32,
+      "prev_ratio": 7.21,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +258,8 @@
       "sec": "9037",
       "name": "株式会社ハマキョウレックス",
       "filer": "大須賀　正孝",
-      "ratio": 2.63,
-      "prev_ratio": 2.99,
+      "ratio": 18.0,
+      "prev_ratio": 20.47,
       "direction": "変更",
       "isNew": false
     },
@@ -268,8 +278,8 @@
       "sec": "9037",
       "name": "株式会社ハマキョウレックス",
       "filer": "大須賀　正孝",
-      "ratio": 2.63,
-      "prev_ratio": 2.63,
+      "ratio": 18.0,
+      "prev_ratio": 18.0,
       "direction": "変更",
       "isNew": false
     }

@@ -12,6 +12,46 @@
       "isNew": true
     },
     {
+      "docId": "S100WO4H",
+      "sec": "2726",
+      "name": "株式会社パルグループホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WO4M",
+      "sec": "5482",
+      "name": "愛知製鋼株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WO4W",
+      "sec": "8117",
+      "name": "中央自動車工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100WO4U",
+      "sec": "7732",
+      "name": "株式会社トプコン",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.46,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100WOWU",
       "sec": "6727",
       "name": "株式会社ワコム",
@@ -48,8 +88,8 @@
       "sec": "8914",
       "name": "エリアリンク株式会社",
       "filer": "林　尚道",
-      "ratio": 14.45,
-      "prev_ratio": 18.08,
+      "ratio": 16.37,
+      "prev_ratio": 20.0,
       "direction": "変更",
       "isNew": false
     },
@@ -68,8 +108,8 @@
       "sec": "6472",
       "name": "ＮＴＮ株式会社",
       "filer": "野村證券株式会社",
-      "ratio": 4.02,
-      "prev_ratio": 4.42,
+      "ratio": 10.92,
+      "prev_ratio": 12.12,
       "direction": "変更",
       "isNew": false
     },
@@ -78,8 +118,8 @@
       "sec": "6937",
       "name": "古河電池株式会社",
       "filer": "古河電気工業株式会社",
-      "ratio": 57.26,
-      "prev_ratio": 57.26,
+      "ratio": 90.38,
+      "prev_ratio": 57.78,
       "direction": "変更",
       "isNew": false
     },
@@ -104,12 +144,82 @@
       "isNew": false
     },
     {
+      "docId": "S100WO4J",
+      "sec": "3950",
+      "name": "ザ・パック株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 2.83,
+      "prev_ratio": 5.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4L",
+      "sec": "4452",
+      "name": "花王株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.09,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4N",
+      "sec": "6532",
+      "name": "株式会社ベイカレント",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.33,
+      "prev_ratio": 5.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100WOVS",
       "sec": "3825",
       "name": "株式会社リミックスポイント",
       "filer": "Ｅｖｏ　Ｆｕｎｄ",
       "ratio": 12.06,
       "prev_ratio": 25.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4O",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.73,
+      "prev_ratio": 6.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4P",
+      "sec": "6923",
+      "name": "スタンレー電気株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 2.5,
+      "prev_ratio": 6.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4T",
+      "sec": "7453",
+      "name": "株式会社良品計画",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.48,
+      "prev_ratio": 5.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WO4Z",
+      "sec": "9601",
+      "name": "松竹株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.56,
+      "prev_ratio": 6.83,
       "direction": "変更",
       "isNew": false
     },
@@ -138,8 +248,8 @@
       "sec": "290A",
       "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
       "filer": "野村證券株式会社",
-      "ratio": 14.72,
-      "prev_ratio": 15.82,
+      "ratio": 17.11,
+      "prev_ratio": 17.87,
       "direction": "変更",
       "isNew": false
     },
@@ -148,8 +258,8 @@
       "sec": "9647",
       "name": "株式会社協和コンサルタンツ",
       "filer": "フリージア・マクロス株式会社",
-      "ratio": 47.04,
-      "prev_ratio": 44.63,
+      "ratio": 47.71,
+      "prev_ratio": 45.3,
       "direction": "変更",
       "isNew": false
     },
@@ -178,7 +288,7 @@
       "sec": "5186",
       "name": "ニッタ株式会社",
       "filer": "アイビーピー株式会社",
-      "ratio": 7.86,
+      "ratio": 7.94,
       "prev_ratio": 7.6,
       "direction": "変更",
       "isNew": false
@@ -188,8 +298,28 @@
       "sec": "4977",
       "name": "新田ゼラチン株式会社",
       "filer": "アイビーピー株式会社",
-      "ratio": 19.05,
+      "ratio": 21.25,
       "prev_ratio": 19.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOVN",
+      "sec": "3445",
+      "name": "株式会社ＲＳ　Ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "filer": "日本バリュー・インベスターズ株式会社",
+      "ratio": 2.5,
+      "prev_ratio": 5.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100WOVO",
+      "sec": "6999",
+      "name": "ＫＯＡ株式会社",
+      "filer": "日本バリュー・インベスターズ株式会社",
+      "ratio": 2.4,
+      "prev_ratio": 5.27,
       "direction": "変更",
       "isNew": false
     },
@@ -198,8 +328,8 @@
       "sec": "6526",
       "name": "株式会社　ソシオネクスト",
       "filer": "野村證券株式会社",
-      "ratio": 8.0,
-      "prev_ratio": 1.72,
+      "ratio": 9.13,
+      "prev_ratio": 10.71,
       "direction": "変更",
       "isNew": false
     },
@@ -208,8 +338,8 @@
       "sec": "4261",
       "name": "アジアクエスト株式会社",
       "filer": "桃井純",
-      "ratio": 31.71,
-      "prev_ratio": 32.09,
+      "ratio": 58.86,
+      "prev_ratio": 59.32,
       "direction": "変更",
       "isNew": false
     },
@@ -248,8 +378,8 @@
       "sec": "6560",
       "name": "株式会社エル・ティー・エス",
       "filer": "塚原　厚",
-      "ratio": 4.36,
-      "prev_ratio": 5.6,
+      "ratio": 5.52,
+      "prev_ratio": 5.93,
       "direction": "変更",
       "isNew": false
     },
@@ -308,8 +438,8 @@
       "sec": "3660",
       "name": "株式会社アイスタイル",
       "filer": "吉松　徹郎",
-      "ratio": 7.37,
-      "prev_ratio": 7.8,
+      "ratio": 18.57,
+      "prev_ratio": 19.62,
       "direction": "変更",
       "isNew": false
     }

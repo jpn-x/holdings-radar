@@ -22,6 +22,66 @@
       "isNew": true
     },
     {
+      "docId": "S100VAWC",
+      "sec": "2922",
+      "name": "株式会社なとり",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.75,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VAWF",
+      "sec": "3295",
+      "name": "ヒューリックリート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.7,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VBL4",
+      "sec": "3462",
+      "name": "野村不動産マスターファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VAX0",
+      "sec": "4299",
+      "name": "株式会社ハイマックス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VAX5",
+      "sec": "7453",
+      "name": "株式会社良品計画",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100VAX7",
+      "sec": "8043",
+      "name": "スターゼン株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
       "docId": "S100VAOZ",
       "sec": "173A",
       "name": "株式会社ハンモック",
@@ -38,8 +98,8 @@
       "sec": "2334",
       "name": "株式会社イオレ",
       "filer": "冨塚　優",
-      "ratio": 3.76,
-      "prev_ratio": 4.1,
+      "ratio": 4.02,
+      "prev_ratio": 11.25,
       "direction": "変更",
       "isNew": false
     },
@@ -58,8 +118,8 @@
       "sec": "6248",
       "name": "株式会社横田製作所",
       "filer": "三浦　眞理夫",
-      "ratio": null,
-      "prev_ratio": 8.54,
+      "ratio": 2.14,
+      "prev_ratio": 10.68,
       "direction": "変更",
       "isNew": false
     },
@@ -78,8 +138,8 @@
       "sec": "3968",
       "name": "セグエグループ株式会社",
       "filer": "愛須　康之",
-      "ratio": 31.62,
-      "prev_ratio": 30.23,
+      "ratio": 40.26,
+      "prev_ratio": 38.49,
       "direction": "変更",
       "isNew": false
     },
@@ -98,8 +158,8 @@
       "sec": "3452",
       "name": "株式会社ビーロット",
       "filer": "長谷川　進一",
-      "ratio": 3.26,
-      "prev_ratio": 3.26,
+      "ratio": 9.88,
+      "prev_ratio": 9.88,
       "direction": "変更",
       "isNew": false
     },
@@ -118,8 +178,8 @@
       "sec": "7516",
       "name": "コーナン商事株式会社",
       "filer": "疋田耕造",
-      "ratio": 5.21,
-      "prev_ratio": 5.21,
+      "ratio": 6.63,
+      "prev_ratio": 6.63,
       "direction": "変更",
       "isNew": false
     },
@@ -128,7 +188,7 @@
       "sec": "7946",
       "name": "株式会社光陽社",
       "filer": "犬養　岬太",
-      "ratio": 14.47,
+      "ratio": 19.47,
       "prev_ratio": 10.33,
       "direction": "変更",
       "isNew": false
@@ -144,12 +204,42 @@
       "isNew": false
     },
     {
+      "docId": "S100VAX3",
+      "sec": "6925",
+      "name": "ウシオ電機株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.45,
+      "prev_ratio": 5.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAXA",
+      "sec": "8951",
+      "name": "日本ビルファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.68,
+      "prev_ratio": 5.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
       "docId": "S100VAZ1",
       "sec": "5595",
       "name": "株式会社ＱＰＳ研究所",
       "filer": "ＳＭＢＣ日興証券株式会社",
       "ratio": 17.29,
       "prev_ratio": 18.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100VAXF",
+      "sec": "8953",
+      "name": "日本都市ファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.53,
+      "prev_ratio": 5.24,
       "direction": "変更",
       "isNew": false
     },
@@ -238,8 +328,8 @@
       "sec": "7320",
       "name": "Solvvy株式会社",
       "filer": "安達　慶高",
-      "ratio": 8.34,
-      "prev_ratio": 10.75,
+      "ratio": 13.5,
+      "prev_ratio": 15.83,
       "direction": "変更",
       "isNew": false
     },
@@ -258,8 +348,8 @@
       "sec": "4549",
       "name": "栄研化学株式会社",
       "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
-      "ratio": 8.3,
-      "prev_ratio": 8.3,
+      "ratio": 25.77,
+      "prev_ratio": 24.69,
       "direction": "変更",
       "isNew": false
     },
@@ -338,8 +428,8 @@
       "sec": "5535",
       "name": "ミガロホールディングス株式会社",
       "filer": "アールジェイピー株式会社",
-      "ratio": 52.37,
-      "prev_ratio": 52.64,
+      "ratio": 56.41,
+      "prev_ratio": 58.21,
       "direction": "変更",
       "isNew": false
     },
@@ -358,8 +448,8 @@
       "sec": "5535",
       "name": "ミガロホールディングス株式会社",
       "filer": "アールジェイピー株式会社",
-      "ratio": 52.37,
-      "prev_ratio": 52.37,
+      "ratio": 54.97,
+      "prev_ratio": 56.41,
       "direction": "変更",
       "isNew": false
     },
@@ -368,8 +458,8 @@
       "sec": "5535",
       "name": "ミガロホールディングス株式会社",
       "filer": "アールジェイピー株式会社",
-      "ratio": 52.37,
-      "prev_ratio": 52.37,
+      "ratio": 53.22,
+      "prev_ratio": 54.97,
       "direction": "変更",
       "isNew": false
     },
