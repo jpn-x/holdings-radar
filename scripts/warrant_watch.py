@@ -289,6 +289,14 @@ def main():
             results.pop(code, None)
             time.sleep(1.5)
             continue
+        # 最適化: 既存と同じ報告日なら再ダウンロード不要（行使報告は月次でほぼ不変）
+        prev = results.get(code)
+        if (prev and prev.get("date") == hit["datetime"][:10]
+                and ("unexercised" in prev or "kofu" in prev)):
+            print(f"    {hit['datetime'][:10]} 変化なし → スキップ")
+            time.sleep(0.3)
+            continue
+
         print(f"    {hit['datetime'][:10]} {hit['title'][:50]}")
         data = parse_pdf(hit["pdf"])
         time.sleep(1.5)
