@@ -11,8 +11,8 @@ on:
 
   # 手動 or スケジュール実行（EDINET_API_KEY が設定されていれば GitHub Actions からも動く）
   schedule:
-    # 平日 18:00 JST = 09:00 UTC
-    - cron: "0 9 * * 1-5"
+    # 平日 19:00 JST = 10:00 UTC
+    - cron: "0 10 * * 1-5"
   workflow_dispatch:
     inputs:
       target_date:
