@@ -5,6 +5,7 @@ import requests
 import re
 import time
 import os
+import sys
 import json
 import zipfile
 import io
@@ -752,7 +753,20 @@ updateDatalist('filer');
 
 # ─── main ──────────────────────────────────────────────────────────────────────
 
+def regen_only():
+    """既存データ＋warrants.jsonからindex.htmlだけ再生成（再取得しない）"""
+    days = load_all_days()
+    updated_str = datetime.now(JST).strftime("%Y年%m月%d日 %H:%M")
+    out = os.path.join(os.path.dirname(__file__), "..", "index.html")
+    with open(out, "w", encoding="utf-8") as f:
+        f.write(generate_html(days, updated_str))
+    print(f"index.html regenerated ({len(days)} days)")
+
+
 def main():
+    if "--regen-only" in sys.argv:
+        regen_only()
+        return
     date = os.environ.get("TARGET_DATE") or get_date()
     print(f"[holdings-radar] date={date}")
 

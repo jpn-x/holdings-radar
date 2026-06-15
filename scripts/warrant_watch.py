@@ -192,6 +192,21 @@ def parse_pdf(pdf_url: str) -> dict:
     return out
 
 
+def latest_day_codes() -> set:
+    """直近営業日（最新のYYYY-MM-DD.json）に登場する銘柄コード集合"""
+    files = sorted(glob.glob(os.path.join(DATA_DIR, "2???-??-??.json")))
+    if not files:
+        return set()
+    with open(files[-1], encoding="utf-8") as f:
+        d = json.load(f)
+    out = set()
+    for lst in (d.get("new", []), d.get("chg", [])):
+        for e in lst:
+            if e.get("sec"):
+                out.add(e["sec"])
+    return out
+
+
 def collect_all_codes() -> dict:
     """holdings データに登場する全銘柄コードを対象にする（全件監査用）"""
     codes = {}
@@ -210,20 +225,30 @@ def collect_all_codes() -> dict:
 
 def main():
     arg = sys.argv[1] if len(sys.argv) > 1 else None
-    if arg == "--all":
-        codes = collect_all_codes()
-        print("モード: 全銘柄監査")
-    else:
-        codes = collect_watch_codes()
-        if arg:
-            codes = {c: v for c, v in codes.items() if c in arg.split(",")}
-    print(f"監視対象: {len(codes)} 銘柄")
 
-    # 既存結果を読み込み（増分更新）
+    # 既存結果を先に読み込み（増分更新 & --refresh の対象算出に使う）
     results = {}
     if os.path.exists(OUT_PATH):
         with open(OUT_PATH, encoding="utf-8") as f:
             results = json.load(f).get("items", {})
+
+    if arg == "--all":
+        codes = collect_all_codes()
+        print("モード: 全銘柄監査")
+    elif arg == "--refresh" or arg is None:
+        # 日次用: 既知のワラント銘柄(warrants.json) + 直近営業日のholdings銘柄のみ
+        # → 既存の爆弾を最新化しつつ、新たに出てきた銘柄も拾う（全2611より遥かに速い）
+        allc = collect_all_codes()
+        codes = {}
+        for c in results:                       # 既知のワラント監視銘柄
+            codes[c] = allc.get(c, {"name": results[c].get("name", ""), "holder": ""})
+        for c in latest_day_codes():            # 直近営業日に動いた銘柄
+            codes[c] = allc.get(c, {"name": "", "holder": ""})
+        print("モード: 日次リフレッシュ（既知ワラント + 直近営業日のholdings銘柄）")
+    else:
+        codes = collect_watch_codes()
+        codes = {c: v for c, v in codes.items() if c in arg.split(",")}
+    print(f"監視対象: {len(codes)} 銘柄")
 
     # チェックポイント（中断→続きから再開用）
     ckpt_path = os.path.join(DATA_DIR, ".audit_checkpoint.json")
