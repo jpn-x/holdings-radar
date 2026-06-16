@@ -459,6 +459,13 @@ def generate_html(days, updated_str):
 <title>大量保有 Radar — {date}</title>
 <meta name="description" content="EDINET 大量保有報告書・変更報告書 毎日自動集計">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0d0f14">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="量Radar">
 <style>
 :root{{
   --bg:#0d0f14;--surf:#161a23;--border:#252a35;
