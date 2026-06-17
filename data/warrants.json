@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 00:15",
+  "updated": "2026-06-17 23:10",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1245,17 +1245,17 @@
     "9973": {
       "name": "KOZOホールディングス株式会社",
       "holder": "マッコーリー　バンク　リミテッド",
-      "title": "第三者割当により発行された第16回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-06-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557774/",
+      "title": "第三者割当により発行された第16回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-06-17",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260617/140120260617572704/",
       "kai": 16,
       "kofu": 1000000,
       "exercised": 10000,
       "total": 50000,
       "exercised_pct": 20.0,
-      "unexercised": 35000,
-      "unexercised_shares": 3500000,
-      "outstanding": 295121340
+      "unexercised": 25000,
+      "unexercised_shares": 2500000,
+      "outstanding": 296121340
     },
     "2134": {
       "name": "北浜キャピタルパートナーズ株式会社",
