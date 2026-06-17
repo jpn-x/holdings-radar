@@ -1,0 +1,807 @@
+{
+  "date": "2026-06-17",
+  "new": [
+    {
+      "docId": "S100YB6N",
+      "sec": "7122",
+      "name": "近畿車輛株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 6.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YD3C",
+      "sec": "4071",
+      "name": "株式会社プラスアルファ・コンサルティング",
+      "filer": "株式会社ラクス",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YBCS",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "文智勇",
+      "ratio": 1.28,
+      "prev_ratio": 11.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC83",
+      "sec": "7820",
+      "name": "ニホンフラッシュ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.62,
+      "prev_ratio": 6.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBKV",
+      "sec": "6810",
+      "name": "マクセル株式会社",
+      "filer": "グランサム、マヨ、ヴァン　オッテルロー　アンド　カンパニー　エルエルシー",
+      "ratio": 11.6,
+      "prev_ratio": 10.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCYD",
+      "sec": "7820",
+      "name": "ニホンフラッシュ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.95,
+      "prev_ratio": 7.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCYI",
+      "sec": "7820",
+      "name": "ニホンフラッシュ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.62,
+      "prev_ratio": 7.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCYN",
+      "sec": "7820",
+      "name": "ニホンフラッシュ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 9.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC74",
+      "sec": "9913",
+      "name": "日邦産業株式会社",
+      "filer": "ＦＭＲ　ＬＬＣ",
+      "ratio": 17.87,
+      "prev_ratio": 9.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCNS",
+      "sec": "9913",
+      "name": "日邦産業株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 17.87,
+      "prev_ratio": 9.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCO2",
+      "sec": "9913",
+      "name": "日邦産業株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.54,
+      "prev_ratio": 17.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCZ5",
+      "sec": "9913",
+      "name": "日邦産業株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.54,
+      "prev_ratio": 9.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC84",
+      "sec": "9739",
+      "name": "ＮＳＷ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 6.82,
+      "prev_ratio": 5.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCZH",
+      "sec": "9739",
+      "name": "ＮＳＷ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.91,
+      "prev_ratio": 6.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCZJ",
+      "sec": "9739",
+      "name": "ＮＳＷ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 8.92,
+      "prev_ratio": 7.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCZK",
+      "sec": "9739",
+      "name": "ＮＳＷ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 8.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC86",
+      "sec": "9759",
+      "name": "株式会社ＮＳＤ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 6.65,
+      "prev_ratio": 5.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCZR",
+      "sec": "9759",
+      "name": "株式会社ＮＳＤ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.82,
+      "prev_ratio": 6.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCZX",
+      "sec": "9759",
+      "name": "株式会社ＮＳＤ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 6.34,
+      "prev_ratio": 7.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD03",
+      "sec": "9759",
+      "name": "株式会社ＮＳＤ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 5.27,
+      "prev_ratio": 6.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBOX",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "ＦＭＲ　ＬＬＣ",
+      "ratio": 8.19,
+      "prev_ratio": 6.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCYS",
+      "sec": "3161",
+      "name": "アゼアス株式会社",
+      "filer": "株式会社Ａｓａｈｉｃｈｏ",
+      "ratio": 9.15,
+      "prev_ratio": 8.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YBP2",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "ＦＭＲ　ＬＬＣ",
+      "ratio": 9.45,
+      "prev_ratio": 8.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCB5",
+      "sec": "",
+      "name": "",
+      "filer": "みずほ証券株式会社",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC4W",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 8.19,
+      "prev_ratio": 6.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD0V",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.45,
+      "prev_ratio": 8.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD0X",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 9.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD11",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD18",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD1C",
+      "sec": "3771",
+      "name": "株式会社システムリサーチ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCK9",
+      "sec": "6089",
+      "name": "株式会社ウィルグループ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 6.59,
+      "prev_ratio": 5.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD23",
+      "sec": "6089",
+      "name": "株式会社ウィルグループ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.66,
+      "prev_ratio": 6.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD27",
+      "sec": "6089",
+      "name": "株式会社ウィルグループ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 8.77,
+      "prev_ratio": 7.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD2C",
+      "sec": "6089",
+      "name": "株式会社ウィルグループ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.86,
+      "prev_ratio": 8.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD2V",
+      "sec": "6089",
+      "name": "株式会社ウィルグループ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.96,
+      "prev_ratio": 9.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD31",
+      "sec": "6089",
+      "name": "株式会社ウィルグループ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.96,
+      "prev_ratio": 9.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB7A",
+      "sec": "7545",
+      "name": "株式会社西松屋チェーン",
+      "filer": "友好エステート株式会社",
+      "ratio": 23.38,
+      "prev_ratio": 21.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC0G",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 5.5,
+      "prev_ratio": 5.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD3L",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 6.15,
+      "prev_ratio": 5.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD3T",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.22,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD40",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 8.35,
+      "prev_ratio": 7.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD47",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.52,
+      "prev_ratio": 8.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD4B",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 9.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD4F",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD4I",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 8.62,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD4N",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.85,
+      "prev_ratio": 8.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD4S",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.28,
+      "prev_ratio": 7.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC8R",
+      "sec": "6699",
+      "name": "ダイヤモンドエレクトリックホールディングス株式会社",
+      "filer": "勝野　仁視",
+      "ratio": 4.09,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCI8",
+      "sec": "7603",
+      "name": "ジーイエット株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 27.83,
+      "prev_ratio": 28.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCSZ",
+      "sec": "5590",
+      "name": "株式会社ネットスターズ",
+      "filer": "ＬＵＮ　ＰＡＲＴＮＥＲＳ　ＣＡＰＩＴＡＬ　ＬＩＭＩＴＥＤ",
+      "ratio": 5.27,
+      "prev_ratio": 6.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Y8GI",
+      "sec": "4274",
+      "name": "細谷火工株式会社",
+      "filer": "西武信用金庫",
+      "ratio": 6.57,
+      "prev_ratio": 5.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC8B",
+      "sec": "7679",
+      "name": "株式会社薬王堂ホールディングス",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 6.35,
+      "prev_ratio": 5.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6C",
+      "sec": "7679",
+      "name": "株式会社薬王堂ホールディングス",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.64,
+      "prev_ratio": 6.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6F",
+      "sec": "7679",
+      "name": "株式会社薬王堂ホールディングス",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.19,
+      "prev_ratio": 7.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6H",
+      "sec": "7679",
+      "name": "株式会社薬王堂ホールディングス",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.94,
+      "prev_ratio": 9.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6I",
+      "sec": "7679",
+      "name": "株式会社薬王堂ホールディングス",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 9.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6K",
+      "sec": "7679",
+      "name": "株式会社薬王堂ホールディングス",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YA0P",
+      "sec": "4754",
+      "name": "株式会社トスネット",
+      "filer": "佐藤　康廣",
+      "ratio": 40.39,
+      "prev_ratio": 40.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCLV",
+      "sec": "8074",
+      "name": "ユアサ商事株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.62,
+      "prev_ratio": 8.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6Q",
+      "sec": "8074",
+      "name": "ユアサ商事株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 7.67,
+      "prev_ratio": 7.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6T",
+      "sec": "8074",
+      "name": "ユアサ商事株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 8.71,
+      "prev_ratio": 7.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6W",
+      "sec": "8074",
+      "name": "ユアサ商事株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 8.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD71",
+      "sec": "8074",
+      "name": "ユアサ商事株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.92,
+      "prev_ratio": 10.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD72",
+      "sec": "8074",
+      "name": "ユアサ商事株式会社",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 9.59,
+      "prev_ratio": 9.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCXP",
+      "sec": "8276",
+      "name": "株式会社　平和堂",
+      "filer": "夏原　行平",
+      "ratio": 6.27,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YC8A",
+      "sec": "7122",
+      "name": "近畿車輛株式会社",
+      "filer": "Ｒａｎｇｅｌｅｙ　Ｃａｐｉｔａｌ，　ＬＬＣ",
+      "ratio": 0.04,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB94",
+      "sec": "7097",
+      "name": "株式会社さくらさくプラス",
+      "filer": "西尾　義隆",
+      "ratio": 21.98,
+      "prev_ratio": 24.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAKZ",
+      "sec": "3179",
+      "name": "シュッピン株式会社",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 11.88,
+      "prev_ratio": 10.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YDBH",
+      "sec": "7063",
+      "name": "株式会社Ｂｉｒｄｍａｎ",
+      "filer": "伊藤　繁三",
+      "ratio": 18.75,
+      "prev_ratio": 18.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAKX",
+      "sec": "9742",
+      "name": "株式会社アイネス",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 15.76,
+      "prev_ratio": 14.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAJW",
+      "sec": "6928",
+      "name": "エノモト",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 14.36,
+      "prev_ratio": 13.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCLS",
+      "sec": "5572",
+      "name": "株式会社Ｒｉｄｇｅ－ｉ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": null,
+      "prev_ratio": 5.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCM5",
+      "sec": "7821",
+      "name": "前田工繊株式会社",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 7.16,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCSR",
+      "sec": "5644",
+      "name": "株式会社メタルアート",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 14.25,
+      "prev_ratio": 12.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YD6J",
+      "sec": "5644",
+      "name": "株式会社メタルアート",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 15.38,
+      "prev_ratio": 14.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YDBL",
+      "sec": "4179",
+      "name": "株式会社ジーネクスト",
+      "filer": "横治　祐介",
+      "ratio": 8.56,
+      "prev_ratio": 10.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YCEJ",
+      "sec": "6875",
+      "name": "株式会社メガチップス",
+      "filer": "進藤　晶弘",
+      "ratio": 17.09,
+      "prev_ratio": 18.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YDIQ",
+      "sec": "9556",
+      "name": "ＩＮＴＬＯＯＰ株式会社",
+      "filer": "林　博文",
+      "ratio": 70.85,
+      "prev_ratio": 70.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YB1D",
+      "sec": "198A",
+      "name": "ＰｏｓｔＰｒｉｍｅ株式会社",
+      "filer": "サイブリッジ合同会社",
+      "ratio": 49.08,
+      "prev_ratio": 19.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YDIW",
+      "sec": "4620",
+      "name": "藤倉化成株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 10.32,
+      "prev_ratio": 10.1,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
