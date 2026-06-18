@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 23:10",
+  "updated": "2026-06-18 22:06",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -991,16 +991,13 @@
     "6721": {
       "name": "ウインテスト株式会社",
       "holder": "ＧＦＡ株式会社",
-      "title": "第三者割当による第13回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-06-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557740/",
+      "title": "第三者割当による第13回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-06-18",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260617/140120260617573117/",
       "kai": 13,
-      "kofu": 1109800,
-      "exercised": 11098,
-      "exercised_pct": 15.85,
-      "unexercised": 42626,
-      "unexercised_shares": 4262600,
-      "outstanding": 55268600
+      "unexercised": 31026,
+      "unexercised_shares": 3102600,
+      "outstanding": 56378400
     },
     "6890": {
       "name": "株式会社フェローテック",
@@ -1552,6 +1549,20 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20250702/140120250702506933/",
       "kai": 20,
       "outstanding": 102415276
+    },
+    "4978": {
+      "name": "株式会社リプロセル",
+      "holder": "ハイツ・キャピタル・マネジメント・インク",
+      "title": "第16回新株予約権（行使価額修正条項及び行使許可条項付）の月間行使状況に関するお知らせ",
+      "date": "2025-02-03",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250203/140120250203560946/",
+      "kai": 16,
+      "kofu": 0,
+      "exercised": 0,
+      "exercised_pct": 0.0,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 94331891
     }
   }
 }
