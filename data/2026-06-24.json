@@ -1,0 +1,257 @@
+{
+  "date": "2026-06-24",
+  "new": [
+    {
+      "docId": "S100YIUX",
+      "sec": "5241",
+      "name": "株式会社日本オーエー研究所",
+      "filer": "奥山　宏昭",
+      "ratio": 50.83,
+      "prev_ratio": 57.67,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YIVK",
+      "sec": "7619",
+      "name": "田中商事株式会社",
+      "filer": "トウテック株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YH4L",
+      "sec": "175A",
+      "name": "株式会社Ｗｉｌｌ　Ｓｍａｒｔ",
+      "filer": "泉陽興業株式会社",
+      "ratio": 6.9,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YHBI",
+      "sec": "7173",
+      "name": "株式会社東京きらぼしフィナンシャルグループ",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 5.24,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YICM",
+      "sec": "4071",
+      "name": "株式会社プラスアルファ・コンサルティング",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 16.29,
+      "prev_ratio": 11.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YHNI",
+      "sec": "2124",
+      "name": "株式会社ジェイエイシーリクルートメント",
+      "filer": "金親晋午",
+      "ratio": 9.76,
+      "prev_ratio": 9.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YICE",
+      "sec": "5631",
+      "name": "株式会社日本製鋼所",
+      "filer": "野村證券株式会社",
+      "ratio": 15.32,
+      "prev_ratio": 14.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YI3V",
+      "sec": "9941",
+      "name": "太洋物産株式会社",
+      "filer": "木野　将徳",
+      "ratio": 17.17,
+      "prev_ratio": 16.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YAMT",
+      "sec": "1944",
+      "name": "株式会社きんでん",
+      "filer": "関西電力株式会社",
+      "ratio": 20.01,
+      "prev_ratio": 36.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YIPJ",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 34.42,
+      "prev_ratio": 35.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YJ7C",
+      "sec": "6721",
+      "name": "ウインテスト株式会社",
+      "filer": "ａｂｃ株式会社",
+      "ratio": 6.98,
+      "prev_ratio": 9.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YJL8",
+      "sec": "2814",
+      "name": "佐藤食品工業株式会社",
+      "filer": "横浜冷凍株式会社",
+      "ratio": 6.21,
+      "prev_ratio": 6.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YJMD",
+      "sec": "2814",
+      "name": "佐藤食品工業株式会社",
+      "filer": "横浜冷凍株式会社",
+      "ratio": 7.89,
+      "prev_ratio": 6.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YIEB",
+      "sec": "7776",
+      "name": "株式会社セルシード",
+      "filer": "バークレイズ・バンク・ピーエルシー",
+      "ratio": 9.44,
+      "prev_ratio": 10.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YJKY",
+      "sec": "9425",
+      "name": "ＲｅＹｕｕ　Ｊａｐａｎ株式会社",
+      "filer": "ＵＮＩＶＥＲＳＡＬ　ＤＩＧＩＴＡＬ　ＩＮＣ．",
+      "ratio": 12.0,
+      "prev_ratio": 15.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YH3V",
+      "sec": "3186",
+      "name": "株式会社ネクステージ",
+      "filer": "ティー・ロウ・プライス・ジャパン株式会社",
+      "ratio": 15.31,
+      "prev_ratio": 16.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YDU8",
+      "sec": "4189",
+      "name": "ＫＨネオケム株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 18.24,
+      "prev_ratio": 17.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YDZ2",
+      "sec": "3776",
+      "name": "株式会社ブロードバンドタワー",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 22.7,
+      "prev_ratio": 21.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YIRT",
+      "sec": "3121",
+      "name": "マーチャント・バンカーズ株式会社",
+      "filer": "ＴＯＴＡＬ　ＮＥＴＷＯＲＫ　ＨＯＬＤＩＮＧＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 2.8,
+      "prev_ratio": 7.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YIV3",
+      "sec": "4972",
+      "name": "綜研化学株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 18.93,
+      "prev_ratio": 17.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YE3G",
+      "sec": "9687",
+      "name": "株式会社ＫＳＫ",
+      "filer": "光通信株式会社",
+      "ratio": 12.59,
+      "prev_ratio": 11.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YJ0I",
+      "sec": "4583",
+      "name": "株式会社カイオム・バイオサイエンス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 5.15,
+      "prev_ratio": 6.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YJPW",
+      "sec": "4179",
+      "name": "株式会社ジーネクスト",
+      "filer": "横治　祐介",
+      "ratio": 8.56,
+      "prev_ratio": 4.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YIBU",
+      "sec": "4392",
+      "name": "ＦＩＧ株式会社",
+      "filer": "村井　雄司",
+      "ratio": 24.73,
+      "prev_ratio": 27.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YIHC",
+      "sec": "2164",
+      "name": "株式会社地域新聞社",
+      "filer": "オプションハウス株式会社",
+      "ratio": 11.63,
+      "prev_ratio": 7.93,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
