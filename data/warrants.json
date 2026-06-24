@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23 21:46",
+  "updated": "2026-06-24 21:27",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -234,15 +234,16 @@
     "4882": {
       "name": "株式会社ペルセウスプロテオミクス",
       "holder": "株式会社ＳＢＩ証券",
-      "title": "行使価額修正条項付新株予約権の月間行使状況に関するお知らせ",
-      "date": "2026-06-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557107/",
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "date": "2026-06-24",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260624/140120260624578988/",
       "kai": 29,
-      "kofu": 0,
-      "exercised": 0,
+      "kofu": 390000,
+      "exercised": 3900,
       "total": 36800,
-      "exercised_pct": 0.0,
-      "unexercised": 14299,
+      "exercised_pct": 10.6,
+      "unexercised": 10399,
+      "unexercised_shares": 1039900,
       "outstanding": 16999600
     },
     "4884": {
