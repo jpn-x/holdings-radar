@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26 21:12",
+  "updated": "2026-06-29 22:46",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1012,16 +1012,14 @@
     "7794": {
       "name": "株式会社イーディーピー",
       "holder": "藤森　直治",
-      "title": "行使価額修正条項付新株予約権の大量行使及び行使完了、並びに月間行使状況に関するお知らせ",
-      "date": "2026-02-04",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260204/140120260204547329/",
-      "kai": 17,
-      "kofu": 480000,
-      "exercised": 4800,
-      "exercised_pct": 20.87,
-      "unexercised": 0,
-      "unexercised_shares": 0,
-      "outstanding": 14994600
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "date": "2026-06-29",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260629/140120260629583372/",
+      "kai": 18,
+      "exercised": 4165,
+      "exercised_pct": 13.88,
+      "unexercised": 25835,
+      "outstanding": 15474600
     },
     "7991": {
       "name": "マミヤ・オーピー株式会社",
@@ -1483,6 +1481,21 @@
       "unexercised": 9277,
       "unexercised_shares": 927700,
       "outstanding": 7479100
+    },
+    "4586": {
+      "name": "株式会社メドレックス",
+      "holder": "グロース・キャピタル株式会社",
+      "title": "第三者割当により発行された第32回新株予約権(行使価額修正条項付)の行使完了、月間行使状況及び資金使途の変更に関するお知らせ",
+      "date": "2025-08-15",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250815/140120250815542876/",
+      "kai": 32,
+      "kofu": 3870000,
+      "exercised": 38700,
+      "total": 118700,
+      "exercised_pct": 32.6,
+      "unexercised": 38700,
+      "unexercised_shares": 3870000,
+      "outstanding": 59365100
     }
   }
 }
