@@ -412,26 +412,38 @@ def generate_html(days, updated_str):
         for m in months
     )
     # 月ごとのテーブル本体
+    # 初期表示を軽くするため、最新月のみサーバー側でHTML化して埋め込み、
+    # それ以外の月は data/months/{ym}.json に書き出してタブクリック時に
+    # クライアント側で遅延読み込み・描画する。
+    first_month = months[0] if months else ""
+    months_dir = os.path.join(DATA_DIR, "months")
+    os.makedirs(months_dir, exist_ok=True)
+
     panels = ""
     for m in months:
         m_days = by_month[m]
-        rows = "".join(make_day_block(d) for d in m_days)
-        total_new = sum(len(d.get("new",[])) for d in m_days)
-        total_chg = sum(len(d.get("chg",[])) for d in m_days)
-        panels += (
-            f'<div class="tab-panel" id="panel-{m}" style="display:none">'
-            f'<div class="panel-meta">{len(m_days)} 営業日 ／ 新規 {total_new} 件 ／ 変更 {total_chg} 件</div>'
-            f'<div class="wrap"><table style="table-layout:fixed;width:100%">'
-            f'<colgroup><col class="col-badge"><col class="col-ratio"><col class="col-pdf">'
-            f'<col class="col-code"><col style="width:220px"><col></colgroup>'
-            f'<thead><tr><th>区分</th><th class="ratio">保有割合</th><th></th>'
-            f'<th>コード</th><th>銘柄名</th><th>保有者</th></tr></thead>'
-            f'<tbody>{rows}</tbody></table></div></div>'
-        )
-    first_month = months[0] if months else ""
+        if m == first_month:
+            rows = "".join(make_day_block(d) for d in m_days)
+            total_new = sum(len(d.get("new",[])) for d in m_days)
+            total_chg = sum(len(d.get("chg",[])) for d in m_days)
+            panels += (
+                f'<div class="tab-panel" id="panel-{m}" style="display:none">'
+                f'<div class="panel-meta">{len(m_days)} 営業日 ／ 新規 {total_new} 件 ／ 変更 {total_chg} 件</div>'
+                f'<div class="wrap"><table style="table-layout:fixed;width:100%">'
+                f'<colgroup><col class="col-badge"><col class="col-ratio"><col class="col-pdf">'
+                f'<col class="col-code"><col style="width:220px"><col></colgroup>'
+                f'<thead><tr><th>区分</th><th class="ratio">保有割合</th><th></th>'
+                f'<th>コード</th><th>銘柄名</th><th>保有者</th></tr></thead>'
+                f'<tbody>{rows}</tbody></table></div></div>'
+            )
+        else:
+            with open(os.path.join(months_dir, f"{m}.json"), "w", encoding="utf-8") as mf:
+                json.dump(m_days, mf, ensure_ascii=False)
+            panels += f'<div class="tab-panel" id="panel-{m}" style="display:none"></div>'
     all_rows = ""  # unused now
 
-    # 検索用の全データJSON（JS埋め込み）
+    # 検索用の全データは index.html に埋め込まず data/search_index.json に分離し、
+    # 検索を実際に使うときだけクライアントから fetch する（初期読み込みを軽量化）。
     import json as _json
     all_entries = []
     for d in days:
@@ -448,7 +460,9 @@ def generate_html(days, updated_str):
                 "isNew": e.get("isNew", False),
                 "docId": e.get("docId") or "",
             })
-    all_entries_json = _json.dumps(all_entries, ensure_ascii=False)
+    search_index_path = os.path.join(DATA_DIR, "search_index.json")
+    with open(search_index_path, "w", encoding="utf-8") as sf:
+        _json.dump(all_entries, sf, ensure_ascii=False)
     warrants_json = _json.dumps(WARRANTS, ensure_ascii=False)
 
     return f"""<!DOCTYPE html>
@@ -592,8 +606,9 @@ footer a:hover{{color:var(--gold)}}
 </div>
 </main>
 <script>
-const ALL = {all_entries_json};
+let ALL = null;  // 検索用全データ。初回検索時に data/search_index.json から遅延取得
 const WARRANTS = {warrants_json};
+const monthsLoaded = {{ '{first_month}': true }};  // 最新月はサーバー側で埋め込み済み
 
 function warrantRow(sec) {{
   const w = WARRANTS[sec];
@@ -655,12 +670,63 @@ function makeRow(e) {{
   </tr>` + warrantRow(e.sec);
 }}
 
-function doSearch() {{
+function sectionRow(title, count, dotClass) {{
+  return `<tr class="section-row"><td colspan="6"><span class="dot ${{dotClass}}"></span>${{title}}<span class="cnt">${{count}}件</span></td></tr>`;
+}}
+
+function dayBlock(day) {{
+  const newE = day.new || [], chgE = day.chg || [];
+  const emptyNew = '<tr><td colspan="6" class="empty">新規報告なし</td></tr>';
+  const emptyChg = '<tr><td colspan="6" class="empty">変更報告なし</td></tr>';
+  const newRows = newE.length ? newE.map(makeRow).join('') : emptyNew;
+  const chgRows = chgE.length ? chgE.map(makeRow).join('') : emptyChg;
+  return `<tr class="date-row"><td colspan="6">📅 ${{day.date}}</td></tr>`
+    + sectionRow('大量保有報告書（新規）', newE.length, 'dot-new') + newRows
+    + sectionRow('変更報告書', chgE.length, 'dot-chg') + chgRows;
+}}
+
+async function loadMonth(m) {{
+  if (monthsLoaded[m]) return;
+  const panel = document.getElementById('panel-'+m);
+  panel.innerHTML = '<div class="panel-meta">読み込み中…</div>';
+  try {{
+    const res = await fetch(`data/months/${{m}}.json`);
+    const monthDays = await res.json();
+    const totalNew = monthDays.reduce((s,d)=>s+(d.new||[]).length,0);
+    const totalChg = monthDays.reduce((s,d)=>s+(d.chg||[]).length,0);
+    const rows = monthDays.map(dayBlock).join('');
+    panel.innerHTML = `<div class="panel-meta">${{monthDays.length}} 営業日 ／ 新規 ${{totalNew}} 件 ／ 変更 ${{totalChg}} 件</div>`
+      + `<div class="wrap"><table style="table-layout:fixed;width:100%">`
+      + `<colgroup><col class="col-badge"><col class="col-ratio"><col class="col-pdf">`
+      + `<col class="col-code"><col style="width:220px"><col></colgroup>`
+      + `<thead><tr><th>区分</th><th class="ratio">保有割合</th><th></th>`
+      + `<th>コード</th><th>銘柄名</th><th>保有者</th></tr></thead>`
+      + `<tbody>${{rows}}</tbody></table></div>`;
+    monthsLoaded[m] = true;
+  }} catch (err) {{
+    panel.innerHTML = '<div class="panel-meta">読み込みエラー。再読み込みしてください。</div>';
+  }}
+}}
+
+async function ensureAll() {{
+  if (ALL) return ALL;
+  const res = await fetch('data/search_index.json');
+  ALL = await res.json();
+  return ALL;
+}}
+
+async function doSearch() {{
   const code  = document.getElementById('inp-code').value.trim().toUpperCase();
   const filer = document.getElementById('inp-filer').value.trim();
   if (!code && !filer) {{ clearSearch(); return; }}
 
-  const results = ALL.filter(e => {{
+  document.getElementById('search-meta').textContent = '読み込み中…';
+  document.getElementById('search-panel').style.display = 'block';
+  document.getElementById('tab-bar').style.display = 'none';
+  document.querySelectorAll('.tab-panel').forEach(p => p.style.display = 'none');
+
+  const all = await ensureAll();
+  const results = all.filter(e => {{
     const codeOk  = !code  || e.sec.toUpperCase().includes(code) || e.name.includes(document.getElementById('inp-code').value.trim());
     const filerOk = !filer || e.filer.includes(filer) || e.filer.toLowerCase().includes(filer.toLowerCase());
     return codeOk && filerOk;
@@ -700,7 +766,7 @@ function clearSearch() {{
   switchTab(currentTab);
 }}
 
-function switchTab(m) {{
+async function switchTab(m) {{
   currentTab = m;
   document.querySelectorAll('.tab-panel').forEach(p => p.style.display='none');
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -708,6 +774,7 @@ function switchTab(m) {{
   if (panel) panel.style.display='';
   const btn = document.querySelector('[data-month="'+m+'"]');
   if (btn) btn.classList.add('active');
+  if (!monthsLoaded[m]) await loadMonth(m);
 }}
 let currentTab = '{first_month}';
 switchTab('{first_month}');
