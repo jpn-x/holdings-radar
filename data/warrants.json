@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03 21:08",
+  "updated": "2026-07-06 23:42",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -782,17 +782,17 @@
     "4883": {
       "name": "株式会社モダリス",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第19回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260630/140120260630585054/",
+      "title": "第三者割当により発行された第19回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-07-06",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260706/140120260706588476/",
       "kai": 19,
-      "kofu": 1000000,
-      "exercised": 10000,
+      "kofu": 3350000,
+      "exercised": 33500,
       "total": 240000,
-      "exercised_pct": 4.2,
-      "unexercised": 230000,
-      "unexercised_shares": 23000000,
-      "outstanding": 96334098
+      "exercised_pct": 14.0,
+      "unexercised": 196500,
+      "unexercised_shares": 19650000,
+      "outstanding": 97334098
     },
     "4891": {
       "name": "株式会社ティムス",
@@ -818,10 +818,13 @@
     "4935": {
       "name": "株式会社リベルタ",
       "holder": "ＳＭＢＣ日興証券株式会社",
-      "title": "（訂正）「第７回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ」の一部訂正に関するお知らせ",
-      "date": "2026-07-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260703/140120260703587828/",
-      "kai": 7
+      "title": "第７回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-07-06",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260706/140120260706588551/",
+      "kai": 7,
+      "exercised": 10000,
+      "exercised_pct": 13.41,
+      "outstanding": 31278000
     },
     "5216": {
       "name": "株式会社倉元製作所",
