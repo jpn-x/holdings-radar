@@ -72,7 +72,20 @@ def get_date():
         d -= timedelta(days=1)
     while d.weekday() >= 5:
         d -= timedelta(days=1)
-    return d.strftime("%Y-%m-%d")
+    date_str = d.strftime("%Y-%m-%d")
+
+    # 当日ファイルが既に存在する場合、前営業日が欠落していないか確認してバックフィル
+    data_dir = os.path.abspath(DATA_DIR)
+    if os.path.exists(os.path.join(data_dir, f"{date_str}.json")):
+        prev = d - timedelta(days=1)
+        while prev.weekday() >= 5:
+            prev -= timedelta(days=1)
+        prev_str = prev.strftime("%Y-%m-%d")
+        if not os.path.exists(os.path.join(data_dir, f"{prev_str}.json")):
+            print(f"  [backfill] {date_str} exists but {prev_str} is missing → fetching {prev_str}")
+            return prev_str
+
+    return date_str
 
 
 def api_get(path, **kwargs):
@@ -904,3 +917,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
