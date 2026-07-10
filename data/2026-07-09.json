@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-09",
+  "new": [
+    {
+      "docId": "S100YPOQ",
+      "sec": "2776",
+      "name": "新都ホールディングス株式会社",
+      "filer": "福田　卓也",
+      "ratio": 11.24,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YPOM",
+      "sec": "590A",
+      "name": "ギフティグループ株式会社",
+      "filer": "梅田　裕真",
+      "ratio": 5.73,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YPLB",
+      "sec": "472A",
+      "name": "株式会社ミラティブ",
+      "filer": "片山晃",
+      "ratio": 14.27,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YP7V",
+      "sec": "6266",
+      "name": "タツモ株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 10.15,
+      "prev_ratio": 11.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPHY",
+      "sec": "4935",
+      "name": "株式会社リベルタ",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 16.91,
+      "prev_ratio": 17.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPR3",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 17.14,
+      "prev_ratio": 16.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPHF",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 29.57,
+      "prev_ratio": 30.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPRL",
+      "sec": "4980",
+      "name": "デクセリアルズ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 12.88,
+      "prev_ratio": 12.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPFM",
+      "sec": "3664",
+      "name": "株式会社WIZE",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 36.19,
+      "prev_ratio": 37.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPBH",
+      "sec": "4973",
+      "name": "日本高純度化学株式会社",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 7.47,
+      "prev_ratio": 8.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YONU",
+      "sec": "9699",
+      "name": "ニシオホールディングス株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 13.37,
+      "prev_ratio": 14.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPBU",
+      "sec": "7952",
+      "name": "株式会社河合楽器製作所",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 6.23,
+      "prev_ratio": 5.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPNZ",
+      "sec": "3815",
+      "name": "株式会社メディア工房",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 11.81,
+      "prev_ratio": 12.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPES",
+      "sec": "9956",
+      "name": "株式会社バローホールディングス",
+      "filer": "田代　正美",
+      "ratio": 9.0,
+      "prev_ratio": 9.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPC1",
+      "sec": "4372",
+      "name": "ユミルリンク株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.6,
+      "prev_ratio": 6.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPI4",
+      "sec": "485A",
+      "name": "株式会社パワーエックス",
+      "filer": "株式会社ＦＡＲＯＵＴ",
+      "ratio": 19.45,
+      "prev_ratio": 20.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPDN",
+      "sec": "6656",
+      "name": "インスペック株式会社",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 8.6,
+      "prev_ratio": 7.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPSS",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 18.91,
+      "prev_ratio": 19.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPJI",
+      "sec": "485A",
+      "name": "株式会社パワーエックス",
+      "filer": "株式会社ＦＡＲＯＵＴ",
+      "ratio": 19.35,
+      "prev_ratio": 19.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPT1",
+      "sec": "9024",
+      "name": "株式会社西武ホールディングス",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 13.91,
+      "prev_ratio": 12.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPNN",
+      "sec": "4849",
+      "name": "エン株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 10.32,
+      "prev_ratio": 9.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YOYQ",
+      "sec": "9691",
+      "name": "株式会社両毛システムズ",
+      "filer": "株式会社ミツバ",
+      "ratio": 96.72,
+      "prev_ratio": 53.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPSF",
+      "sec": "7183",
+      "name": "あんしん保証株式会社",
+      "filer": "アイフル株式会社",
+      "ratio": 75.15,
+      "prev_ratio": 37.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPPW",
+      "sec": "5844",
+      "name": "株式会社京都フィナンシャルグループ",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 4.36,
+      "prev_ratio": 5.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPSV",
+      "sec": "7183",
+      "name": "あんしん保証株式会社",
+      "filer": "アイフル株式会社",
+      "ratio": 75.15,
+      "prev_ratio": 75.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPSB",
+      "sec": "6291",
+      "name": "日本エアーテック株式会社",
+      "filer": "ケンブリッジフィルターコーポレーション株式会社",
+      "ratio": 6.08,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
