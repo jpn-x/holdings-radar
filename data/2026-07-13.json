@@ -1,0 +1,257 @@
+{
+  "date": "2026-07-13",
+  "new": [
+    {
+      "docId": "S100YPO3",
+      "sec": "6402",
+      "name": "兼松エンジニアリング株式会社",
+      "filer": "三谷　公男",
+      "ratio": 5.74,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YQ8R",
+      "sec": "7693",
+      "name": "北海道歯科産業株式会社",
+      "filer": "山田　哲哉",
+      "ratio": 40.79,
+      "prev_ratio": 39.23,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YQ96",
+      "sec": "8007",
+      "name": "高島株式会社",
+      "filer": "大國　順彦",
+      "ratio": 13.56,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YPCY",
+      "sec": "6360",
+      "name": "株式会社東京自働機械製作所",
+      "filer": "光通信株式会社",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YO20",
+      "sec": "3612",
+      "name": "株式会社ワールド",
+      "filer": "寺井　秀藏",
+      "ratio": 16.09,
+      "prev_ratio": 16.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YEMR",
+      "sec": "3926",
+      "name": "株式会社オープンドア",
+      "filer": "株式会社くふうカンパニーホールディングス",
+      "ratio": 8.33,
+      "prev_ratio": 7.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ3T",
+      "sec": "6699",
+      "name": "ダイヤモンドエレクトリックホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 29.61,
+      "prev_ratio": 30.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YP8T",
+      "sec": "6432",
+      "name": "株式会社竹内製作所",
+      "filer": "株式会社テイク",
+      "ratio": 18.33,
+      "prev_ratio": 18.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPY6",
+      "sec": "4935",
+      "name": "株式会社リベルタ",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 15.09,
+      "prev_ratio": 15.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ5E",
+      "sec": "3482",
+      "name": "ロードスターキャピタル株式会社",
+      "filer": "岩野　達志",
+      "ratio": 19.55,
+      "prev_ratio": 15.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ3W",
+      "sec": "5341",
+      "name": "ASAHI EITOホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 30.68,
+      "prev_ratio": 31.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPRH",
+      "sec": "6402",
+      "name": "兼松エンジニアリング株式会社",
+      "filer": "三谷　公男",
+      "ratio": 1.92,
+      "prev_ratio": 5.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ3G",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.07,
+      "prev_ratio": 20.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPTC",
+      "sec": "3490",
+      "name": "株式会社アズ企画設計",
+      "filer": "松本　俊人",
+      "ratio": 51.41,
+      "prev_ratio": 48.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ85",
+      "sec": "8007",
+      "name": "高島株式会社",
+      "filer": "大丸　孝之",
+      "ratio": null,
+      "prev_ratio": 11.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ93",
+      "sec": "7693",
+      "name": "北海道歯科産業株式会社",
+      "filer": "髙島　健二",
+      "ratio": 6.02,
+      "prev_ratio": 8.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ1M",
+      "sec": "4813",
+      "name": "株式会社ACCESS",
+      "filer": "清原　達郎",
+      "ratio": 18.48,
+      "prev_ratio": 22.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ4P",
+      "sec": "6029",
+      "name": "アトラグループ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 30.67,
+      "prev_ratio": 30.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPRC",
+      "sec": "8923",
+      "name": "トーセイ株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 6.07,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YP9L",
+      "sec": "8818",
+      "name": "京阪神ビルディング株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 9.44,
+      "prev_ratio": 10.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ7O",
+      "sec": "4972",
+      "name": "綜研化学株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 21.47,
+      "prev_ratio": 20.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YG83",
+      "sec": "6165",
+      "name": "パンチ工業株式会社",
+      "filer": "牧　寛之",
+      "ratio": 5.11,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ5P",
+      "sec": "4911",
+      "name": "株式会社資生堂",
+      "filer": "ノルウェー銀行",
+      "ratio": 5.56,
+      "prev_ratio": 5.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQAD",
+      "sec": "7318",
+      "name": "セレンディップ・ホールディングス株式会社",
+      "filer": "諸戸グループマネジメント株式会社",
+      "ratio": 8.92,
+      "prev_ratio": 10.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQB8",
+      "sec": "7426",
+      "name": "株式会社山大",
+      "filer": "山本裕治",
+      "ratio": 15.04,
+      "prev_ratio": 14.04,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
