@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-15",
+  "new": [
+    {
+      "docId": "S100YQO6",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 9.4,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YQ1F",
+      "sec": "4414",
+      "name": "株式会社フレクト",
+      "filer": "光通信株式会社",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YQRP",
+      "sec": "4813",
+      "name": "株式会社ＡＣＣＥＳＳ",
+      "filer": "古川　良太",
+      "ratio": 5.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YQ17",
+      "sec": "7352",
+      "name": "株式会社TWOSTONE&amp;Sons",
+      "filer": "倉田将志",
+      "ratio": 6.19,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQI2",
+      "sec": "6525",
+      "name": "株式会社ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 10.17,
+      "prev_ratio": 11.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQIP",
+      "sec": "8029",
+      "name": "株式会社ルックホールディングス",
+      "filer": "八木通商株式会社",
+      "ratio": 9.81,
+      "prev_ratio": 10.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQPM",
+      "sec": "9941",
+      "name": "太洋物産株式会社",
+      "filer": "エスクリプトエナジー株式会社",
+      "ratio": 11.58,
+      "prev_ratio": 11.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YNH5",
+      "sec": "4625",
+      "name": "アトミクス株式会社",
+      "filer": "アトミクス取引先持株会　理事長　楠本慶太",
+      "ratio": 14.35,
+      "prev_ratio": 13.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQJ7",
+      "sec": "3664",
+      "name": "株式会社WIZE",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 33.71,
+      "prev_ratio": 34.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQPH",
+      "sec": "9560",
+      "name": "株式会社プログリット",
+      "filer": "山碕　峻太郎",
+      "ratio": 7.64,
+      "prev_ratio": 7.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ7K",
+      "sec": "4935",
+      "name": "株式会社リベルタ",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 13.86,
+      "prev_ratio": 15.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQRT",
+      "sec": "3034",
+      "name": "クオールホールディングス株式会社",
+      "filer": "モルガン・スタンレーＭＵＦＧ証券株式会社",
+      "ratio": 12.4,
+      "prev_ratio": 12.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQJS",
+      "sec": "6408",
+      "name": "小倉クラッチ株式会社",
+      "filer": "成成株式会社",
+      "ratio": 10.47,
+      "prev_ratio": 7.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQN4",
+      "sec": "8783",
+      "name": "ａｂｃ株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 3.67,
+      "prev_ratio": 5.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPX2",
+      "sec": "3132",
+      "name": "マクニカホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 9.18,
+      "prev_ratio": 8.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YOEI",
+      "sec": "5016",
+      "name": "JX金属株式会社",
+      "filer": "ＥＮＥＯＳホールディングス株式会社",
+      "ratio": 35.28,
+      "prev_ratio": 42.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ1E",
+      "sec": "9691",
+      "name": "株式会社両毛システムズ",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQE9",
+      "sec": "3179",
+      "name": "シュッピン株式会社",
+      "filer": "ＶＩＳ　Ａｄｖｉｓｏｒｓ，ＬＰ",
+      "ratio": 9.29,
+      "prev_ratio": 8.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQHO",
+      "sec": "9890",
+      "name": "株式会社マキヤ",
+      "filer": "株式会社マキリ",
+      "ratio": 0.72,
+      "prev_ratio": 41.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQ2Y",
+      "sec": "2432",
+      "name": "株式会社ディー・エヌ・エー",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 3.76,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQN2",
+      "sec": "4078",
+      "name": "堺化学工業株式会社",
+      "filer": "ＳＨ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ",
+      "ratio": 12.46,
+      "prev_ratio": 13.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQJM",
+      "sec": "6740",
+      "name": "株式会社ジャパンディスプレイ",
+      "filer": "いちごアセットマネジメント・インタ－ナショナル・ピ－ティ－イ－・リミテッド",
+      "ratio": 87.99,
+      "prev_ratio": 88.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQTN",
+      "sec": "2997",
+      "name": "株式会社ストレージ王",
+      "filer": "株式会社デベロップ",
+      "ratio": 9.85,
+      "prev_ratio": 9.89,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
