@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 20:24",
+  "updated": "2026-07-15 20:27",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -113,17 +113,17 @@
     "3667": {
       "name": "株式会社enish",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第22回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260701/140120260701585997/",
+      "title": "第三者割当により発行された第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-07-15",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260715/140120260715594653/",
       "kai": 22,
-      "kofu": 4559000,
-      "exercised": 45590,
+      "kofu": 2760000,
+      "exercised": 27600,
       "total": 210000,
-      "exercised_pct": 21.7,
-      "unexercised": 157110,
-      "unexercised_shares": 15711000,
-      "outstanding": 46323560
+      "exercised_pct": 13.1,
+      "unexercised": 129510,
+      "unexercised_shares": 12951000,
+      "outstanding": 50882560
     },
     "3672": {
       "name": "株式会社オルトプラス",
@@ -1382,12 +1382,11 @@
       "name": "株式会社メドレックス",
       "holder": "グロース・キャピタル株式会社",
       "title": "第三者割当により発行された第35回新株予約権(行使価額修正条項付)の大量行使に関するお知らせ",
-      "date": "2026-07-07",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260707/140120260707589216/",
+      "date": "2026-07-15",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260715/140120260715594796/",
       "kai": 35,
-      "kofu": 1692100,
-      "unexercised": 121839,
-      "unexercised_shares": 12183900,
+      "unexercised": 98496,
+      "unexercised_shares": 9849600,
       "outstanding": 60271100
     }
   }
