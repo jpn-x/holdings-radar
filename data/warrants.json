@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 20:27",
+  "updated": "2026-07-16 20:32",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1102,16 +1102,16 @@
     "7746": {
       "name": "岡本硝子株式会社",
       "holder": "ＳＭＢＣ日興証券株式会社",
-      "title": "行使価額修正条項付新株予約権の月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260701/140120260701585429/",
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "date": "2026-07-16",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260716/140120260716595272/",
       "kai": 11,
-      "kofu": 6000,
-      "exercised": 60,
-      "exercised_pct": 0.3,
-      "unexercised": 17940,
-      "unexercised_shares": 1794000,
-      "outstanding": 29121543
+      "kofu": 230000,
+      "exercised": 2300,
+      "exercised_pct": 12.78,
+      "unexercised": 15640,
+      "unexercised_shares": 1564000,
+      "outstanding": 29127543
     },
     "7957": {
       "name": "フジコピアン株式会社",
