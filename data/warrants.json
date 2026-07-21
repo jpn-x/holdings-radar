@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 21:14",
+  "updated": "2026-07-21 20:49",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -972,17 +972,17 @@
     },
     "7794": {
       "name": "株式会社イーディーピー",
-      "holder": "藤森　直治",
-      "title": "行使価額修正条項付新株予約権の月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260630/140120260630584836/",
+      "holder": "岡三証券株式会社",
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "date": "2026-07-21",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260721/140120260721596636/",
       "kai": 18,
-      "kofu": 448500,
-      "exercised": 4485,
-      "exercised_pct": 14.95,
-      "unexercised": 25515,
-      "unexercised_shares": 2551500,
-      "outstanding": 15474600
+      "kofu": 393500,
+      "exercised": 3935,
+      "exercised_pct": 13.12,
+      "unexercised": 21580,
+      "unexercised_shares": 2158000,
+      "outstanding": 16467100
     },
     "8107": {
       "name": "株式会社キムラタン",
@@ -1101,16 +1101,14 @@
     },
     "7746": {
       "name": "岡本硝子株式会社",
-      "holder": "ＳＭＢＣ日興証券株式会社",
+      "holder": "野村證券株式会社",
       "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
-      "date": "2026-07-16",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260716/140120260716595272/",
+      "date": "2026-07-21",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260721/140120260721596812/",
       "kai": 11,
-      "kofu": 230000,
-      "exercised": 2300,
-      "exercised_pct": 12.78,
-      "unexercised": 15640,
-      "unexercised_shares": 1564000,
+      "exercised": 2000,
+      "exercised_pct": 11.11,
+      "unexercised": 13640,
       "outstanding": 29127543
     },
     "7957": {
@@ -1415,6 +1413,17 @@
       "unexercised": 0,
       "unexercised_shares": 0,
       "outstanding": 72122015
+    },
+    "3350": {
+      "name": "株式会社メタプラネット",
+      "holder": "Ｅｖｏ　Ｆｕｎｄ",
+      "title": "第三者割当により発行された第27回新株予約権（行使価額修正条項、mNAV条項、下限行使価額修正条項及び行使停止条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-07-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260701/140120260701586053/",
+      "kai": 27,
+      "kofu": 0,
+      "unexercised": 947300,
+      "unexercised_shares": 94730000
     }
   }
 }
