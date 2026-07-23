@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 20:50",
+  "updated": "2026-07-23 20:55",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -752,16 +752,15 @@
       "name": "株式会社モダリス",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
       "title": "第三者割当により発行された第19回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-07-06",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260706/140120260706588476/",
+      "date": "2026-07-23",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260723/140120260723598559/",
       "kai": 19,
-      "kofu": 3350000,
-      "exercised": 33500,
+      "exercised": 34400,
       "total": 240000,
-      "exercised_pct": 14.0,
-      "unexercised": 196500,
-      "unexercised_shares": 19650000,
-      "outstanding": 97334098
+      "exercised_pct": 14.3,
+      "unexercised": 162100,
+      "unexercised_shares": 16210000,
+      "outstanding": 100684098
     },
     "4891": {
       "name": "株式会社ティムス",
@@ -1270,13 +1269,6 @@
       "date": "2025-06-04",
       "pdf": "https://kabutan.jp/disclosures/pdf/20250603/140120250603580232/"
     },
-    "7172": {
-      "name": "株式会社ジャパンインベストメントアドバイザー",
-      "holder": "白岩　直人",
-      "title": "第4回新株予約権の行使状況（一般投資家の最終行使状況）及び取得に関するお知らせ",
-      "date": "2024-03-13",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20240312/140120240312552341/"
-    },
     "7603": {
       "name": "株式会社マックハウス",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
@@ -1424,6 +1416,37 @@
       "kofu": 0,
       "unexercised": 947300,
       "unexercised_shares": 94730000
+    },
+    "3825": {
+      "name": "株式会社リミックスポイント",
+      "holder": "楽天証券株式会社",
+      "title": "第三者割当による第25回新株予約権（行使価額修正条項付）の取得及び消却の完了並びに月間行使状況に関するお知らせ",
+      "date": "2025-10-31",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20251030/140120251030583509/"
+    },
+    "6659": {
+      "name": "株式会社メディアリンクス",
+      "holder": "Ｅｖｏ　Ｆｕｎｄ",
+      "title": "第三者割当により発行された第18回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-05-19",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260519/140120260519541277/",
+      "kai": 18,
+      "kofu": 2460000,
+      "exercised": 24600,
+      "total": 320000,
+      "exercised_pct": 7.69,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 78695300
+    },
+    "6890": {
+      "name": "株式会社フェローテック",
+      "holder": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "title": "2028年満期ユーロ円建転換社債型新株予約権付社債の月間行使状況に関するお知らせ",
+      "date": "2026-07-06",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260706/140120260706587994/",
+      "kofu": 1358231,
+      "outstanding": 52712305
     }
   }
 }
