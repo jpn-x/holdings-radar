@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 20:42",
+  "updated": "2026-07-27 21:55",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1293,15 +1293,16 @@
     },
     "8783": {
       "name": "GFA株式会社",
-      "holder": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
-      "title": "第三者割当による新株式及び第19回新株予約権の行使による資金調達の状況に関するお知らせ",
-      "date": "2026-05-15",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260515/140120260515538740/",
-      "kai": 19,
-      "unexercised": 365086,
-      "per_right": 100,
-      "exercise_price": 209,
-      "unexercised_shares": 36508600
+      "holder": "合同会社トリコロール２",
+      "title": "第20回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-07-27",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260727/140120260727500125/",
+      "kai": 20,
+      "exercised": 34420,
+      "exercised_pct": 13.19,
+      "unexercised": 226580,
+      "unexercised_shares": 22658000,
+      "outstanding": 41259119
     },
     "8798": {
       "name": "株式会社アドバンスクリエイト",
