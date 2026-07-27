@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-27",
+  "new": [
+    {
+      "docId": "S100YSF8",
+      "sec": "5953",
+      "name": "昭和鉄工株式会社",
+      "filer": "山本裕治",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YSC0",
+      "sec": "2750",
+      "name": "石光商事株式会社",
+      "filer": "マリンフード株式会社",
+      "ratio": 4.01,
+      "prev_ratio": 5.02,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YRXI",
+      "sec": "9722",
+      "name": "藤田観光株式会社",
+      "filer": "Ｏｌｄ　Ｐｅａｋ　Ｇｒｏｕｐ　Ｌｔｄ．",
+      "ratio": 8.24,
+      "prev_ratio": 7.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YS6I",
+      "sec": "3498",
+      "name": "霞ヶ関キャピタル株式会社",
+      "filer": "グランサム、マヨ、ヴァン　オッテルロー　アンド　カンパニー　エルエルシー",
+      "ratio": 6.3,
+      "prev_ratio": 5.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YRKB",
+      "sec": "2157",
+      "name": "株式会社コシダカホールディングス",
+      "filer": "ＩＸＧＳ，　Ｉｎｃ．",
+      "ratio": 8.44,
+      "prev_ratio": 9.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSC4",
+      "sec": "7794",
+      "name": "株式会社イーディーピー",
+      "filer": "岡三証券株式会社",
+      "ratio": 12.92,
+      "prev_ratio": 14.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YS7Q",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 26.65,
+      "prev_ratio": 27.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSFE",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 14.68,
+      "prev_ratio": 14.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSFB",
+      "sec": "2499",
+      "name": "日本和装ホールディングス株式会社",
+      "filer": "吉田　重久",
+      "ratio": 53.89,
+      "prev_ratio": 53.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YRRB",
+      "sec": "9388",
+      "name": "株式会社パパネッツ",
+      "filer": "株式会社花明",
+      "ratio": 7.38,
+      "prev_ratio": 27.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YS52",
+      "sec": "5121",
+      "name": "藤倉コンポジット株式会社",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 11.77,
+      "prev_ratio": 10.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YREY",
+      "sec": "2001",
+      "name": "株式会社ニップン",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 7.09,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YRPS",
+      "sec": "7725",
+      "name": "株式会社インターアクション",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 16.5,
+      "prev_ratio": 15.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YS8M",
+      "sec": "4813",
+      "name": "株式会社ＡＣＣＥＳＳ",
+      "filer": "古川　良太",
+      "ratio": 6.34,
+      "prev_ratio": 5.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YS2Z",
+      "sec": "1447",
+      "name": "SAAFホールディングス株式会社",
+      "filer": "ミツワ樹脂工業株式会社",
+      "ratio": 9.99,
+      "prev_ratio": 6.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YRWJ",
+      "sec": "5644",
+      "name": "株式会社メタルアート",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 21.17,
+      "prev_ratio": 18.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YS2G",
+      "sec": "150A",
+      "name": "株式会社ＪＳＨ",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 16.27,
+      "prev_ratio": 21.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSGB",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 15.04,
+      "prev_ratio": 15.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSIM",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 11.48,
+      "prev_ratio": 13.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSGR",
+      "sec": "6871",
+      "name": "株式会社日本マイクロニクス",
+      "filer": "野村證券株式会社",
+      "ratio": 9.36,
+      "prev_ratio": 10.46,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
