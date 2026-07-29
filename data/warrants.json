@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 20:56",
+  "updated": "2026-07-29 20:59",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1448,6 +1448,18 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20260706/140120260706587994/",
       "kofu": 1358231,
       "outstanding": 52712305
+    },
+    "278A": {
+      "name": "Ｔｅｒｒａ　Ｄｒｏｎｅ株式会社",
+      "holder": "ＳＢＩインベストメント株式会社",
+      "title": "第20回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-07-22",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260722/140120260722597644/",
+      "kai": 20,
+      "exercised": 650,
+      "exercised_pct": 30.47,
+      "unexercised": 1483,
+      "outstanding": 9827800
     }
   }
 }
