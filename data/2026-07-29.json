@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-29",
+  "new": [
+    {
+      "docId": "S100YSOC",
+      "sec": "281A",
+      "name": "インフォメティス株式会社",
+      "filer": "岡三証券株式会社",
+      "ratio": 19.98,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YRH9",
+      "sec": "593A",
+      "name": "株式会社ティアフォー",
+      "filer": "ＳＯＭＰＯホールディングス株式会社",
+      "ratio": 17.49,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YSRZ",
+      "sec": "519A",
+      "name": "株式会社ベーシック",
+      "filer": "三井住友ＤＳアセットマネジメント株式会社",
+      "ratio": 5.14,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YRMK",
+      "sec": "6245",
+      "name": "株式会社ヒラノテクシード",
+      "filer": "新川　浩",
+      "ratio": 9.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YR3I",
+      "sec": "593A",
+      "name": "株式会社ティアフォー",
+      "filer": "ヤマハ発動機株式会社",
+      "ratio": 5.45,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YSB1",
+      "sec": "2332",
+      "name": "株式会社クエスト",
+      "filer": "光通信株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YSX1",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "ＢＣＨ　ＳＰＶ　ＩＩ",
+      "ratio": 5.61,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YSNS",
+      "sec": "4776",
+      "name": "サイボウズ株式会社",
+      "filer": "西端　慶久",
+      "ratio": 17.04,
+      "prev_ratio": 17.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YST5",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 13.14,
+      "prev_ratio": 14.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSLC",
+      "sec": "1909",
+      "name": "日本ドライケミカル株式会社",
+      "filer": "クレディ　アンドスリエル　エ　コメルシアル",
+      "ratio": 6.24,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSDH",
+      "sec": "543A",
+      "name": "ARCHION株式会社",
+      "filer": "トヨタ自動車株式会社",
+      "ratio": 54.29,
+      "prev_ratio": 82.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YPDF",
+      "sec": "4415",
+      "name": "株式会社ブロードエンタープライズ",
+      "filer": "中西　良祐",
+      "ratio": 71.78,
+      "prev_ratio": 73.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSUC",
+      "sec": "8783",
+      "name": "ａｂｃ株式会社",
+      "filer": "ＷＯＷＯＯ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 24.43,
+      "prev_ratio": 35.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSTA",
+      "sec": "543A",
+      "name": "ＡＲＣＨＩＯＮ株式会社",
+      "filer": "ダイムラー・トラック・アーゲー",
+      "ratio": 54.29,
+      "prev_ratio": 82.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSUO",
+      "sec": "6245",
+      "name": "株式会社ヒラノテクシード",
+      "filer": "待場　宏貴",
+      "ratio": null,
+      "prev_ratio": 8.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSVX",
+      "sec": "4572",
+      "name": "カルナバイオサイエンス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 28.34,
+      "prev_ratio": 30.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSSG",
+      "sec": "4584",
+      "name": "キッズウェル・バイオ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 4.55,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSFR",
+      "sec": "4973",
+      "name": "日本高純度化学株式会社",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 5.0,
+      "prev_ratio": 6.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSB2",
+      "sec": "9236",
+      "name": "ジャパンＭ＆Ａソリューション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 19.86,
+      "prev_ratio": 18.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSB4",
+      "sec": "9629",
+      "name": "ピー・シー・エー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 8.08,
+      "prev_ratio": 7.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YREG",
+      "sec": "186A",
+      "name": "株式会社アストロスケールホールディングス",
+      "filer": "ヒューリック株式会社",
+      "ratio": 10.51,
+      "prev_ratio": 8.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSAM",
+      "sec": "150A",
+      "name": "株式会社ＪＳＨ",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 5.21,
+      "prev_ratio": 8.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YS7P",
+      "sec": "2492",
+      "name": "株式会社インフォマート",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 7.49,
+      "prev_ratio": 6.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSLE",
+      "sec": "9072",
+      "name": "ニッコンホールディングス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 17.67,
+      "prev_ratio": 17.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YRE7",
+      "sec": "290A",
+      "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
+      "filer": "ヒューリック株式会社",
+      "ratio": 13.35,
+      "prev_ratio": 12.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSPW",
+      "sec": "4092",
+      "name": "日本化学工業株式会社",
+      "filer": "株式会社Ｃ＆Ｉ　Ｈｏｌｄｉｎｇｓ",
+      "ratio": 8.91,
+      "prev_ratio": 7.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSYK",
+      "sec": "7067",
+      "name": "ブランディングテクノロジー株式会社",
+      "filer": "榊原　暢宏",
+      "ratio": 7.19,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSR4",
+      "sec": "278A",
+      "name": "Terra Drone株式会社",
+      "filer": "德重　徹",
+      "ratio": 56.25,
+      "prev_ratio": 55.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSSH",
+      "sec": "4078",
+      "name": "堺化学工業株式会社",
+      "filer": "ＳＨ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ",
+      "ratio": 9.84,
+      "prev_ratio": 11.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YT0U",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "ratio": 5.51,
+      "prev_ratio": 11.45,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
