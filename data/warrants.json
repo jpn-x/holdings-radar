@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 20:59",
+  "updated": "2026-07-30 20:51",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -196,18 +196,18 @@
     },
     "4582": {
       "name": "シンバイオ製薬株式会社",
-      "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第58回新株予約権及び第66回新株予約権（行使価額修正条項付）の 月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260701/140120260701586224/",
-      "kai": 58,
-      "kofu": 55000,
-      "exercised": 550,
+      "holder": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "title": "第三者割当により発行された第66回新株予約権（行使価額修正条項付）の 大量行使に関するお知らせ",
+      "date": "2026-07-30",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260730/140120260730502888/",
+      "kai": 66,
+      "kofu": 3794000,
+      "exercised": 37940,
       "total": 200000,
-      "exercised_pct": 0.3,
+      "exercised_pct": 19.0,
       "unexercised": 158450,
       "unexercised_shares": 15845000,
-      "outstanding": 76361760
+      "outstanding": 76434210
     },
     "4591": {
       "name": "株式会社リボミック",
@@ -973,16 +973,14 @@
     },
     "7794": {
       "name": "株式会社イーディーピー",
-      "holder": "岡三証券株式会社",
+      "holder": "野村證券株式会社",
       "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
-      "date": "2026-07-21",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260721/140120260721596636/",
+      "date": "2026-07-30",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260730/140120260730503355/",
       "kai": 18,
-      "kofu": 393500,
-      "exercised": 3935,
-      "exercised_pct": 13.12,
-      "unexercised": 21580,
-      "unexercised_shares": 2158000,
+      "exercised": 3800,
+      "exercised_pct": 12.67,
+      "unexercised": 17780,
       "outstanding": 16467100
     },
     "8107": {
