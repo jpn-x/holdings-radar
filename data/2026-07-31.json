@@ -1,0 +1,347 @@
+{
+  "date": "2026-07-31",
+  "new": [
+    {
+      "docId": "S100YTE0",
+      "sec": "9941",
+      "name": "太洋物産株式会社",
+      "filer": "ＫＡＹ　ＬＥＯ　ＢＲＯＴＨＥＲＳ　ＬＩＭＩＴＥＤ",
+      "ratio": 34.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YSUY",
+      "sec": "9082",
+      "name": "大和自動車交通株式会社",
+      "filer": "ｎｅｗｍｏ株式会社",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YT3V",
+      "sec": "6928",
+      "name": "株式会社エノモト",
+      "filer": "日亜化学工業株式会社",
+      "ratio": 8.74,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YSBJ",
+      "sec": "603A",
+      "name": "株式会社アイ・グリッド・ソリューションズ",
+      "filer": "みずほキャピタル株式会社",
+      "ratio": 14.08,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YT7F",
+      "sec": "9439",
+      "name": "株式会社エム・エイチ・グループ",
+      "filer": "Ｚｏｒｙａ　Ｉｎｖｅｓｔｍｅｎｔ　Ｇｌｏｂａｌ　Ｌｉｍｉｔｅｄ",
+      "ratio": 32.26,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YTBY",
+      "sec": "6775",
+      "name": "株式会社ＴＢグループ",
+      "filer": "株式会社グローイングアップ",
+      "ratio": 11.45,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YTLR",
+      "sec": "3480",
+      "name": "株式会社ジェイ・エス・ビー",
+      "filer": "Ｕｒｓａ４株式会社",
+      "ratio": 89.63,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YT9N",
+      "sec": "7685",
+      "name": "株式会社BuySell Technologies",
+      "filer": "岩田　匡平",
+      "ratio": 6.55,
+      "prev_ratio": 6.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSG8",
+      "sec": "6195",
+      "name": "株式会社ホープ",
+      "filer": "森　新平",
+      "ratio": 2.01,
+      "prev_ratio": 5.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YT9R",
+      "sec": "7794",
+      "name": "株式会社イーディーピー",
+      "filer": "岡三証券株式会社",
+      "ratio": 11.76,
+      "prev_ratio": 12.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTE9",
+      "sec": "2656",
+      "name": "株式会社ベクターホールディングス",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 38.91,
+      "prev_ratio": 39.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSOG",
+      "sec": "5026",
+      "name": "株式会社トリプルアイズ",
+      "filer": "ＪＰＥ第１号株式会社",
+      "ratio": 4.07,
+      "prev_ratio": 5.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSDM",
+      "sec": "5357",
+      "name": "株式会社ヨータイ",
+      "filer": "住友大阪セメント株式会社",
+      "ratio": 10.97,
+      "prev_ratio": 11.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSWR",
+      "sec": "7176",
+      "name": "株式会社シンプレクス・ファイナンシャル・ホールディングス",
+      "filer": "株式会社ＳＩＭＰＬＥＸ",
+      "ratio": 37.81,
+      "prev_ratio": 50.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTDG",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 13.93,
+      "prev_ratio": 13.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTAY",
+      "sec": "2986",
+      "name": "株式会社LAホールディングス",
+      "filer": "サマーリバー合同会社",
+      "ratio": 3.65,
+      "prev_ratio": 3.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YRRV",
+      "sec": "7022",
+      "name": "サノヤスホールディングス株式会社",
+      "filer": "飯田　邦彦",
+      "ratio": 8.29,
+      "prev_ratio": 7.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTGV",
+      "sec": "9439",
+      "name": "株式会社エム・エイチ・グループ",
+      "filer": "Ｇｌｏｂａｌ　Ｐｒｏｓｐｅｒｉｔｙ　Ｆｉｎａｎｃｉａｌ　Ｃｏｍｐａｎｙ　Ｌｉｍｉｔｅｄ",
+      "ratio": 39.4,
+      "prev_ratio": 8.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTI3",
+      "sec": "2986",
+      "name": "株式会社LAホールディングス",
+      "filer": "サマーバンク合同会社",
+      "ratio": 5.13,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTID",
+      "sec": "5644",
+      "name": "株式会社メタルアート",
+      "filer": "ダイハツ工業株式会社",
+      "ratio": 32.84,
+      "prev_ratio": 32.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTJ8",
+      "sec": "8783",
+      "name": "ａｂｃ株式会社",
+      "filer": "Ｓｏｕｌ　Ｖｅｎｔｕｒｅｓ　Ｈｏｌｄｉｎｇｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": null,
+      "prev_ratio": 17.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTE6",
+      "sec": "4813",
+      "name": "株式会社ACCESS",
+      "filer": "清原　達郎",
+      "ratio": 12.2,
+      "prev_ratio": 13.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTEW",
+      "sec": "7603",
+      "name": "ジーイエット株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 21.87,
+      "prev_ratio": 22.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSZ2",
+      "sec": "6025",
+      "name": "日本PCサービス株式会社",
+      "filer": "榊原　暢宏",
+      "ratio": 23.2,
+      "prev_ratio": 22.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTE5",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 11.98,
+      "prev_ratio": 13.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTE4",
+      "sec": "4598",
+      "name": "ＤｅｌｔａーＦｌｙ　Ｐｈａｒｍａ株式会社",
+      "filer": "マッコーリー　バンク　リミテッド",
+      "ratio": 9.69,
+      "prev_ratio": 11.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSED",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 48.53,
+      "prev_ratio": 49.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSOY",
+      "sec": "3776",
+      "name": "株式会社ブロードバンドタワー",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 26.8,
+      "prev_ratio": 25.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTED",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 26.27,
+      "prev_ratio": 26.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSCH",
+      "sec": "2998",
+      "name": "クリアル株式会社",
+      "filer": "横田　大造",
+      "ratio": 5.5,
+      "prev_ratio": 7.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YT06",
+      "sec": "186A",
+      "name": "株式会社アストロスケールホールディングス",
+      "filer": "ヒューリック株式会社",
+      "ratio": 11.63,
+      "prev_ratio": 10.51,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YOUW",
+      "sec": "4554",
+      "name": "富士製薬工業株式会社",
+      "filer": "今井　博文",
+      "ratio": 29.99,
+      "prev_ratio": 31.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTJ6",
+      "sec": "3922",
+      "name": "株式会社ＰＲ　ＴＩＭＥＳ",
+      "filer": "山口　拓己",
+      "ratio": 6.76,
+      "prev_ratio": 6.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTLU",
+      "sec": "3480",
+      "name": "株式会社ジェイ・エス・ビー",
+      "filer": "Ｕｒｓａ４株式会社",
+      "ratio": 89.63,
+      "prev_ratio": 89.63,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
