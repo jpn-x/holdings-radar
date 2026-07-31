@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 20:51",
+  "updated": "2026-07-31 20:57",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -28,18 +28,18 @@
     },
     "2721": {
       "name": "株式会社ジェイホールディングス",
-      "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第10回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260601/140120260601557589/",
+      "holder": "中谷　正和",
+      "title": "第三者割当により発行された第10回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-07-31",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260731/140120260731505435/",
       "kai": 10,
-      "kofu": 982000,
-      "exercised": 9820,
+      "kofu": 846000,
+      "exercised": 8460,
       "total": 82700,
-      "exercised_pct": 11.9,
-      "unexercised": 50160,
-      "unexercised_shares": 5016000,
-      "outstanding": 12100500
+      "exercised_pct": 10.2,
+      "unexercised": 41700,
+      "unexercised_shares": 4170000,
+      "outstanding": 13082500
     },
     "3133": {
       "name": "株式会社　海帆",
@@ -975,12 +975,12 @@
       "name": "株式会社イーディーピー",
       "holder": "野村證券株式会社",
       "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
-      "date": "2026-07-30",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260730/140120260730503355/",
+      "date": "2026-07-31",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260731/140120260731505451/",
       "kai": 18,
-      "exercised": 3800,
-      "exercised_pct": 12.67,
-      "unexercised": 17780,
+      "exercised": 3000,
+      "exercised_pct": 10.0,
+      "unexercised": 14780,
       "outstanding": 16467100
     },
     "8107": {
@@ -1381,14 +1381,14 @@
     "4381": {
       "name": "ビープラッツ株式会社",
       "holder": "グロースパートナーズ株式会社",
-      "title": "第６回新株予約権、第１回無担保転換社債型新株予約権付社債及び第７回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260701/140120260701585489/",
+      "title": "第６回新株予約権、第１回無担保転換社債型新株予約権付社債及び第７回新株予約権（行使価額修正条項付）の大量行使及び月間行使状況に関するお知らせ",
+      "date": "2026-07-31",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260731/140120260731505740/",
       "kai": 6,
-      "exercised": 0,
-      "exercised_pct": 0.0,
-      "unexercised": 9588,
-      "outstanding": 2911799
+      "exercised": 1300,
+      "exercised_pct": 9.36,
+      "unexercised": 8288,
+      "outstanding": 2998499
     },
     "4833": {
       "name": "株式会社Def consulting",
