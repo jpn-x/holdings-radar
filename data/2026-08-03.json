@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-03",
+  "new": [
+    {
+      "docId": "S100YSVK",
+      "sec": "6103",
+      "name": "オークマ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YQQ8",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "株式会社Ｔ．ＭＡＫＥ",
+      "ratio": 16.29,
+      "prev_ratio": 16.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQQQ",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "株式会社Ｔ．ＭＡＫＥ",
+      "ratio": 8.92,
+      "prev_ratio": 16.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YQPG",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "株式会社Ｔ．ＭＡＫＥ",
+      "ratio": 16.29,
+      "prev_ratio": 19.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YT93",
+      "sec": "6918",
+      "name": "株式会社アバールデータ",
+      "filer": "Ｇｏｏｄｈａｒｔ　Ｐａｒｔｎｅｒｓ　ＬＬＰ",
+      "ratio": 5.27,
+      "prev_ratio": 6.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTFT",
+      "sec": "",
+      "name": "",
+      "filer": "株式会社みずほ銀行",
+      "ratio": null,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSVO",
+      "sec": "7730",
+      "name": "マニー株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.73,
+      "prev_ratio": 5.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTOP",
+      "sec": "7678",
+      "name": "株式会社あさくま",
+      "filer": "有限会社あさしお",
+      "ratio": 6.74,
+      "prev_ratio": 8.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSVS",
+      "sec": "7752",
+      "name": "株式会社リコー",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.12,
+      "prev_ratio": 5.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSVU",
+      "sec": "9735",
+      "name": "セコム株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.39,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTFV",
+      "sec": "151A",
+      "name": "株式会社ダイブグループ",
+      "filer": "庄子　潔",
+      "ratio": 64.91,
+      "prev_ratio": 64.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTQ3",
+      "sec": "446A",
+      "name": "株式会社ノースサンド",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 6.28,
+      "prev_ratio": 5.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTMK",
+      "sec": "7683",
+      "name": "株式会社ダブルエー",
+      "filer": "肖　俊偉",
+      "ratio": 55.31,
+      "prev_ratio": 55.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSPH",
+      "sec": "2708",
+      "name": "株式会社久世",
+      "filer": "久世　健吉",
+      "ratio": 13.39,
+      "prev_ratio": 10.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTBX",
+      "sec": "2708",
+      "name": "株式会社久世",
+      "filer": "久世　真也",
+      "ratio": 19.7,
+      "prev_ratio": 10.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTMY",
+      "sec": "3475",
+      "name": "株式会社グッドコムアセット",
+      "filer": "長嶋　義和",
+      "ratio": 43.14,
+      "prev_ratio": 43.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTNL",
+      "sec": "4813",
+      "name": "株式会社ACCESS",
+      "filer": "清原　達郎",
+      "ratio": 9.78,
+      "prev_ratio": 12.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSWY",
+      "sec": "4290",
+      "name": "株式会社プレステージ・インターナショナル",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 4.14,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSL9",
+      "sec": "4189",
+      "name": "ＫＨネオケム株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 18.24,
+      "prev_ratio": 18.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSJA",
+      "sec": "6364",
+      "name": "株式会社ＡＩＲＭＡＮ",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 12.97,
+      "prev_ratio": 13.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSLJ",
+      "sec": "7745",
+      "name": "株式会社Ａ＆Ｄホロンホールディングス",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 15.72,
+      "prev_ratio": 15.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSLZ",
+      "sec": "8818",
+      "name": "京阪神ビルディング株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 9.17,
+      "prev_ratio": 9.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YST8",
+      "sec": "5644",
+      "name": "株式会社メタルアート",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 22.37,
+      "prev_ratio": 21.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSP6",
+      "sec": "2480",
+      "name": "システム・ロケーション株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 12.76,
+      "prev_ratio": 11.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSP7",
+      "sec": "3480",
+      "name": "株式会社ジェイ・エス・ビー",
+      "filer": "光通信株式会社",
+      "ratio": null,
+      "prev_ratio": 18.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSVN",
+      "sec": "365A",
+      "name": "伊澤タオル株式会社",
+      "filer": "ジャフコ　グループ株式会社",
+      "ratio": 9.48,
+      "prev_ratio": 10.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YT7A",
+      "sec": "3021",
+      "name": "株式会社パシフィックネット",
+      "filer": "上田　満弘",
+      "ratio": 50.04,
+      "prev_ratio": 51.05,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
