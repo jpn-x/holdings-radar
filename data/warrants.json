@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 21:02",
+  "updated": "2026-08-05 20:57",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -316,11 +316,11 @@
       "outstanding": 12592901
     },
     "7138": {
-      "name": "株式会社TORICO",
-      "holder": "Ｅｖｏ　Ｆｕｎｄ",
+      "name": "株式会社ＴＯＲＩＣＯ",
+      "holder": "鯉沼　充",
       "title": "第三者割当により発行された第11回新株予約権（行使価額修正条項及び行使停止条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-07-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260701/140120260701585950/",
+      "date": "2026-08-05",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260805/140120260805510145/",
       "kai": 11,
       "unexercised": 92000,
       "unexercised_shares": 9200000,
@@ -1112,16 +1112,16 @@
     "7746": {
       "name": "岡本硝子株式会社",
       "holder": "ＳＭＢＣ日興証券株式会社",
-      "title": "行使価額修正条項付新株予約権の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260803/140120260803506162/",
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "date": "2026-08-05",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260805/140120260805510285/",
       "kai": 11,
-      "kofu": 780000,
-      "exercised": 7800,
-      "exercised_pct": 43.33,
-      "unexercised": 10140,
-      "unexercised_shares": 1014000,
-      "outstanding": 29127543
+      "kofu": 200000,
+      "exercised": 2000,
+      "exercised_pct": 11.11,
+      "unexercised": 8140,
+      "unexercised_shares": 814000,
+      "outstanding": 29907543
     },
     "7957": {
       "name": "フジコピアン株式会社",
