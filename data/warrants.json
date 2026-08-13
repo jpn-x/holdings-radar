@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 19:59",
+  "updated": "2026-08-13 19:59",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -699,13 +699,13 @@
     "4583": {
       "name": "株式会社カイオム・バイオサイエンス",
       "holder": "グロース・キャピタル株式会社",
-      "title": "第23回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260731/140120260731505904/",
+      "title": "第23回新株予約権（行使価額修正条項付）の月間行使状況及び権利行使完了に関するお知らせ",
+      "date": "2026-08-13",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260813/140120260813518992/",
       "kai": 23,
-      "kofu": 2209800,
-      "unexercised": 7137,
-      "unexercised_shares": 713700
+      "kofu": 713700,
+      "unexercised": 0,
+      "unexercised_shares": 0
     },
     "4594": {
       "name": "ブライトパス・バイオ株式会社",
@@ -1124,15 +1124,15 @@
     "7957": {
       "name": "フジコピアン株式会社",
       "holder": "三田証券株式会社",
-      "title": "第三者割当による第２回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260803/140120260803506151/",
+      "title": "第三者割当による第２回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-08-13",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260813/140120260813519704/",
       "kai": 2,
-      "kofu": 12200,
-      "exercised": 122,
-      "exercised_pct": 3.2,
-      "unexercised": 3515,
-      "unexercised_shares": 351500,
+      "kofu": 51500,
+      "exercised": 515,
+      "exercised_pct": 13.55,
+      "unexercised": 3000,
+      "unexercised_shares": 300000,
       "outstanding": 1789487
     },
     "9973": {
@@ -1314,16 +1314,6 @@
       "unexercised": 219400,
       "unexercised_shares": 21940000,
       "outstanding": 41259119
-    },
-    "8798": {
-      "name": "株式会社アドバンスクリエイト",
-      "holder": "ＦＷＤ生命保険株式会社",
-      "title": "第10回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2025-08-04",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20250804/140120250804529285/",
-      "kai": 10,
-      "unexercised": 15690,
-      "outstanding": 22988200
     },
     "9610": {
       "name": "ウィルソン・ラーニング ワールドワイド",
