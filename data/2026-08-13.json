@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-13",
+  "new": [
+    {
+      "docId": "S100YW6L",
+      "sec": "9327",
+      "name": "株式会社イー・ロジット",
+      "filer": "株式会社ＴＡＫＡＲＡ",
+      "ratio": 7.43,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YVSP",
+      "sec": "4767",
+      "name": "株式会社テー・オー・ダブリュー",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 5.37,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YW5K",
+      "sec": "5232",
+      "name": "住友大阪セメント株式会社",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 5.46,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YW5A",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "Ｓｉｔｕａｔｉｏｎａｌ　Ａｗａｒｅｎｅｓｓ　ＬＰ",
+      "ratio": 4.41,
+      "prev_ratio": 15.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVMF",
+      "sec": "7915",
+      "name": "ＮＩＳＳＨＡ株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 10.55,
+      "prev_ratio": 10.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YSDG",
+      "sec": "268A",
+      "name": "リガク・ホールディングス株式会社",
+      "filer": "Ａｔｏｍ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｌ．Ｐ．",
+      "ratio": 0.29,
+      "prev_ratio": 27.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW9O",
+      "sec": "2931",
+      "name": "株式会社ユーグレナ",
+      "filer": "株式会社綺麗創造ホールディングス",
+      "ratio": 4.54,
+      "prev_ratio": 7.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW2W",
+      "sec": "3664",
+      "name": "株式会社WIZE",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 32.46,
+      "prev_ratio": 33.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YUUD",
+      "sec": "2157",
+      "name": "株式会社コシダカホールディングス",
+      "filer": "ＩＸＧＳ，　Ｉｎｃ．",
+      "ratio": 7.4,
+      "prev_ratio": 8.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW5E",
+      "sec": "3926",
+      "name": "株式会社オープンドア",
+      "filer": "株式会社くふうカンパニーホールディングス",
+      "ratio": 9.35,
+      "prev_ratio": 8.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW8E",
+      "sec": "8105",
+      "name": "Bitcoin Japan株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 51.73,
+      "prev_ratio": 50.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVE9",
+      "sec": "4424",
+      "name": "株式会社Ａｍａｚｉａ",
+      "filer": "佐久間　亮輔",
+      "ratio": 35.51,
+      "prev_ratio": 36.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVMG",
+      "sec": "3676",
+      "name": "株式会社デジタルハーツホールディングス",
+      "filer": "宮澤　栄一",
+      "ratio": 45.0,
+      "prev_ratio": 45.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVLS",
+      "sec": "5644",
+      "name": "株式会社メタルアート",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 26.74,
+      "prev_ratio": 24.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YUYI",
+      "sec": "3417",
+      "name": "大木ヘルスケアホールディングス株式会社",
+      "filer": "有限会社キャピタル・マネジメント",
+      "ratio": 9.95,
+      "prev_ratio": 6.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YUWT",
+      "sec": "3416",
+      "name": "ピクスタ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 7.21,
+      "prev_ratio": 6.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWJC",
+      "sec": "7354",
+      "name": "株式会社ダイレクトマーケティングミックス",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 6.09,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YUNB",
+      "sec": "6470",
+      "name": "大豊工業",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 12.83,
+      "prev_ratio": 11.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW6Z",
+      "sec": "4092",
+      "name": "日本化学工業株式会社",
+      "filer": "株式会社Ｃ＆Ｉ　Ｈｏｌｄｉｎｇｓ",
+      "ratio": 8.06,
+      "prev_ratio": 9.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YUJ3",
+      "sec": "290A",
+      "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
+      "filer": "ヒューリック株式会社",
+      "ratio": 15.72,
+      "prev_ratio": 14.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWL0",
+      "sec": "4586",
+      "name": "株式会社メドレックス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 11.9,
+      "prev_ratio": 13.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWL8",
+      "sec": "6952",
+      "name": "カシオ計算機株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 3.99,
+      "prev_ratio": 5.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YUWW",
+      "sec": "4320",
+      "name": "株式会社ＣＥホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 26.1,
+      "prev_ratio": 25.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW9C",
+      "sec": "6740",
+      "name": "株式会社ジャパンディスプレイ",
+      "filer": "いちごアセットマネジメント・インタ－ナショナル・ピ－ティ－イ－・リミテッド",
+      "ratio": 87.58,
+      "prev_ratio": 87.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVWH",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
+      "ratio": 4.99,
+      "prev_ratio": 5.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWC7",
+      "sec": "7839",
+      "name": "株式会社ＳＨＯＥＩ",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 11.98,
+      "prev_ratio": 10.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVVH",
+      "sec": "4078",
+      "name": "堺化学工業株式会社",
+      "filer": "ＳＨ　Ｉｎｖｅｓｔｍｅｎｔ，　Ｉｎｃ",
+      "ratio": 8.26,
+      "prev_ratio": 9.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWMV",
+      "sec": "5953",
+      "name": "昭和鉄工株式会社",
+      "filer": "山本裕治",
+      "ratio": 5.05,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWPD",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 56.62,
+      "prev_ratio": 57.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWPT",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 55.51,
+      "prev_ratio": 56.62,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
