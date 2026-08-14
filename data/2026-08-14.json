@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-14",
+  "new": [],
+  "chg": [
+    {
+      "docId": "S100YPD2",
+      "sec": "6743",
+      "name": "大同信号株式会社",
+      "filer": "日本電設工業株式会社",
+      "ratio": 10.52,
+      "prev_ratio": 13.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWNT",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 12.69,
+      "prev_ratio": 13.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWSG",
+      "sec": "5707",
+      "name": "東邦亜鉛株式会社",
+      "filer": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
+      "ratio": 14.59,
+      "prev_ratio": 15.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVS9",
+      "sec": "332A",
+      "name": "ミーク株式会社",
+      "filer": "ソニーセミコンダクタソリューションズ株式会社",
+      "ratio": 35.24,
+      "prev_ratio": 40.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWBK",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 23.65,
+      "prev_ratio": 25.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVQK",
+      "sec": "9327",
+      "name": "株式会社イー･ロジット",
+      "filer": "須田　忠雄",
+      "ratio": 32.35,
+      "prev_ratio": 36.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWJH",
+      "sec": "7603",
+      "name": "ジーイエット株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.22,
+      "prev_ratio": 20.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWYT",
+      "sec": "8141",
+      "name": "新光商事株式会社",
+      "filer": "Ｓａｎｄ　Ｇｒｏｖｅ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＰ",
+      "ratio": 2.5,
+      "prev_ratio": 6.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YX0B",
+      "sec": "7426",
+      "name": "株式会社山大",
+      "filer": "山本裕治",
+      "ratio": 20.41,
+      "prev_ratio": 17.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWXH",
+      "sec": "6395",
+      "name": "株式会社タダノ",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 5.78,
+      "prev_ratio": 6.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YX2G",
+      "sec": "7871",
+      "name": "フクビ化学工業株式会社",
+      "filer": "三井化学株式会社",
+      "ratio": 6.12,
+      "prev_ratio": 8.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW1Y",
+      "sec": "5951",
+      "name": "ダイニチ工業株式会社",
+      "filer": "Ｒａｎｇｅｌｅｙ　Ｃａｐｉｔａｌ，　ＬＬＣ",
+      "ratio": 5.79,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWT5",
+      "sec": "4320",
+      "name": "株式会社ＣＥホールディングス",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 12.92,
+      "prev_ratio": 11.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YU08",
+      "sec": "5574",
+      "name": "株式会社ABEJA",
+      "filer": "岡田　陽介",
+      "ratio": 14.82,
+      "prev_ratio": 15.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YX0H",
+      "sec": "6184",
+      "name": "株式会社鎌倉新書",
+      "filer": "清水　祐孝",
+      "ratio": 35.4,
+      "prev_ratio": 35.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YX2O",
+      "sec": "4891",
+      "name": "株式会社ティムス",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 4.36,
+      "prev_ratio": 5.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVYM",
+      "sec": "9627",
+      "name": "株式会社アインホールディングス",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 20.93,
+      "prev_ratio": 19.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWBF",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 50.8,
+      "prev_ratio": 51.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVSS",
+      "sec": "6706",
+      "name": "電気興業",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 14.14,
+      "prev_ratio": 13.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWUP",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 8.62,
+      "prev_ratio": 10.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YWV2",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 13.85,
+      "prev_ratio": 8.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVWV",
+      "sec": "9235",
+      "name": "売れるネット広告社グループ株式会社",
+      "filer": "加藤　公一レオ",
+      "ratio": 50.02,
+      "prev_ratio": 57.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YVH7",
+      "sec": "8151",
+      "name": "東陽テクニカ株式会社",
+      "filer": "シンプレクス・アセット・マネジメント株式会社",
+      "ratio": 8.77,
+      "prev_ratio": 10.01,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
