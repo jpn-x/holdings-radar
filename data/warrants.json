@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 19:54",
+  "updated": "2026-08-17 19:28",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -917,16 +917,13 @@
     "6721": {
       "name": "ウインテスト株式会社",
       "holder": "ａｂｃ株式会社",
-      "title": "第三者割当による第13回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260803/140120260803506770/",
+      "title": "第三者割当による第13回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-08-17",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260817/140120260817521957/",
       "kai": 13,
-      "kofu": 590000,
-      "exercised": 5900,
-      "exercised_pct": 8.43,
-      "unexercised": 22126,
-      "unexercised_shares": 2212600,
-      "outstanding": 57838400
+      "unexercised": 15059,
+      "unexercised_shares": 1505900,
+      "outstanding": 58428400
     },
     "7057": {
       "name": "株式会社エヌ・シー・エヌ",
@@ -1174,21 +1171,6 @@
       "unexercised": 0,
       "unexercised_shares": 0,
       "outstanding": 60792300
-    },
-    "3905": {
-      "name": "データセクション株式会社",
-      "holder": "アースエレメンツ・キャピタル株式会社",
-      "title": "第20回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
-      "date": "2025-07-11",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20250711/140120250711512339/",
-      "kai": 20,
-      "kofu": 1062700,
-      "exercised": 10627,
-      "total": 44000,
-      "exercised_pct": 24.15,
-      "unexercised": 0,
-      "unexercised_shares": 0,
-      "outstanding": 21040351
     },
     "3939": {
       "name": "株式会社カナミックネットワーク",
