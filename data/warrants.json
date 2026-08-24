@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 19:29",
+  "updated": "2026-08-24 19:33",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -93,16 +93,15 @@
     "3664": {
       "name": "株式会社モブキャストホールディングス",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第39回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260731/140120260731505022/",
+      "title": "第三者割当により発行された第39回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-08-24",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260824/140120260824525009/",
       "kai": 39,
-      "kofu": 8462000,
-      "exercised": 84620,
+      "exercised": 62750,
       "total": 600000,
-      "exercised_pct": 14.1,
-      "unexercised": 430750,
-      "unexercised_shares": 43075000,
+      "exercised_pct": 10.5,
+      "unexercised": 368000,
+      "unexercised_shares": 36800000,
       "outstanding": 93101408
     },
     "3667": {
@@ -1089,14 +1088,14 @@
     },
     "7746": {
       "name": "岡本硝子株式会社",
-      "holder": "ＳＭＢＣ日興証券株式会社",
+      "holder": "岡本　　毅",
       "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
-      "date": "2026-08-07",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260807/140120260807515230/",
+      "date": "2026-08-24",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260824/140120260824525193/",
       "kai": 11,
-      "exercised": 2000,
-      "exercised_pct": 11.11,
-      "unexercised": 6140,
+      "exercised": 1800,
+      "exercised_pct": 10.0,
+      "unexercised": 4340,
       "outstanding": 29907543
     },
     "7957": {
@@ -1324,13 +1323,13 @@
       "name": "ビープラッツ株式会社",
       "holder": "グロースパートナーズ株式会社",
       "title": "第三者割当により発行された第７回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-08-19",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260819/140120260819523006/",
+      "date": "2026-08-24",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260824/140120260824525081/",
       "kai": 7,
-      "exercised": 2200,
-      "exercised_pct": 10.97,
-      "unexercised": 9426,
-      "unexercised_shares": 942600,
+      "exercised": 2139,
+      "exercised_pct": 10.66,
+      "unexercised": 7287,
+      "unexercised_shares": 728700,
       "outstanding": 3349498
     },
     "4833": {
