@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 19:33",
+  "updated": "2026-08-25 19:27",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1410,6 +1410,20 @@
       "date": "2026-08-13",
       "pdf": "https://kabutan.jp/disclosures/pdf/20260813/140120260813519451/",
       "kai": 9
+    },
+    "2334": {
+      "name": "株式会社イオレ",
+      "holder": "日本アジア投資株式会社",
+      "title": "第三者割当による第14回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-06-03",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260603/140120260603562019/",
+      "kai": 14,
+      "kofu": 370000,
+      "exercised": 370,
+      "exercised_pct": 3.7,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 43068920
     }
   }
 }
