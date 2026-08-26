@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-26",
+  "new": [
+    {
+      "docId": "S100YY0E",
+      "sec": "614A",
+      "name": "山八商事株式会社",
+      "filer": "鈴木　俊介",
+      "ratio": 69.58,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100YVY9",
+      "sec": "3692",
+      "name": "株式会社ＦＦＲＩセキュリティ",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 5.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YTK9",
+      "sec": "7314",
+      "name": "株式会社小田原機器",
+      "filer": "津川　直樹",
+      "ratio": 37.08,
+      "prev_ratio": 37.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY77",
+      "sec": "7606",
+      "name": "株式会社ユナイテッドアローズ",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 10.07,
+      "prev_ratio": 11.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW4P",
+      "sec": "4931",
+      "name": "新日本製薬株式会社",
+      "filer": "株式会社ラプリス",
+      "ratio": 27.04,
+      "prev_ratio": 27.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY52",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 11.09,
+      "prev_ratio": 11.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY0K",
+      "sec": "269A",
+      "name": "株式会社Sapeet",
+      "filer": "株式会社ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ",
+      "ratio": 31.98,
+      "prev_ratio": 37.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY64",
+      "sec": "9274",
+      "name": "KPPグループホールディングス株式会社",
+      "filer": "王子ホールディングス株式会社",
+      "ratio": 13.2,
+      "prev_ratio": 14.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYTA",
+      "sec": "4275",
+      "name": "株式会社カーリット",
+      "filer": "丸紅株式会社",
+      "ratio": 7.89,
+      "prev_ratio": 8.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYCE",
+      "sec": "2938",
+      "name": "株式会社オカムラ食品工業",
+      "filer": "スチールヘッド　プライベート・リミテッド・ライアビリテイ・カンパニー",
+      "ratio": 4.66,
+      "prev_ratio": 5.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYSD",
+      "sec": "3306",
+      "name": "日本製麻株式会社",
+      "filer": "ＬＥＯＭＯ，ｉｎｃ",
+      "ratio": 37.55,
+      "prev_ratio": 49.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YW7T",
+      "sec": "1786",
+      "name": "オリエンタル白石株式会社",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 21.41,
+      "prev_ratio": 20.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYM2",
+      "sec": "9235",
+      "name": "売れるネット広告社グループ株式会社",
+      "filer": "加藤　公一レオ",
+      "ratio": 55.02,
+      "prev_ratio": 57.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY8M",
+      "sec": "2938",
+      "name": "株式会社オカムラ食品工業",
+      "filer": "岡村　恒一",
+      "ratio": 57.08,
+      "prev_ratio": 58.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYMY",
+      "sec": "9235",
+      "name": "売れるネット広告社グループ株式会社",
+      "filer": "加藤　公一レオ",
+      "ratio": 50.02,
+      "prev_ratio": 50.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY3V",
+      "sec": "6727",
+      "name": "株式会社ワコム",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 18.11,
+      "prev_ratio": 17.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYA2",
+      "sec": "7952",
+      "name": "株式会社河合楽器製作所",
+      "filer": "ひびき・パース・アドバイザーズ・エスピーシー",
+      "ratio": 7.23,
+      "prev_ratio": 6.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYUG",
+      "sec": "3306",
+      "name": "日本製麻株式会社",
+      "filer": "ＬＥＯＭＯ，ｉｎｃ",
+      "ratio": 33.52,
+      "prev_ratio": 37.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YTWZ",
+      "sec": "3695",
+      "name": "ＧＭＯプロダクトプラットフォーム",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 67.8,
+      "prev_ratio": 70.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY44",
+      "sec": "3920",
+      "name": "アイビーシー株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 12.83,
+      "prev_ratio": 11.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYTN",
+      "sec": "2404",
+      "name": "株式会社鉄人化ホールディングス",
+      "filer": "ファースト・パシフィック・キャピタル有限会社",
+      "ratio": 61.09,
+      "prev_ratio": 63.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYNM",
+      "sec": "5870",
+      "name": "株式会社ナルネットコミュニケーションズ",
+      "filer": "Ｍｏｂｉｌｉｔｙ＆Ｍａｉｎｔｅｎａｎｃｅ　Ｊａｐａｎ株式会社",
+      "ratio": 35.62,
+      "prev_ratio": 35.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYCB",
+      "sec": "1721",
+      "name": "コムシスホールディングス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 7.36,
+      "prev_ratio": 6.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYVB",
+      "sec": "4432",
+      "name": "ウイングアーク１ｓｔ株式会社",
+      "filer": "ＩＷ．ＤＸパートナーズ株式会社",
+      "ratio": 21.83,
+      "prev_ratio": 24.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYPB",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 43.28,
+      "prev_ratio": 44.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYVC",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "冨永　重寛",
+      "ratio": 37.86,
+      "prev_ratio": 37.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYUL",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "藤井　和也",
+      "ratio": 14.11,
+      "prev_ratio": 14.16,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
