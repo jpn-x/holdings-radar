@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 19:27",
+  "updated": "2026-08-26 19:31",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1089,13 +1089,15 @@
     "7746": {
       "name": "岡本硝子株式会社",
       "holder": "岡本　　毅",
-      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
-      "date": "2026-08-24",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260824/140120260824525193/",
+      "title": "行使価額修正条項付新株予約権の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-08-26",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260826/140120260826526544/",
       "kai": 11,
-      "exercised": 1800,
-      "exercised_pct": 10.0,
-      "unexercised": 4340,
+      "kofu": 1014000,
+      "exercised": 4340,
+      "exercised_pct": 24.11,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 29907543
     },
     "7957": {
@@ -1390,18 +1392,18 @@
       "outstanding": 52712305
     },
     "278A": {
-      "name": "Ｔｅｒｒａ　Ｄｒｏｎｅ株式会社",
-      "holder": "ＳＢＩインベストメント株式会社",
-      "title": "第18回新株予約権乃至第22回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260727/140120260727500203/",
-      "kai": 18,
-      "kofu": 65000,
-      "exercised": 650,
-      "exercised_pct": 30.47,
-      "unexercised": 1483,
-      "unexercised_shares": 148300,
-      "outstanding": 9827800
+      "name": "Terra Drone株式会社",
+      "holder": "德重　徹",
+      "title": "第20回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-08-26",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260826/140120260826526511/",
+      "kai": 20,
+      "kofu": 128300,
+      "exercised": 1283,
+      "exercised_pct": 60.15,
+      "unexercised": 200,
+      "unexercised_shares": 20000,
+      "outstanding": 10397100
     },
     "6522": {
       "name": "株式会社アスタリスク",
@@ -1424,6 +1426,16 @@
       "unexercised": 0,
       "unexercised_shares": 0,
       "outstanding": 43068920
+    },
+    "2404": {
+      "name": "株式会社鉄人化ホールディングス",
+      "holder": "ファースト・パシフィック・キャピタル有限会社",
+      "title": "第14回新株予約権（固定行使価額型）の行使完了に関するお知らせ",
+      "date": "2025-05-09",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250509/140120250509538245/",
+      "kai": 14,
+      "unexercised": 0,
+      "outstanding": 13717362
     }
   }
 }
