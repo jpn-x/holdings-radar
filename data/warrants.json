@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 19:31",
+  "updated": "2026-08-28 05:09",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -246,12 +246,16 @@
     "4884": {
       "name": "クリングルファーマ株式会社",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第16回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260803/140120260803506412/",
+      "title": "第三者割当により発行された第16回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-08-27",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260827/140120260827527362/",
       "kai": 16,
-      "unexercised": 2100,
-      "unexercised_shares": 210000,
+      "kofu": 210000,
+      "exercised": 2100,
+      "total": 17000,
+      "exercised_pct": 12.4,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 8383200
     },
     "5129": {
@@ -1394,24 +1398,24 @@
     "278A": {
       "name": "Terra Drone株式会社",
       "holder": "德重　徹",
-      "title": "第20回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-08-26",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260826/140120260826526511/",
+      "title": "第20回新株予約権（行使価額修正条項付）の行使の完了及び月間行使状況に関するお知らせ",
+      "date": "2026-08-27",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260827/140120260827527268/",
       "kai": 20,
-      "kofu": 128300,
-      "exercised": 1283,
-      "exercised_pct": 60.15,
-      "unexercised": 200,
-      "unexercised_shares": 20000,
+      "kofu": 148300,
+      "exercised": 1483,
+      "exercised_pct": 69.53,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 10397100
     },
     "6522": {
       "name": "株式会社アスタリスク",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当による第９回新株予約権の行使完了に関するお知らせ",
-      "date": "2026-08-13",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260813/140120260813519451/",
-      "kai": 9
+      "title": "第三者割当による第10回新株予約権の行使完了に関するお知らせ",
+      "date": "2026-08-27",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260827/140120260827527259/",
+      "kai": 10
     },
     "2334": {
       "name": "株式会社イオレ",
