@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28 05:09",
+  "updated": "2026-08-29 06:07",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1364,13 +1364,6 @@
       "unexercised": 947300,
       "unexercised_shares": 94730000
     },
-    "3825": {
-      "name": "株式会社リミックスポイント",
-      "holder": "楽天証券株式会社",
-      "title": "第三者割当による第25回新株予約権（行使価額修正条項付）の取得及び消却の完了並びに月間行使状況に関するお知らせ",
-      "date": "2025-10-31",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20251030/140120251030583509/"
-    },
     "6659": {
       "name": "株式会社メディアリンクス",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
@@ -1398,15 +1391,15 @@
     "278A": {
       "name": "Terra Drone株式会社",
       "holder": "德重　徹",
-      "title": "第20回新株予約権（行使価額修正条項付）の行使の完了及び月間行使状況に関するお知らせ",
-      "date": "2026-08-27",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260827/140120260827527268/",
-      "kai": 20,
-      "kofu": 148300,
-      "exercised": 1483,
-      "exercised_pct": 69.53,
-      "unexercised": 0,
-      "unexercised_shares": 0,
+      "title": "第21回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-08-28",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260828/140120260828527951/",
+      "kai": 21,
+      "kofu": 30000,
+      "exercised": 300,
+      "exercised_pct": 14.06,
+      "unexercised": 1833,
+      "unexercised_shares": 183300,
       "outstanding": 10397100
     },
     "6522": {
