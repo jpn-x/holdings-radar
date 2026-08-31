@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 06:07",
+  "updated": "2026-09-01 02:25",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -189,18 +189,17 @@
     },
     "4582": {
       "name": "シンバイオ製薬株式会社",
-      "holder": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
-      "title": "第三者割当により発行された第58回新株予約権及び第66回新株予約権（行使価額修正条項付）の 月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260803/140120260803507050/",
+      "holder": "Ｅｖｏ　Ｆｕｎｄ",
+      "title": "第三者割当により発行された第58回新株予約権及び第66回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-08-31",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260831/140120260831528725/",
       "kai": 58,
-      "kofu": 3794000,
-      "exercised": 37940,
+      "kofu": 0,
+      "exercised": 0,
       "total": 200000,
-      "exercised_pct": 19.0,
+      "exercised_pct": 0.0,
       "unexercised": 120510,
-      "unexercised_shares": 12051000,
-      "outstanding": 76434210
+      "outstanding": 80246460
     },
     "4591": {
       "name": "株式会社リボミック",
@@ -1392,14 +1391,12 @@
       "name": "Terra Drone株式会社",
       "holder": "德重　徹",
       "title": "第21回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-08-28",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260828/140120260828527951/",
+      "date": "2026-08-31",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260831/140120260831528840/",
       "kai": 21,
-      "kofu": 30000,
-      "exercised": 300,
-      "exercised_pct": 14.06,
-      "unexercised": 1833,
-      "unexercised_shares": 183300,
+      "exercised": 813,
+      "exercised_pct": 38.12,
+      "unexercised": 1020,
       "outstanding": 10397100
     },
     "6522": {
@@ -1433,6 +1430,13 @@
       "kai": 14,
       "unexercised": 0,
       "outstanding": 13717362
+    },
+    "9424": {
+      "name": "日本通信株式会社",
+      "holder": "三田　聖二",
+      "title": "第５回新株予約権（第三者割当て）の月間行使状況に関するお知らせ",
+      "date": "2023-05-02",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20230502/140120230502557943/"
     }
   }
 }
