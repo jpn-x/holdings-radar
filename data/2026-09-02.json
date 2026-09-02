@@ -1,0 +1,227 @@
+{
+  "date": "2026-09-02",
+  "new": [
+    {
+      "docId": "S100YZ1S",
+      "sec": "2195",
+      "name": "アミタホールディングス株式会社",
+      "filer": "日本アジア投資株式会社",
+      "ratio": 9.9,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YZSH",
+      "sec": "4052",
+      "name": "フィーチャ株式会社",
+      "filer": "脇　健一郎",
+      "ratio": 7.96,
+      "prev_ratio": 9.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZZJ",
+      "sec": "7550",
+      "name": "株式会社　ゼンショーホールディングス",
+      "filer": "株式会社日本クリエイト",
+      "ratio": 36.2,
+      "prev_ratio": 36.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZEX",
+      "sec": "4415",
+      "name": "株式会社ブロードエンタープライズ",
+      "filer": "中西　良祐",
+      "ratio": 68.58,
+      "prev_ratio": 71.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZZA",
+      "sec": "7743",
+      "name": "株式会社シード",
+      "filer": "新井　隆二",
+      "ratio": 48.8,
+      "prev_ratio": 48.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z002",
+      "sec": "3777",
+      "name": "株式会社環境フレンドリーホールディングス",
+      "filer": "エスクリプトエナジー株式会社",
+      "ratio": 7.51,
+      "prev_ratio": 8.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYZE",
+      "sec": "5726",
+      "name": "株式会社大阪チタニウムテクノロジーズ",
+      "filer": "株式会社　神戸製鋼所",
+      "ratio": 8.15,
+      "prev_ratio": 8.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZ8H",
+      "sec": "2479",
+      "name": "株式会社ジェイテック",
+      "filer": "藤本　彰",
+      "ratio": 17.66,
+      "prev_ratio": 18.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZ6A",
+      "sec": "6495",
+      "name": "株式会社宮入バルブ製作所",
+      "filer": "東海東京証券株式会社",
+      "ratio": 16.12,
+      "prev_ratio": 17.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZSP",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 9.72,
+      "prev_ratio": 11.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZPV",
+      "sec": "7603",
+      "name": "ジーイエット株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 16.75,
+      "prev_ratio": 18.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z01P",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 7.73,
+      "prev_ratio": 9.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z015",
+      "sec": "3916",
+      "name": "デジタル・インフォメーション・テクノロジー株式会社",
+      "filer": "ＧＷ＆Ｋ　ＩＮＶＥＳＴＭＥＮＴ　ＭＡＮＡＧＥＭＥＮＴ，ＬＬＣ",
+      "ratio": 3.93,
+      "prev_ratio": 5.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZVI",
+      "sec": "3667",
+      "name": "株式会社enish",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.52,
+      "prev_ratio": 20.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z008",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 38.82,
+      "prev_ratio": 40.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YXXJ",
+      "sec": "3034",
+      "name": "クオールホールディングス株式会社",
+      "filer": "中村　敬",
+      "ratio": 6.25,
+      "prev_ratio": 7.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z011",
+      "sec": "4263",
+      "name": "サスメド株式会社",
+      "filer": "スパークス・アセット・マネジメント株式会社",
+      "ratio": 4.0,
+      "prev_ratio": 5.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYU9",
+      "sec": "3994",
+      "name": "株式会社マネーフォワード",
+      "filer": "辻　庸介",
+      "ratio": 18.07,
+      "prev_ratio": 17.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZ4L",
+      "sec": "2492",
+      "name": "株式会社インフォマート",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 14.42,
+      "prev_ratio": 13.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZZ7",
+      "sec": "6196",
+      "name": "株式会社ストライクグループ",
+      "filer": "荒井　邦彦",
+      "ratio": 39.09,
+      "prev_ratio": 39.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z01H",
+      "sec": "7459",
+      "name": "株式会社メディパルホールディングス",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 11.96,
+      "prev_ratio": 11.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYSM",
+      "sec": "485A",
+      "name": "株式会社パワーエックス",
+      "filer": "今治造船株式会社",
+      "ratio": 4.76,
+      "prev_ratio": 6.21,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
