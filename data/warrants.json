@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 23:31",
+  "updated": "2026-09-02 23:03",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -365,19 +365,16 @@
       "outstanding": 21034000
     },
     "8105": {
-      "name": "Bitcoin Japan株式会社",
-      "holder": "マッコーリー　バンク　リミテッド",
-      "title": "（訂正）「第三者割当により発行された行使価額修正条項付第１回新株予約権の行使完了及び月間行使状況に関するお知らせ」の一部訂正のお知らせ",
-      "date": "2026-07-07",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260707/140120260707589131/",
-      "kai": 1,
-      "kofu": 58397,
-      "exercised": 58397,
-      "total": 140500,
-      "exercised_pct": 41.6,
-      "unexercised": 0,
-      "unexercised_shares": 0,
-      "outstanding": 67850648
+      "name": "堀田丸正株式会社",
+      "holder": "ＲＩＺＡＰグループ株式会社",
+      "title": "第三者割当により発行された第1回無担保転換社債型新株予約権付社債(転換価額修正条項付)及び第2回新株予約権(行使価額修正条項付)の月間転換・行使状況",
+      "date": "2026-09-02",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260902/140120260902530739/",
+      "kai": 2,
+      "kofu": 4510566,
+      "unexercised": 593779,
+      "unexercised_shares": 59377900,
+      "outstanding": 73690348
     },
     "8254": {
       "name": "株式会社さいか屋",
@@ -1306,21 +1303,6 @@
       "unexercised_shares": 0,
       "outstanding": 94331891
     },
-    "3083": {
-      "name": "スターシーズ　株式会社",
-      "holder": "株式会社　光輝ＥＮＥＲＧＹ",
-      "title": "第三者割当により発行された第５回、第６回及び第７回新株予約権（行使価額修正選択権付）の取得及び消却の完了並びに月間行使状況に関するお知らせ",
-      "date": "2025-11-28",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20251128/140120251128511725/",
-      "kai": 7,
-      "kofu": 0,
-      "exercised": 0,
-      "total": 10500,
-      "exercised_pct": 0.0,
-      "unexercised": 9277,
-      "unexercised_shares": 927700,
-      "outstanding": 7479100
-    },
     "4586": {
       "name": "株式会社メドレックス",
       "holder": "グロース・キャピタル株式会社",
@@ -1459,6 +1441,20 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20260825/140120260825525667/",
       "kai": 21,
       "outstanding": 359659280
+    },
+    "6495": {
+      "name": "株式会社宮入バルブ製作所",
+      "holder": "東海東京証券株式会社",
+      "title": "第三者割当による行使価額修正条項付株式会社宮入バルブ製作所第３回新株予約権（停止要請条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-09-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260901/140120260901529484/",
+      "kai": 3,
+      "kofu": 1251600,
+      "exercised": 12516,
+      "exercised_pct": 13.04,
+      "unexercised": 83484,
+      "unexercised_shares": 8348400,
+      "outstanding": 48849935
     }
   }
 }
