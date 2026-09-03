@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02 23:03",
+  "updated": "2026-09-03 23:06",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -294,16 +294,16 @@
       "name": "アライドアーキテクツ株式会社",
       "holder": "三井住友信託銀行株式会社",
       "title": "第三者割当により発行された行使価額修正条項付第22回新株予約権の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260803/140120260803507204/",
+      "date": "2026-09-03",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260903/140120260903531311/",
       "kai": 22,
-      "kofu": 280000,
-      "exercised": 2800,
+      "kofu": 200000,
+      "exercised": 2000,
       "total": 89000,
-      "exercised_pct": 3.8,
-      "unexercised": 79799,
-      "unexercised_shares": 7979900,
-      "outstanding": 17239582
+      "exercised_pct": 2.2,
+      "unexercised": 77799,
+      "unexercised_shares": 7779900,
+      "outstanding": 17519582
     },
     "6699": {
       "name": "ダイヤモンドエレクトリックホールディングス株式会社",
@@ -787,12 +787,12 @@
       "name": "株式会社リベルタ",
       "holder": "ＳＭＢＣ日興証券株式会社",
       "title": "第７回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-08-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260803/140120260803507546/",
+      "date": "2026-09-03",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260903/140120260903531334/",
       "kai": 7,
-      "kofu": 3026200,
-      "unexercised": 34184,
-      "unexercised_shares": 3418400
+      "kofu": 50000,
+      "unexercised": 33684,
+      "unexercised_shares": 3368400
     },
     "5216": {
       "name": "株式会社倉元製作所",
@@ -807,9 +807,9 @@
     "5707": {
       "name": "東邦亜鉛株式会社",
       "holder": "Ａｐｒｉｃｕｓ　Ｐａｒｔｎｅｒｓ合同会社",
-      "title": "第三者割当により発行された行使価額修正条項付第１回新株予約権の大量行使に関するお知らせ",
-      "date": "2026-08-21",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260821/140120260821524525/"
+      "title": "第三者割当により発行された行使価額修正条項付第１回新株予約権の月間行使状況に関するお知らせ",
+      "date": "2026-09-03",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260903/140120260903531327/"
     },
     "5721": {
       "name": "株式会社エス・サイエンス",
@@ -1455,6 +1455,20 @@
       "unexercised": 83484,
       "unexercised_shares": 8348400,
       "outstanding": 48849935
+    },
+    "3063": {
+      "name": "株式会社ジェイグループホールディングス",
+      "holder": "東海東京証券株式会社",
+      "title": "第６回新株予約権（行使価額修正条項付）及び第７回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-09-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260901/140120260901530233/",
+      "kai": 6,
+      "kofu": 27000,
+      "exercised": 270,
+      "exercised_pct": 3.6,
+      "unexercised": 7230,
+      "unexercised_shares": 723000,
+      "outstanding": 12517400
     }
   }
 }
