@@ -11,8 +11,11 @@ on:
 
   # 手動 or スケジュール実行（EDINET_API_KEY が設定されていれば GitHub Actions からも動く）
   schedule:
-    # 平日 19:00 JST = 10:00 UTC
-    - cron: "0 10 * * 1-5"
+    # GitHubのcronは負荷で数時間遅延することが多いため、早め＋遅めの2本立て。
+    # 早い方(08:00UTC=17:00JST)でまず反映、遅い方(11:00UTC=20:00JST)で当日遅れ提出分を再取得。
+    # 当日ファイルが既にあれば当日を再フェッチして上書きするため、遅れ提出も取りこぼさない。
+    - cron: "0 8 * * 1-5"
+    - cron: "0 11 * * 1-5"
   workflow_dispatch:
     inputs:
       target_date:
