@@ -2,16 +2,25 @@ name: Deploy to Cloudflare
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Daily Update"]
-    types: [completed]
+  # master へのコンテンツpush（定時実行のコミット・手動データ修正・パッチ適用いずれも）で
+  # 確実にデプロイする。以前は workflow_run(Daily Update完了) 依存だったが、
+  # update.yml が push イベント自体では意図的に skip される仕様のため、
+  # 手動push時に「Daily Updateが成功していない」と誤判定されCloudflareだけ
+  # 取り残されるバグがあった。push トリガーならGitHub Pagesと同じ確実さになる。
+  push:
+    branches: [master]
+    paths:
+      - "index.html"
+      - "data/**"
+      - "favicon.svg"
+      - "*.png"
+      - "manifest.json"
 
 permissions:
   contents: read
 
 jobs:
   deploy:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
