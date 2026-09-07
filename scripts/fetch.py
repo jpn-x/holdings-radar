@@ -176,11 +176,16 @@ def xbrl_parse(doc_id):
         raw = b"".join(r.iter_content(65536))
         with zipfile.ZipFile(io.BytesIO(raw)) as zf:
             names = zf.namelist()
-            # Prefer honbun (本文) ixbrl.htm; fall back to any .htm then .xbrl
             htm_files = [n for n in names if n.endswith(".htm")]
-            honbun = next((n for n in htm_files if "honbun" in n), None) or (htm_files[0] if htm_files else None)
-
-            txt = zf.read(honbun).decode("utf-8", errors="ignore") if honbun else ""
+            honbun = next((n for n in htm_files if "honbun" in n), None)
+            if honbun:
+                # 通常の大量保有報告書: 本文1ファイルで完結
+                txt = zf.read(honbun).decode("utf-8", errors="ignore")
+            else:
+                # 特例(jplvh)など本文が複数ファイルに分割される形式:
+                # 発行会社名/コード/保有割合が別ファイルにあるため全htmを連結して読む
+                txt = "".join(
+                    zf.read(n).decode("utf-8", errors="ignore") for n in htm_files)
 
             # 発行会社名
             issuer_name = (
