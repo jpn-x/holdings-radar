@@ -1,0 +1,357 @@
+{
+  "date": "2026-09-08",
+  "new": [
+    {
+      "docId": "S100Z0YN",
+      "sec": "4598",
+      "name": "Delta-Fly Pharma株式会社",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": 5.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z0DT",
+      "sec": "2689",
+      "name": "オルバディーブイエックスヘルスケア株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 8.76,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z0I8",
+      "sec": "3309",
+      "name": "積水ハウス・リート投資法人",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 9.41,
+      "prev_ratio": 10.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZZ5",
+      "sec": "3548",
+      "name": "株式会社バロックジャパンリミテッド",
+      "filer": "オリックス株式会社",
+      "ratio": 11.96,
+      "prev_ratio": 13.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0VX",
+      "sec": "268A",
+      "name": "リガク・ホールディングス株式会社",
+      "filer": "志村　晶",
+      "ratio": 12.13,
+      "prev_ratio": 12.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0SR",
+      "sec": "4598",
+      "name": "Delta-Fly Pharma株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 33.39,
+      "prev_ratio": 41.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0ZI",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "眞野　定也",
+      "ratio": 28.57,
+      "prev_ratio": 29.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0LD",
+      "sec": "5129",
+      "name": "株式会社FIXER",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.25,
+      "prev_ratio": 14.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZRV",
+      "sec": "7966",
+      "name": "リンテック株式会社",
+      "filer": "日本製紙株式会社",
+      "ratio": 3.38,
+      "prev_ratio": 20.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PY",
+      "sec": "1945",
+      "name": "株式会社東京エネシス",
+      "filer": "光通信株式会社",
+      "ratio": 6.82,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PK",
+      "sec": "1982",
+      "name": "日比谷総合設備株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.31,
+      "prev_ratio": 6.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PL",
+      "sec": "3678",
+      "name": "株式会社メディアドゥ",
+      "filer": "光通信株式会社",
+      "ratio": 19.04,
+      "prev_ratio": 19.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0Q3",
+      "sec": "3763",
+      "name": "株式会社プロシップ",
+      "filer": "光通信株式会社",
+      "ratio": 16.15,
+      "prev_ratio": 15.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0GL",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "吉田　直人",
+      "ratio": 15.03,
+      "prev_ratio": 16.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0Q4",
+      "sec": "3850",
+      "name": "株式会社エヌ・ティ・ティ・データ・イントラマート",
+      "filer": "光通信株式会社",
+      "ratio": 9.53,
+      "prev_ratio": 9.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PZ",
+      "sec": "4642",
+      "name": "オリジナル設計株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 16.64,
+      "prev_ratio": 17.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PM",
+      "sec": "4686",
+      "name": "株式会社ジャストシステム",
+      "filer": "光通信株式会社",
+      "ratio": 16.41,
+      "prev_ratio": 16.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PN",
+      "sec": "4771",
+      "name": "株式会社エフアンドエム",
+      "filer": "光通信株式会社",
+      "ratio": 14.13,
+      "prev_ratio": 13.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PO",
+      "sec": "4783",
+      "name": "ＮＣＤ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 9.85,
+      "prev_ratio": 9.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PQ",
+      "sec": "6013",
+      "name": "株式会社タクマ",
+      "filer": "光通信株式会社",
+      "ratio": 4.89,
+      "prev_ratio": 5.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PR",
+      "sec": "6466",
+      "name": "株式会社ＴＶＥ",
+      "filer": "光通信株式会社",
+      "ratio": 21.79,
+      "prev_ratio": 22.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0UZ",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 18.32,
+      "prev_ratio": 19.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PS",
+      "sec": "6853",
+      "name": "株式会社共和電業",
+      "filer": "光通信株式会社",
+      "ratio": 6.24,
+      "prev_ratio": 7.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PT",
+      "sec": "8037",
+      "name": "カメイ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.9,
+      "prev_ratio": 6.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0Q0",
+      "sec": "8074",
+      "name": "株式会社ＹＵＡＳＡ",
+      "filer": "光通信株式会社",
+      "ratio": 4.86,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z10H",
+      "sec": "4420",
+      "name": "イーソル株式会社",
+      "filer": "長谷川　勝敏",
+      "ratio": 8.79,
+      "prev_ratio": 8.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0PW",
+      "sec": "9517",
+      "name": "イーレックス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 23.01,
+      "prev_ratio": 22.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0Q1",
+      "sec": "9790",
+      "name": "福井コンピュータホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 12.27,
+      "prev_ratio": 12.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0XN",
+      "sec": "5032",
+      "name": "ＡＮＹＣＯＬＯＲ株式会社",
+      "filer": "田角　陸",
+      "ratio": 42.36,
+      "prev_ratio": 43.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z10U",
+      "sec": "4420",
+      "name": "イーソル株式会社",
+      "filer": "上山　伸幸",
+      "ratio": 7.07,
+      "prev_ratio": 7.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0FS",
+      "sec": "446A",
+      "name": "株式会社ノースサンド",
+      "filer": "前田　知紘",
+      "ratio": 49.57,
+      "prev_ratio": 49.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0W8",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 19.26,
+      "prev_ratio": 20.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0M7",
+      "sec": "5905",
+      "name": "日本製罐株式会社",
+      "filer": "株式会社みみっく",
+      "ratio": 11.66,
+      "prev_ratio": 10.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0YA",
+      "sec": "2982",
+      "name": "株式会社ADワークスグループ",
+      "filer": "株式会社ＭＩ２",
+      "ratio": 12.83,
+      "prev_ratio": 11.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z09C",
+      "sec": "2492",
+      "name": "株式会社インフォマート",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 15.82,
+      "prev_ratio": 14.42,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
