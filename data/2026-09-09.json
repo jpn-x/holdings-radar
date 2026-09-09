@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-09",
+  "new": [
+    {
+      "docId": "S100Z0XF",
+      "sec": "9324",
+      "name": "安田倉庫株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 5.17,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z0XR",
+      "sec": "3727",
+      "name": "株式会社アプリックス",
+      "filer": "株式会社フューチャーエステート",
+      "ratio": 5.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z0Q2",
+      "sec": "6544",
+      "name": "ジャパンエレベーターサービスホールディングス株式会社",
+      "filer": "グランジャー・ピーク・グローバル・アドバイザーズ・エルエルシー",
+      "ratio": 6.08,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0QT",
+      "sec": "7476",
+      "name": "アズワン株式会社",
+      "filer": "有限会社井内盛英堂",
+      "ratio": 12.63,
+      "prev_ratio": 12.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z14G",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 35.87,
+      "prev_ratio": 37.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z114",
+      "sec": "4598",
+      "name": "Delta-Fly Pharma株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 32.11,
+      "prev_ratio": 33.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YNFG",
+      "sec": "6146",
+      "name": "株式会社ディスコ",
+      "filer": "株式会社Ｏｃｔａｇｏｎ　Ｌａｂ",
+      "ratio": 5.87,
+      "prev_ratio": 5.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z10L",
+      "sec": "6218",
+      "name": "エンシュウ株式会社",
+      "filer": "池浦　捷行",
+      "ratio": 20.81,
+      "prev_ratio": 19.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0ZR",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 57.4,
+      "prev_ratio": 6.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z15M",
+      "sec": "268A",
+      "name": "リガク・ホールディングス株式会社",
+      "filer": "Ｃｏｌｕｍｂｉａ　Ｍａｎａｇｅｍｅｎｔ　Ｉｎｖｅｓｔｍｅｎｔ　Ａｄｖｉｓｅｒｓ，　ＬＬＣ",
+      "ratio": 11.85,
+      "prev_ratio": 10.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZ47",
+      "sec": "7604",
+      "name": "株式会社梅の花グループ",
+      "filer": "梅野　久美恵",
+      "ratio": 8.68,
+      "prev_ratio": 9.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z187",
+      "sec": "9425",
+      "name": "ＲｅＹｕｕ　Ｊａｐａｎ株式会社",
+      "filer": "ＵＮＩＶＥＲＳＡＬ　ＤＩＧＩＴＡＬ　ＩＮＣ．",
+      "ratio": 8.57,
+      "prev_ratio": 12.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z194",
+      "sec": "9166",
+      "name": "株式会社 GENDA",
+      "filer": "株式会社ミダスキャピタル",
+      "ratio": 28.53,
+      "prev_ratio": 28.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z16U",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 34.99,
+      "prev_ratio": 36.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z12U",
+      "sec": "4056",
+      "name": "ニューラルグループ株式会社",
+      "filer": "重松　路威",
+      "ratio": 48.17,
+      "prev_ratio": 49.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0SX",
+      "sec": "3656",
+      "name": "KLab株式会社",
+      "filer": "ＵＬＴＩＭＡＴＥ　ＣＬＡＳＳＩＣ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 15.73,
+      "prev_ratio": 16.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z184",
+      "sec": "9987",
+      "name": "株式会社スズケン",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 9.27,
+      "prev_ratio": 8.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z12T",
+      "sec": "4260",
+      "name": "株式会社ハイブリッドテクノロジーズ",
+      "filer": "ＳＯＬＴＥＣ　ＩＮＶＥＳＴＭＥＮＴＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 33.39,
+      "prev_ratio": 34.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0NJ",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 32.96,
+      "prev_ratio": 34.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0ZP",
+      "sec": "4888",
+      "name": "ステラファーマ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 7.84,
+      "prev_ratio": 10.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z19S",
+      "sec": "3656",
+      "name": "KLab株式会社",
+      "filer": "ＵＬＴＩＭＡＴＥ　ＣＬＡＳＳＩＣ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 14.31,
+      "prev_ratio": 15.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z19O",
+      "sec": "9706",
+      "name": "日本空港ビルデング株式会社",
+      "filer": "京浜急行電鉄株式会社",
+      "ratio": 4.81,
+      "prev_ratio": 6.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0RU",
+      "sec": "431A",
+      "name": "ユーソナー株式会社",
+      "filer": "三井物産企業投資株式会社",
+      "ratio": 8.0,
+      "prev_ratio": 9.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z1A3",
+      "sec": "3656",
+      "name": "KLab株式会社",
+      "filer": "ＵＬＴＩＭＡＴＥ　ＣＬＡＳＳＩＣ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 13.6,
+      "prev_ratio": 13.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z130",
+      "sec": "4967",
+      "name": "小林製薬株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 14.41,
+      "prev_ratio": 13.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z0LH",
+      "sec": "2492",
+      "name": "株式会社インフォマート",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 16.95,
+      "prev_ratio": 15.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z1AD",
+      "sec": "3656",
+      "name": "KLab株式会社",
+      "filer": "ＵＬＴＩＭＡＴＥ　ＣＬＡＳＳＩＣ　ＩＮＶＥＳＴＭＥＮＴ　ＬＬＣ",
+      "ratio": 13.72,
+      "prev_ratio": 13.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZGP",
+      "sec": "6535",
+      "name": "株式会社アイモバイル",
+      "filer": "田中　俊彦",
+      "ratio": 30.31,
+      "prev_ratio": 27.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z19Q",
+      "sec": "4056",
+      "name": "ニューラルグループ株式会社",
+      "filer": "重松　路威",
+      "ratio": 46.87,
+      "prev_ratio": 48.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z12V",
+      "sec": "1802",
+      "name": "株式会社大林組",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 10.25,
+      "prev_ratio": 9.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z1B1",
+      "sec": "4056",
+      "name": "ニューラルグループ株式会社",
+      "filer": "重松　路威",
+      "ratio": 43.43,
+      "prev_ratio": 46.87,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
