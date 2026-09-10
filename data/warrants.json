@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 00:05",
+  "updated": "2026-09-10 21:48",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -749,18 +749,18 @@
     },
     "4883": {
       "name": "株式会社モダリス",
-      "holder": "ＳＢＩインベストメント株式会社",
-      "title": "第三者割当により発行された第19回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-09-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260901/140120260901530040/",
+      "holder": "Ｅｖｏ　Ｆｕｎｄ",
+      "title": "第三者割当により発行された第19回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-09-10",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260910/140120260910534343/",
       "kai": 19,
-      "kofu": 2090000,
-      "exercised": 20900,
+      "kofu": 4500000,
+      "exercised": 45000,
       "total": 240000,
-      "exercised_pct": 8.7,
-      "unexercised": 138700,
-      "unexercised_shares": 13870000,
-      "outstanding": 104374098
+      "exercised_pct": 18.8,
+      "unexercised": 93700,
+      "unexercised_shares": 9370000,
+      "outstanding": 106464098
     },
     "4891": {
       "name": "株式会社ティムス",
