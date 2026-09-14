@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 23:54",
+  "updated": "2026-09-14 23:50",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -292,18 +292,18 @@
     },
     "6081": {
       "name": "アライドアーキテクツ株式会社",
-      "holder": "三井住友信託銀行株式会社",
-      "title": "第三者割当により発行された行使価額修正条項付第22回新株予約権の月間行使状況に関するお知らせ",
-      "date": "2026-09-03",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260903/140120260903531311/",
+      "holder": "マッコーリー　バンク　リミテッド",
+      "title": "第三者割当により発行された行使価額修正条項付第22回新株予約権の大量行使、行使期間の終了及び月間行使状況に関するお知らせ",
+      "date": "2026-09-14",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260914/140120260914536155/",
       "kai": 22,
-      "kofu": 200000,
-      "exercised": 2000,
+      "kofu": 1550000,
+      "exercised": 15500,
       "total": 89000,
-      "exercised_pct": 2.2,
-      "unexercised": 77799,
-      "unexercised_shares": 7779900,
-      "outstanding": 17519582
+      "exercised_pct": 17.4,
+      "unexercised": 62299,
+      "unexercised_shares": 6229900,
+      "outstanding": 19269582
     },
     "6699": {
       "name": "ダイヤモンドエレクトリックホールディングス株式会社",
