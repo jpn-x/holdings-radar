@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15 01:50",
+  "updated": "2026-09-15 22:16",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1469,6 +1469,19 @@
       "unexercised": 7230,
       "unexercised_shares": 723000,
       "outstanding": 12517400
+    },
+    "1433": {
+      "name": "ベステラ株式会社",
+      "holder": "吉野　炳樹",
+      "title": "第三者割当による第10回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-12-12",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20251212/140120251212518555/",
+      "kai": 10,
+      "kofu": 40200,
+      "exercised": 402,
+      "exercised_pct": 7.88,
+      "unexercised": 0,
+      "unexercised_shares": 0
     }
   }
 }
