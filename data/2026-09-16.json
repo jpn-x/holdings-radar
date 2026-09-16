@@ -1,0 +1,357 @@
+{
+  "date": "2026-09-16",
+  "new": [
+    {
+      "docId": "S100Z2E4",
+      "sec": "618A",
+      "name": "株式会社ＫＯＭＰＥＩＴＯ",
+      "filer": "ＩＦ　Ｇｒｏｗｔｈ　Ｏｐｐｏｒｔｕｎｉｔｙ　Ｆｕｎｄ　Ｉ，　Ｌ．Ｐ．",
+      "ratio": 9.47,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z2G8",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 22.82,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z1D2",
+      "sec": "7821",
+      "name": "前田工繊株式会社",
+      "filer": "前田尚宏",
+      "ratio": 21.9,
+      "prev_ratio": 21.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z1WN",
+      "sec": "414A",
+      "name": "株式会社オーバーラップホールディングス",
+      "filer": "有限会社カイカイキキ",
+      "ratio": 6.08,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z27P",
+      "sec": "5851",
+      "name": "リョービ株式会社",
+      "filer": "後藤　展幸",
+      "ratio": 6.91,
+      "prev_ratio": 5.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2B5",
+      "sec": "2501",
+      "name": "サッポロビール（株）",
+      "filer": "株式会社みずほ銀行",
+      "ratio": 9.56,
+      "prev_ratio": 10.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2FG",
+      "sec": "4598",
+      "name": "Delta-Fly Pharma株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.71,
+      "prev_ratio": 32.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YXFP",
+      "sec": "9240",
+      "name": "株式会社デリバリーコンサルティング",
+      "filer": "ＭＦアセット株式会社",
+      "ratio": 37.44,
+      "prev_ratio": 37.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2FY",
+      "sec": "4880",
+      "name": "セルソース株式会社",
+      "filer": "山川　雅之",
+      "ratio": 45.71,
+      "prev_ratio": 45.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2IK",
+      "sec": "8252",
+      "name": "株式会社　丸井グループ",
+      "filer": "野村證券株式会社",
+      "ratio": 10.83,
+      "prev_ratio": 8.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z28P",
+      "sec": "5256",
+      "name": "株式会社Ｆｕｓｉｃ",
+      "filer": "納富　貞嘉",
+      "ratio": 31.59,
+      "prev_ratio": 31.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z24Y",
+      "sec": "5256",
+      "name": "株式会社Ｆｕｓｉｃ",
+      "filer": "濱﨑　陽一郎",
+      "ratio": 31.59,
+      "prev_ratio": 31.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z25G",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 17.21,
+      "prev_ratio": 18.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YY7P",
+      "sec": "4099",
+      "name": "四国化成ホールディングス株式会社",
+      "filer": "日清紡ホールディングス株式会社",
+      "ratio": 6.96,
+      "prev_ratio": 9.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2F1",
+      "sec": "3083",
+      "name": "スターシーズ 株式会社",
+      "filer": "明秀株式会社",
+      "ratio": 43.18,
+      "prev_ratio": 51.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2JD",
+      "sec": "194A",
+      "name": "株式会社ＷＯＬＶＥＳ　ＨＡＮＤ",
+      "filer": "北井　正志",
+      "ratio": 42.5,
+      "prev_ratio": 41.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2JN",
+      "sec": "194A",
+      "name": "株式会社ＷＯＬＶＥＳ　ＨＡＮＤ",
+      "filer": "北井　正志",
+      "ratio": 39.91,
+      "prev_ratio": 42.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2A1",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 35.06,
+      "prev_ratio": 35.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2JV",
+      "sec": "4464",
+      "name": "株式会社ソフト９９コーポレーション",
+      "filer": "サントレード株式会社",
+      "ratio": 70.77,
+      "prev_ratio": 53.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YZOB",
+      "sec": "1786",
+      "name": "オリエンタル白石株式会社",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 22.43,
+      "prev_ratio": 21.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z1NY",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 28.98,
+      "prev_ratio": 28.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z27O",
+      "sec": "9702",
+      "name": "株式会社アイ・エス・ビー",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 13.57,
+      "prev_ratio": 12.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2FZ",
+      "sec": "7552",
+      "name": "株式会社ハピネット",
+      "filer": "三井住友ＤＳアセットマネジメント株式会社",
+      "ratio": 11.44,
+      "prev_ratio": 10.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z270",
+      "sec": "5254",
+      "name": "株式会社Ａｒｅｎｔ",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 4.88,
+      "prev_ratio": 5.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2GC",
+      "sec": "2334",
+      "name": "株式会社イオレ",
+      "filer": "吉田　直人",
+      "ratio": 13.92,
+      "prev_ratio": 15.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z1UF",
+      "sec": "2175",
+      "name": "株式会社エス・エム・エス",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 26.97,
+      "prev_ratio": 25.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2B8",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "立川　光昭",
+      "ratio": 10.2,
+      "prev_ratio": 12.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2CM",
+      "sec": "6104",
+      "name": "芝浦機械株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 7.82,
+      "prev_ratio": 6.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2D9",
+      "sec": "3549",
+      "name": "株式会社クスリのアオキホールディングス",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 16.14,
+      "prev_ratio": 15.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2E1",
+      "sec": "6594",
+      "name": "ニデック株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 7.97,
+      "prev_ratio": 6.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z12K",
+      "sec": "3452",
+      "name": "株式会社ビーロット",
+      "filer": "望月　雅博",
+      "ratio": 11.36,
+      "prev_ratio": 13.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2C5",
+      "sec": "3662",
+      "name": "株式会社エイチームホールディングス",
+      "filer": "ＡＰＩＰ，　Ｉｎｃ．",
+      "ratio": 22.08,
+      "prev_ratio": 20.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2DX",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "ＳＢＩインベストメント株式会社",
+      "ratio": 13.87,
+      "prev_ratio": 16.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2PC",
+      "sec": "7044",
+      "name": "株式会社ピアラ",
+      "filer": "飛鳥　貴雄",
+      "ratio": 31.0,
+      "prev_ratio": 32.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2QC",
+      "sec": "9416",
+      "name": "株式会社ビジョン",
+      "filer": "株式会社ＯＣＥＡＮ",
+      "ratio": 4.28,
+      "prev_ratio": 5.28,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
