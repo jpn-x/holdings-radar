@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18 00:31",
+  "updated": "2026-09-18 21:51",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1266,17 +1266,17 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20230623/140120230623509522/"
     },
     "8783": {
-      "name": "ＧＦＡ株式会社",
-      "holder": "景祥針織有限公司",
-      "title": "第20回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-09-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260901/140120260901529673/",
+      "name": "ａｂｃ株式会社",
+      "holder": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "title": "第20回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-09-18",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260918/140120260918538792/",
       "kai": 20,
-      "exercised": 41600,
-      "exercised_pct": 15.94,
-      "unexercised": 177800,
-      "unexercised_shares": 17780000,
-      "outstanding": 45778119
+      "exercised": 27000,
+      "exercised_pct": 10.34,
+      "unexercised": 150800,
+      "unexercised_shares": 15080000,
+      "outstanding": 49938119
     },
     "6619": {
       "name": "ダブル・スコープ株式会社",
@@ -1483,6 +1483,14 @@
       "exercised_pct": 7.88,
       "unexercised": 0,
       "unexercised_shares": 0
+    },
+    "1904": {
+      "name": "大成温調株式会社",
+      "holder": "高橋　洋",
+      "title": "第三者割当による第１回新株予約権の権利行使完了、及びアドバンテッジアドバイザーズ株式会社との事業提携契約の終了に関するお知らせ",
+      "date": "2025-05-21",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250521/140120250521560698/",
+      "kai": 1
     }
   }
 }
