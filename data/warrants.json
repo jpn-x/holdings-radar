@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26 00:53",
+  "updated": "2026-09-29 01:35",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -97,19 +97,18 @@
       "outstanding": 14699200
     },
     "3664": {
-      "name": "株式会社モブキャストホールディングス",
+      "name": "株式会社WIZE",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第39回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-09-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260828/140120260828528142/",
+      "title": "第三者割当により発行された第39回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-09-28",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260928/140120260928541408/",
       "kai": 39,
-      "kofu": 8463000,
-      "exercised": 84630,
+      "exercised": 72000,
       "total": 600000,
-      "exercised_pct": 14.1,
-      "unexercised": 346120,
-      "unexercised_shares": 34612000,
-      "outstanding": 101563408
+      "exercised_pct": 12.0,
+      "unexercised": 274120,
+      "unexercised_shares": 27412000,
+      "outstanding": 110026408
     },
     "3667": {
       "name": "株式会社enish",
