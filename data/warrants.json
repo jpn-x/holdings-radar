@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 02:21",
+  "updated": "2026-10-02 23:35",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -337,17 +337,10 @@
     "7578": {
       "name": "株式会社ニチリョク",
       "holder": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
-      "title": "第４回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-10-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001544131/",
-      "kai": 4,
-      "kofu": 300000,
-      "exercised": 3000,
-      "total": 170982,
-      "exercised_pct": 1.75,
-      "unexercised": 164369,
-      "unexercised_shares": 16436900,
-      "outstanding": 18822705
+      "title": "【訂正】「第４回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ」の一部訂正について",
+      "date": "2026-10-02",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261002/140120261002545429/",
+      "kai": 4
     },
     "7615": {
       "name": "株式会社京都きもの友禅ホールディングス",
@@ -367,13 +360,13 @@
       "name": "堀田丸正株式会社",
       "holder": "ＲＩＺＡＰグループ株式会社",
       "title": "第三者割当により発行された第1回無担保転換社債型新株予約権付社債(転換価額修正条項付)及び第2回新株予約権(行使価額修正条項付)の月間転換・行使状況",
-      "date": "2026-09-02",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260902/140120260902530739/",
+      "date": "2026-10-02",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001544082/",
       "kai": 2,
-      "kofu": 4510566,
+      "kofu": 3432250,
       "unexercised": 593779,
       "unexercised_shares": 59377900,
-      "outstanding": 73690348
+      "outstanding": 78200914
     },
     "8254": {
       "name": "株式会社さいか屋",
@@ -1115,15 +1108,15 @@
     "7957": {
       "name": "フジコピアン株式会社",
       "holder": "三田証券株式会社",
-      "title": "第三者割当による第２回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-10-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001543968/",
+      "title": "第三者割当による第２回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-10-02",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261002/140120261002545380/",
       "kai": 2,
-      "kofu": 59000,
-      "exercised": 590,
-      "exercised_pct": 15.5,
-      "unexercised": 2170,
-      "unexercised_shares": 217000,
+      "kofu": 78000,
+      "exercised": 780,
+      "exercised_pct": 20.53,
+      "unexercised": 1390,
+      "unexercised_shares": 139000,
       "outstanding": 1789487
     },
     "9973": {
@@ -1507,6 +1500,30 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20250702/140120250702506933/",
       "kai": 20,
       "outstanding": 102415276
+    },
+    "1711": {
+      "name": "株式会社ＳＤＳホールディングス",
+      "holder": "三崎優太",
+      "title": "第９回新株予約権の行使状況（2025年12月31日時点）及び発行済株式総数並びに特別利益計上に関するお知らせ",
+      "date": "2026-01-05",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20260105/140120260105528862/",
+      "kai": 9,
+      "outstanding": 10432773
+    },
+    "3083": {
+      "name": "スターシーズ株式会社",
+      "holder": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "title": "第三者割当により発行された第８回～第10回新株予約権（行使価額固定型）の月間行使状況に関するお知らせ",
+      "date": "2026-10-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001544408/",
+      "kai": 10,
+      "kofu": 882400,
+      "exercised": 8824,
+      "total": 30000,
+      "exercised_pct": 29.4,
+      "unexercised": 20900,
+      "unexercised_shares": 2090000,
+      "outstanding": 9688400
     }
   }
 }
