@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 02:10",
+  "updated": "2026-10-08 02:52",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -547,16 +547,16 @@
     "3174": {
       "name": "株式会社ハピネス・アンド・ディ",
       "holder": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
-      "title": "第三者割当により発行された第14回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-10-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001543948/",
+      "title": "第三者割当により発行された第14回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-10-07",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261007/140120261007547270/",
       "kai": 14,
-      "kofu": 0,
-      "exercised": 0,
+      "kofu": 170000,
+      "exercised": 1700,
       "total": 6000,
-      "exercised_pct": 0.0,
-      "unexercised": 1700,
-      "unexercised_shares": 170000,
+      "exercised_pct": 28.3,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 3621600
     },
     "3185": {
@@ -1522,6 +1522,60 @@
       "unexercised": 20900,
       "unexercised_shares": 2090000,
       "outstanding": 9688400
+    },
+    "254A": {
+      "name": "AIフュージョンキャピタルグループ株式会社",
+      "holder": "上原　俊彦",
+      "title": "第三者割当により発行された第２回新株予約権（行使価額修正条項付）の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-05-22",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250522/140120250522562330/",
+      "kai": 2,
+      "kofu": 720000,
+      "exercised": 4030,
+      "total": 8000,
+      "exercised_pct": 50.4,
+      "unexercised": 0,
+      "unexercised_shares": 0,
+      "outstanding": 8982600
+    },
+    "5381": {
+      "name": "マイポックス（株）",
+      "holder": "株式会社みずほ銀行",
+      "title": "行使価額修正条項付新株予約権の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2022-03-02",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20220302/140120220302599235/"
+    },
+    "6257": {
+      "name": "株式会社藤商事",
+      "holder": "松元　正夫",
+      "title": "行使価額修正条項付新株予約権の月間行使状況に関するお知らせ",
+      "date": "2024-05-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20240501/140120240501580433/"
+    },
+    "7674": {
+      "name": "（株）ＮＡＴＴＹ&#0160;&#0160;ＳＷＡＮＫＹホールディングス",
+      "holder": "みずほ証券株式会社",
+      "title": "行使価額修正条項付第３回及び第４回新株予約権（停止指定条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-10-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001544559/",
+      "kai": 4,
+      "kofu": 18000,
+      "exercised": 180,
+      "exercised_pct": 10.91,
+      "unexercised": 1280,
+      "unexercised_shares": 128000,
+      "outstanding": 2466320
+    },
+    "9227": {
+      "name": "マイクロ波化学株式会社",
+      "holder": "ＳＭＢＣ日興証券株式会社",
+      "title": "第８回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "date": "2026-10-01",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001544626/",
+      "kai": 8,
+      "kofu": 54500,
+      "unexercised": 15875,
+      "unexercised_shares": 1587500
     }
   }
 }
