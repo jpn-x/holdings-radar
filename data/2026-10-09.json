@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-09",
+  "new": [
+    {
+      "docId": "S100Z6DJ",
+      "sec": "4893",
+      "name": "ノイルイミューン・バイオテック株式会社",
+      "filer": "岡三証券株式会社",
+      "ratio": 19.29,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z69R",
+      "sec": "4446",
+      "name": "Ｌｉｎｋ－Ｕグループ株式会社",
+      "filer": "クランチロール株式会社",
+      "ratio": 7.03,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z6VR",
+      "sec": "638A",
+      "name": "ハイネスコーポレーション株式会社",
+      "filer": "株式会社惻隠坊",
+      "ratio": 81.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z7C2",
+      "sec": "3276",
+      "name": "株式会社ＪＰＭＣ",
+      "filer": "株式会社Ａｍｓｔｅｒｄａｍ１",
+      "ratio": 85.4,
+      "prev_ratio": 24.83,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z6RX",
+      "sec": "7915",
+      "name": "ＮＩＳＳＨＡ株式会社",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 9.47,
+      "prev_ratio": 10.55,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6IE",
+      "sec": "2498",
+      "name": "株式会社オリエンタルコンサルタンツホールディングス",
+      "filer": "パシフィックコンサルタンツ株式会社",
+      "ratio": null,
+      "prev_ratio": 5.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z773",
+      "sec": "3161",
+      "name": "アゼアス株式会社",
+      "filer": "株式会社Ａｓａｈｉｃｈｏ",
+      "ratio": 10.22,
+      "prev_ratio": 9.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z750",
+      "sec": "4275",
+      "name": "（株）カーリット",
+      "filer": "株式会社みずほ銀行",
+      "ratio": 10.86,
+      "prev_ratio": 11.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z73A",
+      "sec": "5484",
+      "name": "東北特殊鋼株式会社",
+      "filer": "大同特殊鋼株式会社",
+      "ratio": 95.75,
+      "prev_ratio": 95.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6W3",
+      "sec": "4071",
+      "name": "株式会社プラスアルファ・コンサルティング",
+      "filer": "三室　克哉",
+      "ratio": 17.92,
+      "prev_ratio": 17.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6DM",
+      "sec": "2742",
+      "name": "株式会社ハローズ　代表取締役　佐藤　利行",
+      "filer": "佐藤　利行",
+      "ratio": 34.23,
+      "prev_ratio": 33.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z77V",
+      "sec": "4572",
+      "name": "カルナバイオサイエンス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 27.24,
+      "prev_ratio": 28.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6YG",
+      "sec": "3276",
+      "name": "株式会社ＪＰＭＣ",
+      "filer": "株式会社ムトウエンタープライズ２",
+      "ratio": 76.04,
+      "prev_ratio": 28.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6WS",
+      "sec": "9245",
+      "name": "株式会社リベロ",
+      "filer": "鹿島　秀俊",
+      "ratio": 36.95,
+      "prev_ratio": 36.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z1Z5",
+      "sec": "4247",
+      "name": "ポバール興業株式会社",
+      "filer": "神田　隆生",
+      "ratio": 36.45,
+      "prev_ratio": 36.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z70F",
+      "sec": "4477",
+      "name": "BASE株式会社",
+      "filer": "牧　寛之",
+      "ratio": 23.32,
+      "prev_ratio": 20.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7B1",
+      "sec": "9687",
+      "name": "株式会社ＫＳＫ",
+      "filer": "Ｆｉｄｅｌｉｔｙ　Ｍａｎａｇｅｍｅｎｔ　＆　Ｒｅｓｅａｒｃｈ　Ｃｏｍｐａｎｙ　ＬＬＣ",
+      "ratio": 10.0,
+      "prev_ratio": 11.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6MK",
+      "sec": "338A",
+      "name": "株式会社ＺｅｎｍｕＴｅｃｈ",
+      "filer": "岡積　正夫",
+      "ratio": 3.85,
+      "prev_ratio": 5.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7CU",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "株式会社Ｂｌｕｅ　ｌａｇｏｏｎ",
+      "ratio": 9.06,
+      "prev_ratio": 15.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6YT",
+      "sec": "4847",
+      "name": "株式会社インテリジェント　ウェイブ",
+      "filer": "安達　一彦",
+      "ratio": 8.02,
+      "prev_ratio": 9.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6E4",
+      "sec": "9507",
+      "name": "四国電力株式会社",
+      "filer": "株式会社伊予鉄グループ",
+      "ratio": 13.43,
+      "prev_ratio": 12.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7D0",
+      "sec": "3083",
+      "name": "スターシーズ株式会社",
+      "filer": "株式会社Ｂｌｕｅ　ｌａｇｏｏｎ",
+      "ratio": 9.06,
+      "prev_ratio": 15.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7DD",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 51.09,
+      "prev_ratio": 52.12,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7BB",
+      "sec": "5484",
+      "name": "東北特殊鋼株式会社",
+      "filer": "岡谷鋼機株式会社",
+      "ratio": 95.75,
+      "prev_ratio": 95.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7DG",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 50.06,
+      "prev_ratio": 51.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7DJ",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 50.06,
+      "prev_ratio": 50.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7DC",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 8.98,
+      "prev_ratio": 11.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z74B",
+      "sec": "6696",
+      "name": "株式会社トラース・オン・プロダクト",
+      "filer": "藤吉　英彦",
+      "ratio": 32.01,
+      "prev_ratio": 32.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z76K",
+      "sec": "9687",
+      "name": "株式会社ＫＳＫ",
+      "filer": "光通信株式会社",
+      "ratio": 15.5,
+      "prev_ratio": 14.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z707",
+      "sec": "5484",
+      "name": "東北特殊鋼株式会社",
+      "filer": "東京窯業株式会社",
+      "ratio": 95.75,
+      "prev_ratio": 95.96,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
