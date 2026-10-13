@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-13",
+  "new": [
+    {
+      "docId": "S100Z7BI",
+      "sec": "2498",
+      "name": "株式会社オリエンタルコンサルタンツホールディングス",
+      "filer": "パシフィックコンサルタンツホールディングス株式会社",
+      "ratio": 5.42,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z7FG",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 59.94,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z7IC",
+      "sec": "634A",
+      "name": "株式会社レイヤード",
+      "filer": "毛塚　牧人",
+      "ratio": 41.4,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z6PR",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "ビーシーピーイー　ネオン　ケイマン　エルピー",
+      "ratio": 87.43,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z728",
+      "sec": "6237",
+      "name": "株式会社イワキ",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z7M5",
+      "sec": "9213",
+      "name": "株式会社セイファート",
+      "filer": "ダイナミックソリューショングループ株式会社",
+      "ratio": 7.04,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z6RQ",
+      "sec": "4004",
+      "name": "株式会社レゾナック・ホールディングス",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 13.35,
+      "prev_ratio": 12.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6GF",
+      "sec": "6496",
+      "name": "株式会社中北製作所",
+      "filer": "宮田　宏章",
+      "ratio": 23.35,
+      "prev_ratio": 20.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6EU",
+      "sec": "5820",
+      "name": "株式会社三ッ星",
+      "filer": "Ｆｒａｎｃｉｓ　Ｃａｐｉｔａｌ　Ｉｎｃ",
+      "ratio": 38.63,
+      "prev_ratio": 39.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6ZP",
+      "sec": "3612",
+      "name": "株式会社ワールド",
+      "filer": "寺井　秀藏",
+      "ratio": 16.09,
+      "prev_ratio": 16.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6UJ",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "ビーシーピーイー　ネオン　ケイマン　エルピー",
+      "ratio": 87.43,
+      "prev_ratio": 87.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7LI",
+      "sec": "3276",
+      "name": "株式会社ＪＰＭＣ",
+      "filer": "株式会社Ａｍｓｔｅｒｄａｍ１",
+      "ratio": 85.4,
+      "prev_ratio": 85.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z70L",
+      "sec": "4477",
+      "name": "BASE株式会社",
+      "filer": "牧　寛之",
+      "ratio": 24.52,
+      "prev_ratio": 23.32,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6GS",
+      "sec": "6877",
+      "name": "OBARA GROUP株式会社",
+      "filer": "ゼナーアセットマネジメントエルエルピー",
+      "ratio": 7.53,
+      "prev_ratio": 6.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7E8",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰ",
+      "filer": "ネットプライス事業再生合同会社",
+      "ratio": 46.1,
+      "prev_ratio": 46.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7EB",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "ネットプライス事業再生合同会社",
+      "ratio": 48.74,
+      "prev_ratio": 52.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7EE",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "ネットプライス事業再生合同会社",
+      "ratio": 41.69,
+      "prev_ratio": 41.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6LU",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 25.94,
+      "prev_ratio": 26.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6GK",
+      "sec": "9699",
+      "name": "ニシオホールディングス株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 12.33,
+      "prev_ratio": 13.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7EN",
+      "sec": "3189",
+      "name": "株式会社ＡＮＡＰホールディングス",
+      "filer": "ネットプライス事業再生合同会社",
+      "ratio": 49.45,
+      "prev_ratio": 41.73,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7D3",
+      "sec": "5930",
+      "name": "文化シヤッター株式会社",
+      "filer": "ＮＩＰＰＯＮ　ＡＣＴＩＶＥ　ＶＡＬＵＥ　ＦＵＮＤ　ＰＬＣ",
+      "ratio": 18.97,
+      "prev_ratio": 18.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6FS",
+      "sec": "3765",
+      "name": "ガンホー・オンライン・エンターテイメント株式会社",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 13.67,
+      "prev_ratio": 13.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6RL",
+      "sec": "9742",
+      "name": "株式会社アイネス",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 10.07,
+      "prev_ratio": 9.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z703",
+      "sec": "9854",
+      "name": "愛眼株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 6.22,
+      "prev_ratio": 6.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7EO",
+      "sec": "3276",
+      "name": "株式会社ＪＰＭＣ",
+      "filer": "光通信株式会社",
+      "ratio": 60.46,
+      "prev_ratio": 9.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7GS",
+      "sec": "2491",
+      "name": "バリューコマース株式会社",
+      "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
+      "ratio": 11.97,
+      "prev_ratio": 10.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7H8",
+      "sec": "4577",
+      "name": "ダイト株式会社",
+      "filer": "カナメ・キャピタル・エルピー（Ｋａｎａｍｅ　Ｃａｐｉｔａｌ，Ｌ．Ｐ．）",
+      "ratio": 12.13,
+      "prev_ratio": 11.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7EX",
+      "sec": "5983",
+      "name": "イワブチ株式会社",
+      "filer": "ＳＥＮＪＩＮ　ＣＡＰＩＴＡＬ　ＰＴＹ　ＬＴＤ",
+      "ratio": 9.81,
+      "prev_ratio": 9.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7JF",
+      "sec": "7611",
+      "name": "株式会社ハイデイ日高",
+      "filer": "神田　正",
+      "ratio": 14.33,
+      "prev_ratio": 18.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7I5",
+      "sec": "7272",
+      "name": "ヤマハ発動機株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 6.5,
+      "prev_ratio": 7.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z70H",
+      "sec": "3174",
+      "name": "株式会社ハピネス・アンド・ディ",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 4.98,
+      "prev_ratio": 5.27,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
