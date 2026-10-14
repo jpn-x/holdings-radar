@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-14",
+  "new": [
+    {
+      "docId": "S100Z6KE",
+      "sec": "3856",
+      "name": "Ａｂａｌａｎｃｅ株式会社",
+      "filer": "道嘉Ｈｏｌｄｉｎｇ株式会社",
+      "ratio": 25.34,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z7W0",
+      "sec": "9679",
+      "name": "ホウライ株式会社",
+      "filer": "日本駐車場開発株式会社",
+      "ratio": 5.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z7RP",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 22.81,
+      "prev_ratio": 22.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7JB",
+      "sec": "2721",
+      "name": "株式会社ジェイホールディングス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": null,
+      "prev_ratio": 19.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z440",
+      "sec": "3542",
+      "name": "株式会社ベガコーポレーション",
+      "filer": "浮城　智和",
+      "ratio": 60.57,
+      "prev_ratio": 61.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7PT",
+      "sec": "6029",
+      "name": "アトラグループ株式会社",
+      "filer": "マイルストーン・キャピタル・マネジメント株式会社",
+      "ratio": 27.16,
+      "prev_ratio": 28.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7OC",
+      "sec": "6599",
+      "name": "エブレン株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 6.37,
+      "prev_ratio": 7.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7OD",
+      "sec": "9790",
+      "name": "福井コンピュータホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 13.31,
+      "prev_ratio": 12.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7ER",
+      "sec": "9362",
+      "name": "兵機海運株式会社",
+      "filer": "堂島汽船株式会社",
+      "ratio": 16.35,
+      "prev_ratio": 15.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z70I",
+      "sec": "6794",
+      "name": "フォスター電機株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 9.31,
+      "prev_ratio": 8.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z817",
+      "sec": "3468",
+      "name": "スターアジア不動産投資法人",
+      "filer": "マルコム・エフ・マクリーン４世",
+      "ratio": 5.99,
+      "prev_ratio": 6.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z78C",
+      "sec": "6104",
+      "name": "芝浦機械株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 11.27,
+      "prev_ratio": 10.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z831",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 7.87,
+      "prev_ratio": 9.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z83Q",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 6.05,
+      "prev_ratio": 7.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z84S",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 14.65,
+      "prev_ratio": 13.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z84M",
+      "sec": "4572",
+      "name": "カルナバイオサイエンス株式会社",
+      "filer": "五味　大輔",
+      "ratio": 6.66,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
