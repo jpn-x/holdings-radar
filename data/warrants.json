@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 03:00",
+  "updated": "2026-10-14 22:24",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1107,14 +1107,15 @@
     "7957": {
       "name": "フジコピアン株式会社",
       "holder": "三田証券株式会社",
-      "title": "第三者割当による第２回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-10-06",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261006/140120261006546676/",
+      "title": "第三者割当による第2回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-10-14",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261014/140120261014550636/",
       "kai": 2,
-      "exercised": 390,
-      "exercised_pct": 10.26,
-      "unexercised": 340,
-      "unexercised_shares": 34000,
+      "kofu": 217000,
+      "exercised": 2170,
+      "exercised_pct": 57.11,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 1789487
     },
     "9973": {
