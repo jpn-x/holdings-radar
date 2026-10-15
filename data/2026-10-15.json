@@ -1,0 +1,387 @@
+{
+  "date": "2026-10-15",
+  "new": [
+    {
+      "docId": "S100Z6B4",
+      "sec": "647A",
+      "name": "株式会社東京みらい不動産",
+      "filer": "大塚　文彦",
+      "ratio": 100.0,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z8F4",
+      "sec": "5987",
+      "name": "株式会社オーネックス",
+      "filer": "品香事業有限公司",
+      "ratio": 45.95,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z8FN",
+      "sec": "1716",
+      "name": "第一カッター興業株式会社",
+      "filer": "渡邉　剛",
+      "ratio": 6.4,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z7KG",
+      "sec": "2531",
+      "name": "宝ホールディングス株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 5.09,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z7TO",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 21.4,
+      "prev_ratio": 22.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YUVI",
+      "sec": "2986",
+      "name": "株式会社ＬＡホールディングス",
+      "filer": "サマーバンク合同会社",
+      "ratio": 9.77,
+      "prev_ratio": 8.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z83L",
+      "sec": "4260",
+      "name": "株式会社ハイブリッドテクノロジーズ",
+      "filer": "ＳＯＬＴＥＣ　ＩＮＶＥＳＴＭＥＮＴＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 29.88,
+      "prev_ratio": 33.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z795",
+      "sec": "4004",
+      "name": "株式会社レゾナック・ホールディングス",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 13.69,
+      "prev_ratio": 13.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7HI",
+      "sec": "8966",
+      "name": "平和不動産リート投資法人",
+      "filer": "三井住友トラスト・アセットマネジメント株式会社",
+      "ratio": 17.16,
+      "prev_ratio": 17.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7RN",
+      "sec": "4275",
+      "name": "（株）カーリット",
+      "filer": "株式会社みずほ銀行",
+      "ratio": 10.86,
+      "prev_ratio": 10.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z89D",
+      "sec": "7345",
+      "name": "株式会社アイ・パートナーズフィナンシャル",
+      "filer": "千代田インベストメント株式会社",
+      "ratio": 10.98,
+      "prev_ratio": 10.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z82C",
+      "sec": "6617",
+      "name": "株式会社東光高岳",
+      "filer": "三井住友ＤＳアセットマネジメント株式会社",
+      "ratio": 10.05,
+      "prev_ratio": 8.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8B9",
+      "sec": "7803",
+      "name": "株式会社ブシロード",
+      "filer": "木谷　高明",
+      "ratio": 49.08,
+      "prev_ratio": 47.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z76Y",
+      "sec": "1447",
+      "name": "SAAFホールディングス株式会社",
+      "filer": "ミツワ樹脂工業株式会社",
+      "ratio": 6.97,
+      "prev_ratio": 9.99,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7JX",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "藤井　和也",
+      "ratio": null,
+      "prev_ratio": 14.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7KB",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "冨永　重寛",
+      "ratio": null,
+      "prev_ratio": 37.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8AW",
+      "sec": "215A",
+      "name": "株式会社タイミー",
+      "filer": "ノルウェー銀行",
+      "ratio": 6.3,
+      "prev_ratio": 5.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7EZ",
+      "sec": "4439",
+      "name": "株式会社東名",
+      "filer": "光通信株式会社",
+      "ratio": 35.33,
+      "prev_ratio": 35.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F0",
+      "sec": "4746",
+      "name": "株式会社東計電算",
+      "filer": "光通信株式会社",
+      "ratio": 7.44,
+      "prev_ratio": 7.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F1",
+      "sec": "4848",
+      "name": "株式会社フルキャストホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 20.8,
+      "prev_ratio": 20.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F2",
+      "sec": "4979",
+      "name": "ＯＡＴアグリオ株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 10.01,
+      "prev_ratio": 9.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F3",
+      "sec": "5254",
+      "name": "株式会社Ａｒｅｎｔ",
+      "filer": "光通信株式会社",
+      "ratio": 12.66,
+      "prev_ratio": 12.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8EO",
+      "sec": "2055",
+      "name": "日和産業株式会社",
+      "filer": "株式会社十文字チキンカンパニー",
+      "ratio": 7.86,
+      "prev_ratio": 6.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F4",
+      "sec": "5982",
+      "name": "株式会社マルゼン",
+      "filer": "光通信株式会社",
+      "ratio": 19.51,
+      "prev_ratio": 19.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F5",
+      "sec": "6309",
+      "name": "巴工業株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 16.52,
+      "prev_ratio": 15.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F6",
+      "sec": "7377",
+      "name": "ＤＮホールディングス株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 10.39,
+      "prev_ratio": 10.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z79J",
+      "sec": "3132",
+      "name": "マクニカホールディングス株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 8.14,
+      "prev_ratio": 9.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8EZ",
+      "sec": "1716",
+      "name": "第一カッター興業株式会社",
+      "filer": "渡邉　剛",
+      "ratio": null,
+      "prev_ratio": 13.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F7",
+      "sec": "9441",
+      "name": "株式会社ベルパーク",
+      "filer": "光通信株式会社",
+      "ratio": 36.3,
+      "prev_ratio": 35.58,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z736",
+      "sec": "6517",
+      "name": "デンヨー株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 11.47,
+      "prev_ratio": 12.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z73Y",
+      "sec": "3580",
+      "name": "小松マテーレ株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 11.82,
+      "prev_ratio": 12.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z74Z",
+      "sec": "8511",
+      "name": "日本証券金融株式会社",
+      "filer": "シンフォニー・フィナンシャル・パートナーズ（シンガポール）ピーティーイー・リミテッド",
+      "ratio": 21.02,
+      "prev_ratio": 22.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7F8",
+      "sec": "9539",
+      "name": "京葉瓦斯株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 10.49,
+      "prev_ratio": 9.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7JC",
+      "sec": "2492",
+      "name": "株式会社インフォマート",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 24.7,
+      "prev_ratio": 23.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7LU",
+      "sec": "6594",
+      "name": "ニデック株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 9.0,
+      "prev_ratio": 7.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8I0",
+      "sec": "6857",
+      "name": "株式会社アドバンテスト",
+      "filer": "野村證券株式会社",
+      "ratio": 11.52,
+      "prev_ratio": 12.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8GP",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 22.72,
+      "prev_ratio": 21.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z6QH",
+      "sec": "3823",
+      "name": "THE WHY HOW DO COMPANY株式会社",
+      "filer": "田邊　勝己",
+      "ratio": 21.59,
+      "prev_ratio": 21.75,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
