@@ -1,0 +1,387 @@
+{
+  "date": "2026-10-19",
+  "new": [
+    {
+      "docId": "S100Z8NI",
+      "sec": "9334",
+      "name": "株式会社アイビスホールディングス",
+      "filer": "株式会社旺司ライフワーク",
+      "ratio": 83.98,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z7YT",
+      "sec": "8975",
+      "name": "いちごオフィスリート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z70K",
+      "sec": "7562",
+      "name": "株式会社安楽亭",
+      "filer": "豊山開発株式会社",
+      "ratio": 23.27,
+      "prev_ratio": 12.52,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z85C",
+      "sec": "8541",
+      "name": "株式会社愛媛銀行",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 5.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z8UE",
+      "sec": "6800",
+      "name": "株式会社ヨコオ",
+      "filer": "ＳｉｌｖｅｒＣａｐｅ　Ｉｎｖｅｓｔｍｅｎｔｓ　Ｌｉｍｉｔｅｄ",
+      "ratio": 5.1,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z7J3",
+      "sec": "3612",
+      "name": "株式会社ワールド",
+      "filer": "寺井　秀藏",
+      "ratio": 16.09,
+      "prev_ratio": 16.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8TE",
+      "sec": "4369",
+      "name": "株式会社　トリケミカル研究所",
+      "filer": "野村證券株式会社",
+      "ratio": 10.7,
+      "prev_ratio": 10.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YXQ5",
+      "sec": "6155",
+      "name": "高松機械工業株式会社",
+      "filer": "井上　英一郎",
+      "ratio": 11.43,
+      "prev_ratio": 10.39,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7Y4",
+      "sec": "3176",
+      "name": "三洋貿易株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.06,
+      "prev_ratio": 6.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7Y7",
+      "sec": "5210",
+      "name": "日本山村硝子株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.1,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7YC",
+      "sec": "6857",
+      "name": "株式会社アドバンテスト",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.94,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7YG",
+      "sec": "7004",
+      "name": "カナデビア株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.11,
+      "prev_ratio": 7.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7YK",
+      "sec": "8951",
+      "name": "日本ビルファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.72,
+      "prev_ratio": 5.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7YM",
+      "sec": "8952",
+      "name": "ジャパンリアルエステイト投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.2,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7YX",
+      "sec": "9706",
+      "name": "日本空港ビルデング株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.46,
+      "prev_ratio": 5.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8CZ",
+      "sec": "4491",
+      "name": "コンピューターマネージメント株式会社",
+      "filer": "有限会社シー・エム・ケー",
+      "ratio": 35.81,
+      "prev_ratio": 35.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8CS",
+      "sec": "3695",
+      "name": "ＧＭＯプロダクトプラットフォーム株式会社",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 66.35,
+      "prev_ratio": 67.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8S7",
+      "sec": "6063",
+      "name": "日本エマージェンシーアシスタンス株式会社",
+      "filer": "徐　志敏",
+      "ratio": 17.71,
+      "prev_ratio": 16.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8R5",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "和德投資有限公司",
+      "ratio": 8.89,
+      "prev_ratio": 9.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8Q7",
+      "sec": "197A",
+      "name": "株式会社タウンズ",
+      "filer": "ＣＩＴＩＣ　ＣＡＰＩＴＡＬ　ＪＡＰＡＮ　ＰＡＲＴＮＥＲＳ　ＩＩＩ、Ｌ．Ｐ．",
+      "ratio": 39.29,
+      "prev_ratio": 42.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8T6",
+      "sec": "4572",
+      "name": "カルナバイオサイエンス株式会社",
+      "filer": "ＣＡＮＴＯＲ　ＦＩＴＺＧＥＲＡＬＤ　ＥＵＲＯＰＥ",
+      "ratio": 25.65,
+      "prev_ratio": 27.24,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8A0",
+      "sec": "4260",
+      "name": "株式会社ハイブリッドテクノロジーズ",
+      "filer": "ＳＯＬＴＥＣ　ＩＮＶＥＳＴＭＥＮＴＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 27.71,
+      "prev_ratio": 29.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8VO",
+      "sec": "6226",
+      "name": "守谷輸送機工業株式会社",
+      "filer": "守谷　貞夫",
+      "ratio": 51.32,
+      "prev_ratio": 54.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8W6",
+      "sec": "7041",
+      "name": "ＣＲＧホールディングス株式会社",
+      "filer": "井上　弘",
+      "ratio": 54.49,
+      "prev_ratio": 55.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7VO",
+      "sec": "6523",
+      "name": "ＰＨＣホールディングス株式会社",
+      "filer": "三井物産株式会社",
+      "ratio": 6.47,
+      "prev_ratio": 7.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z70S",
+      "sec": "4477",
+      "name": "BASE株式会社",
+      "filer": "牧　寛之",
+      "ratio": 26.89,
+      "prev_ratio": 24.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8HP",
+      "sec": "9450",
+      "name": "株式会社ファイバーゲート",
+      "filer": "光通信株式会社",
+      "ratio": 13.27,
+      "prev_ratio": 12.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8N5",
+      "sec": "9425",
+      "name": "ＲｅＹｕｕ Ｊａｐａｎ株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 32.03,
+      "prev_ratio": 33.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8A6",
+      "sec": "3185",
+      "name": "夢展望株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 12.06,
+      "prev_ratio": 13.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z81K",
+      "sec": "9211",
+      "name": "株式会社エフ・コード",
+      "filer": "工藤　勉",
+      "ratio": 37.21,
+      "prev_ratio": 38.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8S6",
+      "sec": "618A",
+      "name": "株式会社ＫＯＭＰＥＩＴＯ",
+      "filer": "ＩＦ　Ｇｒｏｗｔｈ　Ｏｐｐｏｒｔｕｎｉｔｙ　Ｆｕｎｄ　Ｉ，　Ｌ．Ｐ．",
+      "ratio": 8.35,
+      "prev_ratio": 9.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z562",
+      "sec": "7071",
+      "name": "株式会社アンビスホールディングス",
+      "filer": "柴原　慶一",
+      "ratio": 61.54,
+      "prev_ratio": 61.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8JI",
+      "sec": "9831",
+      "name": "株式会社ヤマダホールディングス",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 9.39,
+      "prev_ratio": 8.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8UH",
+      "sec": "9279",
+      "name": "株式会社ギフトホールディングス",
+      "filer": "ＧＷ＆Ｋ　ＩＮＶＥＳＴＭＥＮＴ　ＭＡＮＡＧＥＭＥＮＴ，ＬＬＣ",
+      "ratio": 5.1,
+      "prev_ratio": 6.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8SP",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 48.07,
+      "prev_ratio": 50.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8R9",
+      "sec": "7578",
+      "name": "株式会社ニチリョク",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 43.98,
+      "prev_ratio": 44.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8XS",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 45.12,
+      "prev_ratio": 48.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8XW",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 44.23,
+      "prev_ratio": 45.12,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
