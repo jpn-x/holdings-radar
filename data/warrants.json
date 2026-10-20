@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 02:25",
+  "updated": "2026-10-20 22:27",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -906,12 +906,15 @@
     "6721": {
       "name": "ウインテスト株式会社",
       "holder": "ａｂｃ株式会社",
-      "title": "第三者割当による第13回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-10-19",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261019/140120261019552869/",
+      "title": "第三者割当による第13回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
+      "date": "2026-10-20",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261020/140120261020553483/",
       "kai": 13,
-      "unexercised": 5181,
-      "unexercised_shares": 518100,
+      "kofu": 1362900,
+      "exercised": 13629,
+      "exercised_pct": 19.47,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 59278100
     },
     "7057": {
