@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 00:58",
+  "updated": "2026-10-22 22:40",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1258,17 +1258,12 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20230623/140120230623509522/"
     },
     "8783": {
-      "name": "GFA株式会社",
-      "holder": "合同会社トリコロール２",
-      "title": "第20回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-10-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001544219/",
-      "kai": 20,
-      "exercised": 27000,
-      "exercised_pct": 10.34,
-      "unexercised": 150800,
-      "unexercised_shares": 15080000,
-      "outstanding": 49938119
+      "name": "abc株式会社",
+      "holder": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "title": "上場株式のトレーディングによる営業外収益の計上並びにウインテスト第13回新株予約権の行使完了に関するお知らせ",
+      "date": "2026-10-22",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261022/140120261022554504/",
+      "kai": 13
     },
     "6619": {
       "name": "ダブル・スコープ株式会社",
@@ -1578,6 +1573,18 @@
       "kofu": 54500,
       "unexercised": 15875,
       "unexercised_shares": 1587500
+    },
+    "4893": {
+      "name": "ノイルイミューン・バイオテック株式会社",
+      "holder": "岡三証券株式会社",
+      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
+      "date": "2026-10-21",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261021/140120261021554170/",
+      "kai": 14,
+      "exercised": 12500,
+      "exercised_pct": 12.5,
+      "unexercised": 87500,
+      "outstanding": 43399118
     }
   }
 }
