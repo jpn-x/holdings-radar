@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-23",
+  "new": [
+    {
+      "docId": "S100Z9PH",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "アースエレメンツ・キャピタル株式会社",
+      "ratio": 11.41,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z987",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "水口　翼",
+      "ratio": 41.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z8VM",
+      "sec": "627A",
+      "name": "ａｋｉｐｐａ株式会社",
+      "filer": "ＳＯＭＰＯホールディングス株式会社",
+      "ratio": 9.96,
+      "prev_ratio": 13.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z962",
+      "sec": "2055",
+      "name": "日和産業株式会社",
+      "filer": "株式会社十文字チキンカンパニー",
+      "ratio": 7.74,
+      "prev_ratio": 6.86,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z96B",
+      "sec": "2055",
+      "name": "日和産業株式会社",
+      "filer": "株式会社十文字チキンカンパニー",
+      "ratio": 7.88,
+      "prev_ratio": 7.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z96G",
+      "sec": "2055",
+      "name": "日和産業株式会社",
+      "filer": "株式会社十文字チキンカンパニー",
+      "ratio": 7.89,
+      "prev_ratio": 7.88,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9JX",
+      "sec": "5591",
+      "name": "株式会社ＡＶＩＬＥＮ",
+      "filer": "崔　一鳴",
+      "ratio": 4.31,
+      "prev_ratio": 5.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9GZ",
+      "sec": "9509",
+      "name": "北海道電力（株）",
+      "filer": "株式会社みずほ銀行",
+      "ratio": 11.14,
+      "prev_ratio": 10.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9NE",
+      "sec": "9644",
+      "name": "株式会社タナベコンサルティンググループ",
+      "filer": "楢﨑　十紀",
+      "ratio": 6.86,
+      "prev_ratio": 7.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9M7",
+      "sec": "509A",
+      "name": "グリーンライト・再エネインフラ投資法人",
+      "filer": "ブルースカイエナジー株式会社",
+      "ratio": 14.07,
+      "prev_ratio": 13.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9NM",
+      "sec": "3697",
+      "name": "株式会社ＳＨＩＦＴ",
+      "filer": "アーカス・インベストメント・リミテッド",
+      "ratio": 6.14,
+      "prev_ratio": 7.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9O3",
+      "sec": "3350",
+      "name": "株式会社メタプラネット",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 10.9,
+      "prev_ratio": 9.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8JT",
+      "sec": "7371",
+      "name": "Ｚｅｎｋｅｎ株式会社",
+      "filer": "林　順之亮",
+      "ratio": 13.69,
+      "prev_ratio": 14.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PJ",
+      "sec": "369A",
+      "name": "株式会社エータイ",
+      "filer": "樺山　伸一",
+      "ratio": 54.38,
+      "prev_ratio": 54.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PO",
+      "sec": "369A",
+      "name": "株式会社エータイ",
+      "filer": "樺山　伸一",
+      "ratio": 54.38,
+      "prev_ratio": 54.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9OC",
+      "sec": "9082",
+      "name": "大和自動車交通株式会社",
+      "filer": "ｎｅｗｍｏ株式会社",
+      "ratio": 5.07,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PC",
+      "sec": "1436",
+      "name": "株式会社グリーンエナジー＆カンパニー",
+      "filer": "鈴江　崇文",
+      "ratio": 67.18,
+      "prev_ratio": 67.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PS",
+      "sec": "9399",
+      "name": "ビート・ホールディングス・リミテッド",
+      "filer": "レン・イー・ハン",
+      "ratio": 23.07,
+      "prev_ratio": 26.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8NN",
+      "sec": "9425",
+      "name": "ReYuu　Japan株式会社",
+      "filer": "Ｓｅａｃａｓｔｌｅ　Ｓｉｎｇａｐｏｒｅ　Ｐｔｅ．Ｌｔｄ",
+      "ratio": 37.47,
+      "prev_ratio": 37.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PE",
+      "sec": "6976",
+      "name": "太陽誘電株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 15.31,
+      "prev_ratio": 13.67,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8VL",
+      "sec": "3964",
+      "name": "株式会社オークネット",
+      "filer": "株式会社ヴァレックス・パートナーズ",
+      "ratio": 5.88,
+      "prev_ratio": 7.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z94H",
+      "sec": "4047",
+      "name": "関東電化工業株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 19.83,
+      "prev_ratio": 19.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9LA",
+      "sec": "2477",
+      "name": "手間いらず株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 10.62,
+      "prev_ratio": 9.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z98P",
+      "sec": "3803",
+      "name": "イメージ情報開発株式会社",
+      "filer": "サイブリッジ合同会社",
+      "ratio": 41.96,
+      "prev_ratio": 38.49,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9LH",
+      "sec": "4414",
+      "name": "株式会社フレクト",
+      "filer": "光通信株式会社",
+      "ratio": 6.08,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9M6",
+      "sec": "7361",
+      "name": "株式会社ヒューマンクリエイションホールディングス",
+      "filer": "光通信株式会社",
+      "ratio": 15.07,
+      "prev_ratio": 13.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9RM",
+      "sec": "627A",
+      "name": "akippa株式会社",
+      "filer": "株式会社ディー・エヌ・エー",
+      "ratio": 4.91,
+      "prev_ratio": 6.68,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7JX",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "藤井　和也",
+      "ratio": null,
+      "prev_ratio": 14.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z7KB",
+      "sec": "4413",
+      "name": "株式会社ボードルア",
+      "filer": "冨永　重寛",
+      "ratio": null,
+      "prev_ratio": 37.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8WL",
+      "sec": "6807",
+      "name": "日本航空電子工業株式会社",
+      "filer": "シンプレクス・アセット・マネジメント株式会社",
+      "ratio": 14.87,
+      "prev_ratio": 13.77,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
