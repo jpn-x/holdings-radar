@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-26",
+  "new": [
+    {
+      "docId": "S100Z9VJ",
+      "sec": "6378",
+      "name": "木村化工機株式会社",
+      "filer": "冨田　佳和",
+      "ratio": 5.57,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z9AQ",
+      "sec": "9308",
+      "name": "乾汽船株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 5.06,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZA0Z",
+      "sec": "4420",
+      "name": "イーソル株式会社",
+      "filer": "株式会社ＢＣＪ－１１０",
+      "ratio": 76.85,
+      "prev_ratio": 7.05,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z8QY",
+      "sec": "8070",
+      "name": "東京産業株式会社",
+      "filer": "西華産業株式会社",
+      "ratio": 15.74,
+      "prev_ratio": 14.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9MH",
+      "sec": "6696",
+      "name": "株式会社トラース・オン・プロダクト",
+      "filer": "藤吉　英彦",
+      "ratio": 32.01,
+      "prev_ratio": 32.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9SP",
+      "sec": "6037",
+      "name": "楽待株式会社",
+      "filer": "坂口　直大",
+      "ratio": 70.75,
+      "prev_ratio": 68.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9T7",
+      "sec": "3556",
+      "name": "リネットジャパングループ株式会社",
+      "filer": "黒田　武志",
+      "ratio": 40.52,
+      "prev_ratio": 41.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9NQ",
+      "sec": "2689",
+      "name": "オルバディーブイエックスヘルスケア株式会社",
+      "filer": "前島　達也",
+      "ratio": null,
+      "prev_ratio": 7.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9CW",
+      "sec": "6525",
+      "name": "株式会社ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 9.04,
+      "prev_ratio": 10.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9BW",
+      "sec": "4004",
+      "name": "株式会社レゾナック・ホールディングス",
+      "filer": "キャピタル・リサーチ・アンド・マネージメント・カンパニー",
+      "ratio": 15.97,
+      "prev_ratio": 14.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9U4",
+      "sec": "1716",
+      "name": "第一カッター興業株式会社",
+      "filer": "渡邉　剛",
+      "ratio": 4.29,
+      "prev_ratio": 6.83,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9OB",
+      "sec": "5076",
+      "name": "インフロニア・ホールディングス株式会社",
+      "filer": "光が丘興産株式会社",
+      "ratio": 9.05,
+      "prev_ratio": 8.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9S4",
+      "sec": "5842",
+      "name": "インテグラル・グループ株式会社",
+      "filer": "佐山　展生",
+      "ratio": 23.17,
+      "prev_ratio": 24.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9WG",
+      "sec": "4420",
+      "name": "イーソル株式会社",
+      "filer": "長谷川　勝敏",
+      "ratio": 70.85,
+      "prev_ratio": 8.79,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9V6",
+      "sec": "6378",
+      "name": "木村化工機株式会社",
+      "filer": "大畠　元紀",
+      "ratio": null,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9WZ",
+      "sec": "4420",
+      "name": "イーソル株式会社",
+      "filer": "上山　伸幸",
+      "ratio": 69.88,
+      "prev_ratio": 7.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9VH",
+      "sec": "4536",
+      "name": "参天製薬株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 10.25,
+      "prev_ratio": 9.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z94Y",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 23.52,
+      "prev_ratio": 24.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z94S",
+      "sec": "4620",
+      "name": "藤倉化成株式会社",
+      "filer": "株式会社ＤＯＥ５パーセント",
+      "ratio": 11.7,
+      "prev_ratio": 10.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PD",
+      "sec": "276A",
+      "name": "ククレブ・アドバイザーズ株式会社",
+      "filer": "宮寺　之裕",
+      "ratio": 34.78,
+      "prev_ratio": 34.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9LJ",
+      "sec": "1905",
+      "name": "株式会社テノックス",
+      "filer": "光通信株式会社",
+      "ratio": 17.89,
+      "prev_ratio": 16.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9RT",
+      "sec": "3850",
+      "name": "株式会社イントラマート",
+      "filer": "光通信株式会社",
+      "ratio": 8.5,
+      "prev_ratio": 9.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9ZZ",
+      "sec": "3086",
+      "name": "Ｊ. フロント リテイリング株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 12.73,
+      "prev_ratio": 11.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9RN",
+      "sec": "3969",
+      "name": "株式会社エイトレッド",
+      "filer": "光通信株式会社",
+      "ratio": 7.65,
+      "prev_ratio": 6.42,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9RY",
+      "sec": "7713",
+      "name": "シグマ光機株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 3.94,
+      "prev_ratio": 5.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9T5",
+      "sec": "6849",
+      "name": "日本光電工業株式会社",
+      "filer": "スプラウスグローブインベストメントマネジメントリミテッド",
+      "ratio": 3.96,
+      "prev_ratio": 5.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9S5",
+      "sec": "7833",
+      "name": "株式会社アイフィスジャパン",
+      "filer": "光通信株式会社",
+      "ratio": 6.62,
+      "prev_ratio": 5.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PY",
+      "sec": "6988",
+      "name": "日東電工株式会社",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 10.36,
+      "prev_ratio": 9.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA11",
+      "sec": "4420",
+      "name": "イーソル株式会社",
+      "filer": "株式会社ＢＣＪ－１１０",
+      "ratio": 76.85,
+      "prev_ratio": 76.85,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA0T",
+      "sec": "4429",
+      "name": "リックソフト株式会社",
+      "filer": "大貫　浩",
+      "ratio": 47.38,
+      "prev_ratio": 50.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9Z9",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": 15.1,
+      "prev_ratio": 15.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA0D",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "ratio": 16.34,
+      "prev_ratio": 44.23,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
