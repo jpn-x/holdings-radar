@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-27",
+  "new": [
+    {
+      "docId": "S100Z9HP",
+      "sec": "4318",
+      "name": "株式会社クイック",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 5.02,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z9EW",
+      "sec": "6822",
+      "name": "大井電気株式会社",
+      "filer": "有限会社キャピタル・マネジメント",
+      "ratio": 6.33,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZA7Q",
+      "sec": "3323",
+      "name": "レカム株式会社",
+      "filer": "グロース・キャピタル株式会社",
+      "ratio": 19.39,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZA7Z",
+      "sec": "4430",
+      "name": "東海ソフト株式会社",
+      "filer": "藤本　茂",
+      "ratio": 5.12,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z6VR",
+      "sec": "638A",
+      "name": "ハイネスコーポレーション株式会社",
+      "filer": "株式会社惻隠坊",
+      "ratio": 81.2,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100YN90",
+      "sec": "7425",
+      "name": "初穂商事株式会社",
+      "filer": "齋藤　陽介",
+      "ratio": 7.88,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z967",
+      "sec": "8416",
+      "name": "株式会社高知銀行",
+      "filer": "技研ホールディングス株式会社",
+      "ratio": 16.58,
+      "prev_ratio": 15.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9X1",
+      "sec": "8252",
+      "name": "株式会社　丸井グループ",
+      "filer": "野村證券株式会社",
+      "ratio": 11.71,
+      "prev_ratio": 11.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA24",
+      "sec": "4598",
+      "name": "Delta-Fly Pharma株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 20.69,
+      "prev_ratio": 21.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9XV",
+      "sec": "6573",
+      "name": "CRAVIA株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 13.67,
+      "prev_ratio": 14.03,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA0A",
+      "sec": "4883",
+      "name": "株式会社モダリス",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 6.71,
+      "prev_ratio": 7.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9Q3",
+      "sec": "6626",
+      "name": "ＳＥＭＩＴＥＣ株式会社",
+      "filer": "石塚興産株式会社",
+      "ratio": 30.5,
+      "prev_ratio": 30.56,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA2U",
+      "sec": "4563",
+      "name": "アンジェス株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 29.74,
+      "prev_ratio": 30.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9S3",
+      "sec": "4569",
+      "name": "杏林製薬株式会社",
+      "filer": "ＫＯＰＥＲＮＩＫ　ＧＬＯＢＡＬ　ＩＮＶＥＳＴＯＲＳ，　ＬＬＣ",
+      "ratio": 10.09,
+      "prev_ratio": 8.75,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9NW",
+      "sec": "268A",
+      "name": "リガク・ホールディングス株式会社",
+      "filer": "志村　晶",
+      "ratio": 12.13,
+      "prev_ratio": 12.13,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA5V",
+      "sec": "509A",
+      "name": "グリーンライト・再エネインフラ投資法人",
+      "filer": "ブルースカイソーラーキャピタル株式会社",
+      "ratio": 10.93,
+      "prev_ratio": 10.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9YY",
+      "sec": "4911",
+      "name": "株式会社資生堂",
+      "filer": "ノルウェー銀行",
+      "ratio": 5.13,
+      "prev_ratio": 5.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9WV",
+      "sec": "2164",
+      "name": "株式会社地域新聞社",
+      "filer": "細谷　佳津年",
+      "ratio": 12.98,
+      "prev_ratio": 13.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9VK",
+      "sec": "3733",
+      "name": "株式会社ソフトウェア・サービス",
+      "filer": "宮﨑　勝",
+      "ratio": 15.07,
+      "prev_ratio": 15.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA7G",
+      "sec": "4375",
+      "name": "セーフィー株式会社",
+      "filer": "佐渡島　隆平",
+      "ratio": 24.67,
+      "prev_ratio": 24.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA70",
+      "sec": "2120",
+      "name": "株式会社ＬＩＦＵＬＬ",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 8.72,
+      "prev_ratio": 8.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA4G",
+      "sec": "4978",
+      "name": "株式会社リプロセル",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 12.36,
+      "prev_ratio": 8.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA40",
+      "sec": "5821",
+      "name": "平河ヒューテック株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 10.36,
+      "prev_ratio": 9.01,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9FA",
+      "sec": "3417",
+      "name": "大木ヘルスケアホールディングス株式会社",
+      "filer": "有限会社キャピタル・マネジメント",
+      "ratio": 11.05,
+      "prev_ratio": 9.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA7T",
+      "sec": "9211",
+      "name": "株式会社エフ・コード",
+      "filer": "工藤　勉",
+      "ratio": 35.65,
+      "prev_ratio": 37.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA7R",
+      "sec": "2120",
+      "name": "株式会社ＬＩＦＵＬＬ",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 8.85,
+      "prev_ratio": 8.72,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9VP",
+      "sec": "8541",
+      "name": "株式会社愛媛銀行",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 6.49,
+      "prev_ratio": 5.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z91N",
+      "sec": "5537",
+      "name": "株式会社AlbaLink",
+      "filer": "河田　憲二",
+      "ratio": 55.82,
+      "prev_ratio": 55.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA2E",
+      "sec": "7578",
+      "name": "株式会社ニチリョク",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 43.61,
+      "prev_ratio": 43.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9HK",
+      "sec": "6104",
+      "name": "芝浦機械株式会社",
+      "filer": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ．",
+      "ratio": 12.27,
+      "prev_ratio": 11.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9RQ",
+      "sec": "2303",
+      "name": "株式会社ドーン",
+      "filer": "光通信株式会社",
+      "ratio": 12.14,
+      "prev_ratio": 11.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA5G",
+      "sec": "4436",
+      "name": "株式会社ミンカブ・ジ・インフォノイド",
+      "filer": "瓜生　憲",
+      "ratio": 10.59,
+      "prev_ratio": 10.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z977",
+      "sec": "7581",
+      "name": "株式会社サイゼリヤ",
+      "filer": "正垣　泰彦",
+      "ratio": 25.17,
+      "prev_ratio": 26.17,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA8R",
+      "sec": "4436",
+      "name": "株式会社ミンカブ・ジ・インフォノイド",
+      "filer": "瓜生　憲",
+      "ratio": 10.59,
+      "prev_ratio": 10.59,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z90H",
+      "sec": "2469",
+      "name": "ヒビノ株式会社",
+      "filer": "日比野　晃久",
+      "ratio": 44.38,
+      "prev_ratio": 42.94,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
