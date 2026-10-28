@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-28",
+  "new": [
+    {
+      "docId": "S100Z968",
+      "sec": "9073",
+      "name": "京極運輸商事株式会社",
+      "filer": "グリーンエイト株式会社",
+      "ratio": 5.83,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100Z9MG",
+      "sec": "7199",
+      "name": "プレミアグループ株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 5.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100Z646",
+      "sec": "8190",
+      "name": "株式会社ヤマナカ",
+      "filer": "岡本　均",
+      "ratio": 13.78,
+      "prev_ratio": 12.78,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PP",
+      "sec": "5075",
+      "name": "アップコン株式会社",
+      "filer": "アクアプレコン株式会社",
+      "ratio": 62.46,
+      "prev_ratio": 62.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAAH",
+      "sec": "5279",
+      "name": "日本興業株式会社",
+      "filer": "酒本　徹",
+      "ratio": 9.35,
+      "prev_ratio": 10.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8Z6",
+      "sec": "3333",
+      "name": "株式会社あさひ",
+      "filer": "下田　英樹",
+      "ratio": 11.17,
+      "prev_ratio": 13.77,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YYND",
+      "sec": "9830",
+      "name": "トラスコ中山株式会社",
+      "filer": "株式会社ＮＲホールディングス",
+      "ratio": 19.16,
+      "prev_ratio": 18.89,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA28",
+      "sec": "5243",
+      "name": "ｎｏｔｅ株式会社",
+      "filer": "イメージ・フレイム・インベストメント（香港）リミテッド",
+      "ratio": 3.21,
+      "prev_ratio": 6.54,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA82",
+      "sec": "4169",
+      "name": "ENECHANGE株式会社",
+      "filer": "ＢＲＩＡＲＷＯＯＤ　ＣＡＰＩＴＡＬ　ＰＡＲＴＮＥＲＳ　ＬＰ",
+      "ratio": 9.7,
+      "prev_ratio": 8.69,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9TA",
+      "sec": "471A",
+      "name": "NSグループ株式会社",
+      "filer": "大谷　彰宏",
+      "ratio": 50.77,
+      "prev_ratio": 51.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAER",
+      "sec": "4990",
+      "name": "昭和化学工業株式会社",
+      "filer": "シグマ株式会社",
+      "ratio": 28.81,
+      "prev_ratio": 28.81,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZACL",
+      "sec": "9334",
+      "name": "株式会社アイビスホールディングス",
+      "filer": "株式会社旺司ライフワーク",
+      "ratio": 82.48,
+      "prev_ratio": 83.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA6G",
+      "sec": "7284",
+      "name": "盟和産業株式会社",
+      "filer": "成成株式会社",
+      "ratio": 6.94,
+      "prev_ratio": 7.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA2S",
+      "sec": "7173",
+      "name": "株式会社東京きらぼしフィナンシャルグループ",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 11.16,
+      "prev_ratio": 10.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z8OT",
+      "sec": "138A",
+      "name": "光フードサービス株式会社",
+      "filer": "大谷　光徳",
+      "ratio": 51.61,
+      "prev_ratio": 55.65,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9OF",
+      "sec": "8923",
+      "name": "トーセイ株式会社",
+      "filer": "ダルトン　インベストメンツ　インク",
+      "ratio": 7.62,
+      "prev_ratio": 6.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA72",
+      "sec": "149A",
+      "name": "株式会社シンカ",
+      "filer": "大和企業投資株式会社",
+      "ratio": 7.4,
+      "prev_ratio": 8.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAHF",
+      "sec": "4704",
+      "name": "トレンドマイクロ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 10.64,
+      "prev_ratio": 9.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9FH",
+      "sec": "6470",
+      "name": "大豊工業",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 14.95,
+      "prev_ratio": 13.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9VB",
+      "sec": "5704",
+      "name": "株式会社ＪＭＣ",
+      "filer": "鈴木　浩之",
+      "ratio": 5.43,
+      "prev_ratio": 6.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9D2",
+      "sec": "9941",
+      "name": "太洋物産株式会社",
+      "filer": "木野　将徳",
+      "ratio": 32.08,
+      "prev_ratio": 32.41,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZABV",
+      "sec": "6145",
+      "name": "NITTOKU株式会社",
+      "filer": "グランサム、マヨ、ヴァン　オッテルロー　アンド　カンパニー　エルエルシー",
+      "ratio": 6.13,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA7C",
+      "sec": "1802",
+      "name": "株式会社大林組",
+      "filer": "ブラックロック・ジャパン株式会社",
+      "ratio": 10.61,
+      "prev_ratio": 10.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA2W",
+      "sec": "5721",
+      "name": "エスクリプトエナジー株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 31.82,
+      "prev_ratio": 32.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZACF",
+      "sec": "3185",
+      "name": "夢展望株式会社",
+      "filer": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": 10.55,
+      "prev_ratio": 10.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA7E",
+      "sec": "325A",
+      "name": "株式会社ＴＥＮＴＩＡＬ",
+      "filer": "中西　裕太郎",
+      "ratio": 33.39,
+      "prev_ratio": 33.97,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
