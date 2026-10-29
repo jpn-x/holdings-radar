@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-29",
+  "new": [],
+  "chg": [
+    {
+      "docId": "S100ZA48",
+      "sec": "7050",
+      "name": "株式会社フロンティアインターナショナル",
+      "filer": "株式会社フロンティアインターナショナル",
+      "ratio": 48.67,
+      "prev_ratio": 53.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9PX",
+      "sec": "4406",
+      "name": "新日本理化株式会社",
+      "filer": "株式会社ワイエムシィ",
+      "ratio": 10.35,
+      "prev_ratio": 11.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z4RJ",
+      "sec": "1786",
+      "name": "オリエンタル白石株式会社",
+      "filer": "伊藤忠商事株式会社",
+      "ratio": 17.98,
+      "prev_ratio": 17.07,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZANL",
+      "sec": "4450",
+      "name": "株式会社パワーソリューションズ",
+      "filer": "株式会社フラクタル・ビジネス",
+      "ratio": 4.0,
+      "prev_ratio": 5.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAE5",
+      "sec": "7425",
+      "name": "初穂商事株式会社",
+      "filer": "齋藤　陽介",
+      "ratio": 5.06,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAEJ",
+      "sec": "7425",
+      "name": "初穂商事株式会社",
+      "filer": "齋藤　陽介",
+      "ratio": 7.88,
+      "prev_ratio": 5.06,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAMH",
+      "sec": "3358",
+      "name": "Trailhead Global Holdings株式会社（旧商号：ワイエスフード株式会社）",
+      "filer": "青柳　和洋",
+      "ratio": 32.8,
+      "prev_ratio": 39.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAPI",
+      "sec": "7063",
+      "name": "株式会社Birdman",
+      "filer": "株式会社ＹｏｕｒＴｕｒｎ",
+      "ratio": 39.18,
+      "prev_ratio": 39.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZACH",
+      "sec": "7603",
+      "name": "ジーイエット株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 10.21,
+      "prev_ratio": 11.3,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA9P",
+      "sec": "6167",
+      "name": "冨士ダイス株式会社",
+      "filer": "ＫＰ株式会社",
+      "ratio": 6.15,
+      "prev_ratio": 7.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA30",
+      "sec": "6523",
+      "name": "ＰＨＣホールディングス株式会社",
+      "filer": "三井物産株式会社",
+      "ratio": 5.45,
+      "prev_ratio": 6.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAA9",
+      "sec": "5905",
+      "name": "日本製罐株式会社",
+      "filer": "株式会社みみっく",
+      "ratio": 12.92,
+      "prev_ratio": 11.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9ZQ",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 22.45,
+      "prev_ratio": 23.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9LD",
+      "sec": "6958",
+      "name": "日本シイエムケイ",
+      "filer": "ｆｕｎｄｎｏｔｅ株式会社",
+      "ratio": 15.18,
+      "prev_ratio": 13.76,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9T8",
+      "sec": "6523",
+      "name": "ＰＨＣホールディングス株式会社",
+      "filer": "三菱ケミカル株式会社",
+      "ratio": 6.27,
+      "prev_ratio": 7.34,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZASA",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 8.37,
+      "prev_ratio": 7.71,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZASB",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 7.45,
+      "prev_ratio": 8.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZASD",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 8.7,
+      "prev_ratio": 7.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9OT",
+      "sec": "3104",
+      "name": "フジボウホールディングス株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 23.19,
+      "prev_ratio": 21.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZASG",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 7.59,
+      "prev_ratio": 8.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZATZ",
+      "sec": "4461",
+      "name": "第一工業製薬株式会社",
+      "filer": "片山晃",
+      "ratio": 10.36,
+      "prev_ratio": 7.73,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
