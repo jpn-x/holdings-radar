@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 02:04",
+  "updated": "2026-10-30 00:02",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -279,17 +279,17 @@
     },
     "5341": {
       "name": "ASAHI EITOホールディングス株式会社",
-      "holder": "山川株式会社",
+      "holder": "Ｇｌｏｂａｌ　Ｓｅｍｉｃｏｎｄｕｃｔｏｒ　Ｓｐｅｃｉａｌ　Ｇａｓ　Ｌｉｍｉｔｅｄ",
       "title": "第三者割当により発行された第12回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-10-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261001/140120261001544021/",
+      "date": "2026-10-28",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261028/140120261028557751/",
       "kai": 12,
-      "kofu": 0,
-      "exercised": 0,
+      "kofu": 200000,
+      "exercised": 2000,
       "total": 60000,
-      "exercised_pct": 0.0,
-      "unexercised": 34840,
-      "unexercised_shares": 3484000,
+      "exercised_pct": 3.3,
+      "unexercised": 0,
+      "unexercised_shares": 0,
       "outstanding": 9360419
     },
     "6081": {
@@ -562,17 +562,17 @@
     "3185": {
       "name": "夢展望株式会社",
       "holder": "ＲＩＺＡＰグループ株式会社",
-      "title": "第三者割当により発行された第11回新株予約権（行使価額修正条項付）の権利行使完了及び月間行使状況に関するお知らせ",
-      "date": "2024-11-01",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20241101/140120241101510223/",
-      "kai": 11,
-      "kofu": 180000,
-      "exercised": 1800,
-      "total": 36000,
-      "exercised_pct": 5.0,
-      "unexercised": 0,
-      "unexercised_shares": 0,
-      "outstanding": 18337400
+      "title": "第三者割当により発行された第12回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-10-28",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261028/140120261028557996/",
+      "kai": 12,
+      "kofu": 250000,
+      "exercised": 2500,
+      "total": 21700,
+      "exercised_pct": 11.5,
+      "unexercised": 19200,
+      "unexercised_shares": 1920000,
+      "outstanding": 18392500
     },
     "3242": {
       "name": "株式会社アーバネットコーポレーション",
