@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-04",
+  "new": [
+    {
+      "docId": "S100ZBGB",
+      "sec": "4212",
+      "name": "積水樹脂株式会社",
+      "filer": "ニューバーガー・バーマン株式会社",
+      "ratio": 5.07,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZAV9",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "ＭＰ－２６０６株式会社",
+      "ratio": 88.48,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZBE3",
+      "sec": "4346",
+      "name": "株式会社NEXYZ.Group",
+      "filer": "渡辺　崇",
+      "ratio": 5.05,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZB53",
+      "sec": "9331",
+      "name": "株式会社キャスター",
+      "filer": "ＷｉＬ　Ｆｕｎｄ　ＩＩ，　Ｌ．Ｐ．",
+      "ratio": 9.96,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100ZB3G",
+      "sec": "6490",
+      "name": "株式会社PILLAR",
+      "filer": "岩波　清久",
+      "ratio": 7.12,
+      "prev_ratio": 7.02,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z2W9",
+      "sec": "7480",
+      "name": "スズデン株式会社",
+      "filer": "鈴木敏雄",
+      "ratio": 15.42,
+      "prev_ratio": 14.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAB9",
+      "sec": "5357",
+      "name": "株式会社ヨータイ",
+      "filer": "住友大阪セメント株式会社",
+      "ratio": 9.9,
+      "prev_ratio": 10.97,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB5Q",
+      "sec": "5076",
+      "name": "インフロニア・ホールディングス（株）",
+      "filer": "みずほ証券株式会社",
+      "ratio": 10.11,
+      "prev_ratio": 11.93,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBDD",
+      "sec": "6093",
+      "name": "ミトラグループ株式会社",
+      "filer": "本間英明",
+      "ratio": 48.61,
+      "prev_ratio": 47.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBDL",
+      "sec": "6093",
+      "name": "ミトラグループ株式会社",
+      "filer": "株式会社中央グループホールディングス",
+      "ratio": 48.61,
+      "prev_ratio": 47.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBCD",
+      "sec": "2160",
+      "name": "株式会社ジーエヌアイグループ",
+      "filer": "ＢＣＰ　Ａｓｉａ　ＡＹＭ　Ｈｏｌｄｉｎｇ（Ｃａｙｍａｎ）Ｌ．Ｐ．",
+      "ratio": 4.97,
+      "prev_ratio": 10.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBCU",
+      "sec": "1721",
+      "name": "コムシスホールディングス株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 12.26,
+      "prev_ratio": 11.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBDM",
+      "sec": "7743",
+      "name": "株式会社シード",
+      "filer": "新井　隆二",
+      "ratio": 92.09,
+      "prev_ratio": 92.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBBZ",
+      "sec": "4582",
+      "name": "シンバイオ製薬株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 53.39,
+      "prev_ratio": 54.38,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAVM",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "ＭＰ－２６０６株式会社",
+      "ratio": 88.48,
+      "prev_ratio": 88.48,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBIK",
+      "sec": "7743",
+      "name": "株式会社シード",
+      "filer": "ラックスシェア・プレシジョン・ケイマン・リミテッド",
+      "ratio": 92.09,
+      "prev_ratio": 92.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBDT",
+      "sec": "6731",
+      "name": "株式会社ピクセラ",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 59.03,
+      "prev_ratio": 59.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBC7",
+      "sec": "2112",
+      "name": "塩水港精糖株式会社",
+      "filer": "大東製糖株式会社",
+      "ratio": 18.74,
+      "prev_ratio": 11.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBF3",
+      "sec": "6085",
+      "name": "アーキテクツ・スタジオ・ジャパン株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 22.54,
+      "prev_ratio": 23.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB7R",
+      "sec": "9962",
+      "name": "株式会社ミスミグループ本社",
+      "filer": "ブラック・クリーク・インベストメント・マネジメント・インク",
+      "ratio": 4.18,
+      "prev_ratio": 5.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB5N",
+      "sec": "9331",
+      "name": "株式会社キャスター",
+      "filer": "ＷｉＬ　Ｆｕｎｄ　ＩＩ，　Ｌ．Ｐ．",
+      "ratio": 5.66,
+      "prev_ratio": 9.96,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB8J",
+      "sec": "9331",
+      "name": "株式会社キャスター",
+      "filer": "ＷｉＬ　Ｆｕｎｄ　ＩＩ，　Ｌ．Ｐ．",
+      "ratio": null,
+      "prev_ratio": 5.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBMA",
+      "sec": "653A",
+      "name": "ＭａｂＧｅｎｅｓｉｓ株式会社",
+      "filer": "森下　和広",
+      "ratio": 5.94,
+      "prev_ratio": null,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB5H",
+      "sec": "2449",
+      "name": "株式会社プラップジャパン",
+      "filer": "矢島　婦美子",
+      "ratio": 17.7,
+      "prev_ratio": 18.92,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAOG",
+      "sec": "3989",
+      "name": "シェアリングテクノロジー株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": null,
+      "prev_ratio": 28.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB48",
+      "sec": "3248",
+      "name": "株式会社アールエイジ",
+      "filer": "向井山　達也",
+      "ratio": 53.62,
+      "prev_ratio": 54.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZA83",
+      "sec": "8070",
+      "name": "東京産業株式会社",
+      "filer": "西華産業株式会社",
+      "ratio": 16.77,
+      "prev_ratio": 15.74,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB04",
+      "sec": "3695",
+      "name": "ＧＭＯプロダクトプラットフォーム株式会社",
+      "filer": "ＧＭＯインターネットグループ株式会社",
+      "ratio": 65.19,
+      "prev_ratio": 66.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZATP",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 21.43,
+      "prev_ratio": 22.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB2P",
+      "sec": "2286",
+      "name": "林兼産業株式会社",
+      "filer": "有限会社キャピタル・マネジメント",
+      "ratio": 8.41,
+      "prev_ratio": 7.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAO3",
+      "sec": "3662",
+      "name": "株式会社エイチームホールディングス",
+      "filer": "ＡＰＩＰ，　Ｉｎｃ．",
+      "ratio": 20.14,
+      "prev_ratio": 22.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZAYF",
+      "sec": "6424",
+      "name": "株式会社高見沢サイバネティックス",
+      "filer": "富士通株式会社",
+      "ratio": 8.24,
+      "prev_ratio": 10.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBAE",
+      "sec": "4350",
+      "name": "株式会社メディカルシステムネットワーク",
+      "filer": "光通信株式会社",
+      "ratio": 14.56,
+      "prev_ratio": 13.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBL8",
+      "sec": "285A",
+      "name": "キオクシアホールディングス株式会社",
+      "filer": "株式会社　東芝",
+      "ratio": 10.46,
+      "prev_ratio": 11.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB38",
+      "sec": "4891",
+      "name": "株式会社ティムス",
+      "filer": "東北大学ベンチャーパートナーズ株式会社",
+      "ratio": 3.85,
+      "prev_ratio": 5.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBN0",
+      "sec": "8848",
+      "name": "株式会社レオパレス２１",
+      "filer": "千鳥合同会社",
+      "ratio": null,
+      "prev_ratio": 15.1,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
