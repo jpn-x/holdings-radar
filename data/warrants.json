@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 03:27",
+  "updated": "2026-11-13 01:43",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1289,18 +1289,18 @@
     },
     "4586": {
       "name": "株式会社メドレックス",
-      "holder": "グロース・キャピタル株式会社",
-      "title": "第三者割当により発行された第35回新株予約権(行使価額修正条項付)の月間行使状況に関するお知らせ",
-      "date": "2026-11-02",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261030/140120261030560680/",
+      "holder": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "title": "第三者割当により発行された第35回新株予約権(行使価額修正条項付)の大量行使に関するお知らせ",
+      "date": "2026-11-12",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261112/140120261112576863/",
       "kai": 35,
-      "kofu": 1299900,
-      "exercised": 12999,
+      "kofu": 1496500,
+      "exercised": 14965,
       "total": 147820,
-      "exercised_pct": 8.79,
-      "unexercised": 28396,
-      "unexercised_shares": 2839600,
-      "outstanding": 70007600
+      "exercised_pct": 10.12,
+      "unexercised": 13431,
+      "unexercised_shares": 1343100,
+      "outstanding": 71307500
     },
     "4381": {
       "name": "ビープラッツ株式会社",
@@ -1606,17 +1606,17 @@
     "6085": {
       "name": "アーキテクツ・スタジオ・ジャパン株式会社",
       "holder": "モルガン・スタンレーＭＵＦＧ証券株式会社",
-      "title": "第三者割当により発行された第５回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-11-02",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261102/140120261102562562/",
+      "title": "第三者割当により発行された第５回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-11-12",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261112/140120261112576886/",
       "kai": 5,
-      "kofu": 2440000,
-      "exercised": 24400,
+      "kofu": 3150000,
+      "exercised": 31500,
       "total": 280000,
-      "exercised_pct": 8.7,
-      "unexercised": 255600,
-      "unexercised_shares": 25560000,
-      "outstanding": 114860220
+      "exercised_pct": 11.3,
+      "unexercised": 224100,
+      "unexercised_shares": 22410000,
+      "outstanding": 117300220
     },
     "130A": {
       "name": "株式会社Veritas In Silico",
