@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 03:46",
+  "updated": "2026-11-14 01:01",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1140,13 +1140,6 @@
       "unexercised_shares": 0,
       "outstanding": 299121340
     },
-    "3053": {
-      "name": "株式会社ペッパーフードサービス",
-      "holder": "株式会社フラッグシップアセットマネジメント",
-      "title": "第13回新株予約権（行使価額修正条項付）の月間行使状況及び権利行使完了に関するお知らせ",
-      "date": "2024-05-07",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20240507/140120240507582248/"
-    },
     "3069": {
       "name": "株式会社ＪＦＬＡホールディングス",
       "holder": "株式会社地域経済活性化支援機構",
@@ -1190,21 +1183,6 @@
       "pdf": "https://kabutan.jp/disclosures/pdf/20260707/140120260707588851/",
       "kai": 38
     },
-    "5255": {
-      "name": "株式会社モンスターラボホールディングス",
-      "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第81回新株予約権（行使価額修正条項付）の行使完了及び月間行使状況に関するお知らせ",
-      "date": "2025-06-23",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20250623/140120250623596278/",
-      "unexercised": 0,
-      "unexercised_shares": 0,
-      "exercised": 115100,
-      "total": 300000,
-      "exercised_pct": 38.4,
-      "kofu": 11510000,
-      "kai": 81,
-      "outstanding": 52816950
-    },
     "5337": {
       "name": "ダントーホールディングス株式会社",
       "holder": "ＶＩＮＴＡＧＥ　ＣＡＶＥ　ＴＯＫＹＯ　株式会社",
@@ -1219,20 +1197,6 @@
       "unexercised": 29394,
       "unexercised_shares": 2939400,
       "outstanding": 33107400
-    },
-    "6227": {
-      "name": "ＡＩメカテック株式会社",
-      "holder": "三井住友ＤＳアセットマネジメント株式会社",
-      "title": "行使価額修正条項付新株予約権の大量行使、行使の完了及び月間行使状況に関するお知らせ",
-      "date": "2024-12-06",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20241206/140120241206535302/",
-      "kai": 3,
-      "kofu": 70000,
-      "exercised": 700,
-      "exercised_pct": 10.72,
-      "unexercised": 0,
-      "unexercised_shares": 0,
-      "outstanding": 6213000
     },
     "6658": {
       "name": "シライ電子工業株式会社",
@@ -1305,14 +1269,11 @@
     "4381": {
       "name": "ビープラッツ株式会社",
       "holder": "グロースパートナーズ株式会社",
-      "title": "第６回新株予約権、第１回無担保転換社債型新株予約権付社債及び第７回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
-      "date": "2026-11-02",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261102/140120261102562122/",
-      "kai": 6,
-      "exercised": 0,
-      "exercised_pct": 0.0,
-      "unexercised": 8288,
-      "outstanding": 4634098
+      "title": "第三者割当により発行された第７回新株予約権（行使価額修正条項付）の行使完了に関するお知らせ",
+      "date": "2026-11-13",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261113/140120261113578800/",
+      "kai": 7,
+      "outstanding": 5056898
     },
     "4833": {
       "name": "株式会社Def consulting",
