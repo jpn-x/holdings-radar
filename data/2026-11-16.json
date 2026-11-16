@@ -1,0 +1,647 @@
+{
+  "date": "2026-11-16",
+  "new": [
+    {
+      "docId": "S100ZHC8",
+      "sec": "6923",
+      "name": "スタンレー電気株式会社",
+      "filer": "ＬＳＶ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZGR8",
+      "sec": "3133",
+      "name": "株式会社海帆",
+      "filer": "ＦＧＡ　ＴＲＵＳＴ　Ｌｉｍｉｔｅｄ",
+      "ratio": 15.31,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZGS9",
+      "sec": "3133",
+      "name": "株式会社海帆",
+      "filer": "ＦＧＡ　ＴＲＵＳＴ　Ｌｉｍｉｔｅｄ",
+      "ratio": 14.28,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZGWF",
+      "sec": "3133",
+      "name": "株式会社海帆",
+      "filer": "ＦＧＡ　ＴＲＵＳＴ　Ｌｉｍｉｔｅｄ",
+      "ratio": 13.27,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZFNT",
+      "sec": "6080",
+      "name": "Ｍ＆Ａキャピタルパートナーズ株式会社",
+      "filer": "株式会社　りそなホールディングス",
+      "ratio": 5.8,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZEWT",
+      "sec": "2805",
+      "name": "ヱスビー食品株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.61,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZEWY",
+      "sec": "290A",
+      "name": "株式会社Ｓｙｎｓｐｅｃｔｉｖｅ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.19,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZEXC",
+      "sec": "4966",
+      "name": "上村工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.12,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZEXD",
+      "sec": "6366",
+      "name": "千代田化工建設株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.46,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZHKV",
+      "sec": "4596",
+      "name": "窪田製薬ホールディングス株式会社",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 12.09,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZEYO",
+      "sec": "9101",
+      "name": "日本郵船株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZEH0",
+      "sec": "7133",
+      "name": "ＨＹＵＧＡ　ＰＲＩＭＡＲＹ　ＣＡＲＥ株式会社",
+      "filer": "株式会社ＪＧ４４",
+      "ratio": 96.36,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZHY1",
+      "sec": "6551",
+      "name": "株式会社ツナググループ・ホールディングス",
+      "filer": "大谷　寛",
+      "ratio": 5.35,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZHXF",
+      "sec": "4889",
+      "name": "株式会社レナサイエンス",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 6.65,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZE2P",
+      "sec": "6490",
+      "name": "株式会社ＰＩＬＬＡＲ",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 5.61,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZECP",
+      "sec": "6941",
+      "name": "山一電機株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 5.41,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZI0R",
+      "sec": "6036",
+      "name": "ＫｅｅＰｅｒ技研株式会社",
+      "filer": "出光興産株式会社",
+      "ratio": 12.92,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZI72",
+      "sec": "2321",
+      "name": "株式会社ソフトフロントホールディングス",
+      "filer": "ＬＫＳ　ＰＴＥ　ＬＴＤ",
+      "ratio": 11.14,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100ZDY5",
+      "sec": "3905",
+      "name": "データセクション株式会社",
+      "filer": "杉原　行洋",
+      "ratio": 6.73,
+      "prev_ratio": 8.98,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZHTW",
+      "sec": "550A",
+      "name": "株式会社ソフトテックス",
+      "filer": "株式会社くすりの窓口",
+      "ratio": 7.32,
+      "prev_ratio": 6.08,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZCC0",
+      "sec": "5986",
+      "name": "モリテックスチール株式会社",
+      "filer": "日本製鉄株式会社",
+      "ratio": null,
+      "prev_ratio": 9.95,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZHVU",
+      "sec": "4887",
+      "name": "サワイグループホールディングス株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 8.94,
+      "prev_ratio": 7.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBC2",
+      "sec": "428A",
+      "name": "サイプレス・ホールディングス株式会社",
+      "filer": "株式会社丸の内キャピタル",
+      "ratio": 5.0,
+      "prev_ratio": 19.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEWS",
+      "sec": "1965",
+      "name": "株式会社テクノ菱和",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.63,
+      "prev_ratio": 5.11,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZGSE",
+      "sec": "6513",
+      "name": "株式会社オリジン",
+      "filer": "オリジン取引先持株会　理事長　山本　勢",
+      "ratio": null,
+      "prev_ratio": 5.87,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEX1",
+      "sec": "3309",
+      "name": "積水ハウス・リート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.66,
+      "prev_ratio": 7.63,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEX2",
+      "sec": "3431",
+      "name": "宮地エンジニアリンググループ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.9,
+      "prev_ratio": 7.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEX6",
+      "sec": "3466",
+      "name": "ラサールロジポート投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.57,
+      "prev_ratio": 6.1,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEZT",
+      "sec": "3817",
+      "name": "株式会社ＳＲＡホールディングス",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.1,
+      "prev_ratio": 7.2,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEXA",
+      "sec": "4528",
+      "name": "小野薬品工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.99,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEXG",
+      "sec": "6532",
+      "name": "株式会社ベイカレント",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.11,
+      "prev_ratio": 5.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEXK",
+      "sec": "6584",
+      "name": "三櫻工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.25,
+      "prev_ratio": 6.47,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEXU",
+      "sec": "6644",
+      "name": "大崎電気工業株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.77,
+      "prev_ratio": 7.82,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEXX",
+      "sec": "6971",
+      "name": "京セラ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.19,
+      "prev_ratio": 5.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEY0",
+      "sec": "6997",
+      "name": "日本ケミコン株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.98,
+      "prev_ratio": 5.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZB3E",
+      "sec": "6080",
+      "name": "Ｍ＆Ａキャピタルパートナーズ株式会社",
+      "filer": "中村　悟",
+      "ratio": 37.86,
+      "prev_ratio": 42.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEY5",
+      "sec": "7294",
+      "name": "株式会社ヨロズ",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 3.87,
+      "prev_ratio": 5.26,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEY6",
+      "sec": "7971",
+      "name": "東リ株式会社",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 4.36,
+      "prev_ratio": 5.43,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEYB",
+      "sec": "8953",
+      "name": "日本都市ファンド投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 5.47,
+      "prev_ratio": 5.33,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEYG",
+      "sec": "8972",
+      "name": "ＫＤＸ不動産投資法人",
+      "filer": "株式会社三菱ＵＦＪフィナンシャル・グループ",
+      "ratio": 6.13,
+      "prev_ratio": 7.37,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEHU",
+      "sec": "7133",
+      "name": "ＨＹＵＧＡ　ＰＲＩＭＡＲＹ　ＣＡＲＥ株式会社",
+      "filer": "株式会社ＪＧ４４",
+      "ratio": 96.36,
+      "prev_ratio": 96.36,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEE4",
+      "sec": "8166",
+      "name": "株式会社タカキュー",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 64.6,
+      "prev_ratio": 56.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZGKS",
+      "sec": "6484",
+      "name": "株式会社ＫＶＫ",
+      "filer": "市原　正樹",
+      "ratio": 8.1,
+      "prev_ratio": 7.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI1F",
+      "sec": "519A",
+      "name": "株式会社ベーシック",
+      "filer": "三井住友ＤＳアセットマネジメント株式会社",
+      "ratio": 4.45,
+      "prev_ratio": 5.14,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI0A",
+      "sec": "4596",
+      "name": "窪田製薬ホールディングス株式会社",
+      "filer": "窪田　良",
+      "ratio": 45.52,
+      "prev_ratio": 52.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZF0F",
+      "sec": "5530",
+      "name": "日本システムバンク株式会社",
+      "filer": "株式会社パークランド",
+      "ratio": 8.0,
+      "prev_ratio": 7.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9QM",
+      "sec": "7133",
+      "name": "ＨＹＵＧＡ　ＰＲＩＭＡＲＹ　ＣＡＲＥ株式会社",
+      "filer": "山﨑　武夫",
+      "ratio": null,
+      "prev_ratio": 6.04,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI2T",
+      "sec": "197A",
+      "name": "株式会社タウンズ",
+      "filer": "ＴＲＵＳＴＡＲ　ＣＡＰＩＴＡＬ　ＪＡＰＡＮ　ＰＡＲＴＮＥＲＳ　ＩＩＩ、Ｌ．Ｐ．",
+      "ratio": 39.28,
+      "prev_ratio": 39.29,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZD45",
+      "sec": "5816",
+      "name": "オーナンバ株式会社",
+      "filer": "Ｂｅ　Ｂｒａｖｅ株式会社",
+      "ratio": null,
+      "prev_ratio": 10.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZCOE",
+      "sec": "3964",
+      "name": "株式会社オークネット",
+      "filer": "株式会社Ｂｌｕｅ　Ｐｅａｋ",
+      "ratio": 10.11,
+      "prev_ratio": 11.15,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZE0V",
+      "sec": "4512",
+      "name": "わかもと製薬株式会社",
+      "filer": "アセット・バリュー・インベスターズ・リミテッド",
+      "ratio": 12.46,
+      "prev_ratio": 11.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZE4N",
+      "sec": "9305",
+      "name": "株式会社ヤマタネ",
+      "filer": "株式会社スノーボールキャピタル",
+      "ratio": 6.09,
+      "prev_ratio": 5.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZH1W",
+      "sec": "7173",
+      "name": "株式会社東京きらぼしフィナンシャルグループ",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 13.42,
+      "prev_ratio": 12.27,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZGGM",
+      "sec": "4301",
+      "name": "株式会社アミューズ",
+      "filer": "光通信株式会社",
+      "ratio": 8.28,
+      "prev_ratio": 7.21,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI5C",
+      "sec": "3086",
+      "name": "Ｊ. フロント リテイリング株式会社",
+      "filer": "３Ｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ｐａｒｔｎｅｒｓ　Ｐｔｅ．　Ｌｔｄ．",
+      "ratio": 14.97,
+      "prev_ratio": 13.84,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100Z9U6",
+      "sec": "7475",
+      "name": "アルビス株式会社",
+      "filer": "三菱商事株式会社",
+      "ratio": 80.32,
+      "prev_ratio": 16.52,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZHWB",
+      "sec": "2972",
+      "name": "サンケイリアルエステート投資法人",
+      "filer": "株式会社シティインデックスイレブンス",
+      "ratio": 29.9,
+      "prev_ratio": 29.9,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI2P",
+      "sec": "2762",
+      "name": "株式会社SANKO MARKETING FOODS",
+      "filer": "Ｅｖｏ　Ｆｕｎｄ",
+      "ratio": 23.89,
+      "prev_ratio": 24.62,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI37",
+      "sec": "4381",
+      "name": "ビープラッツ株式会社",
+      "filer": "グロースパートナーズ株式会社",
+      "ratio": 30.64,
+      "prev_ratio": 31.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI4T",
+      "sec": "2321",
+      "name": "株式会社ソフトフロントホールディングス",
+      "filer": "ＪＨＹ　ＨＫ　Ｄｅｖｅｌｏｐｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "ratio": null,
+      "prev_ratio": 12.8,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZGMZ",
+      "sec": "2459",
+      "name": "アウンコンサルティング株式会社",
+      "filer": "信太　明",
+      "ratio": 23.76,
+      "prev_ratio": 26.64,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZEGN",
+      "sec": "6855",
+      "name": "日本電子材料株式会社",
+      "filer": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ）",
+      "ratio": 11.45,
+      "prev_ratio": 9.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZI20",
+      "sec": "6005",
+      "name": "三浦工業株式会社",
+      "filer": "シルチェスター・インターナショナル・インベスターズ・エルエルピー",
+      "ratio": 8.16,
+      "prev_ratio": 7.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZG6G",
+      "sec": "280A",
+      "name": "株式会社TMH",
+      "filer": "シンプレクス・キャピタル・インベストメント株式会社",
+      "ratio": 15.96,
+      "prev_ratio": 14.84,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
