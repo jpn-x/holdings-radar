@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 04:27",
+  "updated": "2026-11-21 01:57",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1172,10 +1172,16 @@
     "4596": {
       "name": "窪田製薬ホールディングス株式会社",
       "holder": "Ｅｖｏ　Ｆｕｎｄ",
-      "title": "第三者割当により発行された第38回新株予約権の行使完了に関するお知らせ",
-      "date": "2026-07-07",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260707/140120260707588851/",
-      "kai": 38
+      "title": "第三者割当により発行された第41回新株予約権（行使価額修正条項付）の 大量行使に関するお知らせ",
+      "date": "2026-11-20",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584322/",
+      "kai": 41,
+      "exercised": 20200,
+      "total": 200000,
+      "exercised_pct": 10.1,
+      "unexercised": 179800,
+      "unexercised_shares": 17980000,
+      "outstanding": 162144288
     },
     "5337": {
       "name": "ダントーホールディングス株式会社",
@@ -1587,14 +1593,14 @@
       "name": "株式会社キャンバス",
       "holder": "株式会社ＳＢＩ証券",
       "title": "第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-11-19",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261119/140120261119583673/",
+      "date": "2026-11-20",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584389/",
       "kai": 22,
-      "kofu": 1135500,
-      "exercised": 11350,
-      "exercised_pct": 56.75,
-      "unexercised": 8650,
-      "unexercised_shares": 865000,
+      "kofu": 1485000,
+      "exercised": 14850,
+      "exercised_pct": 74.25,
+      "unexercised": 5150,
+      "unexercised_shares": 515000,
       "outstanding": 19713655
     },
     "4493": {
@@ -1607,6 +1613,17 @@
       "kofu": 140000,
       "unexercised": 0,
       "outstanding": 10390644
+    },
+    "7777": {
+      "name": "株式会社スリー・ディー・マトリックス",
+      "holder": "株式会社ＳＢＩ証券",
+      "title": "第39回新株予約権行使完了及び月間行使状況に関するお知らせ",
+      "date": "2024-12-20",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20241220/140120241220541807/",
+      "kai": 39,
+      "kofu": 4410000,
+      "unexercised": 0,
+      "unexercised_shares": 0
     }
   }
 }
