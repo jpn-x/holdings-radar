@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-25",
+  "new": [
+    {
+      "docId": "S100ZJOH",
+      "sec": "664A",
+      "name": "株式会社 TOKIUM",
+      "filer": "芙蓉総合リース株式会社",
+      "ratio": 5.94,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZJQ6",
+      "sec": "7047",
+      "name": "ポート株式会社",
+      "filer": "ＷＩＬＬ　ＦＩＥＬＤ　ＣＡＰＩＴＡＬ　ＰＴＥ　ＬＴＤ",
+      "ratio": 7.72,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZJD3",
+      "sec": "4013",
+      "name": "勤次郎株式会社",
+      "filer": "光通信株式会社",
+      "ratio": 5.01,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZJXL",
+      "sec": "5866",
+      "name": "ＷｉｚＢｉｚ株式会社",
+      "filer": "新谷　哲",
+      "ratio": 32.38,
+      "prev_ratio": 32.83,
+      "direction": "新規",
+      "isNew": true
+    },
+    {
+      "docId": "S100ZJYB",
+      "sec": "4565",
+      "name": "ネクセラファーマ株式会社",
+      "filer": "Ｃｈｒｉｓｔｏｐｈｅｒ　Ｒｏｂｅｒｔ　Ｃａｒｇｉｌｌ",
+      "ratio": 5.3,
+      "prev_ratio": null,
+      "direction": "新規",
+      "isNew": true
+    }
+  ],
+  "chg": [
+    {
+      "docId": "S100ZJN5",
+      "sec": "9353",
+      "name": "櫻島埠頭株式会社",
+      "filer": "山本裕治",
+      "ratio": 18.53,
+      "prev_ratio": 17.53,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZBA0",
+      "sec": "446A",
+      "name": "株式会社ノースサンド",
+      "filer": "前田　知紘",
+      "ratio": 40.0,
+      "prev_ratio": 49.57,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZC36",
+      "sec": "446A",
+      "name": "株式会社ノースサンド",
+      "filer": "佐々木　耕平",
+      "ratio": 3.48,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZC55",
+      "sec": "446A",
+      "name": "株式会社ノースサンド",
+      "filer": "加藤　博己",
+      "ratio": 4.67,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZC63",
+      "sec": "446A",
+      "name": "株式会社ノースサンド",
+      "filer": "小松　亮太",
+      "ratio": 4.67,
+      "prev_ratio": 6.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJQN",
+      "sec": "6877",
+      "name": "ＯＢＡＲＡ　ＧＲＯＵＰ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 14.29,
+      "prev_ratio": 13.7,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJNN",
+      "sec": "3690",
+      "name": "株式会社イルグルム",
+      "filer": "岩田　進",
+      "ratio": 40.16,
+      "prev_ratio": 41.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJHV",
+      "sec": "4249",
+      "name": "森六株式会社",
+      "filer": "森　茂",
+      "ratio": 6.28,
+      "prev_ratio": 6.35,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJ9T",
+      "sec": "402A",
+      "name": "株式会社アクセルスペースホールディングス",
+      "filer": "ＳＭＢＣ日興証券株式会社",
+      "ratio": 19.37,
+      "prev_ratio": 20.45,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJQ4",
+      "sec": "262A",
+      "name": "株式会社インターメスティック",
+      "filer": "上野　博史",
+      "ratio": 10.69,
+      "prev_ratio": 11.22,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJ1Y",
+      "sec": "3997",
+      "name": "株式会社トレードワークス",
+      "filer": "浅見　勝弘",
+      "ratio": 27.0,
+      "prev_ratio": 27.0,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJHJ",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "ノース・ピーク・キャピタル・マネジメント・エルエルシー",
+      "ratio": 4.07,
+      "prev_ratio": 5.09,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJ82",
+      "sec": "9928",
+      "name": "株式会社ミロク情報サービス",
+      "filer": "是枝　伸彦",
+      "ratio": 13.41,
+      "prev_ratio": 16.44,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJOO",
+      "sec": "3672",
+      "name": "株式会社オルトプラスホールディングス",
+      "filer": "岡﨑　太輔",
+      "ratio": 15.73,
+      "prev_ratio": 25.46,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJNR",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "ＺＵＵ　Ｆｕｎｄｅｒｓ株式会社",
+      "ratio": 33.66,
+      "prev_ratio": 33.28,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJAM",
+      "sec": "4125",
+      "name": "三和油化工業株式会社",
+      "filer": "柳　均",
+      "ratio": 40.16,
+      "prev_ratio": 40.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100YX5T",
+      "sec": "2489",
+      "name": "株式会社アドウェイズ",
+      "filer": "岡村　陽久",
+      "ratio": 17.53,
+      "prev_ratio": 19.4,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZIL2",
+      "sec": "6932",
+      "name": "株式会社遠藤照明",
+      "filer": "株式会社ストラテジックキャピタル",
+      "ratio": 8.65,
+      "prev_ratio": 6.5,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJK7",
+      "sec": "8771",
+      "name": "イー・ギャランティ株式会社",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 10.47,
+      "prev_ratio": 10.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJLR",
+      "sec": "8368",
+      "name": "株式会社百五銀行",
+      "filer": "ありあけキャピタル株式会社",
+      "ratio": 7.01,
+      "prev_ratio": 5.94,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJ75",
+      "sec": "4199",
+      "name": "ワンダープラネット株式会社",
+      "filer": "石川篤",
+      "ratio": 8.9,
+      "prev_ratio": 8.91,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJL0",
+      "sec": "4222",
+      "name": "児玉化学工業株式会社",
+      "filer": "エンデバー・ユナイテッド株式会社",
+      "ratio": 10.51,
+      "prev_ratio": 14.25,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJR1",
+      "sec": "4888",
+      "name": "ステラファーマ株式会社",
+      "filer": "ハイツ・キャピタル・マネジメント・インク",
+      "ratio": 10.89,
+      "prev_ratio": 12.31,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJD2",
+      "sec": "2303",
+      "name": "株式会社ドーン",
+      "filer": "光通信株式会社",
+      "ratio": 14.25,
+      "prev_ratio": 13.19,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJXG",
+      "sec": "4125",
+      "name": "三和油化工業株式会社",
+      "filer": "柳　均",
+      "ratio": 40.16,
+      "prev_ratio": 40.16,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJD4",
+      "sec": "5033",
+      "name": "株式会社ヌーラボ",
+      "filer": "光通信株式会社",
+      "ratio": 12.04,
+      "prev_ratio": 7.23,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJUV",
+      "sec": "7851",
+      "name": "カワセコンピュータサプライ株式会社",
+      "filer": "濵田　栄太郎",
+      "ratio": 11.18,
+      "prev_ratio": 10.18,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJRS",
+      "sec": "190A",
+      "name": "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ株式会社",
+      "filer": "野村證券株式会社",
+      "ratio": 21.75,
+      "prev_ratio": 20.6,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJX3",
+      "sec": "3237",
+      "name": "株式会社イントランス",
+      "filer": "ＺＵＵ　Ｆｕｎｄｅｒｓ株式会社",
+      "ratio": 33.28,
+      "prev_ratio": 33.66,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJDK",
+      "sec": "4972",
+      "name": "綜研化学株式会社",
+      "filer": "ＡＸＩＵＭ　ＣＡＰＩＴＡＬ　ＰＴＥ．ＬＴＤ．",
+      "ratio": 23.84,
+      "prev_ratio": 23.61,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJZ5",
+      "sec": "219A",
+      "name": "Ｈｅａｒｔｓｅｅｄ株式会社",
+      "filer": "ＳＢＩ　Ｖｅｎｔｕｒｅｓ　Ｔｗｏ株式会社",
+      "ratio": 11.86,
+      "prev_ratio": 12.05,
+      "direction": "変更",
+      "isNew": false
+    },
+    {
+      "docId": "S100ZJWS",
+      "sec": "4480",
+      "name": "株式会社メドレー",
+      "filer": "ポーラー・キャピタル・エル・エル・ピー",
+      "ratio": 3.85,
+      "prev_ratio": 5.71,
+      "direction": "変更",
+      "isNew": false
+    }
+  ]
+}
