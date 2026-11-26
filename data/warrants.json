@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 05:27",
+  "updated": "2026-11-27 03:17",
   "items": {
     "1420": {
       "name": "サンヨーホームズ株式会社",
@@ -1064,16 +1064,16 @@
     },
     "4918": {
       "name": "株式会社アイビー化粧品",
-      "holder": "三田証券株式会社",
-      "title": "第三者割当による第５回新株予約権（行使価額修正条項付）の行使完了および月間行使状況に関するお知らせ",
-      "date": "2026-02-18",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20260218/140120260218564521/",
-      "kai": 5,
-      "exercised": 720,
-      "exercised_pct": 5.8,
-      "unexercised": 0,
-      "unexercised_shares": 0,
-      "outstanding": 6342000
+      "holder": "Ｌｏｎｇ　Ｃｏｒｒｉｄｏｒ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ　Ｌｉｍｉｔｅｄ",
+      "title": "第三者割当による第６回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
+      "date": "2026-11-26",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261126/140120261126586477/",
+      "kai": 6,
+      "exercised": 2500,
+      "exercised_pct": 16.6,
+      "unexercised": 12500,
+      "unexercised_shares": 1250000,
+      "outstanding": 6414000
     },
     "5259": {
       "name": "ＢＢＤイニシアティブ株式会社",
@@ -1592,16 +1592,11 @@
     "4575": {
       "name": "株式会社キャンバス",
       "holder": "株式会社ＳＢＩ証券",
-      "title": "第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ",
-      "date": "2026-11-20",
-      "pdf": "https://kabutan.jp/disclosures/pdf/20261120/140120261120584389/",
+      "title": "（訂正）適時開示書類「第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ」 一部訂正について",
+      "date": "2026-11-26",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20261126/140120261126587209/",
       "kai": 22,
-      "kofu": 1485000,
-      "exercised": 14850,
-      "exercised_pct": 74.25,
-      "unexercised": 5150,
-      "unexercised_shares": 515000,
-      "outstanding": 19713655
+      "kofu": 1135500
     },
     "4493": {
       "name": "株式会社サイバーセキュリティクラウド",
@@ -1613,6 +1608,13 @@
       "kofu": 140000,
       "unexercised": 0,
       "outstanding": 10390644
+    },
+    "166A": {
+      "name": "株式会社タスキホールディングス",
+      "holder": "野村證券株式会社",
+      "title": "行使価額修正条項付新株予約権の大量行使、行使完了及び月間行使状況に関するお知らせ",
+      "date": "2025-09-08",
+      "pdf": "https://kabutan.jp/disclosures/pdf/20250908/140120250908554573/"
     }
   }
 }
